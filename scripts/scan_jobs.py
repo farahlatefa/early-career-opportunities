@@ -123,7 +123,8 @@ def scan_arbeitnow():
         try:data=fetch_json("https://www.arbeitnow.com/api/job-board-api",{"page":page})
         except Exception:break
         for x in data.get("data",[]):
-posted=datetime.fromtimestamp(x["created_at"], timezone.utc).strftime("%Y-%m-%d") if isinstance(x.get("created_at"), (int, float)) else str(x.get("created_at") or "")[:10] or None            j=normalize(x.get("title",""),x.get("company_name",""),x.get("location",""),x.get("description",""),x.get("url",""),"Arbeitnow",posted,"",None)
+            posted=datetime.fromtimestamp(x["created_at"], timezone.utc).strftime("%Y-%m-%d") if isinstance(x.get("created_at"), (int, float)) else str(x.get("created_at") or "")[:10] or None
+            j=normalize(x.get("title",""),x.get("company_name",""),x.get("location",""),x.get("description",""),x.get("url",""),"Arbeitnow",posted,"",None)
             if j:out.append(j)
     return out
 
