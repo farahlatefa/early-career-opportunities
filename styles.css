@@ -1,0 +1,37 @@
+:root {
+  --bg: #f6f8fb;
+  --card: #ffffff;
+  --text: #14213d;
+  --muted: #61708a;
+  --border: #dfe5ee;
+  --accent: #2563eb;
+  --accent-dark: #1d4ed8;
+  --soft: #eaf1ff;
+  --success: #0f766e;
+  --warning: #a16207;
+  --danger: #b42318;
+  --radius: 16px;
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--bg);color:var(--text)}
+.shell{width:min(1180px,calc(100% - 32px));margin:0 auto}
+.hero{background:linear-gradient(135deg,#0f172a,#1e3a8a);color:#fff;padding:64px 0 46px}
+.eyebrow{font-size:.78rem;font-weight:800;letter-spacing:.14em;opacity:.8}
+h1{font-size:clamp(2.1rem,5vw,4rem);line-height:1.02;margin:10px 0 14px}
+.hero p{max-width:720px;font-size:1.08rem;line-height:1.6;color:#dbeafe;margin:0}
+.meta-row{display:flex;gap:14px;flex-wrap:wrap;margin-top:22px;font-size:.9rem;color:#bfdbfe}
+.filters{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px;background:var(--card);padding:20px;border:1px solid var(--border);border-radius:var(--radius);margin-top:-22px;position:relative;box-shadow:0 10px 30px rgba(15,23,42,.08)}
+.filter{display:flex;flex-direction:column;gap:7px}.filter.wide{grid-column:span 2}.filter.actions{justify-content:flex-end}
+label{font-size:.8rem;font-weight:750;color:#334155}
+input,select,button{font:inherit;border-radius:10px;border:1px solid var(--border);min-height:44px;padding:10px 12px;background:#fff;color:var(--text)}
+input:focus,select:focus{outline:3px solid rgba(37,99,235,.15);border-color:var(--accent)}
+button{cursor:pointer;font-weight:700}button:hover{border-color:#b8c3d4}
+.active-filters{display:flex;gap:8px;flex-wrap:wrap;margin:22px 0 10px}.chip{font-size:.8rem;background:var(--soft);color:var(--accent-dark);border-radius:999px;padding:7px 10px;font-weight:700}
+.jobs-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;padding:14px 0 50px}
+.job-card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:22px;display:flex;flex-direction:column;gap:14px;box-shadow:0 4px 18px rgba(15,23,42,.045)}
+.job-top{display:flex;justify-content:space-between;gap:18px}.company{font-weight:750;color:var(--muted);margin-bottom:4px}.job-title{font-size:1.3rem;font-weight:850;line-height:1.25;margin:0}.badges{display:flex;gap:7px;flex-wrap:wrap;justify-content:flex-end}.badge{font-size:.72rem;font-weight:800;border-radius:999px;padding:6px 8px;white-space:nowrap;background:#eef2f7;color:#475569}.badge.new{background:#ecfdf3;color:var(--success)}.badge.soon{background:#fff7ed;color:var(--warning)}
+.details{display:grid;grid-template-columns:1fr 1fr;gap:10px 14px;font-size:.9rem}.detail span{display:block;color:var(--muted);font-size:.73rem;text-transform:uppercase;letter-spacing:.06em;font-weight:800;margin-bottom:3px}.sectors{display:flex;gap:7px;flex-wrap:wrap}.sector{background:#f1f5f9;color:#334155;border-radius:999px;padding:6px 9px;font-size:.77rem;font-weight:700}
+.summary{color:#475569;line-height:1.55;font-size:.92rem}.card-actions{margin-top:auto;display:flex;align-items:center;justify-content:space-between;gap:12px}.source{font-size:.75rem;color:var(--muted)}.apply{display:inline-flex;align-items:center;justify-content:center;text-decoration:none;background:var(--accent);color:#fff;font-weight:800;padding:11px 14px;border-radius:10px}.apply:hover{background:var(--accent-dark)}
+.empty{text-align:center;background:#fff;border:1px dashed var(--border);border-radius:var(--radius);padding:42px;margin:20px 0 50px}.hidden{display:none}footer{border-top:1px solid var(--border);background:#fff}.footer-inner{padding:22px 0;color:var(--muted);font-size:.85rem}
+@media(max-width:900px){.filters{grid-template-columns:repeat(2,minmax(0,1fr))}.filter.wide{grid-column:span 2}.jobs-grid{grid-template-columns:1fr}}
+@media(max-width:580px){.hero{padding:48px 0 40px}.filters{grid-template-columns:1fr}.filter.wide{grid-column:span 1}.details{grid-template-columns:1fr}.job-top{flex-direction:column}.badges{justify-content:flex-start}.card-actions{align-items:stretch;flex-direction:column}.apply{width:100%}}

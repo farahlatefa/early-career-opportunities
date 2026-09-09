@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Early Career Opportunities</title>
+  <meta name="description" content="A public dashboard for internships and entry-level full-time opportunities across industries and locations." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="shell">
+      <div class="eyebrow">LIVE EARLY-CAREER JOB BOARD</div>
+      <h1>Early Career Opportunities</h1>
+      <p>Find internships and entry-level full-time roles across sectors, companies, and locations.</p>
+      <div class="meta-row">
+        <span id="lastUpdated">Last updated: loading…</span>
+        <span id="jobCount">0 opportunities</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="filters" aria-label="Opportunity filters">
+      <div class="filter wide">
+        <label for="searchInput">Search</label>
+        <input id="searchInput" type="search" placeholder="Title, company, keyword…" />
+      </div>
+
+      <div class="filter">
+        <label for="typeFilter">Opportunity type</label>
+        <select id="typeFilter">
+          <option value="">All</option>
+          <option value="Internship">Internship</option>
+          <option value="Full-Time">Full-Time</option>
+        </select>
+      </div>
+
+      <div class="filter">
+        <label for="locationFilter">Location</label>
+        <input id="locationFilter" type="search" placeholder="City, country, remote…" />
+      </div>
+
+      <div class="filter">
+        <label for="deadlineFilter">Application deadline</label>
+        <select id="deadlineFilter">
+          <option value="">Any deadline</option>
+          <option value="7">Next 7 days</option>
+          <option value="30">Next 30 days</option>
+          <option value="90">Next 90 days</option>
+          <option value="rolling">Rolling / not listed</option>
+        </select>
+      </div>
+
+      <div class="filter">
+        <label for="reportsFilter">Reports to</label>
+        <input id="reportsFilter" type="search" placeholder="Manager, Director, VP…" />
+      </div>
+
+      <div class="filter">
+        <label for="sectorFilter">Sector</label>
+        <select id="sectorFilter">
+          <option value="">All sectors</option>
+        </select>
+      </div>
+
+      <div class="filter">
+        <label for="workModeFilter">Work arrangement</label>
+        <select id="workModeFilter">
+          <option value="">All</option>
+          <option value="Remote">Remote</option>
+          <option value="Hybrid">Hybrid</option>
+          <option value="On-site">On-site</option>
+        </select>
+      </div>
+
+      <div class="filter">
+        <label for="sortSelect">Sort</label>
+        <select id="sortSelect">
+          <option value="newest">Newest</option>
+          <option value="deadline">Deadline soonest</option>
+          <option value="company">Company A–Z</option>
+        </select>
+      </div>
+
+      <div class="filter actions">
+        <button id="clearFilters" type="button">Clear filters</button>
+      </div>
+    </section>
+
+    <section class="active-filters" id="activeFilters" aria-live="polite"></section>
+    <section id="jobs" class="jobs-grid" aria-live="polite"></section>
+    <div id="emptyState" class="empty hidden">
+      <h2>No opportunities match those filters.</h2>
+      <p>Try widening the location, deadline, or sector filters.</p>
+    </div>
+  </main>
+
+  <footer>
+    <div class="shell footer-inner">
+      <p>Listings are collected from public job sources. Always verify details on the employer or application page before applying.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
