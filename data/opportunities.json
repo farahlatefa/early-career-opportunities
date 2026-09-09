@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-09T20:32:14.383226+00:00",
+    "lastUpdated": "2026-09-09T22:34:27.713968+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -4069,6 +4069,166 @@
       "source": "Arbeitnow"
     },
     {
+      "id": "a5d438c60b8fab0c",
+      "title": "Student Postions - Unsolicited Application (all genders)",
+      "company": "væridion",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich HQ",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your Mission: Would you like to become part of this exciting story and change the world of flying sustainably together with us? Even if the right position is not available on our career page right now, we are always looking for talents who can bring new ideas …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/vaeridion/student-postions-unsolicited-application-all-genders-munich-303888",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d7509fcb18e2b03d",
+      "title": "Senior Post Producer - 12 month FTC",
+      "company": "Wppproduction",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Production We are WPP Production - the unified global production company that brings together all of WPP's content producers, studios and craft experts into one connected organisation. We combine world-class human craft with next generation technolog…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/wppproduction/senior-post-producer-12-month-ftc-london-396384",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cf7d7f0a0081e545",
+      "title": "Senior People Business Partner",
+      "company": "Globalwebindex",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-09",
+      "reportsTo": {
+        "name": null,
+        "title": "VP, People and Culture, and partner closely with our Chief Revenue Officer, Chief Marketing Officer"
+      },
+      "summary": "Senior People Business Partner Location : London Office requirement : Minimum 2 days in the office Employment type : Permanent As our Senior People Business Partner you’ll: Report to the VP, People and Culture, and partner closely with our Chief Revenue Office…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/globalwebindex/senior-people-business-partner-london-462815",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e2aa072a995fb6a9",
+      "title": "Senior Data Engineer",
+      "company": "LiveScore Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Marketing & Communications",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Soho, London Hybrid working: 3 days in the office Tues - Thurs The Role We are seeking a Senior Data Engineer to join our Data Team, taking a leading role in building the complex, scalable systems that power our data strategy. You will lead architectural discu…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/livescore-group/senior-data-engineer-london-496047",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6683aed061fef611",
+      "title": "Account Manager, Midlands",
+      "company": "Deliveroo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Birmingham - Main Office",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Account Manager, Midlands Join us in our mission to transform the way people shop and eat, where impact, innovation, and growth drives everything we do. Our Commercial team sits at the centre of Deliveroo’s marketplace—shaping how we serve restaurants, grocers…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/account-manager-midlands-birmingham-112273",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d8ec847f21b5cf7c",
+      "title": "Senior Technical Writer",
+      "company": "Radiant",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About our team: Radiant is at the forefront of AI infrastructure, revolutionising the connection between software and hardware for the AI era. Our mission is to empower AI teams with scalable, secure, and efficient infrastructure solutions that support seamles…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/radiant/senior-technical-writer-london-351249",
+      "source": "Arbeitnow"
+    },
+    {
       "id": "abb07d0af2c056d2",
       "title": "Account Executive | SMB | French Market (Paris)",
       "company": "Lexroom",
@@ -5561,6 +5721,35 @@
       "source": "Remote OK"
     },
     {
+      "id": "8990ca1c9d5bcd61",
+      "title": "Assistant Store Manager",
+      "company": "Pandora",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Barceloneta",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "International Development",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Pandora @ Puerto Rico Premium Outlets As the largest jewelry brand in the world, we a give a voice to millions of peopleâs loves every day. Our beautiful products empower people all around the world to express themselves. We are proud to be part of their sto…",
+      "applicationUrl": "https://remoteOK.com/remote-jobs/remote-assistant-store-manager-pandora-1137365",
+      "source": "Remote OK"
+    },
+    {
       "id": "fdcf9ae5fe622e2f",
       "title": "Supply Chain Quality Engineer - MAIT",
       "company": "The Exploration Company",
@@ -5914,6 +6103,31 @@
       "source": "Remote OK"
     },
     {
+      "id": "25a1366bfc012fcb",
+      "title": "Garden Center Dept Manager",
+      "company": "Walmart",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Fajardo",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hourly Wage: $15.5 - $28.5 per/hour The actual hourly rate will equal or exceed the required minimum wage applicable to the job location. Additional Compensation Includes Annual Or Quarterly Performance Incentives. Additional compensation in the form of premiu…",
+      "applicationUrl": "https://remoteOK.com/remote-jobs/remote-garden-center-dept-manager-walmart-1137354",
+      "source": "Remote OK"
+    },
+    {
       "id": "9e597da1d86c4d1b",
       "title": "Sales Jedi",
       "company": "Creative Force",
@@ -6068,6 +6282,30 @@
       },
       "summary": "Application URL https://empireground.com/work/remoteok Empire Assets is a young and rapidly developing company working in the field of digital markets and analytics. We bring together enterprising people who want to master modern approaches to trading, analysi…",
       "applicationUrl": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307",
+      "source": "Remote OK"
+    },
+    {
+      "id": "27dbd22ae646f731",
+      "title": "HIGIENIZADOR DE CARROS SÃO LUÃS MA",
+      "company": "Localiza&amp;Co",
+      "employmentType": "Internship",
+      "location": {
+        "city": "SÃ£o LuÃ­s",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-04",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "LOCALIZA&CO Estar em constante evoluÃ§Ã£o nos trouxe atÃ© aqui. Ao lado de talentos e habilidades mÃºltiplas nos conectamos em busca da nossa motivaÃ§Ã£o: construir o futuro da mobilidade sustentÃ¡vel. Ã por meio da valorizaÃ§Ã£o da individualidade de cada um…",
+      "applicationUrl": "https://remoteOK.com/remote-jobs/remote-higienizador-de-carros-sao-luis-ma-localizaampco-1137356",
       "source": "Remote OK"
     },
     {
@@ -6593,6 +6831,58 @@
       },
       "summary": "Radisson Hotel Group is one of the world's largest hotel groups with ten distinctive hotel brands, and more than 1,500 hotels in operation and under development in 95+ countries. The Groupâs overarching brand promise is Every Moment Matters with a signature …",
       "applicationUrl": "https://remoteOK.com/remote-jobs/remote-sales-manager-radisson-hotel-group-1137200",
+      "source": "Remote OK"
+    },
+    {
+      "id": "51147a5646c309c7",
+      "title": "Donât see your role Apply here",
+      "company": "Atreides",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Denmark",
+        "region": null,
+        "country": "Australia",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-08-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Not seeing a position that matches your skillset? Kindly submit your resume to be considered for future opportunities. Company Overview: Atreides helps organizations transform large and complex multi-modal datasets into information-rich geospatial data subscri…",
+      "applicationUrl": "https://remoteOK.com/remote-jobs/remote-dont-see-your-role-apply-here-atreides-1137186",
+      "source": "Remote OK"
+    },
+    {
+      "id": "a2f2eb0558ad4e8b",
+      "title": "Assistant Manager",
+      "company": "Storage King Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Rozelle",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-08-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Storage King is a fast-growing business offering stable and rewarding employment. We have a fun and friendly culture across our store network which currently includes over 200 stores across Australia and New Zealand. Storage King is a market leader in…",
+      "applicationUrl": "https://remoteOK.com/remote-jobs/remote-assistant-manager-storage-king-group-1137161",
       "source": "Remote OK"
     },
     {
