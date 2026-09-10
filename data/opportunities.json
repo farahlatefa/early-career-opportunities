@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-10T01:05:20.983256+00:00",
+    "lastUpdated": "2026-09-10T05:59:27.368697+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,794 @@
     ]
   },
   "jobs": [
+    {
+      "id": "08ee8a8c0645ab93",
+      "title": "Working Student - Junior Solutions Consultant (m/f/d)",
+      "company": "AMX Consulting - Personio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany - Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Role AMX is an award-winning IT consultancy specialising in work management, collaboration & digital transformation for medium & large enterprises. As the leading Smartsheet and Miro partner in Europe, we help organisations increase productivity & drive in…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/amx-consulting-personio/remote-working-student-junior-solutions-consultant-18810",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1b30e5fa37ceefbc",
+      "title": "(Senior) QA Engineer (x/f/m)",
+      "company": "dkbcodefactory",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Welcome to DKB AG…. We’re excited to share that our hiring process is now led by Code Factory (CoFa), DKB’s sister tech company, bringing a more agile and collaborative approach to building our cross-functional teams. While you’ll go through the hiring journey…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/dkbcodefactory/senior-qa-engineer-berlin-254105",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "08224728d42a76a7",
+      "title": "Senior Field Marketing Manager (German- Speaking)",
+      "company": "diligentcorporation",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Diligent is seeking a Senior Field Marketing Manager (German-speaking) to join our Field Marketing department. This is a role for someone who thrives on partnering with Sales, engaging target accounts, and turning marketing activity into measurable revenue imp…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/diligentcorporation/senior-field-marketing-manager-german-speaking-66359",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0cb93f2363f992c4",
+      "title": "Manager, Agent Architecture",
+      "company": "parloa",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Parloa Parloa's mission is to make every customer conversation feel effortless for both customers and the companies serving them. As agentic AI accelerates, Parloans are shaping the foundation of a new era in customer experience, one where customer suppo…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/parloa/manager-agent-architecture-31217",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "304652ca7682fc2d",
+      "title": "Senior Content Manager SEO/AEO (m/w/d)",
+      "company": "autoscout24",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir suchen dich als Senior Content Manager SEO/AEO (m/w/d), um unsere organische Sichtbarkeit über Suchmaschinen, AI-driven Search und Large Language Models strategisch weiterzuentwickeln. In dieser Rolle verbindest du redaktionelle Exzellenz mit datengetriebe…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/autoscout24/senior-content-manager-seo-aeo-179737",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3b08763a2af0c8ad",
+      "title": "Senior Search Backend Engineer (m/f/x)",
+      "company": "commercetools",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About commercetools Real innovation starts with a strong foundation, and at commercetools, that comes from the perfect balance of our product and our people. Behind every leap forward is a collective of builders, explorers, doers, makers, and problem-solvers.T…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/commercetools/senior-search-backend-engineer-berlin-34822",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9b866fb401ad0ca8",
+      "title": "Senior Search Backend Engineer",
+      "company": "commercetools",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": "Bayern",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About commercetools Real innovation starts with a strong foundation, and at commercetools, that comes from the perfect balance of our product and our people. Behind every leap forward is a collective of builders, explorers, doers, makers, and problem-solvers.T…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/commercetools/senior-search-backend-engineer-munchen-bayern-372650",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "04983ebaca5664f4",
+      "title": "Senior Customer Success Manager (m/f/x)",
+      "company": "commercetools",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About commercetools Real innovation starts with a strong foundation, and at commercetools, that comes from the perfect balance of our product and our people. Behind every leap forward is a collective of builders, explorers, doers, makers, and problem-solvers. …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/commercetools/senior-customer-success-manager-berlin-469023",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "42f7a782a10419a5",
+      "title": "Senior Customer Success Manager (m/f/x)",
+      "company": "commercetools",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": "Bayern",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About commercetools Real innovation starts with a strong foundation, and at commercetools, that comes from the perfect balance of our product and our people. Behind every leap forward is a collective of builders, explorers, doers, makers, and problem-solvers. …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/commercetools/senior-customer-success-manager-munchen-bayern-460974",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "57b41bff53d66466",
+      "title": "Senior Data Scientist — Data Cloud Acceleration",
+      "company": "zetaglobal",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "WHO WE ARE Zeta Global (NYSE: ZETA) is the AI-Powered Marketing Cloud that leverages advanced artificial intelligence (AI) and trillions of consumer signals to make it easier for marketers to acquire, grow, and retain customers more efficiently. Through the Ze…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/zetaglobal/senior-data-scientist-data-cloud-acceleration-berlin-347439",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "549d9d5997569c8c",
+      "title": "Senior Account Manager:in (m/w/d)",
+      "company": "We Are Social 1",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir suchen am Standort München oder Berlin eine:n Senior Account Manager:in (w/m/d) befristet auf 18 Monate zur Unterstützung unseres Client Service-Teams. Wir sind eine globale, socially-led creative Agency mit über 1.300 Mitarbeitenden in 19 Büros auf der ga…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/we-are-social-1/senior-account-managerin-berlin-473717",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "849398139ab9c212",
+      "title": "Senior Account Manager:in (m/w/d)",
+      "company": "We Are Social 1",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir suchen am Standort München oder Berlin eine:n Senior Account Manager:in (w/m/d) befristet auf 18 Monate zur Unterstützung unseres Client Service-Teams. Wir sind eine globale, socially-led creative Agency mit über 1.300 Mitarbeitenden in 19 Büros auf der ga…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/we-are-social-1/senior-account-managerin-munich-435544",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8dfbb771ed9d3d6a",
+      "title": "Werkstudent - HR-Assistenz (m/w/d)",
+      "company": "Fahrrad Xxl De",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Frankfurt",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Du unterstützt unser HR-Team im operativen Tagesgeschäft sowie bei administrativen und organisatorischen Aufgaben, auch im Recruiting, Bewerbermanagement und bei Vorstellungsgesprächen Du unterstützt bei der Erstellung, Vorbereitung und Verwaltu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/fahrrad-xxl-de/werkstudent-hr-assistenz-frankfurt-443959",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "69ca4264e2d29b16",
+      "title": "Werkstudent Cyber Risk & Compliance (m/w/d)",
+      "company": "Neptune Energy Deutschland",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hannover",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Mit über 135 Jahren Erfahrung sichern wir mit unserer Arbeit die Energieversorgung für Industrie und Gesellschaft. Unser Ziel: Wir fördern heute, was morgen zählt. Rund 480 Mitarbeitende in vielen Regionen Deutschlands und in unserer Zentrale in Hannover engag…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/neptune-energy-deutschland/werkstudent-cyber-risk-compliance-hannover-341174",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9cccf2d6640b45ee",
+      "title": "Data Engineer Junior - Schwerpunkt Datenpipelines (m/w/d)",
+      "company": "Aktion Mensch e.V.",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Bonn",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "WIR suchen dich! Statt nur Code zu schreiben, möchtest du sehen, wie deine Arbeit wirkt? Gemeinsam mit fünf Analytics- und Data-Expert*innen entwickelst du in Bonn moderne Datenlösungen für ein ganzheitliches 360°-Kundenprofil und ermöglichst damit datengetrie…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/aktion-mensch-ev/data-engineer-junior-schwerpunkt-datenpipelines-bonn-33567",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "04b3d2b3926c08be",
+      "title": "Controller*in Senior / Business Analyst*in (m/w/d) in Bonn",
+      "company": "Aktion Mensch e.V.",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Bonn",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "WIR suchen dich! Du gestaltest das Controlling der Zukunft durch den Einsatz moderner Analyse-, Business-Intelligence-, Predictive-Analytics- und KI-Lösungen. Dabei agierst du als Sparringspartner*in für unsere Fachbereiche, entwickelst Self-Service-Lösungen, …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/aktion-mensch-ev/controllerin-senior-business-analystin-in-bonn-383448",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9a08d5165df363b4",
+      "title": "Werkstudent*in Klimafreundliche Busse (Data Analysis)",
+      "company": "NOW GmbH Nationale Organisation für den Wandel in der ...",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin Fasanenstrasse",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Aufgaben Schwerpunkt Deiner Tätigkeit ist die datenbasierte, inhaltliche und organisatorische Unterstützung des Tagesgeschäfts bei der Beauftragung Alternativer Antriebe von Bussen im Personenverkehr sowie alternativer Antriebe im Schienenverkehr für das Bunde…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/now-gmbh-nationale-organisation-fur-den-wandel-in-der/werkstudentin-klimafreundliche-busse-data-analysis-berlin-fasanenstrasse-330716",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3e7a19c4d580f4d6",
+      "title": "(Senior) Financial Accountant Real Estate (m/f/d)",
+      "company": "Empira Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Leipzig",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission Independently managing the day-to-day financial accounting for our property companies and holding companies Preparing monthly, quarterly and annual financial statements in accordance with the German Commercial Code (HGB) and Luxembourg GAAP Prepar…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/empira-group/senior-financial-accountant-real-estate-leipzig-491032",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "80918247e8ac5360",
+      "title": "(Senior) Financial Accountant Real Estate (m/f/d)",
+      "company": "Empira Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission Independently managing the day-to-day financial accounting for our property companies and holding companies Preparing monthly, quarterly and annual financial statements in accordance with the German Commercial Code (HGB) and Luxembourg GAAP Prepar…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/empira-group/senior-financial-accountant-real-estate-munchen-303983",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e2f73c35b38efa7c",
+      "title": "Commercial Account Executive - London",
+      "company": "Drata",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hybrid - London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Drata is building the trust layer between great companies - automating compliance, managing risk, and helping organizations prove trust continuously as they scale. We're Dratanauts: a global crew of 600+ professionals united by a culture that rewards integrity…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/drata/commercial-account-executive-london-hybrid-london-189478",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "093135471da71ffd",
+      "title": "Senior Customer Success Engineer",
+      "company": "Mitti",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Manchester",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Why join us? Mitti by SafetyCulture is a global tech company, just not the kind you're picturing. Our almost 1,000-person team builds tools that make work better for the three billion frontline workers who keep the world moving. We've got big tech scale, witho…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/mitti/senior-customer-success-engineer-manchester-67833",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "741ae85e57e9d80d",
+      "title": "Senior Solutions Specialist - Connected Devices",
+      "company": "Mitti",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Manchester",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Why join us? Mitti by SafetyCulture is a global tech company, just not the kind you're picturing. Our almost 1,000-person team builds tools that make work better for the three billion frontline workers who keep the world moving. We've got big tech scale, witho…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/mitti/senior-solutions-specialist-connected-devices-manchester-467815",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "53f7fed0ef524bea",
+      "title": "Senior Customer Success Engineer",
+      "company": "Mitti",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Remote: UK",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Why join us? Mitti by SafetyCulture is a global tech company, just not the kind you're picturing. Our almost 1,000-person team builds tools that make work better for the three billion frontline workers who keep the world moving. We've got big tech scale, witho…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/mitti/remote-senior-customer-success-engineer-94290",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6a6946b49b80f83b",
+      "title": "Junior Finance Assistant",
+      "company": "Tillo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hove Office",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we’re looking for: Someone early in their finance career with solid transactional experience, strong attention to detail and a genuine ambition to develop into a broader accounting role. The challenge: We need someone who can take ownership of core finance…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/tillo/junior-finance-assistant-brighton-hove-13925",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fa1431e95243d505",
+      "title": "Legal Counsel",
+      "company": "Apexx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London HQ",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "HEADLINE: Job Title: Legal Counsel Reporting to: General Counsel Location: London - Hybrid-Working: 3 days in office, 2 days from home ABOUT THE ROLE: APEXX is pioneering payment orchestration, transforming the global payments landscape with cutting-edge techn…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/apexx/legal-counsel-farringdon-114346",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9f27aaeab9f5e1dd",
+      "title": "Senior Research Associate",
+      "company": "More In Common",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Research",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ABOUT MORE IN COMMON LOCATION: London (Monday-Thursday in the office, Friday remote) CONTRACT: Full-time SALARY: £36,000-£46,000 START DATE: As soon as possible More in Common is a research agency working across the US, UK, Germany, France, Spain and Poland to…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/more-in-common/senior-research-associate-london-411793",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "63c723a50cfa34f3",
+      "title": "Senior EV Field Service Engineer - UK",
+      "company": "Sungrow Emea",
+      "employmentType": "Internship",
+      "location": {
+        "city": "UK - Milton Keynes",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission Welcome to your new opportunity with Sungrow! As an EV Field Service Engineer , you will play a crucial role in supporting our customers and ensuring the reliable operation of Sungrow EV charging solutions across the UK. You will be a trusted tech…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/sungrow-emea/senior-ev-field-service-engineer-uk-uk-milton-keynes-187489",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "09532b8b7a1db53e",
+      "title": "FP&A Analyst - UK",
+      "company": "Immersivelabs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": "UK",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": "provide accurate and timely financial recommendations to management for decision making purposes Pro"
+      },
+      "summary": "A platform you can believe in: Immersive One is the leading cyber resilience solution across the globe. Drive operational excellence and define the foundation we build on alongside a team of the brightest minds in cybersecurity! At Immersive, we’re uniquely po…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/immersivelabs/fpa-analyst-uk-bristol-270123",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d6e119bae5876e37",
+      "title": "Senior Software Engineer, Engineering Operations",
+      "company": "Camunda",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-29349",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "266e41cc3d4b6cff",
+      "title": "Recipes Working Student - Étudiant·e temps partiel (H/F)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "En bref Chez Picnic, nous réinventons la façon dont les familles font leurs courses, grâce à un service innovant et durable disponible via une application. L’une des fonctionnalités préférées de nos clients est notre collection de recettes, qui nous permettent…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/teampicnic/recipes-working-student-etudiante-temps-partiel-h-f-paris-paris-387584",
+      "source": "Arbeitnow"
+    },
     {
       "id": "7aaf6bf186397621",
       "title": "Werkstudent Projektentwicklung (m/w/d)",
