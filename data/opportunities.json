@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-11T01:07:04.343101+00:00",
+    "lastUpdated": "2026-09-11T06:01:53.876566+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,357 @@
     ]
   },
   "jobs": [
+    {
+      "id": "fca13af47dd0f055",
+      "title": "Fullstack Software Engineer (m/w/d)",
+      "company": "Rhein Nadel Automation Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wer wir sind RNA Digital Solutions wurde 2016 als Industrial Tech Startup gegründet. Unsere Expertise liegt im Digitalen Maschinenbau und wir beschäftigen uns insbesondere mit der digitalen Auslegung und Herstellung automatisierter Zuführlösungen. In 2021 erfo…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/rhein-nadel-automation-gmbh/fullstack-software-engineer-munchen-87768",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "18f7c4adaaa04809",
+      "title": "Senior AI Architect & Consultant (m/w/d)",
+      "company": "Mayflower",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wer wir sind Die Mayflower GmbH baut Individualsoftware mit Fokus auf Generative AI – seit 1998 inhabergeführt. Wir bringen komplette AI-Infrastrukturen in Produktion: Model-Serving, Agent-Gateways, Chat und Voice – direkt in der Umgebung des Kunden. Dich erwa…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/mayflower/senior-ai-architect-consultant-munchen-12747",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5c5b41b8f164fea8",
+      "title": "Senior Engineer (m/w/d) — On-Site & Vollzeit",
+      "company": "Fulfin",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Intro Wir machen Unternehmensfinanzierung einfacher: digital, schnell und mit zunehmend intelligenten Lösungen. Mehr als 7.500 Unternehmerinnen und Unternehmer nutzen fulfin bereits. Zur Verstärkung unseres Tech Teams suchen zum sofortigen Start einen Senior E…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/fulfin/senior-engineer-on-site-vollzeit-munchen-493533",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "120c005392b65d23",
+      "title": "Product Manager – Platform Experience & Cloud Administration (m/f/d)",
+      "company": "Jedox GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Freiburg im Breisgau",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What is Jedox? Jedox is a leading provider of Enterprise Performance Management (EPM) solutions, helping organizations plan, analyze, and drive business performance with confidence. More than 2,000 companies worldwide, from ambitious mid-sized businesses to gl…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/jedox-gmbh/product-manager-platform-experience-cloud-administration-freiburg-im-breisgau-287874",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "756a68a75915d654",
+      "title": "(Senior) SEO & Onsite Manager (befristet, Elternzeitvertretung) (all genders)",
+      "company": "Allbranded",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "DEIN Impact Sichtbarkeit steigern: Du verantwortest SEO und steigerst die Sichtbarkeit von allbranded in der organischen Suche und in generativen Suchsystemen. Content & Shops optimieren: Du verbindest SEO, Onsite & E-Commerce und entwickelst unsere DACH-Shops…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/allbranded/senior-seo-onsite-manager-befristet-elternzeitvertretung-all-genders-hamburg-491843",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "32e2de8357df8dcb",
+      "title": "Junior .NET Engineer",
+      "company": "Trainline",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About us At Trainline, our purpose is to empower greener travel choices, connecting people and places. Trainline enables millions of travellers to find and book the best value tickets across carriers, fares, and journey options through our highly rated mobile …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/trainline/junior-net-engineer-london-286757",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8c855fdc07751699",
+      "title": "Senior Security Engineer, Offensive Security",
+      "company": "Docker",
+      "employmentType": "Internship",
+      "location": {
+        "city": "England",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Docker Docker has been one of the most loved brands in developer tooling, trusted by more than 20 million monthly users and over 20 billion container image pulls. From solo founders to the world's largest companies, developers rely on Docker to build, sh…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/docker/senior-security-engineer-offensive-security-england-36824",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c78f9b7f332d4873",
+      "title": "Software Engineer, Backend (BI Platform)",
+      "company": "Woltglobal2",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the Team The Core BI team at DoorDash builds and operates the services, integrations and automation that power business intelligence across DoorDash, Deliveroo and Wolt. Our platforms help analysts, Analytics Engineers, Data Scientists, Software Engineer…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/woltglobal2/software-engineer-backend-bi-platform-london-290051",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "983825d710410172",
+      "title": "Platform Security Engineer (x/f/m)",
+      "company": "Doctolib",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Set a new pulse for healthcare! We are looking for a Platform Security Engineer to join the Security team at Doctolib. Your mission will be to protect sensitive healthcare data while enabling rapid, secure innovation. You will be responsible for securing Docto…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctolib/platform-security-engineer-paris-paris-266318",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2d4631172e975702",
+      "title": "Lead Product Manager - Patient Data Collection (x/f/m)",
+      "company": "Doctolib",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Policy / Government",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": "you, setting interfaces, contracts and SLAs with partner teams You have shipped under a hard regulat"
+      },
+      "summary": "Set a new pulse for healthcare! We are looking for a Lead Product Manager to join the Patient Profile team in the Patient domain. Your mission will be to make the patient health record complete, accurate and current enough that everything else we build can act…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctolib/lead-product-manager-patient-data-collection-paris-paris-435852",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0428045231aced2d",
+      "title": "Chef de projet Expérience Professionnels de Santé (H/F/X) - France (Paris)",
+      "company": "Sunday Natural",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Votre Rôle Au sein de l'équipe B2B France, vous êtes responsable de construire et de développer une expérience forte et cohérente pour notre réseau de professionnels de santé, en particulier à travers les congrès, événements, formations et autres opportunités …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/sunday-natural/chef-de-projet-experience-professionnels-de-sante-france-paris-499031",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "efd0cbd2bb42dfe3",
+      "title": "Pullup Entertainment - Cdi - Juriste Senior - Dpo & Conformite Ia (H/F/Nb)",
+      "company": "Pullup Entertainment",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Chez PulluP Entertainment, nous avons pour but d’offrir aux joueurs du monde entier des expériences uniques. Notre ligne éditoriale se démarque grâce à des concepts innovants, des gameplays alternatifs et des univers originaux qui transcendent les frontières d…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/pullup-entertainment/pullup-entertainment-cdi-juriste-senior-dpo-conformite-ia-b-paris-356861",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c2a62750fe0a591d",
+      "title": "Financial Controller (Remote)",
+      "company": "Pragmatike",
+      "employmentType": "Internship",
+      "location": {
+        "city": "France / Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Finance Controller Location: Fully remote Start date: ASAP Languages: Fluent English required Industry: Data Center Infrastructure / Technology About the Role Pragmatike is recruiting on behalf of a fast-growing company specializing in the design, production, …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/pragmatike/financial-controller-remote-france-88513",
+      "source": "Arbeitnow"
+    },
     {
       "id": "08ee8a8c0645ab93",
       "title": "Working Student - Junior Solutions Consultant (m/f/d)",
