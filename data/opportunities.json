@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-11T22:36:00.461006+00:00",
+    "lastUpdated": "2026-09-12T01:07:54.341893+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,33 @@
     ]
   },
   "jobs": [
+    {
+      "id": "d675f6bceb74cb53",
+      "title": "Sales Support Specialist (6 Month FTC)",
+      "company": "Deepl",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Meet DeepL DeepL is a global AI product and research company focused on building secure, intelligent solutions to complex business problems. Over 200,000 business customers and millions of individuals across 228 global markets today trust DeepL's Language AI p…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/deepl/sales-support-specialist-6-month-ftc-london-432480",
+      "source": "Arbeitnow"
+    },
     {
       "id": "fca13af47dd0f055",
       "title": "Fullstack Software Engineer (m/w/d)",
@@ -6574,6 +6601,806 @@
       },
       "summary": "Energy efficiency remains one of the foremost challenges in modern computing, spanning from edge IoT devices to high-performance data centers. Conventional CMOS-based architectures are approaching fundamental physical limits, while the \"memory wall\" — data tra…",
       "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/centrale-lyon/centrale-lyon-post-doctoral-position-ferroelectric-based-ternary-computing-from-circuit-design-to-system-level-integration-scientific-context-ecull-223419",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ef5062f3765b42d9",
+      "title": "Logistics Manager (m/f/d)",
+      "company": "Yepoda",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Yepoda Clean K-Beauty Innovation. No compromises. Yepoda is a clean K-Beauty brand that actually proves it works. We make Korean skincare without any of the compromises. Everything is clinically tested, 100% vegan, and formulated above EU standards. So y…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/yepoda/logistics-manager-berlin-30808",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d50b00c40567fc4b",
+      "title": "Accountant (Freelance/Temporary)",
+      "company": "Yepoda",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Freelance / Temporary Accountant (m/f/d) – Yepoda, Berlin (Hybrid) About Yepoda Clean K-Beauty Innovation. No compromises. Yepoda is a clean K-Beauty brand that actually proves it works. We make Korean skincare without any of the compromises. Everything is cli…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/yepoda/accountant-freelance-temporary-berlin-165494",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "62c62d35ab029484",
+      "title": "PR Manager (m/f/d)",
+      "company": "Yepoda",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Yepoda Our mission is to bring Clean K-Beauty Innovations, from Korea straight to Europe, UK, and the US – without ever compromising on our values, quality, and sustainability. Our clean, mindfully produced skincare products are made with love in Korea, …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/yepoda/pr-manager-berlin-98388",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "60b88af686523629",
+      "title": "Brand Experience Manager (m/f/d)",
+      "company": "Yepoda",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Yepoda Our mission is to bring Clean K-Beauty Innovations, from Korea straight to Europe, UK, and the US – without ever compromising on our values, quality, and sustainability. Our clean, mindfully produced skincare products are made with love in Korea, …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/yepoda/brand-experience-manager-berlin-199979",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "90ba4a8516b37e8b",
+      "title": "Influencer Marketing Manager (m/w/d) | Deutschsprachig",
+      "company": "Yepoda",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über Yepoda Clean K-Beauty Innovation. Ohne Kompromisse. Yepoda ist eine Clean K-Beauty Brand, die hält, was sie verspricht. Wir entwickeln koreanische Hautpflege ohne Kompromisse: klinisch getestet, 100 % vegan und nach Standards formuliert, die über die EU-A…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/yepoda/influencer-marketing-manager-deutschsprachig-berlin-457988",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "402d5e37c653860f",
+      "title": "Junior Influencer Marketing (m/f/d) | US Market",
+      "company": "Yepoda",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Yepoda Clean K-Beauty Innovation. No compromises. Yepoda is a clean K-Beauty brand that actually proves it works. We make Korean skincare without any of the compromises. Everything is clinically tested, 100% vegan, and formulated above EU standards. So y…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/yepoda/junior-influencer-marketing-us-market-berlin-302153",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "602b48e0cc13bea6",
+      "title": "Customer Support Manager (m/f/d)",
+      "company": "Voize",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Operations",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🎤 Why voize? Because we’re more than just a job! At voize, we believe the greatest gift to frontline workers is time - time to care, connect, and be present. Today, that time is lost to admin work that pulls nurses away from what matters most: people . We’re c…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/voize/customer-support-manager-berlin-12439",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "16c91acd1e09da14",
+      "title": "Microwave Design Engineer",
+      "company": "Proxima Fusion GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Policy / Government",
+        "Procurement",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "WHO WE ARE Proxima Fusion is Europe’s fastest-growing fusion company and the continent’s best-funded fusion player, as well as the first spin-out from the Max Planck Institute for Plasma Physics (IPP). Backed by over €650M and powered by a growing team across …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/microwave-design-engineer-munich-260899",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fd8ca2a430945190",
+      "title": "Internship - Radiation Testing of Electronic Components and Test Automation",
+      "company": "The Exploration Company",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Here at The Exploration Company, we are building innovative aerospace technologies that advance the future of space transportation. We want you as a talented Radiation Test and Automation Engineer to help us in our mission by participating in the qualification…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/internship-radiation-testing-of-electronic-components-and-test-automation-munich-472060",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ffdfaf052098e5ce",
+      "title": "Senior Customer Support Specialist (m/w/d) – Endkundenbetreuung",
+      "company": "Peter Park",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Einleitung Als Senior Customer Support Specialist übernimmst Du eine Schlüsselrolle in unserem 10-köpfigen Team und prägst die Servicequalität von Peter Park maßgeblich. Wir digitalisieren die Parkbranche und verwandeln gewöhnliche Parkplätze in smarte Mobilit…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/peter-park/senior-customer-support-specialist-endkundenbetreuung-munchen-53125",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dc250fb0d9816222",
+      "title": "Senior Account Manager (m/w/d)",
+      "company": "Peter Park",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Einleitung Du willst nicht einfach nur Kunden verwalten, sondern ein eigenes Portfolio strategischer B2B-Kunden von Grund auf skalieren? Dann bist Du bei uns genau richtig. Wir stellen unseren B2B-Bereich gerade neu auf – und Du kommst als eine:r der ersten Se…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/peter-park/senior-account-manager-munchen-427187",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f1d9e238a18d4b7d",
+      "title": "Communications & Design Working Student",
+      "company": "Personal data collected as part of the application process",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the role Gauss Fusion is looking for a creative and hands-on Working Student to support its communications activities at our headquarters in Garching bei München. The role will have a particular focus on visual and digital communications, helping to turn…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/personal-data-collected-as-part-of-the-application-process/communications-design-working-student-munich-494715",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1f55eaa1bd554780",
+      "title": "Senior Legal Counsel (m/f/d)",
+      "company": "Qplix",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "IN A NUTSHELL As a fast-growing SaaS provider in the WealthTech space, we are expanding internationally. Following the successful launch of our Zurich hub, our next milestone is entering the UK market. To support this exciting growth journey, we are looking fo…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/qplix/senior-legal-counsel-munchen-466470",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6743f0c0d46c8aeb",
+      "title": "Data Scientist (f/m/d)",
+      "company": "Pair",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin (Hybrid)",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Policy / Government",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you ready to change the market? Are you a passionate and experienced Data Scientist, excited to work on improving and maintaining our data architecture? Join us to become a part of our strong international team that is transforming the traditional debt col…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pair/data-scientist-berlin-hybrid-47229",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "53a94bbf12862166",
+      "title": "(Senior) Legal Counsel (m/w/d) für den Bereich Commercial",
+      "company": "Pair",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin (Hybrid)",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bereit, den Markt zu verändern? PAIR Finance revolutioniert seit 2016 die Inkassobranche in Europa - innovativ, digital und kundenorientiert. Mit Spitzentechnologie und künstlicher Intelligenz entwickeln wir effiziente, maßgeschneiderte Lösungen, um unseren Se…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pair/senior-legal-counsel-fur-den-bereich-commercial-berlin-hybrid-347870",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "33ec1323a4081371",
+      "title": "UK Summer Internship 2027 - Public Sector Consulting",
+      "company": "Baringa",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Data & Analytics",
+        "Operations",
+        "Policy / Government",
+        "Procurement",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Baringa Baringa is a global consulting firm that partners with leaders to drive change and create value. With deep industry expertise, and enabled by advanced technology, the firm helps clients to deliver with greater confidence and certainty. With over …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/baringa/uk-summer-internship-2027-public-sector-consulting-london-58470",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d7f34167b9dc096f",
+      "title": "Marketing Lead - Public Sector",
+      "company": "Baringa",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Data & Analytics",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Baringa Baringa is a global consulting firm that partners with leaders to drive change and create value. With deep industry expertise, and enabled by advanced technology, the firm helps clients to deliver with greater confidence and certainty. With over …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/baringa/marketing-lead-public-sector-london-214844",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "09265eed9c18ee0c",
+      "title": "Graduate AI and Secure Technologies Engineer (2026 start)",
+      "company": "Cambridgeconsultantslimited",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Cambridge, UK UK travel and occasional international travel Introduction We’re looking for graduates who are excited by the opportunity to make emerging technologies secure, trustworthy and resilient. You’ll work on real-world engineering challenges across cyb…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-ai-and-secure-technologies-engineer-2026-start-258690",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8fc12f5e4f5bd757",
+      "title": "Marketing Associate (Contractor)",
+      "company": "Onapsis",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Marketing Associate Summary of Posit ion In a B2B SaaS environment, we are seeking a motivated, detail-oriented, and execution-focused Marketing Associate (on a Contract basis) to support and execute our organic content engine. In this role, you will assist wi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/onapsis/marketing-associate-contractor-london-225096",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bb4066de0e49f783",
+      "title": "Senior Product Data Scientist",
+      "company": "Mubi",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About MUBI MUBI is a global streaming service, production company and film distributor dedicated to elevating great cinema. To make this possible, we create, curate, acquire and champion visionary films, bringing them to audiences all over the world. We have a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/mubi/senior-product-data-scientist-london-133482",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b89840b1452e60b0",
+      "title": "MUBI SHOP Intern",
+      "company": "Mubi",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About MUBI MUBI is a global streaming service, production company and film distributor dedicated to elevating great cinema. To make this possible, we create, curate, acquire and champion visionary films, bringing them to audiences all over the world. We have a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/mubi/mubi-shop-intern-london-88146",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3c70422f5dcd0363",
+      "title": "Senior Account Manager, K4B",
+      "company": "Kayak",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "KAYAK, part of Booking Holdings (NASDAQ: BKNG), is a leading travel search engine. With billions of queries across our platforms, we help people find their perfect flight, stay, rental car and vacation package. We're also transforming business travel with a ne…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/kayak/senior-account-manager-k4b-london-253543",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f99e293b8f74ea24",
+      "title": "Enterprise Account Executive, DACH (German Speaking)",
+      "company": "Sanity",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "UK",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Sanity.io , we’re building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content o…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/sanity/enterprise-account-executive-dach-german-speaking-london-uk-304605",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7cdfe12e9132d792",
+      "title": "Account Executive - Financial Services",
+      "company": "TransPerfect",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "TransPerfect is the world's leading provider of language services and technology solutions. With over 100 offices worldwide, we partner with global industry leaders, including Fortune 500 companies, to deliver translation, localization, and business solutions …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/account-executive-financial-services-london-99853",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b37ed6daea8586a0",
+      "title": "Stagiaire/Alternant·e Campagnes d'Influence (H/F)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "En bref Chez Picnic, nous ne faisons pas que réinventer les courses en ligne : nous grandissons vite et continuons à nous développer dans de nouvelles zones de livraison chaque mois. Pour accompagner cette croissance, notre équipe marketing travaille chaque jo…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/teampicnic/stagiaire-alternante-campagnes-dinfluence-h-f-paris-paris-146509",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "95efbf4b3f0bc8c2",
+      "title": "Stage Data Analyst - Paris (H/F/X)",
+      "company": "Artefactlinkedin",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Qui sommes-nous ? Fondée en 2014, Artefact est une société française de services autour de la data, spécialisée dans le conseil en IA, transformation data et en data & digital marketing. L’approche unique d’Artefact, qui fait le pont entre la donnée et le busi…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/stage-data-analyst-paris-9th-arrondissement-of-paris-75009-paris-51047",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "eca4056b867fb3be",
+      "title": "Senior Data Analyst",
+      "company": "Artefactlinkedin",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Artefact is a French consulting and engineering firm specializing in data and AI, and a leader in Europe. Headquartered in Paris, we are now present in 23 countries across all continents, with a team of 1,700 employees. Our mission is to help busine…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/senior-data-analyst-9th-arrondissement-of-paris-75009-paris-30123",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3bdecb1f14f8f313",
+      "title": "Stage Data Analyst - Paris (H/F/X)",
+      "company": "Artefact",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Qui sommes-nous ? Fondée en 2014, Artefact est une société française de services autour de la data, spécialisée dans le conseil en IA, transformation data et en data & digital marketing. L’approche unique d’Artefact, qui fait le pont entre la donnée et le busi…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefact/stage-data-analyst-paris-9th-arrondissement-of-paris-75009-paris-123583",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7d97bfe2f800c06f",
+      "title": "Senior Data Analyst",
+      "company": "Artefact",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Artefact is a French consulting and engineering firm specializing in data and AI, and a leader in Europe. Headquartered in Paris, we are now present in 23 countries across all continents, with a team of 1,700 employees. Our mission is to help busine…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefact/senior-data-analyst-9th-arrondissement-of-paris-75009-paris-198988",
       "source": "Arbeitnow"
     },
     {
