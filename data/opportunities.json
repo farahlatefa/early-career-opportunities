@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-13T01:01:49.021191+00:00",
+    "lastUpdated": "2026-09-13T06:11:54.459293+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,423 @@
     ]
   },
   "jobs": [
+    {
+      "id": "00dff51df43fd290",
+      "title": "Data Analyst (m/f/d)",
+      "company": "METYCLE",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cologne (GER)",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ABOUT US METYCLE: where innovation meets sustainability We are reshaping the global secondary metals industry to accelerate the circular flow of metals. By combining global trading, advanced processing and digital intelligence, we make secondary metals more pr…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/metycle/data-analyst-cologne-ger-220074",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0bfa153552a57483",
+      "title": "Werkstudent Bauüberwachung (m/w/d)",
+      "company": "ILF Consulting Engineers Germany GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Essen",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ein Team, in dem man sich wohlfühlt: Wir sind ein mittelständisches Familienunternehmen mit mehr als 500 Mitarbeitenden an verschiedenen Standorten in Deutschland. Als Ingenieurs- und Beratungsdienstleister sind wir weltweit in Projekten tätig, welche die Ener…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ilf-consulting-engineers-germany-gmbh/werkstudent-bauuberwachung-essen-19356",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c912fbeeaac38809",
+      "title": "PUSHH I Senior Social Media Creative (all genders)",
+      "company": "Pahnke GmbH & Co. KG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Du kommst aus der Social-Bubble, bist auf den gängigen Kanälen zuhause und entwickelst für Marken nicht nur unique Looks, sondern auch Content-Pieces, die wirklich performen? Volltreffer! Wir wachsen und suchen einen kreativen Kopf, der mit uns …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pahnke-gmbh-co-kg/pushh-i-senior-social-media-creative-all-genders-hamburg-303861",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a0df85217705636e",
+      "title": "PickMeUp I Werkstudent*in Beratung / Projektmanagement (all genders)",
+      "company": "Pahnke GmbH & Co. KG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Du bringst gerne Struktur in Informationen, arbeitest dich schnell in neue Themen ein und und behältst auch dann den Überblick, wenn mehrere Themen parallel laufen? Perfekt, dann bist du hier genau richtig. Zur Verstärkung unseres Teams bei Pick…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pahnke-gmbh-co-kg/pickmeup-i-werkstudentin-beratung-projektmanagement-all-genders-hamburg-301247",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2ba8e406138b9528",
+      "title": "SCADA Engineering Manager (m/f/d) – Utility Scale PV & BESS",
+      "company": "Greencells Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Saarbrücken",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Overview As SCADA Engineering Manager, you take technical ownership of SCADA, monitoring, plant control and communication systems for our utility-scale PV and BESS projects. You act as the central technical interface between engineering, project teams, custome…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/greencells-gmbh/scada-engineering-manager-utility-scale-pv-bess-saarbrucken-140312",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e6bb1a33ea80ed43",
+      "title": "Praktikant Finance (m/w/d)",
+      "company": "Greencells Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Saarbrücken",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Übersicht Du möchtest erste praktische Erfahrungen im Finance-Bereich sammeln und dabei tiefere Einblicke in Finanzbuchhaltung und Accounting gewinnen? Dann bist du bei uns genau richtig! In deinem Praktikum arbeitest du eng mit unserem Finance-Team zusammen u…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/greencells-gmbh/praktikant-finance-saarbrucken-417021",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4bf0f75933939225",
+      "title": "Team Lead Weiterbildungen AI & Data Science 100% remote (m/w/d)",
+      "company": "Karrieretutor De",
+      "employmentType": "Internship",
+      "location": {
+        "city": "100% Remote in Deutschland",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Rolle bei Karriere Tutor Karriere Tutor steht für moderne, praxisnahe Weiterbildung und Umschulung – und für eine Lernkultur, die Menschen stark macht. Du möchtest mit deinem Know-how und deiner Persönlichkeit etwas bewegen? Dann werde Teil unseres Teams…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/karrieretutor-de/team-lead-weiterbildungen-ai-data-science-100-remote-156651",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "595f194a7b4ebcb3",
+      "title": "Freiberufliche Lehrkraft (w/m/d) für Data Analytics",
+      "company": "Karrieretutor De",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "100% Remote in Deutschland",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Rolle bei Karriere Tutor Wir suchen engagierte und kompetente freiberufliche Dozierende (m/w/d) für Data Analytics, die den Kurs gemeinsam mit unserem Team im Rahmen von planbaren Einsätzen auf den Markt bringen und ausliefern . Bei Interesse an einem fe…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/karrieretutor-de/remote-freiberufliche-lehrkraft-fur-data-analytics-138889",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6e0908c1e2445ae6",
+      "title": "Freiberufliche Lehrkraft (w/m/d) für BI Analytics",
+      "company": "Karrieretutor De",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "100% Remote in Deutschland",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Rolle bei Karriere Tutor Wir suchen engagierte und kompetente freiberufliche Dozierende (m/w/d) für BI Analytics, die den Kurs gemeinsam mit unserem Team im Rahmen von planbaren Einsätzen auf den Markt bringen und ausliefern . Bei Interesse an einem fest…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/karrieretutor-de/remote-freiberufliche-lehrkraft-fur-bi-analytics-194166",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2881b6fc3f4be6ad",
+      "title": "Werkstudent (m/w/d) Sanierung & Insolvenz",
+      "company": "Brl",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Es kommt drauf an - wo und mit wem man arbeitet! Teilzeit I 16 Wochenstunden | unbefristet | ab sofort Zum nächstmöglichen Zeitpunkt suchen wir für unseren Standort München Unterstützung durch eine Werkstudentin oder einen Werkstudenten (m/w/d) im Bereich Sani…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/brl/werkstudent-sanierung-insolvenz-munchen-149003",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b3d0d10777c35682",
+      "title": "Data Engineer (f/m/d)",
+      "company": "Climate",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin HQ",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Policy / Government",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job description We are currently seeking a Data Engineer for our international and diverse Climate Policy Team (CPT). The team is engaged in various projects on climate change mitigation, in particular on energy system transformation, the 1.5°C global warming …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/climate/data-engineer-berlin-hq-131549",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4667ef5577010ba5",
+      "title": "Maintenance & Facilities Assistant",
+      "company": "Legal 500",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Operations",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Legal 500 Legal 500 is a global legal market research, data and intelligence business. Our research helps corporate clients make informed decisions about legal representation and gives law firms insight into their market position, performance, and client…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/legal-500/maintenance-facilities-assistant-london-62703",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ff8d97b4cbac729d",
+      "title": "Rider Onboarding Operations Representative",
+      "company": "Deliveroo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London - The River Building HQ",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: London, UK - Hybrid (3 days in office, 2 days remote) Working pattern: flexible shift patterns, including a requirement to work 2 weekends every month Language: English and French proficiency required Join us in our mission to transform the way peopl…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/rider-onboarding-operations-representative-london-478523",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b7df345bdd2d1947",
+      "title": "Software Engineer, Backend (BI Platform)",
+      "company": "Deliveroo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London - The River Building HQ",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join us in our mission to transform the way people shop and eat, where impact, innovation and growth drive everything we do. Our Engineering teams tackle complex technical challenges across a global, three-sided marketplace, building and scaling systems that s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-backend-bi-platform-london-234160",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c02b1fcda0a960f5",
+      "title": "BI Engineer",
+      "company": "Deliveroo",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London - The River Building HQ",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join us in our mission to transform the way people shop and eat, where impact, innovation and growth drive everything we do. Our Engineering teams tackle complex technical challenges across a global, three-sided marketplace, building and scaling systems that s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/bi-engineer-london-9211",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f940bc50b6511b21",
+      "title": "Sales Development Representative – Alternance",
+      "company": "Ibexa",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Ibexa Ibexa is a European marketing orchestration platform that empowers organisations to deliver seamless, data-driven customer experiences across the entire digital journey. By unifying content management, customer data, engagement, product information…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/ibexa/sales-development-representative-alternance-paris-464122",
+      "source": "Arbeitnow"
+    },
     {
       "id": "d675f6bceb74cb53",
       "title": "Sales Support Specialist (6 Month FTC)",
