@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-14T01:06:40.565703+00:00",
+    "lastUpdated": "2026-09-14T06:19:14.619833+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,569 @@
     ]
   },
   "jobs": [
+    {
+      "id": "2725098dc2f0c2c8",
+      "title": "Werkstudent (m/w/d) Projektmanagement – Glasfaserausbau",
+      "company": "GlasfaserPlus GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Das sind Deine Aufgaben Gemeinsam bringen wir Deutschland ins digitale Zeitalter. Als GlasfaserPlus bauen wir die digitale Infrastruktur von morgen und treiben den Glasfaserausbau in Deutschland voran. Dafür suchen wir Dich als Werkstudenten (m/w/d) im Projekt…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/glasfaserplus-gmbh/werkstudent-projektmanagement-glasfaserausbau-koln-168873",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "282f0d67970fc1bb",
+      "title": "Senior Treasury Manager (m/w/d)",
+      "company": "Pammys™ (dieseo GmbH)",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Stellenbeschreibung Du steuerst Liquidität, Cashflow und Finanzierung in einem Unternehmen mit hoher Dynamik. Pammys ist in nur vier Jahren auf über 1 Million Kundinnen und Kunden gewachsen und gehört zu den am schnellsten wachsenden E-Commerce-Unternehmen Eur…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/senior-treasury-manager-hamburg-447676",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "68e79a08c4975f5e",
+      "title": "Senior Creative Strategist – Social Ads / UGC (m/w/d)",
+      "company": "Pammys™ (dieseo GmbH)",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Stellenbeschreibung Du scrollst nicht einfach durch TikTok, Instagram oder YouTube – du fragst dich automatisch, warum ein Video viral geht, weshalb Menschen kommentieren oder warum bestimmte Werbung plötzlich überall zu sehen ist? Dich faszinieren Marketing ,…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/senior-creative-strategist-social-ads-ugc-hamburg-63412",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8c488d70db42d0d3",
+      "title": "CMO - Chief Marketing Officer (m/w/d)",
+      "company": "Pammys™ (dieseo GmbH)",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Stellenbeschreibung Du verantwortest das gesamte Marketing als Wachstumsmotor des Unternehmens – mit voller Budget- und Ergebnisverantwortung, direktem Draht zu den beiden Gründern und der Führung eines Teams von über 50 Menschen. Eine Rolle in dieser Größenor…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/cmo-chief-marketing-officer-hamburg-400060",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1efc823c3f36b820",
+      "title": "(Senior) Digital Strategist (m/w/d)",
+      "company": "Pammys™ (dieseo GmbH)",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Stellenbeschreibung Die kreativste Idee gewinnt nicht. Sondern die, die verkauft. Du erkennst in den ersten Sekunden eines Werbevideos, warum Menschen weiterschauen – oder weiterscrollen. Du verstehst Menschen. Du verstehst Social Media. Und du verstehst, wie …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/senior-digital-strategist-hamburg-264815",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "20810d9085998b24",
+      "title": "(Senior) Controller / Finance Business Partner (m/w/d)",
+      "company": "Pammys™ (dieseo GmbH)",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Stellenbeschreibung Du reportest nicht, was passiert ist. Du sorgst dafür, dass wir wissen, was als Nächstes passieren muss. Pammys ist in nur vier Jahren auf über 1 Million Kundinnen und Kunden gewachsen und gehört zu den am schnellsten wachsenden E-Commerce-…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/senior-controller-finance-business-partner-hamburg-436394",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "242a585d3499bb9f",
+      "title": "Fachinformatiker im medizinischen Umfeld (m/w/d)",
+      "company": "Lifelink Medical Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "LifeLink Nuklearmedizin Bremen",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Intro Arbeiten bei LifeLink heißt, Medizin auf höchstem Niveau zu gestalten. An rund 50 Standorten sorgen mehr als 1.600 Mitarbeitende dafür, hochmoderne Diagnostik und gezielte Therapie aus einer Hand anzubieten. Werde Teil des medizinisch-technischen Diensts…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lifelink-medical-gmbh/fachinformatiker-im-medizinischen-umfeld-lifelink-nuklearmedizin-bremen-270660",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "153b0269852da5d7",
+      "title": "Software Engineer - Systems Modeling (all genders)",
+      "company": "Reflex Aerospace GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your Mission: Join the Pinnacle of Satellite Technology Advancement in Germany! Reflex Aerospace is at the forefront of propelling high-performance satellite technology to new heights within the German aerospace landscape. As part of Reflex Aerospace, you will…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/reflex-aerospace-gmbh/software-engineer-systems-modeling-all-genders-berlin-368586",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6d96621fd77c00da",
+      "title": "Werkstudent Finance (m/w/d)",
+      "company": "Afc Gruppe",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "20355 Hamburg",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sports",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir suchen Dich! Du möchtest neben deinem Studium praktische Einblicke in kaufmännische und finanznahe Prozesse erhalten und arbeitest gerne strukturiert und sorgfältig? Dann bist du bei uns genau richtig. In unserem Team unterstützt du bei der Bearbeitung off…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/afc-gruppe/werkstudent-finance-hamburg-valentinskamp-70-20355-hamburg-327173",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e85d8b288ea5a103",
+      "title": "Senior Marketing Specialist (w/m/d)",
+      "company": "Opentas",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Context of the Role To strengthen our Marketing Team, we are looking for a Senior Marketing Specialist to join us as soon as possible. In this role, you will be responsible for planning, implementing and continuously improving integrated B2B marketing activiti…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/opentas/senior-marketing-specialist-hamburg-427638",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7cf06c72261651e3",
+      "title": "Working Student Export Control & Trade Compliance (all genders)",
+      "company": "Stark",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us STARK is a new kind of defence technology company. We design, develop, and manufacture high-performance unmanned systems that are software-defined, mass-scalable, and cost-effective, changing how autonomous systems are deployed across multiple domains…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/stark/working-student-export-control-trade-compliance-all-genders-munich-270089",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "793ca88674adce15",
+      "title": "Tactical Data Link Expert (all genders)",
+      "company": "Stark",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us STARK is a new kind of defence technology company revolutionizing the way autonomous systems are deployed across multiple domains. We design, develop and manufacture high performance unmanned systems that are software-defined, mass-scalable, and cost …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/stark/tactical-data-link-expert-all-genders-munich-108610",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1f2b10c4455a495f",
+      "title": "Software IV&V Lead",
+      "company": "Stark",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us STARK is a new kind of defence technology company revolutionising the way autonomous systems are deployed across multiple domains. We design, develop, and manufacture high-performance unmanned systems that are software-defined, mass-scalable, and cost…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/stark/software-ivv-lead-munich-225906",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8cf750c9cf46593c",
+      "title": "Werkstudent SEO & Content (m/w/d)",
+      "company": "Verivox",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Werde Teil des Verivox Teams Du interessierst dich für digitale Inhalte, Google und die Frage, wie Websites in der Suche sichtbar werden? Dann unterstütze unser SEO & Content Team dabei, unsere Inhalte auf verivox.de umzusetzen und weiterzuentwickeln. Du brauc…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/verivox/werkstudent-seo-content-berlin-291076",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bdf1fb947fb7a882",
+      "title": "Werkstudent Customer Service (m/w/d) Hybrid",
+      "company": "Verivox",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Heidelberg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Werde Teil des Verivox Teams Du möchtest neben deinem Studium praktische Erfahrung sammeln und suchst einen flexiblen Job mit echter Verantwortung? Du wirst Teil unseres internen Customer Service Teams sein und unterstützt unsere Kundinnen und Kunden telefonis…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/verivox/werkstudent-customer-service-hybrid-heidelberg-202500",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d4927ad901ee14ba",
+      "title": "Studentische Hilfskraft, Team Questionnaire Design & Evaluation / Team Assessing Survey Data Quality (SHK_SDM_2026_020)",
+      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Mannheim",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "GESIS – Leibniz-Institut für Sozialwissenschaften ist eine von Bund und Ländern finanzierte, international tätige sozialwissenschaftliche Einrichtung der Leibniz-Gemeinschaft. Wir suchen zum nächstmöglichen Zeitpunkt für den Standort Mannheim in der Abteilung …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/studentische-hilfskraft-team-questionnaire-design-evaluation-team-assessing-survey-data-quality-shk-sdm-2026-020-mannheim-20517",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ee3ff09c7c179818",
+      "title": "Studentische Hilfskraft, Team Data Aquisition and Access (SHK-DSS-11)",
+      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "GESIS – Leibniz-Institut für Sozialwissenschaften ist eine von Bund und Ländern finanzierte, international tätige sozialwissenschaftliche Einrichtung der Leibniz-Gemeinschaft. Wir suchen zum nächstmöglichen Zeitpunkt für den Standort Köln in der Abteilung Data…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/studentische-hilfskraft-team-data-aquisition-and-access-shk-dss-11-koln-459540",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "69381b8c3f2ed25d",
+      "title": "Research Data Manager (PostDoc) for mapping harvesting relationships (KTS-84)",
+      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "GESIS – Leibniz-Institute for the Social Sciences is an internationally active research institute, funded by federal and state governments and member of the Leibniz Association. Starting on October 1, 2026 our Department Knowledge Technologies for the Social S…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/research-data-manager-postdoc-for-mapping-harvesting-relationships-kts-84-koln-385269",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c4a7d394d3da2952",
+      "title": "Graduate Student Research Assistant, Team Assessing Survey Data Quality (DE/EN) (SHK_SDM_2026_024)",
+      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Mannheim",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Policy / Government",
+        "Research",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "GESIS – Leibniz-Institute for the Social Sciences is an internationally active research institute, funded by federal and state governments and member of the Leibniz Association. Starting as soon as possible, our Department Survey Design & Methodology (SDM) , T…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/graduate-student-research-assistant-team-assessing-survey-data-quality-de-en-shk-sdm-2026-024-mannheim-380976",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a635e0af5505350f",
+      "title": "Working Student - Digital Operations (m/f/d)",
+      "company": "Healy World GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "JOB DESCRIPTION At Healy, you’re not just an employee—you’re a co-creator. Healy World GmbH is an innovative and leading company in the health and wellness industry. We’re growing, we’re shaping the future, we’re making a difference—and you can be a part of it…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/healy-world-gmbh/working-student-digital-operations-berlin-2455",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e3f1b7bcbd953f5f",
+      "title": "(Senior) UI/UX Designer for Mobile App (m/f/d) | for 2 month",
+      "company": "Healy World GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "JOB DESCRIPTION At Healy World, we are revolutionizing the way people experience technology in their daily lives. Our mission is to improve the well-being and health of our users through innovative digital solutions. In our dynamic team in Berlin, we are looki…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/healy-world-gmbh/senior-ui-ux-designer-for-mobile-app-for-2-month-berlin-96296",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "50e4b16d012b37e6",
+      "title": "Working Student/Intern Sales & Business Development (f/m/d)",
+      "company": "Oniq",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About ONIQ ONIQ is building a new software category for the next generation of manufacturing operations. Our platform helps industrial companies understand what is happening across their production processes, uncover where efficiency is lost and act on the opp…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/oniq/working-student-intern-sales-business-development-cologne-262843",
+      "source": "Arbeitnow"
+    },
     {
       "id": "00dff51df43fd290",
       "title": "Data Analyst (m/f/d)",
