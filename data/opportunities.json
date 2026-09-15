@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-15T01:29:25.915510+00:00",
+    "lastUpdated": "2026-09-15T07:46:18.766664+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,1216 @@
     ]
   },
   "jobs": [
+    {
+      "id": "046d9bb1e98b95e6",
+      "title": "Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)",
+      "company": "Kevin Kehr",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Homeoffice",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du studierst und willst mehr als einen „Nebenjob“? Du willst Verantwortung, klare Ziele und ein Umfeld, in dem Leistung zählt? Dann ist diese Werkstudentenrolle dein Einstieg in die Finanzberatung, mit strukturiertem Onboarding, Coaching und einem klaren Weg i…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-474266",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7753fb4b1fc1a726",
+      "title": "Werkstudent Online Marketing (m/w/d)",
+      "company": "Esanum",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Vielfältiger Support: Du unterstützt unser Marketing-Team tatkräftig im abwechslungsreichen Tagesgeschäft und lernst verschiedene Disziplinen kennen. Social Media & Content Marketing: Du wirkst aktiv an unseren Social-Media-Kanälen mit, von der …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/esanum/werkstudent-online-marketing-berlin-44385",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ab63736ee83bc302",
+      "title": "Senior Software Engineer (m/w/d) | Fullstack für KI-Produkte",
+      "company": "Avenit Ag",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Remote in Deutschland",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns Wie bleibt ein RAG-System präzise, wenn aus tausend Dokumenten hunderttausend werden? Wie orchestriert man mehrere Modellanbieter sauber hinter einer Oberfläche? Während anderswo noch Prototypen gezeigt werden, arbeiten unsere Kunden längst damit - mi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/avenit-ag/remote-senior-software-engineer-fullstack-fur-ki-produkte-38098",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "54366ddf4b409ebf",
+      "title": "Data Analyst (w/m/d)",
+      "company": "Pub Tech",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unser Team, unsere Arbeitsweise und du Für unser fast 20-köpfiges Analytics & Data Platforms - Department sind wir auf der Suche nach einem/r Data Analyst/In, der/die Spaß daran hat, die Digitalisierung innerhalb der ARD und ihren Landesrundfunkanstalten voran…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pub-tech/data-analyst-munchen-198585",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dc93d512a41d1576",
+      "title": "PraktikantInnen und Werkstudierende (m/w/d)",
+      "company": "Avelion Group",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wer wir sind Mächtige Standard-Software wie SAP oder PLM hört oft genau dort auf, wo der eigentliche Wettbewerbsvorteil unserer Kunden beginnt. Wir bei 4Soft schließen diese Lücken mit hochgradig individuellen Clean-Core Speedboats . Als Teil der Avelion Grupp…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/avelion-group/praktikantinnen-und-werkstudierende-munchen-458290",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "88a349e36401e831",
+      "title": "Java Backend Developer (m/w/d)",
+      "company": "Avelion Group",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wer wir sind Mächtige Standard-Software wie SAP oder PLM hört oft genau dort auf, wo der eigentliche Wettbewerbsvorteil unserer Kunden beginnt. Wir bei 4Soft schließen diese Lücken mit hochgradig individuellen Clean-Core Speedboats . Als Teil der Avelion Grupp…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/avelion-group/java-backend-developer-munchen-75508",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "74fa958c72eee3a0",
+      "title": "Working Student – Release Support and Automation",
+      "company": "Snke",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What you'll do Snke Viewing is our team building a medical imaging viewer, part of Snke's suite of software solutions that let clinicians and researchers work with complex imaging and clinical data. Join our Munich team and help keep Snke Viewing reliable and …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/snke/working-student-release-support-and-automation-munchen-196690",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a2d7af1ed6c237e5",
+      "title": "Working Student - Customer Service & Support",
+      "company": "Snke",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What you'll do Are you looking for an opportunity to gain hands‑on experience in a forward‑thinking, impact‑driven environment? Join our Customer Support team and help clinical users and hospital IT departments work seamlessly with our software solutions in th…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/snke/working-student-customer-service-support-munchen-271160",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "12a94024deb3b2a7",
+      "title": "Werkstudent / Praktikant Finance & Accounting (m/w/d)",
+      "company": "Snke",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was dich erwartet Als Werkstudent:in Finance & Accounting unterstützt du unser Finanzteam im operativen Tagesgeschäft und erhältst spannende Einblicke in die Finanzprozesse eines internationalen, wachstumsorientierten Unternehmens.Zu deinen Aufgaben gehören: U…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/snke/werkstudent-praktikant-finance-accounting-munchen-184718",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "201ac690bc36c42b",
+      "title": "Senior Software Engineer, Support & Integration (C++) – Digital Patient Model",
+      "company": "Snke",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What you'll do As a Senior Software Engineer, Support & Integration (C++) , you will join the Snke Anatomy Applications team and help ensure that our Digital Patient Model services are reliably integrated and supported in customer environments. In this role, y…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/snke/senior-software-engineer-support-integration-c-digital-patient-model-munchen-73929",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5a13677a5558ddac",
+      "title": "Senior Software Engineer - Data",
+      "company": "Snke",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What you'll do As (Senior) Software Engineer – Data at Snke you will help build and scale the data infrastructure that empowers our Research & Development teams to automate the testing and evaluation of medical software using large-scale datasets. You will pla…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/snke/senior-software-engineer-data-munchen-394702",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8bc581575e48cc7b",
+      "title": "Senior Machine Learning Engineer – Video AI",
+      "company": "Snke",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What you'll do As (Senior) Machine Learning – Video AI at Snke you will develop and deploy machine learning applications that analyze video and sensor data from the operating room to improve surgical workflows. You will work closely with software developers an…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/snke/senior-machine-learning-engineer-video-ai-munchen-496545",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0d7929f06354a56d",
+      "title": "Advanced/Senior Software Engineer (Backend) - Healthcare Integration & Platform",
+      "company": "Snke",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What you'll do As we continue to grow, we are looking for an Advanced/Senior Software Engineer (Backend) at Snke to help shape the next generation of our platform and the way we integrate with clinical systems. You would design, build, and operate the services…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/snke/advanced-senior-software-engineer-backend-healthcare-integration-platform-munchen-1055",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "541330d7801bb234",
+      "title": "Senior Product Manager (all genders) | B2C",
+      "company": "Real Digital",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Anstellungsdetails Permanent Contract, Full- or Part-Time, Remote or Cologne / Düsseldorf / Darmstadt / Berlin Info Who we areWe are the tech powerhouse behind Kaufland’s international online marketplaces and a company within the Schwarz Group. Driven by a sta…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-product-manager-all-genders-b2c-348479",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3666b5dd5ea7c790",
+      "title": "Senior Full-Stack Engineer (all genders) | Backend or Frontend Focus",
+      "company": "Real Digital",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Anstellungsdetails Permanent Contract, Full-or Part-Time, Remote or Cologne / Düsseldorf / Darmstadt / Berlin Info Who we areWe are the tech powerhouse behind Kaufland’s international online marketplaces and a company within the Schwarz Group. Driven by a star…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-full-stack-engineer-all-genders-backend-or-frontend-focus-38682",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "17e06c00081bf48c",
+      "title": "(Senior) UX Researcher (all genders)",
+      "company": "Real Digital",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Anstellungsdetails Permanent Contract, Full- or Part-Time, Remote or Cologne / Düsseldorf / Darmstadt / Berlin Info Who we are We are the tech powerhouse behind Kaufland’s international online marketplaces and a company within the Schwarz Group. Driven by a st…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-ux-researcher-all-genders-220192",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "072ebbf2be331616",
+      "title": "Infrastructure Engineer - Deployments (d/f/m)",
+      "company": "Arculus",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Responsibilities As an Infrastructure Engineer , you will be responsible for the reliable delivery and deployment of our software systems to customer environments. You will ensure that deployments are automated, resilient, and adaptable to diverse on-premise a…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/arculus/infrastructure-engineer-deployments-munich-246023",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d492699a9aeffa37",
+      "title": "Senior Business Consultant ServiceNow mit Schwerpunkt CRM/CSM (m/w/d)",
+      "company": "Sti",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns servistio ist zertifizierter ServiceNow-Partner und unterstützt Unternehmen bei der digitalen Transformation ihrer Geschäftsprozesse. Mit Fokus auf Automatisierung, künstlicher Intelligenz und Ende-zu-Ende-Workflows beraten und implementieren wir Lösu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sti/senior-business-consultant-servicenow-mit-schwerpunkt-crm-csm-munchen-345622",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "114bf735a675964f",
+      "title": "Werkstudent:in Simulation & Application Engineering (m/w/d)",
+      "company": "Simcon",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Deutschland Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Willkommen bei SIMCON – einem führenden High-Tech-Softwareunternehmen im Bereich Computer-Aided Engineering (CAE). Mit mehr als 30 Jahren Erfahrung entwickeln wir innovative Simulationslösungen für die Kunststoffindustrie und unterstützen Untern…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/simcon/remote-werkstudentin-simulation-application-engineering-170390",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "16b8d1db99ebf197",
+      "title": "Senior Operations Manager (f/m/d)",
+      "company": "Alemi Zurich",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Store München",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your responsibilities ALEMI is looking for a Senior Operations Manager to take end-to-end ownership of our operational backbone — from forecasting and production orders to inbound logistics, stock, and cost control. You'll be the person who keeps product movin…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/alemi-zurich/remote-senior-operations-manager-store-munchen-392328",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "764dd7cc738bb34e",
+      "title": "(Senior) Social Media & Video Editor (m/w/d)",
+      "company": "Friendventure",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurzbeschreibung Du denkst Social Media nicht nur in Posts, sondern in Formaten, Geschichten und Marken? Du kannst aus einer Strategie einen Redaktionsplan entwickeln und aus Rohmaterial Content, der Menschen wirklich erreicht ? Du hast Lust, Verantwortung für…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/friendventure/senior-social-media-video-editor-berlin-251506",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "40afc6e1464723f2",
+      "title": "(Senior) Social Media & Video Editor (m/w/d)",
+      "company": "Friendventure",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurzbeschreibung Du denkst Social Media nicht nur in Posts, sondern in Formaten, Geschichten und Marken? Du kannst aus einer Strategie einen Redaktionsplan entwickeln und aus Rohmaterial Content, der Menschen wirklich erreicht ? Du hast Lust, Verantwortung für…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/friendventure/senior-social-media-video-editor-koln-485930",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "aac6be72153261b4",
+      "title": "Data Analyst:in Fundraising (m/w/d)",
+      "company": "Albert Schweitzer Stiftung",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die Albert Schweitzer Stiftung für unsere Mitwelt sucht eine:n Data Analyst:in Fundraising (m/w/d) zum nächstmöglichen Termin in Berlin (hoher Homeoffice-Anteil möglich) mit 35 Wochenstunden (Vollzeit) in Festanstellung. Unsere Vision ist eine Welt, in der kei…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/albert-schweitzer-stiftung/data-analystin-fundraising-berlin-243536",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7ed4bc4536b4acc9",
+      "title": "Werkstudent im Projekt- und Accountmanagement (m/w/d) im Facility Management",
+      "company": "Es Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Essen",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Präzise Datenpflege: Als versierter Datenjongleur (m/w/d) sorgst du für die akkurate Erfassung und Verwaltung von Kundendaten in unserem hochmodernen System. Angebots- und Rechnungswesen: Deine Fähigkeiten in der Angebots- und Rechnungserstellun…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/es-group/werkstudent-im-projekt-und-accountmanagement-im-facility-management-essen-243647",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ef03d5afbc7e9d5d",
+      "title": "Senior Berater*in und Programm-Manager*in Kooperationen & Collective Impact (m/w/d)",
+      "company": "Phineo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Dein neuer Job Unsere Vision ist eine offene, nachhaltige und friedliche Gesellschaft, in der Gutes tun mit Wirkung das gemeinsame Handeln leitet. Um dazu unseren Beitrag zu leisten, haben wir PHINEO als gemeinnützige Plattform für strategisches gesellschaftli…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/phineo/senior-beraterin-und-programm-managerin-kooperationen-collective-impact-berlin-209911",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c47f122a2c94e8ef",
+      "title": "Working Student – Content and Data Management (all genders)",
+      "company": "Ctrl Qs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Description We are looking for a Berlin-based detail-oriented Working Student (all genders) to support our Content Operations team in maintaining and managing digital product content. In this role, you will help ensure that digital assets and product data are …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ctrl-qs/working-student-content-and-data-management-all-genders-berlin-125602",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7a7d4d6c47c5bea6",
+      "title": "Steuerfachangestellter oder Fachinformatiker (m/w/d) Schwerpunkt Kanzleiorganisation & DATEV",
+      "company": "Ba Tax Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Das erwartet dich Zahlen sind Deine Sprache, DATEV Dein Zuhause und Prozesse dürfen bei Dir gerne auch mal neu gedacht werden? Dann suchen wir genau Dich. Bei ba tax denken wir Kanzleiarbeit anders: digital, unkompliziert und im Team auf Augenhöhe. Als B Corp-…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ba-tax-gmbh/steuerfachangestellter-oder-fachinformatiker-schwerpunkt-kanzleiorganisation-datev-hamburg-298921",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "62dfc6059589b99c",
+      "title": "Senior Project Management Officer (m/w/d)",
+      "company": "Promos Consult Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sports",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission der eigenverantwortlichen Entlastung der Projektleitenden und des Project Office (PMO) im Tagesgeschäft, der Vorbereitung, Koordinierung, Moderation und eigenständigen Durchführung von Arbeits-, Status- und Kundenterminen sowie dem verbindlichen N…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/promos-consult-gmbh/senior-project-management-officer-berlin-183907",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9a1c2adcac638fe9",
+      "title": "Software Engineer Intern (London, United Kingdom) (Summer 2027)",
+      "company": "figma",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/figma/software-engineer-intern-london-united-kingdom-summer-2027-65172",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f86e0a04628a3fc3",
+      "title": "Senior Data Scientist",
+      "company": "capco",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Healthcare",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Senior Data Scientist Location: London (Hybrid) | Practice Area: Data & Analytics | Type: Permanent Shape intelligent solutions. Lead with insight. Drive data innovation. The Role We are looking for a Senior Data Scientist to join Capco’s growing UK Data Pract…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-data-scientist-456207",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2eaf174d74897fe4",
+      "title": "Senior Data Engineer - AWS",
+      "company": "capco",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Healthcare",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Senior Data Engineer – AWS Location: London (Hybrid) | Practice Area: Technology & Engineering | Type: Permanent Engineer future-ready data platforms that power financial transformation. The Role We’re looking for a Senior Data Engineer with AWS to join our gr…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-data-engineer-aws-263834",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "aa0b419f27e2bbc1",
+      "title": "Senior Backend Engineer - Java",
+      "company": "capco",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Healthcare",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Senior Backend Engineer – Java Location: London (Hybrid) | Practice Area: Technology & Engineering | Type: Permanent Power the platforms behind modern finance. Shape cloud-native solutions with Java at their core. The Role We’re seeking a Senior Backend Engine…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-backend-engineer-java-305351",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9b25f1d0c96972e5",
+      "title": "Senior Backend Engineer - Java",
+      "company": "capco",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Healthcare",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Senior Backend Engineer – Java Location: Glasgow (Hybrid) | Practice Area : Technology & Engineering | Type: Permanent Power the platforms behind modern finance. Shape cloud-native solutions with Java at their core. The Role We’re seeking a Senior Backend Engi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-backend-engineer-java-160869",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4f3cb5ea645d091a",
+      "title": "Senior Backend Engineer - Java",
+      "company": "capco",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Healthcare",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Senior Backend Engineer – Java Location: Edinburgh (Hybrid) | Practice Area : Technology & Engineering | Type: Permanent Power the platforms behind modern finance. Shape cloud-native solutions with Java at their core. The Role We’re seeking a Senior Backend En…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-backend-engineer-java-292829",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "febcb12b69505b5f",
+      "title": "Sr. Key Account Executive (Bi-lingual) German, or Italian or Spanish Speakers",
+      "company": "tripadvisor",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world’s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich conten…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/sr-key-account-executive-bi-lingual-german-or-italian-or-spanish-speakers-82060",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b6350129f9dc9893",
+      "title": "Data Analyst",
+      "company": "Avepoint",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job Summary: AvePoint is seeking a highly analytical Data Analyst to support and scale our global partner business. In this role, you will analyze data across our partner ecosystem—including sales performance, customer usage, licensing, and marketing—to provid…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/avepoint/data-analyst-london-12891",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1242f72d8e13390d",
+      "title": "Corporate Account Executive",
+      "company": "Avepoint",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Overview Are you ready to progress your sales career in the fast-growing tech industry? This position is your opportunity to become a high-earning sales executive in a rapidly growing industry. You provide the consultative sales mentality, and we’ll provide yo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/avepoint/corporate-account-executive-london-394386",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4fcfca49e3b42933",
+      "title": "Account Executive",
+      "company": "Avepoint",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Sydney",
+        "region": null,
+        "country": "Australia",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Account Executive is responsible for the creation, qualification, pitching and closing all new revenue from organisations between 300-2000 employees. The Account Executive is responsible for building positive relationships and ensuring the adoption of our …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/avepoint/account-executive-sydney-australia-219977",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0541a3059ff075e3",
+      "title": "Software Engineer (Intern)",
+      "company": "Fanvue.com",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hybrid (London)",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🎯 The Role We're hiring a Software Engineering Intern! This is a short term placement for students or recent graduates who demonstrate outstanding intelligence, motivation, and work ethic. The kind of person who raises the bar just by being in the room, even t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/fanvuecom/software-engineer-intern-london-90769",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1b390793e6cff00c",
+      "title": "Senior Project Finance Officer",
+      "company": "JERA Nex bp",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join us as we work to unlock the value of offshore wind! JERA Nex bp is a new joint venture between JERA, Japan’s largest power generation company, and bp, one of the world’s leading energy companies. Established to unlock the potential of offshore wind across…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/jera-nex-bp/senior-project-finance-officer-london-234066",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4d0cbce315036b48",
+      "title": "Senior Client Partner - BFS",
+      "company": "Brillio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Brillio: Brillio is one of the fastest growing digital technology service providers and a partner of choice for many Fortune 1000 companies seeking to turn disruption into a competitive advantage through innovative digital adoption. Brillio, renowned for…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/brillio/senior-client-partner-bfs-london-england-united-kingdom-85846",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "47fde6dd26904a2a",
+      "title": "R&D Manager - Software -914",
+      "company": "Quantinuum",
+      "employmentType": "Internship",
+      "location": {
+        "city": "UK Cambridge",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We are seeking an R&D Manager - Software to lead the team developing Quantinuum's programming-language and compiler tools, including Guppy, HUGR and TKET. These tools form a core part of our quantum software stack, enabling developers and internal teams to tra…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/quantinuum/rd-manager-software-914-uk-cambridge-133189",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "977cf3a41e18c309",
+      "title": "AI Product Engineer",
+      "company": "Magentic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Procurement",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Role We're looking for an AI Engineer to build the agentic core of our product. You'll work closely with our CTO and own LLM-based features and agentic workflows end to end, from the agent framework through to the tooling that connects it to a customer's E…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/magentic/ai-product-engineer-london-105802",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cd1da3f5ba60a33f",
+      "title": "STAGE Fullstack - Refonte d'un moteur de recherche à forte volumétrie (H/F)",
+      "company": "WINAMAX",
+      "employmentType": "Internship",
+      "location": {
+        "city": "France",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Basés en plein cœur de Paris, nous faisons bouger l’industrie des jeux en ligne. Leader du poker et des paris sportifs en France avec 350 000 joueurs et 600 000 parieurs mensuels, nous sommes présents en Espagne, en Allemagne et bientôt en Italie et au Portuga…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-refonte-dun-moteur-de-recherche-a-forte-volumetrie-h-f-france-142764",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "717dcb14bbce7ae6",
+      "title": "Talent Acquisition Manager GTM",
+      "company": "Pigment",
+      "employmentType": "Internship",
+      "location": {
+        "city": "France",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join Pigment: The AI Platform Redefining Business Planning Pigment is the AI-powered business planning and performance management platform built for agility and scale. We connect people, data, and processes in one intuitive, feature-rich solution, empowering e…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/pigment/talent-acquisition-manager-gtm-france-207476",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3daa64302bd3353b",
+      "title": "Strategic Account Executive",
+      "company": "Pigment",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join Pigment: The AI Platform Redefining Business Planning Pigment is the AI-powered business planning and performance management platform built for agility and scale. We connect people, data, and processes in one intuitive, feature-rich solution, empowering e…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/pigment/strategic-account-executive-paris-20563",
+      "source": "Arbeitnow"
+    },
     {
       "id": "2725098dc2f0c2c8",
       "title": "Werkstudent (m/w/d) Projektmanagement – Glasfaserausbau",
