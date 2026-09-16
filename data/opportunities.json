@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-16T00:22:30.022125+00:00",
+    "lastUpdated": "2026-09-16T06:03:40.907634+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,1059 @@
     ]
   },
   "jobs": [
+    {
+      "id": "51de0e5c7ed4379f",
+      "title": "Senior Site Reliability Engineer (x/f/m)",
+      "company": "Doctolib",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Berlin",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your Impact We are looking for a Senior Site Reliability Engineer to join our SRE team dedicated to platform reliability within Platform Engineering. Your mission will be to ensure Doctolib's platform remains reliable, scalable, and resilient at a European sca…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/doctolib/senior-site-reliability-engineer-berlin-berlin-390317",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8f34f8068d95e768",
+      "title": "Senior Site Reliability Engineer — Token Factory (Inference Platform)",
+      "company": "Nebius",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/nebius/senior-site-reliability-engineer-token-factory-inference-platform-berlin-111910",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c99549f37ae8e30d",
+      "title": "Senior ML Engineer (Token Factory)",
+      "company": "Nebius",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/nebius/senior-ml-engineer-token-factory-berlin-253386",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3eef981d6b7fb376",
+      "title": "Senior ML Engineer (Token Factory)",
+      "company": "Nebius",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/nebius/senior-ml-engineer-token-factory-4541",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4541841149bdf86e",
+      "title": "Key Customers Solutions Architect EMEA",
+      "company": "Nebius",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/nebius/key-customers-solutions-architect-emea-134837",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dfa630ab9cca40f7",
+      "title": "Senior Customer Success Consultant",
+      "company": "Avomind",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our client is a European HR software company that is expanding rapidly in Germany, 𝐚𝐧𝐝 they 𝐰𝐚𝐧𝐭 𝐲𝐨𝐮 𝐭𝐨 𝐠𝐫𝐨𝐰 𝐰𝐢𝐭𝐡 them. Their mission is simple: they design intuitive solutions that automate HR and administrative processes, giving thousands of companies across…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/avomind/senior-customer-success-consultant-munich-132953",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f99dec7c6bfcd8a8",
+      "title": "Junior Fullstack Engineer",
+      "company": "Haiilo 1",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Haiilo, we're building the digital workplace that connects employees with the information that matters to them — reliably, efficiently, every day. With Haiilo employees find their flow at work. As our Junior Fullstack Engineer, you'll help accelerate featur…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/haiilo-1/junior-fullstack-engineer-hamburg-410395",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f1665f421d7365aa",
+      "title": "Working Student Application Software Engineer",
+      "company": "Isarsoft",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We are Isarsoft We make every camera count At ​Isarsoft ​we develop video analytics software ​to make transportation and cities more efficient, inclusive and secure. ​We stand for data protection and responsible processing of sensitive data. Being ​on the fore…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/isarsoft/working-student-application-software-engineer-munich-61928",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c3b28b48229192d4",
+      "title": "Firmware Validation Engineer (m/f/d) | Embedded Systems Testing & Quality Assurance",
+      "company": "Swissbit",
+      "employmentType": "Internship",
+      "location": {
+        "city": "DE-Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A Swissbit more you. Swissbit ist der führende europäische Hersteller von Speicher- und Security-Lösungen für Industrie- und IoT-Anwendungen. Wir machen die digitale Welt sicherer, indem wir Daten zuverlässig speichern und schützen. Für unsere spannenden Proje…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/swissbit/firmware-validation-engineer-embedded-systems-testing-quality-assurance-de-berlin-286487",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b2f9065c4b231d22",
+      "title": "Working Student Marketing & Communications (m/f/x) - immediately",
+      "company": "Rail-Flow GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Frankfurt am Main - HQ (House of Logistics & Mobility (HOLM)",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission As a working student in Marketing & Communications , you'll be part of our marketing team and help shape how Rail-Flow shows up in the market – on LinkedIn, at fairs and events, in our newsletter, and in the way we talk about our products. In a sm…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/rail-flow-gmbh/working-student-marketing-communications-immediately-frankfurt-am-main-hq-house-of-logistics-mobility-holm-77805",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "66fa84ba12e8b675",
+      "title": "Robotics Software Engineer Intern – Swarm Systems (m/f/d)",
+      "company": "autonomous-teaming",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich (DEU)",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What we offer Work in an international, agile team building autonomous robotic systems Contribute to software that is tested on real robotic platforms and in the field Gain hands-on experience with state-of-the-art technologies in robotics , autonomy , and mul…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/robotics-software-engineer-intern-swarm-systems-munich-deu-59619",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6ffe5ede7fe67935",
+      "title": "Werkstudent (m/w/d) Construction Wind",
+      "company": "Cube Green Energy Topco Ltd",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission Begleitung der Projektbesprechungen und Abstimmungen mit Projektbeteiligten Unterstützung bei Angebotseinholung und Erstellen von Vergabeunterlagen Dokumentenmanagement und Tracking von Rechnungen Baustellentermine begleiten Kabeltrassenarbeiten ü…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cube-green-energy-topco-ltd/werkstudent-construction-wind-hamburg-office-167008",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1589df9d56ed204e",
+      "title": "Senior Accountant / Bilanzbuchhalter (m/w/d)",
+      "company": "Cube Green Energy Topco Ltd",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission Als Senior Accountant / Bilanzbuchhalter wirst Du Teil unseres zentralen Accounting-Teams. Du übernimmst die fachliche Führung der AP/AR-Accou ntants und arbeitest eng mit Controlling, Treasury, Steuerberatern und Wirtschaftsprüfern zusammen. Darü…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cube-green-energy-topco-ltd/senior-accountant-bilanzbuchhalter-berlin-office-488120",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2d61ec854a255076",
+      "title": "Applikations- und Softwarebetreuer*in (m/w/d) – Lovion BIS",
+      "company": "Its Gruppe",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Dortmund",
+        "region": null,
+        "country": "Karlsruhe",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bei uns steht der Mensch im Mittelpunkt. Wir glauben fest daran, dass Vielfalt die Grundlage für Innovation und Erfolg ist. Deshalb fördern wir ein offenes, respektvolles Arbeitsumfeld, in dem sich jede Person unabhängig von Herkunft, Geschlecht, Alter, sexuel…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/its-gruppe/applikations-und-softwarebetreuerin-lovion-bis-dortmund-darmstadt-dresden-hamburg-karlsruhe-249038",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c547a28b871e4c4e",
+      "title": "Embedded Software & Systems Consultant (all genders)",
+      "company": "Invensity Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Wiesbaden (WIE)",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Welcome Are you passionate about embedded software, industrial communication, and intelligent drive systems? Then join INVENSITY. Together with our customers, we develop innovative solutions for the next generation of industrial control and drive technologies …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/invensity-group/embedded-software-systems-consultant-all-genders-wiesbaden-wie-470428",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "db3054db4f4da6a6",
+      "title": "Data Architecture Consultant (m/w/d)",
+      "company": "Invensity Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Wiesbaden (Hybrid)",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Welcome Du möchtest komplexe Datenlandschaften gestalten und Unternehmen beim Aufbau zukunftsfähiger Datenarchitekturen unterstützen? Dann bist du bei INVENSITY genau richtig. Als internationale Technologie- und Innovationsberatung begleiten wir unsere Kunden …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/invensity-group/data-architecture-consultant-wiesbaden-hybrid-221115",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8d0b844fa92ead2a",
+      "title": "HubSpot CRM Consultant - Sales, Marketing & Service Hub (m/w/d)",
+      "company": "itelligy - digital experts GmbH & Co. KG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Freiburg im Breisgau",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "itelligy - digital experts ist eine dynamische IT-Beratung, die sich auf CRM-, ERP- und digitale Geschäftsprozesslösungen spezialisiert hat. Wir arbeiten mit führenden Plattformen wie HubSpot und Microsoft Dynamics 365 und integrieren diese nahtlos in die IT-I…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/itelligy-digital-experts-gmbh-co-kg/hubspot-crm-consultant-sales-marketing-service-hub-freiburg-im-breisgau-411974",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7130e0c415f66a31",
+      "title": "Werkstudent Growth Associate (m/w/d)",
+      "company": "Eneto GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bei Eneto machen wir moderne Klimaanlagen- und Heizlösungen schnell, einfach und bezahlbar zugänglich. Mit hochwertigen Markenprodukten, klaren Prozessen und transparenten Festpreisen kommen Kunden ohne Aufwand zur optimalen Lösung. Über 70.000 Kundenerfahrung…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/eneto-gmbh/werkstudent-growth-associate-berlin-132806",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ccf8976d56a837f3",
+      "title": "Applied AI Engineer, Government, International",
+      "company": "Openai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "UK",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Humanitarian / NGO",
+        "Policy / Government",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the Team The mission of the Applied AI Engineering team is to enable the secure and impactful implementation of Agentic solutions. In this international Government role, you will deliver clearly scoped AI use cases with public-sector customers, from a mi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/openai/applied-ai-engineer-government-international-london-454226",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "00db2c76461ff815",
+      "title": "Forward Deployed Engineer, Integrations - EU/UK",
+      "company": "Sardine",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are: Sardine is the leading agentic risk platform for fighting financial crime. Our integrated solution unifies data across risk teams to help organizations stop fraud in real time, prevent AI-driven attacks, and automate fraud and AML operations. Sardi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/sardine/forward-deployed-engineer-integrations-eu-uk-united-kingdom-356993",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "575a4be4dbc0bd87",
+      "title": "Senior Account Manager, SME & Growth",
+      "company": "Airwallex",
+      "employmentType": "Internship",
+      "location": {
+        "city": "UK - London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Airwallex Airwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 250,000 businesses worldwide – including Brex, Navan, Qantas, SHE…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/airwallex/senior-account-manager-sme-growth-london-131107",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8d321ec61938865a",
+      "title": "Senior Electrical Characterisation Engineer",
+      "company": "Quantum Motion Technologies - Personio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "UK",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About The Role and Team Quantum Motion is a fast-growing quantum computing scale-up based in London founded by internationally renowned researchers from UCL and Oxford University with over 40 years’ experience in developing qubits and quantum computing archite…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/quantum-motion-technologies-personio/senior-electrical-characterisation-engineer-london-uk-293765",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8ac792d9a81bd167",
+      "title": "Senior PCB Designer II",
+      "company": "CesiumAstro",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Cambridge",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At CesiumAstro , we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne platforms. We take pride in our dynamic and cross-functional work environment, which allows us to learn,…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cesiumastro/senior-pcb-designer-ii-cambridge-united-kingdom-5527",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1c4590febc662b5f",
+      "title": "Senior DSP/FPGA Engineer I",
+      "company": "CesiumAstro",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Milton Keynes",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At CesiumAstro , we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne platforms. We take pride in our dynamic and cross-functional work environment, which allows us to learn,…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cesiumastro/senior-dsp-fpga-engineer-i-milton-keynes-united-kingdom-140619",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "525a9ae8fd19e607",
+      "title": "Communications Test Engineer I",
+      "company": "CesiumAstro",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Milton Keynes",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At CesiumAstro , we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne platforms. We take pride in our dynamic and cross-functional work environment, which allows us to learn,…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cesiumastro/communications-test-engineer-i-milton-keynes-united-kingdom-386426",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4d5af3feddef1a8a",
+      "title": "Graduate / Junior Data Scientist",
+      "company": "Thgingenuity",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Manchester",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About THG Ingenuity THG Ingenuity is a fully integrated digital commerce ecosystem, designed to power brands without limits. Our global end-to-end tech platform is comprised of three products: THG Commerce, THG Studios, THG Fulfilment. Each represents a single…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/graduate-junior-data-scientist-manchester-82623",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f9caf1fbddd9e552",
+      "title": "Senior Customer Success Manager",
+      "company": "Globalwebindex",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Senior Customer Success Manager (Enterprise) Location: London | Department: Revenue| Employment type: Full Time We’re looking for a Senior Customer Success Manager to join us here at GWI. Not just any Senior Customer Success Manager though. Someone ambitious a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/globalwebindex/senior-customer-success-manager-london-63624",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "36f42b6a69e273fd",
+      "title": "Senior Software Engineer (Kotlin)",
+      "company": "Jamf",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Jamf, we believe in an open, flexible culture based on respect and trust. Our track record and thriving work environment all stem from the freedom we grant ourselves to get the job done right. We take pride in helping tens of thousands of customers around t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/jamf/senior-software-engineer-kotlin-london-139807",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7fbd0f4089551e55",
+      "title": "Senior Data Scientist",
+      "company": "Carwow",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "OUR MISSION To become the car-changing destination of choice. By combining technology, media and deep automotive expertise, we've turned how people buy, sell, advertise and lease cars on its head. What started as a simple reviews site is now one of the largest…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/carwow/senior-data-scientist-london-410153",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2a2beb0f44fb4151",
+      "title": "Account Executive - Financial Services",
+      "company": "TransPerfect",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "TransPerfect is the world's leading provider of language services and technology solutions. With over 100 offices worldwide, we partner with global industry leaders, including Fortune 500 companies, to deliver translation, localization, and business solutions …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/account-executive-financial-services-london-240171",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f179512027d9ee42",
+      "title": "Product Engineer",
+      "company": "Relex",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Lille; Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are We're bold thinkers and kind teammates, growing fast but staying grounded. Our Nordic roots and global outlook shape a culture of friendliness, creativity, and collaboration, all powered by openness and shared wins. We care deeply about doing the ri…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/relex/product-engineer-lille-paris-402484",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4a97ffca7ba4a49e",
+      "title": "AI Engineer Intern, GenAI Internal Automation (GAIA)",
+      "company": "Equativ",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the team At Equativ, we're on a mission to develop advertising technologies that empower our customers to reach their digital business goals. The impact of Generative AI on the industry is projected to be major, and Equativ has been undergoing a signific…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/equativ/ai-engineer-intern-genai-internal-automation-gaia-paris-63381",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f2d79e85f75c1343",
+      "title": "Senior Consultant SEO/GEO (H/F) - CDI - PARIS",
+      "company": "Artefactlinkedin",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Qui sommes-nous? Artefact est une société de conseil et d'ingénierie française spécialisée en data et IA, et leader en Europe, qui depuis plus de 10 ans est spécialisée dans la conception et le déploiement de technologies d’intelligence artificielle et de solu…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/senior-consultant-seo-geo-h-f-cdi-paris-9th-arrondissement-of-paris-75009-paris-266936",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "384513fcc0b7a51d",
+      "title": "Manager Architect Cloud - Paris",
+      "company": "Artefactlinkedin",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Qui sommes-nous ? Artefact est une société de conseil et d'ingénierie française spécialisée en data et IA, et leader en Europe, qui depuis 10 ans est spécialisée dans la conception et le déploiement de technologies d’intelligence artificielle et de solutions d…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/manager-architect-cloud-paris-9th-arrondissement-of-paris-75009-paris-303488",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "243f5d1f0dd5ecb1",
+      "title": "Data Center IT Technician",
+      "company": "Nebius",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Béthune",
+        "region": null,
+        "country": "Pas-de-Calais",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": "hardware problem management, execute workarounds and solutions Solve proactively L1/L2 tasks through"
+      },
+      "summary": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/nebius/data-center-it-technician-bethune-pas-de-calais-7119",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "91e7a2e1a703116e",
+      "title": "Datacenter Facilities Manager",
+      "company": "Nebius",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/nebius/datacenter-facilities-manager-101519",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cf0533742e5ac08f",
+      "title": "Senior Consultant SEO/GEO (H/F) - CDI - PARIS",
+      "company": "Artefact",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Qui sommes-nous? Artefact est une société de conseil et d'ingénierie française spécialisée en data et IA, et leader en Europe, qui depuis plus de 10 ans est spécialisée dans la conception et le déploiement de technologies d’intelligence artificielle et de solu…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefact/senior-consultant-seo-geo-h-f-cdi-paris-9th-arrondissement-of-paris-75009-paris-70191",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3d5305abfb741807",
+      "title": "Manager Cloud Architect - Paris",
+      "company": "Artefact",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Qui sommes-nous ? Artefact est une société de conseil et d'ingénierie française spécialisée en data et IA, et leader en Europe, qui depuis 10 ans est spécialisée dans la conception et le déploiement de technologies d’intelligence artificielle et de solutions d…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefact/manager-cloud-architect-paris-9th-arrondissement-of-paris-75009-paris-224000",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0460eb8c9162fd3f",
+      "title": "Enterprise Account Executive - France",
+      "company": "Coreview",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About CoreView CoreView is the global leader in Microsoft 365 (M365) tenant resilience, serving over 23 million users worldwide. We empower the world’s leading organizations to master the complexity of Microsoft M365. Through robust security and precise govern…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/coreview/enterprise-account-executive-france-131546",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ee334a06c90593da",
+      "title": "Senior Creative Strategist (all genders)",
+      "company": "WeCreate Germany",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hybrid",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency für das Interest-Media…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/wecreate-germany/senior-creative-strategist-all-genders-hybrid-355142",
+      "source": "Arbeitnow"
+    },
     {
       "id": "046d9bb1e98b95e6",
       "title": "Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)",
@@ -5673,12 +6726,12 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "5730fdc63a33e240",
-      "title": "Stellvertreter Leitung Qualität (Aerospace / Defense) (a) | Region: Deutschland, Grossraum Stuttgart",
+      "id": "21ca9254412232ca",
+      "title": "Deputy Lead Quality (Aerospace / Defense) (a) | Region: Stuttgart, Germany",
       "company": "CONCAPE",
       "employmentType": "Internship",
       "location": {
-        "city": "Augsburg",
+        "city": "Munich",
         "region": null,
         "country": null,
         "workMode": "On-site"
@@ -7280,6 +8333,1194 @@
       },
       "summary": "🌀 The Company Filigran, founded in October 2022, stands out in the cybertech ecosystem for its commitment to revolutionizing cyber threat management with a proactive approach. Its mission is to develop innovative open-source solutions designed to anticipate cy…",
       "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/filigran/dpo-compliance-officer-france-312938",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1d0b281750b75a9f",
+      "title": "Senior Global HR Business Partner (m/f/d)",
+      "company": "SGB-SMIT Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Regensburg",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Transform with us the future of energy ⚡ The SGB‑SMIT Group is an international transformer manufacturer with locations in Europe, Asia and the United States . With reliable transformer technology, the company actively supports the global energy transition in …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sgb-smit-group/senior-global-hr-business-partner-regensburg-212494",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6ecb65c49a78d3af",
+      "title": "Tech Advisory Senior Consultant (m/w/d)",
+      "company": "Trusteq Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "YOUR TASKS As a Senior Consultant (m/f/d) in the Tech Advisory area, you will take on a key role in complex transformation projects. You will support our clients in the digital and organizational evolution of their business models and processes - from strategy…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/tech-advisory-senior-consultant-munchen-445290",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ad6096261a90eb82",
+      "title": "HR Management Intern / Working Student (m/w/d)",
+      "company": "Trusteq Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "YOUR TASKS You support our HR team in day-to-day operations across the entire employee lifecycle - from onboarding and contract changes to offboarding. Together wit the team, you will work on further develop and digitize our HR processes and digital personnel …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/hr-management-intern-working-student-munchen-322412",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "852f04efb7b98a37",
+      "title": "Digital Ecosystem Working Student (m/w/d)",
+      "company": "Trusteq Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "YOUR TASKS You support our project teams in consulting engagements focused on holistic digital ecosystems for the deployment of artificial intelligence (AI) and technologies You develop concepts, feasibility studies, and, where applicable, prototypes in close …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/digital-ecosystem-working-student-munchen-126494",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7ed391aeb8fdea91",
+      "title": "Data Platform Engineer Working Student (m/w/d)",
+      "company": "Trusteq Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "YOUR TASKS You support the design and development of Databricks-native data platforms and lakehouse architectures for internal projects and client engagements. You contribute to implementing medallion architectures (Bronze, Silver, and Gold), including Auto Lo…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-195978",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7038ca087d656cc6",
+      "title": "Cybersecurity Manager (m/w/d)",
+      "company": "Trusteq Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "YOUR TASKS You assume overall responsibility for projects, key topics, and the company’s development within the field of cybersecurity You take on leadership and strategic responsibilities in the consulting, design, and implementation of cybersecurity solution…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-manager-munchen-381163",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "52cfe394170f757f",
+      "title": "Cybersecurity Management Consultant(m/w/d)",
+      "company": "Trusteq Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "YOUR TASKS CRA, DORA, NIS2, ISO 27001, the EU AI Act – our clients face a wide range of regulatory requirements. For most companies, however, the path from regulatory requirements on paper to effective implementation in practice is far from clear. For our Muni…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-management-consultant-munchen-105834",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c5a9464540bf01f9",
+      "title": "Cybersecurity (Senior) Software Engineer (m/w/d)",
+      "company": "Trusteq Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "YOUR TASKS You develop secure software and infrastructure solutions and integrate security-by-design principles into the development and deployment process from the very beginning. You support our clients in the design, development, and protection of modern ap…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-senior-software-engineer-munchen-368531",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6c3e1af78f02d37e",
+      "title": "Cloud (Senior) Engineer / Architect (m/ w/ d)",
+      "company": "Trusteq Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "YOUR TASKS You analyze and design solutions for our customers with regard to modern cloud architectures You design and operate tailored solutions both in the cloud and in hybrid environments, and contribute your expertise and ideas to continuous development an…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cloud-senior-engineer-architect-m-w-d-koln-492012",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8d946b0e27ff3bf3",
+      "title": "AI Strategy (Senior) Consultant (m/w/d)",
+      "company": "Trusteq Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "YOUR TASKS You analyze business processes and identify optimization potential through the application of AI Additionally at Senior Level: You lead complex AI projects from ideation through to implementation. You advise business units and develop tailored AI st…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-strategy-senior-consultant-munchen-13052",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e98c4eba4ed92747",
+      "title": "AI Security (Senior) Consultant (m/w/d)",
+      "company": "Trusteq Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "YOUR TASKS You analyze business processes, organizational structures, or technical systems and identify optimization potential through the use of AI. Additionally at Senior Level: You advise clients on the secure introduction and use of AI solutions and suppor…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-security-senior-consultant-munchen-225303",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cfc538b2e7021a4d",
+      "title": "AI Governance (Senior) Consultant (m/w/d)",
+      "company": "Trusteq Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": "continuously improve governance structures"
+      },
+      "summary": "YOUR TASKS You analyze existing governance models and identify optimization potential in the context of AI. Additionally at Senior Level: You lead complex governance projects, assume strategic responsibility for the implementation of modern AI governance frame…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-governance-senior-consultant-munchen-444025",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b4419e359994590b",
+      "title": "AI (Senior)Consultant (m/w/d)",
+      "company": "Trusteq Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "YOUR TASKS You analyze customer requirements and develop suitable AI solutions. Additionally at Senior Level: You lead technically complex AI projects and design innovative architectures. You implement and integrate AI systems into existing IT landscapes. Addi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-seniorconsultant-munchen-285773",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3f92667b7aa397a2",
+      "title": "AI (Senior) Developer (m/w/d)",
+      "company": "Trusteq Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "YOUR TASKS You integrate generative AI technologies into existing application software Additionally at senior level: You take ownership and technical responsibility from initial concept through to successful delivery You analyze complex datasets for specific A…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-senior-developer-munchen-128938",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b825a3da80443a28",
+      "title": "Full-Stack Engineer",
+      "company": "Renewa",
+      "employmentType": "Internship",
+      "location": {
+        "city": "RENEWA - Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Rolle Wir bauen Renewa One – das zentrale System, mit dem wir die Sanierung von Gebäuden managen. Wir entwickeln radikal anders als die meisten: KI-first mit Claude Code. Der Code entsteht schnell und in großer Menge – die eigentliche Kunst liegt nicht m…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/renewa/full-stack-engineer-renewa-hamburg-450130",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "568be77fc4e26383",
+      "title": "Praktikant*in für das Büro der Bundesvorsitzenden Franziska Brantner",
+      "company": "Buendnis 90Die Gruenen",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Einleitung Der Bundesvorstand von BÜNDNIS 90/DIE GRÜNEN sucht für den Zeitraum vom 01.01.2027 bis zum 31.03.2027 einen Praktikant*in zur Unterstützung der Bundesvorsitzenden Franziska Brantner . Das Praktikum umfasst zu gleichen Teilen die Unterstützung bei de…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/buendnis-90die-gruenen/praktikantin-fur-das-buro-der-bundesvorsitzenden-franziska-brantner-berlin-420615",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9953db39aeec5738",
+      "title": "Werkstudent – Kommunikationsdesign (m/w/d)",
+      "company": "Ottonova",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "DEIN TEAM Bei ottonova gestalten wir die Krankenversicherung von morgen - digital, einfach und mit einem klaren Anspruch an Design und Customer Experience. Dabei sind UX und Kommunikationsdesign zentrale Bestandteile unserer Identität: Sie helfen uns, komplexe…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ottonova/werkstudent-kommunikationsdesign-munchen-398036",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a5b2bb08d8e846bb",
+      "title": "Working Student (f/m/d) Business Development & Operations",
+      "company": "UnternehmerTUM gGmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Garching & München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns TUM Venture Labs is a joint venture initiative of UnternehmerTUM an TUM. We combine a network of domain specific incubators acting as springboard for Entrepreneurship in deep tech and life sciences. Our mission is to help start-ups with strategic advi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/unternehmertum-ggmbh/working-student-business-development-operations-garching-munchen-492640",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e308c7e59b8f6a39",
+      "title": "UVC Partners: Data & AI - Master Thesis / Internship (f/m/x)",
+      "company": "UnternehmerTUM gGmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München Kreativquartier",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About us UVC Partners is one of Europe’s leading early-stage venture capital firms. With our fourth fund generation of €250 million, we invest in disruptive B2B startups at the seed and Series A stage across Europe. Our focus areas include enterprise software,…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/unternehmertum-ggmbh/uvc-partners-data-ai-master-thesis-internship-munchen-kreativquartier-1671",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8529b735507fda28",
+      "title": "Working Student Category Management (m/f/d)",
+      "company": "Westwing Group SE",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich Office",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "JOIN OUR TEAM As a Working Student Category Management you will be supporting the Category Management team in handling the Westwing shop portfolio through new product selection and maintenance of the existing offering to secure business and meet sales targets.…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/westwing-group-se/working-student-category-management-munich-office-61647",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4b46ec4fc2d72622",
+      "title": "Senior Tax Manager (Konzernsteuerreferent*in) (m/w/d)",
+      "company": "Westwing Group SE",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich Office",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "JOIN OUR TEAM Als Senior Tax Manager unterstützt du unser Finance-Team bei der Betreuung aller steuerlichen Themen der Westwing Group. Du verantwortest dabei die Erstellung des Konzernsteuer-Reportings nach HGB und IFRS, betreust die Ertragsteuererklärungen de…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/westwing-group-se/senior-tax-manager-konzernsteuerreferentin-munich-office-144795",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "032d432dedc5a46f",
+      "title": "(Senior) International B2B Account Manager (m/f/d)",
+      "company": "Westwing Group SE",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich Office",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "JOIN OUR TEAM As a (Senior) International B2B Account Manager , you will be responsible for developing our B2B sales strategy and driving growth in international markets. Your primary focus will be to acquire new clients through targeted sales initiatives. You…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/westwing-group-se/senior-international-b2b-account-manager-munich-office-482482",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2f7662b8bd077633",
+      "title": "Senior Full Stack Developer (all genders)",
+      "company": "Hubject Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Deutschland: Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your challenge As a Senior Full Stack Software Engineer (all genders) , you will play a key role in building and evolving Hubject's cloud-native eMobility platform. Working across backend, frontend and cloud infrastructure, you will design, develop and operate…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/hubject-gmbh/senior-full-stack-developer-all-genders-deutschland-berlin-158340",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5fa79d98e4e9fac8",
+      "title": "Senior Brand & Celebrity Marketing Manager (m/w/d)",
+      "company": "PURELEI GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Mannheim",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Mission Als Senior Brand Creator Marketing Manager (m/w/d) verantwortest du, wie PURELEI durch Creator- und Brand-Partnerschaften auf internationaler Ebene wahrgenommen wird. Du arbeitest nicht auf Performance-Ebene einzelner Kampagnen, sondern auf der s…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/purelei-gmbh/senior-brand-celebrity-marketing-manager-mannheim-358376",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4c21dcfc507a2195",
+      "title": "(Junior) Data Scientist",
+      "company": "Quantilope Gmbh",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Hybrid (Hamburg) or Remote (Germany)",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Introduction: At quantilope, we're transforming how the world's biggest brands understand their customers. As a (Junior) Data Scientist, you'll collaborate closely with Product Managers, Product Designers, and Software Engineers to build and evolve our AI-powe…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/quantilope-gmbh/remote-junior-data-scientist-14119",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1b707d0824515415",
+      "title": "Working Student (m/f/d) - Freight Forwarding",
+      "company": "Glovis Europe GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ihre Aufgaben Werde Teil unseres Freight-Forwarding-Teams in Hamburg und unterstütze uns bei unseren täglichen Logistikaktivitäten. Du sorgst dafür, dass Sendungsdaten aktuell und korrekt sind, arbeitest mit verschiedenen Systemen und Excel und unterstützt das…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/glovis-europe-gmbh/working-student-freight-forwarding-hamburg-office-125181",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c8c90a2b38b3634c",
+      "title": "Senior Accountant/ Finance Specialist (m/w/d) - remote",
+      "company": "Studysmarter",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote (Deutschland)",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Rolle Du bist unser zentraler Finance Point of Contact - die Person, bei der alle Fäden zusammenlaufen. Du verantwortest das komplette operative Finance, baust dir die Prozesse dafür selbst auf und automatisierst, was sich automatisieren lässt. Du bekomm…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/studysmarter/senior-accountant-finance-specialist-remote-288618",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3a9736f8f9fae3ff",
+      "title": "Senior Project Manager (all genders)",
+      "company": "Init Ag",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über ]init[ Du möchtest die Gesellschaft von morgen mitgestalten? Dann bist du bei ]init[ richtig. Denn unsere digitalen Lösungen sind für Menschen gemacht und haben gesellschaftliche Relevanz. Klingt spannend? Dann steig ein und arbeite gemeinsam mit über 1.4…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-project-manager-all-genders-munchen-195780",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "06dfebfffe4d061b",
+      "title": "Senior Project Manager (all genders)",
+      "company": "Init Ag",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über ]init[ Du möchtest die Gesellschaft von morgen mitgestalten? Dann bist du bei ]init[ richtig. Denn unsere digitalen Lösungen sind für Menschen gemacht und haben gesellschaftliche Relevanz. Klingt spannend? Dann steig ein und arbeite gemeinsam mit über 1.4…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-project-manager-all-genders-koln-59366",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c4926e5c19af4a0b",
+      "title": "Senior Project Manager (all genders)",
+      "company": "Init Ag",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Mainz",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über ]init[ Du möchtest die Gesellschaft von morgen mitgestalten? Dann bist du bei ]init[ richtig. Denn unsere digitalen Lösungen sind für Menschen gemacht und haben gesellschaftliche Relevanz. Klingt spannend? Dann steig ein und arbeite gemeinsam mit über 1.4…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-project-manager-all-genders-mainz-475451",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5da29324ebaa8fa2",
+      "title": "Senior Project Manager (all genders)",
+      "company": "Init Ag",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über ]init[ Du möchtest die Gesellschaft von morgen mitgestalten? Dann bist du bei ]init[ richtig. Denn unsere digitalen Lösungen sind für Menschen gemacht und haben gesellschaftliche Relevanz. Klingt spannend? Dann steig ein und arbeite gemeinsam mit über 1.4…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-project-manager-all-genders-hamburg-307791",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cdb02df6bd185ef6",
+      "title": "Senior Project Manager (all genders)",
+      "company": "Init Ag",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über ]init[ Du möchtest die Gesellschaft von morgen mitgestalten? Dann bist du bei ]init[ richtig. Denn unsere digitalen Lösungen sind für Menschen gemacht und haben gesellschaftliche Relevanz. Klingt spannend? Dann steig ein und arbeite gemeinsam mit über 1.4…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-project-manager-all-genders-berlin-352220",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b4d1dd033feacde8",
+      "title": "Consultant Public Sector (all genders)",
+      "company": "Init Ag",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über ]init[ Du möchtest die Gesellschaft von morgen mitgestalten? Dann bist du bei ]init[ richtig. Denn unsere digitalen Lösungen sind für Menschen gemacht und haben gesellschaftliche Relevanz. Klingt spannend? Dann steig ein und arbeite gemeinsam mit über 1.4…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/init-ag/consultant-public-sector-all-genders-hamburg-52417",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "063a08afa5db013c",
+      "title": "Consultant Public Sector (all genders)",
+      "company": "Init Ag",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über ]init[ Du möchtest die Gesellschaft von morgen mitgestalten? Dann bist du bei ]init[ richtig. Denn unsere digitalen Lösungen sind für Menschen gemacht und haben gesellschaftliche Relevanz. Klingt spannend? Dann steig ein und arbeite gemeinsam mit über 1.4…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/init-ag/consultant-public-sector-all-genders-berlin-298911",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c6ea31e43b8d2fe6",
+      "title": "Consultant Public Sector (all genders)",
+      "company": "Init Ag",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Mainz",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über ]init[ Du möchtest die Gesellschaft von morgen mitgestalten? Dann bist du bei ]init[ richtig. Denn unsere digitalen Lösungen sind für Menschen gemacht und haben gesellschaftliche Relevanz. Klingt spannend? Dann steig ein und arbeite gemeinsam mit über 1.4…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/init-ag/consultant-public-sector-all-genders-mainz-149110",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e3a4a49679cf612c",
+      "title": "Consultant Public Sector (all genders)",
+      "company": "Init Ag",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über ]init[ Du möchtest die Gesellschaft von morgen mitgestalten? Dann bist du bei ]init[ richtig. Denn unsere digitalen Lösungen sind für Menschen gemacht und haben gesellschaftliche Relevanz. Klingt spannend? Dann steig ein und arbeite gemeinsam mit über 1.4…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/init-ag/consultant-public-sector-all-genders-koln-496523",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "37ede9214712d824",
+      "title": "(Senior) Project Manager (all genders)",
+      "company": "Init Ag",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über ]init[ Du möchtest die Gesellschaft von morgen mitgestalten? Dann bist du bei ]init[ richtig. Denn unsere digitalen Lösungen sind für Menschen gemacht und haben gesellschaftliche Relevanz. Klingt spannend? Dann steig ein und arbeite gemeinsam mit über 1.4…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-project-manager-all-genders-munchen-194405",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "22932bd41e373643",
+      "title": "(Senior) Project Manager (all genders)",
+      "company": "Init Ag",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über ]init[ Du möchtest die Gesellschaft von morgen mitgestalten? Dann bist du bei ]init[ richtig. Denn unsere digitalen Lösungen sind für Menschen gemacht und haben gesellschaftliche Relevanz. Klingt spannend? Dann steig ein und arbeite gemeinsam mit über 1.4…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-project-manager-all-genders-koln-377797",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9ea27a725be3b7fd",
+      "title": "(Senior) Project Manager (all genders)",
+      "company": "Init Ag",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Mainz",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über ]init[ Du möchtest die Gesellschaft von morgen mitgestalten? Dann bist du bei ]init[ richtig. Denn unsere digitalen Lösungen sind für Menschen gemacht und haben gesellschaftliche Relevanz. Klingt spannend? Dann steig ein und arbeite gemeinsam mit über 1.4…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-project-manager-all-genders-mainz-320245",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "945ea2b558cd02ec",
+      "title": "(Senior) Project Manager (all genders)",
+      "company": "Init Ag",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über ]init[ Du möchtest die Gesellschaft von morgen mitgestalten? Dann bist du bei ]init[ richtig. Denn unsere digitalen Lösungen sind für Menschen gemacht und haben gesellschaftliche Relevanz. Klingt spannend? Dann steig ein und arbeite gemeinsam mit über 1.4…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-project-manager-all-genders-hamburg-463171",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b6036d6a742d6bd8",
+      "title": "(Senior) Project Manager (all genders)",
+      "company": "Init Ag",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über ]init[ Du möchtest die Gesellschaft von morgen mitgestalten? Dann bist du bei ]init[ richtig. Denn unsere digitalen Lösungen sind für Menschen gemacht und haben gesellschaftliche Relevanz. Klingt spannend? Dann steig ein und arbeite gemeinsam mit über 1.4…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-project-manager-all-genders-berlin-2393",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d96c489d60c6c73d",
+      "title": "Working Student IT Strategy & Governance (all genders)",
+      "company": "Tonies",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über tonies: tonies ist die weltweit führende interaktive Audio-Plattform für Kinder mit mehr als 10 Millionen verkauften Tonieboxen und 125 Millionen verkauften Tonies. Das intuitive und preisgekrönte Audiosystem hat mit seinem kindersicheren, kabellosen und …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tonies/working-student-it-strategy-governance-all-genders-berlin-219976",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2ca54b5c90acb693",
+      "title": "Working Student Global Licensing (DACH) (all genders)",
+      "company": "Tonies",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About tonies: tonies is the globally leading interactive audio platform for children with more than 10 million Tonieboxes and 125 million Tonies sold. The intuitive and award-winning audio system has changed the way young children play and learn independently …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tonies/working-student-global-licensing-dach-all-genders-dusseldorf-328820",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1b2125a30cf5bc64",
+      "title": "Werkstudent Event Marketing (m/w/d)",
+      "company": "Casavi",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sports",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the role We are looking for a reliable and organized person to support our marketing team in Munich. As a Working Student in Event Management, you will support the preparation, execution and follow-up of events. Your main responsibilities will be operati…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/casavi/werkstudent-event-marketing-munchen-450878",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "baa5dd3f98f6982f",
+      "title": "Data Management & AI Analyst im Gesundheitswesen (m/w/d) Data Management, 100% Remote & Digital (Weiterbildung)",
+      "company": "DataSmart Point GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Digitale Patientenakten, Telemedizin und smarte Kliniksysteme verändern den Arbeitsalltag. Datenanalyse wird zur Schlüsselkompetenz – für bessere Versorgung, effizientere Abläufe und gezielte Pflegeplanung. Mit unserer Weiterbildung zum Data Analyst im Gesundh…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/datasmart-point-gmbh/data-management-ai-analyst-im-gesundheitswesen-data-management-100-remote-digital-weiterbildung-berlin-308562",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f6d7973f2194da12",
+      "title": "Weiterbildung: Data Science & Business Analytics (IHK) (m/w/d) - Remote",
+      "company": "DataSmart Point GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "So wirst du Teil der Zukunft: Datenkompetenz leicht gemacht Wir sind die DataSmart Point Academy , ein spezialisierter Weiterbildungsträger mit Fokus auf digitale Zukunftskompetenzen . Unser Ziel: Menschen praxisnah für Data, Analytics und Künstliche Intellige…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/datasmart-point-gmbh/weiterbildung-data-science-business-analytics-ihk-remote-berlin-35085",
       "source": "Arbeitnow"
     },
     {
