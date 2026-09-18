@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-18T00:21:11.516451+00:00",
+    "lastUpdated": "2026-09-18T05:56:40.166856+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,1517 @@
     ]
   },
   "jobs": [
+    {
+      "id": "530eab4701402197",
+      "title": "Support Coordinators",
+      "company": "LILT (Production)",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the role We're looking for two Payment Support Coordinators to join our Expert Services & Operations (ES&O) team on a short-term contract basis. You'll work directly on our linguist payment queue, helping to clear a backlog of payment requests and restor…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lilt-production/remote-support-coordinators-152140",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cc4c3cefa8cf703b",
+      "title": "Produktentwickler (m/w/d) Frische",
+      "company": "Plukon Food Group Germany",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Visbek",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Zur Verstärkung unseres Teams an unserem Standort in Visbek suchen wir zum nächstmöglichen Zeitpunkt einen Produktentwickler (m/w/d) Frische Informationen über unseren Betrieb In Visbek befindet sich das Herzstück der Plukon Food Group in Deutschland. Hier sin…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/plukon-food-group-germany/produktentwickler-frische-visbek-227128",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b0e845a4cf41569f",
+      "title": "Mitarbeiter in der Qualitätssicherung/Produktkontrolleure (m/w/d)",
+      "company": "Plukon Food Group Germany",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Storkow",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Zur Verstärkung unseres Teams an unserem Standort in Storkow suchen wir zum nächstmöglichen Zeitpunkt einen Mitarbeiter in der Qualitätssicherung/Produktkontrolleure (m/w/d) Informationen über unseren Betrieb Unser Produktionsstandort in Storkow ist pulsierend…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/plukon-food-group-germany/mitarbeiter-in-der-qualitatssicherung-produktkontrolleure-storkow-349761",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1dc5c152db1eb583",
+      "title": "Teamleiter für die Verladung (m/w/d)",
+      "company": "Plukon Food Group Germany",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Brenz",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Zur Verstärkung unseres Teams an unserem Standort in Brenz suchen wir zum nächstmöglichen Zeitpunkt einen Teamleiter für die Verladung (m/w/d) Informationen über unseren Betrieb Bei der Plukon Brenz GmbH verarbeiten wir mit großer Leidenschaft und Präzision Ge…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/plukon-food-group-germany/teamleiter-fur-die-verladung-brenz-299932",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "26157e65d4bdcc95",
+      "title": "Fachinformatiker (m/w/d)",
+      "company": "Plukon Food Group Germany",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Storkow",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Informationen über unseren Betrieb Unser ultramoderner Produktionsstandort in Storkow präsentiert sich als Musterbeispiel für Innovation im deutschen Geflügelsektor. Hier kommen Fachwissen und fortschrittliche Technologie zusammen, um hochwertige Hähnchenprodu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/plukon-food-group-germany/fachinformatiker-storkow-433954",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d7b526442b3b7cf0",
+      "title": "Mitarbeiter in der Qualitätssicherung / Produktkontrolleure (m/w/d)",
+      "company": "Plukon Food Group Germany",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Gudensberg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Zur Verstärkung unseres Teams an unserem Standort in Gudensberg suchen wir zum nächstmöglichen Zeitpunkt einen Mitarbeiter in der Qualitätssicherung / Produktkontrolleure (m/w/d) Informationen über unseren Betrieb Unser Betrieb im hessischen Gudensberg spielt …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/plukon-food-group-germany/mitarbeiter-in-der-qualitatssicherung-produktkontrolleure-gudensberg-381411",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "577b82ba2c724995",
+      "title": "(Senior) PR & Content Manager (m/f/d)",
+      "company": "limehome",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Greif mit uns nach den Sternen! Als (Senior) PR & Content Manager (m/f/d) gestaltest Du maßgeblich mit, wie Limehome als Marke in der Immobilien- und Hospitality-Branche wahrgenommen wird. Du übernimmst Verantwortung für unser B2B Marketing und unsere PR-Kommu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/limehome/senior-pr-content-manager-munchen-303190",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0acea359ea53a9f2",
+      "title": "Sales Werkstudent (m/w/d)",
+      "company": "Aampere",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über Aampere Werde Teil von Aampere, einem Seed-Stage VC-backed Startup, das den europäischen Markt für gebrauchte E-Autos neu definiert. Wir ermöglichen es EV-Besitzer:innen, ihr Fahrzeug innerhalb von 48 Stunden zu verkaufen, und verschaffen Händlern in ganz…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/aampere/sales-werkstudent-munchen-27661",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a0f631f777dd5ca8",
+      "title": "Senior Fullstack Developer – Business Automation (m/w/d)",
+      "company": "Metergrid",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Wir verantworten u.a. das zentrale CRM HubSpot, über das alle Prozesse unserer Wertschöpfungskette laufen. Interne Software-Produkte integrieren sich genauso in unsere CRM-Infrastruktur wie spezifische Apps, z.B. zur Terminbuchung bei einer Kund…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/metergrid/senior-fullstack-developer-business-automation-hamburg-426065",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "717b5333f4a1411f",
+      "title": "Junior Fullstack Developer (m/w/d)",
+      "company": "Metergrid",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Du wirst Teil des Teams, das die Software baut, die ein Mieterstromprojekt von der ersten Anfrage bis zum laufenden Betrieb begleitet. Das Team wächst gerade in zwei Bereichen: Go-to-Market: Von der ersten Anfrage bis zum unterschriebenen Projek…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/metergrid/junior-fullstack-developer-hamburg-150145",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f523dcf9dddf7aef",
+      "title": "Fullstack Developer (m/w/d)",
+      "company": "Metergrid",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Du wirst Teil des Teams, das die Software baut, die ein Mieterstromprojekt von der ersten Anfrage bis zum laufenden Betrieb begleitet. Das Team wächst gerade in zwei Bereichen: Go-to-Market: Von der ersten Anfrage bis zum unterschriebenen Projek…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/metergrid/fullstack-developer-hamburg-9926",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fbf2fc4e882ef6a9",
+      "title": "Senior Area Sales Manager (Hamburg Ost) | Food Startup (m/w/d)",
+      "company": "Ahead Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "YOU & AHEAD Bist du ein Verkaufstalent, das keine Angst davor hat, auf neue Leute zuzugehen und Beziehungen aufzubauen? Du kennst dich im Lebensmitteleinzelhandel bestens aus und liebst den Nervenkitzel, neue Kunden zu gewinnen? Wenn das nach dir klingt, bist …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ahead-gmbh/senior-area-sales-manager-hamburg-ost-food-startup-hamburg-office-237146",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f39afe9c21b48d01",
+      "title": "Strategic Account Executive Enterprise - DACH",
+      "company": "Malt",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Procurement",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🪐 Discover our galaxy Join the Future of Work ! Malt is Europe's leading freelance marketplace, connecting over 1,000,000 talented freelancers with 100,000+ companies. Founded in 2013, we're transforming how work gets done through our tech-powered, human-cente…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/malt/strategic-account-executive-enterprise-dach-munich-204977",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2836bec50df580e1",
+      "title": "Engineering Manager (m/f/d)",
+      "company": "Unzer",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ABOUT US Unzer is a leading European fintech company with a mission to simplify international payments for e-commerce and retail businesses. Our brand was formed from 13 companies that now contribute to building a unique product covering the entire payment flo…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/unzer/engineering-manager-berlin-367796",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e518f6504af8d3a5",
+      "title": "Senior MVNO Manager",
+      "company": "1Global",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us 1GLOBAL is a technology-driven global mobile communications provider helping enterprises and consumer brands deliver seamless connectivity worldwide. Powered by a best-in-class telecom platform, proprietary eSIM technology, and its own mobile core net…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/1global/senior-mvno-manager-berlin-4905",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d0a547a7b14470ad",
+      "title": "Working Student – Invoice Checking (d/f/m)",
+      "company": "Letmeship",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sports",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About us Since 2000, ITA Logistics Group has been making shipping simpler, more transparent, and more efficient for businesses. With our platforms LetMeShip and ParcelParcel / LMS Next , companies can quickly compare and directly book their daily shipping need…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/letmeship/working-student-invoice-checking-hamburg-406269",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5e04a089d8002454",
+      "title": "Senior GenAI Solution Engineer (all genders)",
+      "company": "Eraneos",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "remote",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What you can expect from us We are a technical, implementation-oriented spin-off of a global management consultancy. Our clients are primarily DAX and Fortune Global 500 companies, which we advise on issues in the areas of analytics, big data and machine learn…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-genai-solution-engineer-all-genders-38813",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6fad736db3ebfc8c",
+      "title": "Management Consultant Enterprise Architecture (all genders)",
+      "company": "Eraneos",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "remote",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What you can expect from us As part of our Sourcing & IT Advisory team, you will help clients shape and deliver complex business and IT transformations across industries. Our tasks focus on complex transformation projects: Enterprise Architecture & Strategy: D…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-management-consultant-enterprise-architecture-all-genders-493951",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "51f002acb2478826",
+      "title": "Forward Deployed Engineer (all genders)",
+      "company": "Eraneos",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "remote",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Data & Analytics",
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What you can expect from us Eraneos supports AI initiatives from strategy all the way through to production. In most AI projects, there's a gap between the strategy and what actually ends up running in production and creating real value. That's exactly the gap…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-forward-deployed-engineer-all-genders-57038",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "28af57939cd32403",
+      "title": "Data Engineer (all genders)",
+      "company": "Eraneos",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "remote",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What you can expect from us We’re a high‑energy cloud- and data engineering team looking for like-minded, motivated tech builders. We are driven by ownership and business outcomes. As the analytics unit within a global management consultancy, we turn data-driv…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-data-engineer-all-genders-310552",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f8e638f37acca4ca",
+      "title": "(Senior) Consultant Business Value Chain (all genders)",
+      "company": "Eraneos",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "remote",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What you can expect from us At Eraneos Germany, we partner with organizations to master complex challenges and shape a sustainable, digital future. As a (Senior) Consultant in our Production & Operations team, you will support leading organizations in navigati…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-consultant-business-value-chain-all-genders-18411",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8ce05b1709ab4563",
+      "title": "Senior Cloud Consultant - Data & AI Engineer (f/m/d, 4-Days-Week), German Speaking",
+      "company": "Auvaria",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "It’s time to change. We change! Über uns It’s time to change. We change! Willkommen bei Auvaria, wo Leidenschaft, Teamgeist und Verantwortung unsere Kultur prägen. Wir sind ein mehrfach ausgezeichneter AWS Consulting & Engineering Partner mit Büros in Wien, Ha…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/auvaria/senior-cloud-consultant-data-ai-engineer-4-days-week-german-speaking-munchen-187401",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9be9628d8b0ef566",
+      "title": "Senior Cloud Consultant - Data & AI Engineer (f/m/d, 4-Days-Week), German Speaking",
+      "company": "Auvaria",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "It’s time to change. We change! Über uns It’s time to change. We change! Willkommen bei Auvaria, wo Leidenschaft, Teamgeist und Verantwortung unsere Kultur prägen. Wir sind ein mehrfach ausgezeichneter AWS Consulting & Engineering Partner mit Büros in Wien, Ha…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/auvaria/senior-cloud-consultant-data-ai-engineer-4-days-week-german-speaking-hamburg-478631",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6263eb76ff1be757",
+      "title": "(SENIOR) Relationship & Recruiting Manager (m/w/d)",
+      "company": "Synsero",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurzbeschreibung Du liebst es, Menschen und Unternehmen erfolgreich zusammenzubringen? Dann bist Du bei uns genau richtig. Als (Senior) Relationship & Recruiting Manager (m/w/d) verantwortest Du die Besetzung anspruchsvoller Fach- und Projektpositionen im Indu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/synsero/senior-relationship-recruiting-manager-munchen-289945",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a6bba3548b463300",
+      "title": "Senior UX/UI Designer (CRO)",
+      "company": "Vmlenterprisesolutions",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who We Are WPP Enterprise Solutions designs, builds, and operates the growth systems that competitive businesses rely on. In a world where Al is reshaping how companies drive growth, we lead clients in business transformation and marketing modernization, conne…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/vmlenterprisesolutions/senior-ux-ui-designer-cro-london-380148",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ec608a252c5edefa",
+      "title": "Software Development Engineers in Test (Python)",
+      "company": "Xm",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Role: Our team is expanding and we are hiring several high caliber SDET (Software Development Engineer in Test) - Python to join our fast-growing team. You will work with world class specialists in a friendly, supportive and open-minded environment on chal…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/xm/remote-software-development-engineers-in-test-python-2361",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4b9f1ffb547dc440",
+      "title": "QA Software Test Automation Engineers (Java)",
+      "company": "Xm",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Role: Our team is expanding and we are hiring several high caliber QA Software Test Automation Engineers (Java) to join our fast-growing team. You will work with world class specialists in a friendly, supportive and open-minded environment on challenging g…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-241975",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9bab09783ffb520c",
+      "title": "Software / Machine Learning Engineer",
+      "company": "Prima",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking for a new challenge? Fancy helping us shape the future of motor insurance? Prima could be the place for you. Since 2015, we’ve been using our love of data and tech to rethink motor insurance and bring drivers a great experience at a great price…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/prima/software-machine-learning-engineer-london-204988",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "230185fc9384c40a",
+      "title": "Software Engineer - Backend - Behavioral Security Products",
+      "company": "Abnormalsecurity",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Abnormal AI, we protect our customers against nefarious adversaries who are constantly evolving their techniques and tactics to outwit and undermine the traditional approaches to Security. Abnormal is recognized as a top cybersecurity startup (Leader in the…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/abnormalsecurity/software-engineer-backend-behavioral-security-products-256373",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1223c372bf66b6d3",
+      "title": "Data Production Engineer",
+      "company": "Wehrtyou",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hudson River Trading (HRT) is looking for a Data Production Engineer to join our Data team. Data is at the core of everything we do at HRT; we excel at deriving deep insights from all types of data, allowing us to achieve consistent success in a dynamic market…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/data-production-engineer-london-395001",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fe7973ed617cf3ef",
+      "title": "Mid-Market Account Executive, TMT",
+      "company": "Alphasense",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "Greater London",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Finance",
+        "International Development",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About AlphaSense: The world’s most sophisticated companies rely on AlphaSense to remove uncertainty from decision-making. With market intelligence and search built on proven AI, AlphaSense delivers insights that matter from content you can trust. Our universe …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/mid-market-account-executive-tmt-london-greater-london-307184",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "954e25b83621b563",
+      "title": "Mid-Market Account Executive",
+      "company": "Alphasense",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "Greater London",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Finance",
+        "International Development",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About AlphaSense: The world’s most sophisticated companies rely on AlphaSense to remove uncertainty from decision-making. With market intelligence and search built on proven AI, AlphaSense delivers insights that matter from content you can trust. Our universe …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/mid-market-account-executive-london-greater-london-192966",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "42620988a0975bc0",
+      "title": "Enterprise Account Executive, TMT",
+      "company": "Alphasense",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "Greater London",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Finance",
+        "International Development",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About AlphaSense: The world’s most sophisticated companies rely on AlphaSense to remove uncertainty from decision-making. With market intelligence and search built on proven AI, AlphaSense delivers insights that matter from content you can trust. Our universe …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/enterprise-account-executive-tmt-london-greater-london-42388",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "90a5c0de71601684",
+      "title": "Enterprise Account Executive",
+      "company": "Alphasense",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "Greater London",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Finance",
+        "International Development",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About AlphaSense: The world’s most sophisticated companies rely on AlphaSense to remove uncertainty from decision-making. With market intelligence and search built on proven AI, AlphaSense delivers insights that matter from content you can trust. Our universe …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/enterprise-account-executive-london-greater-london-50975",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a2419921d871d343",
+      "title": "Account Executive, Life Sciences",
+      "company": "Alphasense",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "Greater London",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "International Development",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Procurement",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About AlphaSense: The world’s most sophisticated companies rely on AlphaSense to remove uncertainty from decision-making. With market intelligence and search built on proven AI, AlphaSense delivers insights that matter from content you can trust. Our universe …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/account-executive-life-sciences-london-greater-london-138038",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ad17ce03d8a11179",
+      "title": "Senior Data Engineer",
+      "company": "Livescore9",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Marketing & Communications",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Soho, London Hybrid working: 3 days in the office Tues - Thurs The Role We are seeking a Senior Data Engineer to join our Data Team, taking a leading role in building the complex, scalable systems that power our data strategy. You will lead architectural discu…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/livescore9/senior-data-engineer-london-441631",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "89113503d0cd72aa",
+      "title": "Account Executive",
+      "company": "Airwallex",
+      "employmentType": "Internship",
+      "location": {
+        "city": "UK - London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Airwallex Airwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 250,000 businesses worldwide – including Brex, Navan, Qantas, SHE…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/airwallex/account-executive-london-490600",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "173872e144ef6c1c",
+      "title": "Account Executive",
+      "company": "Airwallex",
+      "employmentType": "Internship",
+      "location": {
+        "city": "UK - London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Airwallex Airwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 250,000 businesses worldwide – including Brex, Navan, Qantas, SHE…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/airwallex/account-executive-london-443641",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5322d7e9a54f9482",
+      "title": "Stagiaire - Consultant Display & Programmatic (H/F) - Paris",
+      "company": "Artefactlinkedin",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Qui sommes-nous? Artefact est un cabinet de conseil spécialisé en data et en intelligence artificielle, qui accompagne les entreprises pour transformer ces technologies en impact business concret et mesurable. A la croisée du conseil, de la data et de la techn…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/stagiaire-consultant-display-programmatic-h-f-paris-9th-arrondissement-of-paris-75009-paris-303349",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b2caf5920ef634db",
+      "title": "Senior Data Scientist",
+      "company": "Artefactlinkedin",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Artefact is a French consulting and engineering firm specializing in data and AI, and a leader in Europe. Headquartered in Paris, we are now present in 23 countries across all continents, with a team of 1,700 employees. Our mission is to help busine…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/senior-data-scientist-9th-arrondissement-of-paris-75009-paris-141185",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "546425249d6df034",
+      "title": "Manager Data Analyst - Casablanca",
+      "company": "Artefactlinkedin",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Artefact is a new generation of data service provider, specialised in data consulting and data-driven digital marketing. Our purpose? Ev ery day we boost our clients’ data transformation into business impact across the entire value chain of organisa…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/manager-data-analyst-casablanca-9th-arrondissement-of-paris-75009-paris-480202",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bf49043f5f58d679",
+      "title": "Junior Data Scientist - Casablanca",
+      "company": "Artefactlinkedin",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Artefact is a new generation of a data service provider, specialising in data consulting and data-driven digital marketing, dedicated to transforming data into business impact across the entire value chain of organisations. We are proud to say we’re…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/junior-data-scientist-casablanca-9th-arrondissement-of-paris-75009-paris-139850",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b3b6715d876e97bf",
+      "title": "Stagiaire - Consultant Display & Programmatic (H/F) - Paris",
+      "company": "Artefact",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Qui sommes-nous? Artefact est un cabinet de conseil spécialisé en data et en intelligence artificielle, qui accompagne les entreprises pour transformer ces technologies en impact business concret et mesurable. A la croisée du conseil, de la data et de la techn…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefact/stagiaire-consultant-display-programmatic-h-f-paris-9th-arrondissement-of-paris-75009-paris-111203",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "001952baa2c970bd",
+      "title": "Implementation Engineer - Process Out",
+      "company": "Checkout.com",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/checkoutcom/implementation-engineer-process-out-paris-288229",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4ed69b3a2569a93c",
+      "title": "Business Development Representative (Paris) - French speaking",
+      "company": "Checkout.com",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/checkoutcom/business-development-representative-paris-french-speaking-36625",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c24d9142a2cf6319",
+      "title": "Seller Onboarding and Support Intern",
+      "company": "Backmarket",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hi, we’re Back Market. We’re here to help make tech reliable, affordable, and better than new . We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/backmarket/seller-onboarding-and-support-intern-paris-481272",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "569a445169ce44e7",
+      "title": "Business Analyst Intern, Trade-In",
+      "company": "Backmarket",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hi, we’re Back Market. We’re here to help make tech reliable, affordable, and better than new . We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/backmarket/business-analyst-intern-trade-in-paris-475270",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7ecccd8c0aaa9023",
+      "title": "CRM Engagement Intern",
+      "company": "Backmarket",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": "Hera, our Senior CRM Manager in Paris"
+      },
+      "summary": "Hi, we’re Back Market. We’re here to help make tech reliable, affordable, and better than new . We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/backmarket/crm-engagement-intern-paris-19939",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6c964df5defdf7bd",
+      "title": "UX Content Designer Intern (UX copywriter)",
+      "company": "Backmarket",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hi, we’re Back Market. We’re here to help make tech reliable, affordable, and better than new . We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/backmarket/ux-content-designer-intern-ux-copywriter-paris-494948",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f5b85b9841a9674a",
+      "title": "Product Manager Apprentice, Checkout",
+      "company": "Backmarket",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hi, we’re Back Market. We’re here to help make tech reliable, affordable, and better than new . We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/backmarket/product-manager-apprentice-checkout-paris-84960",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b56f3c714cb58f3b",
+      "title": "User Research UX Apprentice",
+      "company": "Backmarket",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bordeaux",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hi, we’re Back Market. We’re here to help make tech reliable, affordable, and better than new . We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/backmarket/user-research-ux-apprentice-bordeaux-189663",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ef326bb0ffd5b4a4",
+      "title": "Senior Backend Engineer | Cybersecurity AI AppSec",
+      "company": "Escape",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris Office",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Paris (75002) | Hybrid (2 days remote/week) About Escape Join Escape, a fast-growing leader in AI-powered cybersecurity. Our mission-driven engineering team (18 engineers, 4 technical leads, 3 product owners) is dedicated to redefining application se…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/escape/senior-backend-engineer-cybersecurity-ai-appsec-paris-30162",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "557e80ba9db72352",
+      "title": "Partner Sales manager",
+      "company": "Redis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "France",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are We're Redis. We built the product that runs the fast apps our world runs on. (If you checked the weather, used your credit card, or looked at your flight status online today, you’re welcome.) At Redis, you’ll work with the fastest, simplest technolo…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/redis/partner-sales-manager-france-300419",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0856089c67f0e20a",
+      "title": "Product Manager Intern",
+      "company": "Aircall",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": "support ongoing performance evaluation and decision-making"
+      },
+      "summary": "Aircall is a unicorn, AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, resolve issues faster, and scale customer-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI to…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/aircall/product-manager-intern-paris-office-349485",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "270837baec9ffd9a",
+      "title": "Virtual Account Executive",
+      "company": "Extreme Networks",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Massy",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Over 50,000 customers globally trust our end-to-end, cloud-driven networking solutions and rely on our top-rated services and support to accelerate their digital transformation efforts and deliver progress like never before and with double digit growth year ov…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/extreme-networks/virtual-account-executive-massy-france-236011",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "68a056dd8a63f97e",
+      "title": "Stage Octobre 2026 Business Data Scientist - Marketing effectiveness(H/F/N)",
+      "company": "Ekimetrics",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Les entreprises qui performent décident mieux. Depuis 2006, Ekimetrics aide les organisations à transformer leurs décisions en avantage concurrentiel durable grâce à des solutions d’IA. Notre double ambition est d’allier performance et durabilité, pour constru…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/ekimetrics/stage-octobre-2026-business-data-scientist-marketing-effectiveness-paris-136542",
+      "source": "Arbeitnow"
+    },
     {
       "id": "01143d1415045ac4",
       "title": "Internship AI & Automation - Energy (m/f/d)",
