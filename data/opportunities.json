@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-19T20:42:22.434047+00:00",
+    "lastUpdated": "2026-09-19T23:07:57.804354+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -4154,7 +4154,7 @@
         "name": null,
         "title": null
       },
-      "summary": "Du hast Personalarbeit in deiner DNA und hast Freude daran, Menschen vom ersten Kontakt bis zum Arbeitsalltag zu begleiten? Du hast Lust auf ein vielseitiges Aufgabenfeld, das von der aktiven Personalsuche über die empathische Mitarbeiterbetreuung bis hin zur …",
+      "summary": "Deine Leidenschaft ist das Personalwesen und du liebst es, Menschen vom ersten Kontakt bis in den Arbeitsalltag hinein zu begleiten? Du hast Lust auf Abwechslung pur – zwischen aktiver Personalsuche, persönlicher Mitarbeiterbetreuung und strukturierter HR-Admi…",
       "applicationUrl": "https://www.arbeitnow.com/jobs/companies/kreuzfahrtberater-gmbh/junior-hr-manager-als-elternzeitvertretung-ahrensburg-463472",
       "source": "Arbeitnow"
     },
@@ -5046,6 +5046,902 @@
       },
       "summary": "Lemonway is a licensed payment institution, at the heart of the new European economy. We secure payments for crowdfunding platforms, collaborative economy platforms, marketplaces, and e-merchants, with a strong commitment against fraud and to the protection of…",
       "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/lemonway/account-manager-international-paris-80627",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f55ca65990b8adf6",
+      "title": "AI Application Engineer – AI Products (LLM & RAG) (m/f/d)",
+      "company": "Machine Learning Reply",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Machine Learning Reply, we help organizations turn cutting-edge AI technologies into real-world applications and scalable digital products. To strengthen our team, we are looking for an AI Application Engineer who enjoys building AI-powered solutions and in…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/ai-application-engineer-ai-products-llm-rag-berlin-232153",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c06a569e73e59ae8",
+      "title": "Junior AI Application Engineer – AI Products (LLM & RAG) (m/f/d)",
+      "company": "Machine Learning Reply",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bei Machine Learning Reply unterstützen wir Unternehmen dabei, modernste AI-Technologien in reale Anwendungen und skalierbare digitale Produkte zu verwandeln. Zur Verstärkung unseres Teams suchen wir einen Junior AI Application Engineer, der Freude daran hat, …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/junior-ai-application-engineer-ai-products-llm-rag-munich-412158",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1cfff23761590de6",
+      "title": "Sales & Customer Growth Trainee (all genders) DE",
+      "company": "BSI Software",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Darmstadt",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen bei der Digitalisierun…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/bsi-software/sales-customer-growth-trainee-all-genders-de-darmstadt-114679",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "31d3d31441b61394",
+      "title": "Salesforce Traineeprogramm (m/w/d)",
+      "company": "cbs Corporate Business Solutions GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Heidelberg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Start in eine erfolgreiche Zukunft: Das Salesforce-Traineeprogramm der cbs CX – Customer Experience Tiefe Einblicke gewinnen, praktische Erfahrungen sammeln, Expertenwissen generieren – für Trainees bieten sich bei der cbs CX schnell facettenreiche Möglichkeit…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/salesforce-traineeprogramm-heidelberg-355585",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8087f5ab31b6d44c",
+      "title": "Manager Supply Chain Planning (m/w/d)",
+      "company": "cbs Corporate Business Solutions GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Heidelberg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind die Berater der Weltmarktführer: Hochmotivierte Expertinnen und Experten, die als erfolgreiches Team digitale End-to-End-Geschäftsprozesslösungen vorantreiben. Gemeinsam stärken wir die Zukunft der beeindruckendsten Unternehmen der Welt aus Maschinen-…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/manager-supply-chain-planning-heidelberg-105693",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "11f1904a95b62dc7",
+      "title": "SAP Sales Manager (m/w/d) Sustainable Supply Chain & Manufacturing (SSCM)",
+      "company": "cbs Corporate Business Solutions GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Heidelberg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind die Berater der Weltmarktführer: Hochmotivierte Expertinnen und Experten, die als erfolgreiches Team digitale End-to-End-Geschäftsprozesslösungen vorantreiben. Gemeinsam stärken wir die Zukunft der beeindruckendsten Unternehmen der Welt aus Maschinen-…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/sap-sales-manager-sustainable-supply-chain-manufacturing-sscm-heidelberg-396423",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ceaebfcb0bf8b6d6",
+      "title": "Mitarbeiter Qualitätsmanagement / Qualitätssicherung (gn)",
+      "company": "Plukon Food Group Germany",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Visbek",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Zur Verstärkung unseres Teams an unserem Standort in Visbek suchen wir zum nächstmöglichen Zeitpunkt einen Mitarbeiter Qualitätsmanagement / Qualitätssicherung (gn) in Vollzeit . Informationen über unseren Betrieb In Visbek befindet sich das Herzstück der Pluk…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/plukon-food-group-germany/mitarbeiter-qualitatsmanagement-qualitatssicherung-gn-visbek-43084",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "879c24fc60f54dab",
+      "title": "Werkstudent (m/w/d) Marketing & Digital Experiences",
+      "company": "And E",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Cultural Fit Du interessierst dich für Marketing, digitale Themen und die Frage, wie Unternehmen ihre Kunden über verschiedene Kanäle erreichen und begeistern können? Du arbeitest gerne kreativ, packst mit an und hast Spaß daran, neue Themen kennenzulernen und…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/and-e/werkstudent-marketing-digital-experiences-koln-137439",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ffc36f83903dbc67",
+      "title": "Senior Software Engineer (m/w/d) | Fullstack für KI-Produkte",
+      "company": "Avenit Ag",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Remote in Deutschland",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns Wie bleibt ein RAG-System präzise, wenn aus tausend Dokumenten hunderttausend werden? Wie orchestriert man mehrere Modellanbieter sauber hinter einer Oberfläche? Während anderswo noch Prototypen gezeigt werden, arbeiten unsere Kunden längst damit - mi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/avenit-ag/remote-senior-software-engineer-fullstack-fur-ki-produkte-338178",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "054fb60c475d755b",
+      "title": "PraktikantInnen und Werkstudierende (m/w/d)",
+      "company": "Avelion Group",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wer wir sind Mächtige Standard-Software wie SAP oder PLM hört oft genau dort auf, wo der eigentliche Wettbewerbsvorteil unserer Kunden beginnt. Wir bei 4Soft schließen diese Lücken mit hochgradig individuellen Clean-Core Speedboats . Als Teil der Avelion Grupp…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/avelion-group/praktikantinnen-und-werkstudierende-munchen-283249",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a84bf85dc1faed8f",
+      "title": "Java Backend Developer (m/w/d)",
+      "company": "Avelion Group",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wer wir sind Mächtige Standard-Software wie SAP oder PLM hört oft genau dort auf, wo der eigentliche Wettbewerbsvorteil unserer Kunden beginnt. Wir bei 4Soft schließen diese Lücken mit hochgradig individuellen Clean-Core Speedboats . Als Teil der Avelion Grupp…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/avelion-group/java-backend-developer-munchen-438936",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2cad2d0bbd003121",
+      "title": "Applied AI Lead",
+      "company": "Team Lead – Evergreen Product Management, Private Capital",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "EQT is looking for an Applied AI Lead — a delivery-focused engineering leader who brings together technical depth, product instinct, and the credibility to partner with investment professionals, operators, and engineers to turn generative AI from prototype int…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/team-lead-evergreen-product-management-private-capital/applied-ai-lead-london-416167",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "156cf594a4424bfc",
+      "title": "Design Manager or Senior Design Manager - Norway (Stargate Norway - Narvik)",
+      "company": "Nscaleoperationsukltd",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us At Nscale, we are building the infrastructure for Europe’s AI revolution. Nscale are developing cutting-edge sovereign generative AI solutions, powered by a new generation of high-performance, sustainable data centres and GPUs built specifically for A…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/nscaleoperationsukltd/design-manager-or-senior-design-manager-norway-stargate-norway-narvik-176659",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7e0665a04c5a678c",
+      "title": "Senior Product Manager",
+      "company": "Reachdesk",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": "Chief Product Officer, you’ll lead product initiatives end-to-end, from identifying and deeply under"
+      },
+      "summary": "Senior Product Manager Location: UK (remote) Job Description About Us Reachdesk is the first truly end-to-end global SaaS gifting and swag platform, helping B2B companies create meaningful connections with prospects, customers, and employees, while driving mea…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/reachdesk/senior-product-manager-london-292604",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "85c73a4b440644ee",
+      "title": "Intern Technology & Management Consulting (Value Engineering)",
+      "company": "celonis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning A…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/celonis/intern-technology-management-consulting-value-engineering-paris-463436",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "20ffd8ef63c7c828",
+      "title": "Intern AI & Management Consulting (Value Engineering)",
+      "company": "celonis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning A…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/celonis/intern-ai-management-consulting-value-engineering-paris-461432",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "950bb41bbf8b6dbf",
+      "title": "Stage - Social Media Manager B2C (x/f/m) - janvier 2027",
+      "company": "Doctolib",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Vous êtes passionné(e) par les réseaux sociaux et vous souhaitez rejoindre une entreprise engagée dans le domaine de la santé ? Rejoignez l'équipe Marketing Patient de Doctolib en tant que Social Media Manager B2C. Vos missions Vos responsabilités incluent, ma…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-social-media-manager-b2c-janvier-2027-paris-paris-492748",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "06d2272ac3048f87",
+      "title": "Stage - Sales Strategy Analyst (x/f/m) - janvier 2027",
+      "company": "Doctolib",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Nous recherchons un stagiaire pour rejoindre l’équipe Sales Strategy France et participer au développement de la force commerciale d'une des start-ups les plus ambitieuses d'Europe. Vous aurez un rôle central dans une organisation commerciale importante. Vous …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-sales-strategy-analyst-janvier-2027-paris-paris-89388",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "71dd1842c950617b",
+      "title": "Stage - Sales Development Representative (x/f/m) - décembre 2026",
+      "company": "Doctolib",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "En tant que stagiaire SDR, vous participerez activement à l'essor de notre activité en France, en augmentant la présence des professionnels de santé sur Doctolib et en leur fournissant des solutions adaptées à leurs besoins. Les équipes SDR ont pour rôle de gé…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-sales-development-representative-decembre-2026-paris-paris-414",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6dce751f851d9fef",
+      "title": "Stage - Partenariats Opérations et Stratégie (x/f/m) - janvier 2027",
+      "company": "Doctolib",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "L'équipe Partenariats évolue au sein des équipes commerciales de Doctolib qui travaillent à apporter les solutions Doctolib aux soignants libéraux. Dans ce cadre, elle a pour objectif : d’assurer la relation de proximité avec nos +350 partenaires (centres d’ac…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-partenariats-operations-et-strategie-janvier-2027-paris-paris-375413",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a39bb950ef1a3bf8",
+      "title": "Stage - Junior Website Manager (x/f/m) - janvier 2027",
+      "company": "Doctolib",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "La Website Factory est l'équipe qui gère les sites pro de Doctolib : le site vitrine à destination des professionnels de santé (info.doctolib.fr), son blog, les pages santé grand public (doctolib.fr/sante), le site carrières pour recruter nos futurs talents (c…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-junior-website-manager-janvier-2027-paris-paris-445443",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d3489c91da255ed5",
+      "title": "Stage - FP&A  Analyst (x/f/m) - mars 2027",
+      "company": "Doctolib",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Vous êtes passionné.e par la finance et vous souhaitez vous imprégner des problématiques financières d’une entreprise de la tech française en pleine croissance ? L'équipe FP&A (Financial Planning & Analysis) recherche un·e stagiaire pour un stage de 6 mois afi…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-fpa-analyst-mars-2027-paris-paris-309990",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9f5f0987cbd969d6",
+      "title": "Stage - Engagement & Marketing Produit (x/f/m) - mars 2027",
+      "company": "Doctolib",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Au sein de la Global Patient team, vous jouerez un rôle concret dans la façon dont des millions de patients s'engagent avec leur santé. Alliant exécution opérationnelle, analyse et marketing produit, ce stage vous offre une exposition rare à des sujets stratég…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-engagement-marketing-produit-mars-2027-paris-paris-81755",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "953c7730b6c3f552",
+      "title": "Stage - Corporate Development Analyst (x/f/m) - janvier 2027",
+      "company": "Doctolib",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "L'équipe Corporate Development recherche un(e) stagiaire pour un stage de 6 mois afin de contribuer aux réflexions stratégiques et financières de Doctolib et travailler sur de possibles opérations d’acquisition ou de levée de fonds. Rattachée au CFO et ayant d…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-corporate-development-analyst-janvier-2027-paris-paris-330322",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ebc101aa97930a2f",
+      "title": "Stage - Consultant intéropérabilité (x/f/m) - mars 2027",
+      "company": "Doctolib",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Rejoignez une équipe technique de 9 personnes, spécialisée dans l'interopérabilité entre Doctolib et les logiciels métier des structures Salaried & Retail. Vous contribuerez directement à l'amélioration de l'écosystème de santé en facilitant les échanges de do…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-consultant-interoperabilite-mars-2027-paris-paris-498366",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8f6f929397e7b3f4",
+      "title": "Stage - Chef de projet évènementiel (x/f/m) - janvier 2027",
+      "company": "Doctolib",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Vos missions Vous recherchez un stage dans l’une des start-ups les plus ambitieuses d’Europe ? L’équipe B2B Marketing cherche justement sa future recrue pour une durée de six mois à partir de janvier 2027. Vous aurez pour objectif de contribuer au travail de l…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-chef-de-projet-evenementiel-janvier-2027-paris-paris-449677",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4cfaa413ad96b42f",
+      "title": "Stage - Chargé de Communication Corporate (x/f/m) - janvier 2027",
+      "company": "Doctolib",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Vos missions Vous rejoindrez l’équipe Corporate Communication de Doctolib et contribuerez à construire l’image d’une entreprise qui transforme la santé en Europe. Vous travaillerez sur des projets à fort impact autour de la santé numérique, de l’intelligence a…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-charge-de-communication-corporate-janvier-2027-paris-paris-317996",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e94fdc7f1f22cb5b",
+      "title": "Stage - Chargé d'Affaires Publiques (x/f/m) - janvier 2027",
+      "company": "Doctolib",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "En tant que stagiaire en affaires publiques chez Doctolib, vous jouez un rôle essentiel dans le développement des relations avec les acteurs institutionnels de la santé et de la tech : acteurs publics, fédérations, organisations de professionnels de santé. Vou…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-charge-daffaires-publiques-janvier-2027-paris-paris-135772",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c7a21bd9fbb87fb0",
+      "title": "Stage - Assistant Satisfaction (x/f/m)  - janvier 2027",
+      "company": "Doctolib",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Vos missions En tant que Customer Success vous accompagnerez la croissance de Doctolib en assurant un bon suivi des processus et en travaillant sur des enjeux de satisfaction et de formation des praticiens. Une opportunité d’apporter votre pierre à l’édifice d…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-assistant-satisfaction-janvier-2027-paris-paris-10328",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ac57696cabc58c77",
+      "title": "Stage - Analyste performance commerciale (x/f/m) - janvier 2027",
+      "company": "Doctolib",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Nous recherchons un stagiaire pour rejoindre l’équipe Sales and Customer Operations France et participer au développement de la force commerciale d'une des start-ups les plus ambitieuses d'Europe. Vous travaillerez en étroite relation avec les équipes sales et…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-analyste-performance-commerciale-janvier-2027-paris-paris-227336",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c3ea6441d61d41f6",
+      "title": "Stage - Analyste de la stratégie commerciale (x/f/m) - janvier 2027",
+      "company": "Doctolib",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Vos missions Dans le cadre du développement de notre organisation commerciale, nous recherchons un(e) Sales Operations Specialist chargé de structurer, fiabiliser et faire évoluer les pipelines commerciaux (+300) ainsi que les rapports d’attaque commerciale da…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-analyste-de-la-strategie-commerciale-janvier-2027-paris-paris-8373",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b06349508d204cdc",
+      "title": "Stage - Account Management Partner (x/f/m) - janvier 2027",
+      "company": "Doctolib",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "L'équipe Account Manager accompagne les cabinets dentaires clients de Doctolib pour maximiser leur satisfaction et leur développement. En tant que stagiaire, vous contribuerez à fluidifier leur expérience en prenant en charge une partie des demandes opérationn…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-account-management-partner-janvier-2027-paris-paris-90141",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d27795c68056fa69",
+      "title": "Senior Product Manager - Product Led Growth- Paris (x/f/m)",
+      "company": "Doctolib",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Set a new pulse for healthcare! We are looking for a Senior Product Manager to join the Product team at Doctolib. Your mission: scale Doctolib's acquisition engine into a measurable, lower-cost growth driver across France, Germany and Italy. You will own the e…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-product-manager-product-led-growth-paris-paris-paris-293145",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4c02322361317041",
+      "title": "Organic Social Media Manager",
+      "company": "Alan",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Anywhere in France",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alan/organic-social-media-manager-anywhere-in-france-275283",
       "source": "Arbeitnow"
     },
     {
