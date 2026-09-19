@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-19T01:11:12.272230+00:00",
+    "lastUpdated": "2026-09-19T05:54:51.858817+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,1473 @@
     ]
   },
   "jobs": [
+    {
+      "id": "01fd64b31ea691df",
+      "title": "Onboarding Manager:in (w/m/d)",
+      "company": "Enpal",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamtlösung für dezentrale Energie – von Solaranlage und Batteriespeicher über Wallbox, Smart Meter bis z…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/enpal/onboarding-managerin-berlin-285168",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "951fb6a5c3b93605",
+      "title": "Data Analyst - Marketing (w/m/d)",
+      "company": "Enpal",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamtlösung für dezentrale Energie – von Solaranlage und Batteriespeicher über Wallbox, Smart Meter bis z…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/enpal/data-analyst-marketing-berlin-458775",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c39c3c9b77c7e5d7",
+      "title": "(Senior) Associate Venture Development (w/m/d)",
+      "company": "Enpal",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Werde Teil von Enpal Pro und gestalte den Aufbau eines schnell wachsenden Scale-ups mit. Wir vertreiben Hardware sowie Enpal-Services an Handwerksbetriebe und treiben gemeinsam die Energiewende voran. Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speiche…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/enpal/senior-associate-venture-development-berlin-186052",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a641233f0149a066",
+      "title": "Operations Manager:in | Home Office | (w/m/d)",
+      "company": "Enpal",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamtlösung für dezentrale Energie – von Solaranlage und Batteriespeicher über Wallbox, Smart Meter bis z…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/enpal/operations-managerin-home-office-berlin-158228",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "28ad6f54afdeb397",
+      "title": "Account Manager:in | Home Office | (w/m/d)",
+      "company": "Enpal",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamtlösung für dezentrale Energie – von Solaranlage und Batteriespeicher über Wallbox, Smart Meter bis z…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/enpal/account-managerin-home-office-berlin-449010",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0751735dc891cc18",
+      "title": "(Junior-) Digital Campaign Manager (m/w/d)",
+      "company": "Ritter von Gral GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Cottbus",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die Ritter von Gral GmbH suchen ab sofort engagierte Digital Campaign Manager (m/w/d) für unseren Standort in Cottbus . Wenn du gerne etwas bewegst und den Unternehmenserfolg mit deiner Expertise und Kreativität aktiv mitgestalten sowie am Erfolg überproportio…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ritter-von-gral-gmbh/junior-digital-campaign-manager-cottbus-311084",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7e3653eba045329c",
+      "title": "Sales Trainee (m/w/d)",
+      "company": "Ritter von Gral GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Cottbus",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die Ritter von Gral GmbH verstärkt den Vertrieb und sucht engagierte Sales Trainees (m/w/d) für unseren Standort in Cottbus . Diese Position bietet eine einzigartige Chance unser Unternehmenswachstum in einem dynamischen Umfeld aktiv mitzugestalten und überpro…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ritter-von-gral-gmbh/sales-trainee-cottbus-186611",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "26a350454c37da78",
+      "title": "Junior AI-Automation Specialist (m/w/d) – vor Ort in Dortmund",
+      "company": "ATZ AG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Dortmund",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Junior AI-Automation Specialist (m/w/d) - vor Ort in Dortmund Du willst KI nicht nur benutzen, sondern damit etwas bauen? Dann entwickle mit uns die Tools, die unseren Alltag automatisieren. ATZ Group: Gegründet 1973, vereint ATZ ein vielfältiges Team aus krea…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/atz-ag/junior-ai-automation-specialist-vor-ort-in-dortmund-258748",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "14ea63eda6a5e24d",
+      "title": "Filialleitung (m/w/d) - Kaiserslautern",
+      "company": "Bäcker Görtz GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Kaiserslautern",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wenn sahnige Kuchen, kerniges Brot und mit Sorgfalt vorbereiteter Teig in den Filialen ankommen, sind Sie gefragt. Mit einem Lächeln auf den Lippen wechseln Sie zwischen Kundenservice, Zubereitung der Snacks und Ihrer wichtigsten Tätigkeit: Das Gesicht von Bäc…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/backer-gortz-gmbh/filialleitung-kaiserslautern-93325",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "35197d6282f5045b",
+      "title": "AI Lead (m/w/d) | GenAI, Presales & AI Leadership",
+      "company": "Krila Consultancy",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Anywhere in Germany",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "📍 München / Frankfurt | Hybrid + Kundenreisen Du verstehst AI nicht nur technisch, sondern kannst daraus überzeugende Lösungen für Kunden entwickeln, komplexe Themen auf C-Level erklären und neue Geschäftsmöglichkeiten mitgestalten? Unser Kunde ist ein etablie…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/krila-consultancy/ai-lead-genai-presales-ai-leadership-anywhere-in-germany-197856",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e4916acd2f67ba44",
+      "title": "Finance & AI Automation Intern (Remote Part-time)",
+      "company": "Soda Data Nv",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Data quality is the bottleneck of the AI era. Every Fortune 500 is trying to solve it. We're the team they call. Soda is the data quality layer for Disney, Ralph Lauren, CBRE, HelloFresh, 2K Games, and Nubank. The category is growing rapidly because AI doesn't…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/finance-ai-automation-intern-remote-part-time-germany-30155",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1289938a0c20a0d2",
+      "title": "Finance & AI Automation Intern (Remote Full-time)",
+      "company": "Soda Data Nv",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Data quality is the bottleneck of the AI era. Every Fortune 500 is trying to solve it. We're the team they call. Soda is the data quality layer for Disney, Ralph Lauren, CBRE, HelloFresh, 2K Games, and Nubank. The category is growing rapidly because AI doesn't…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/finance-ai-automation-intern-remote-full-time-germany-308319",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f3e45867caa0113b",
+      "title": "AI Content Engineer",
+      "company": "Soda Data Nv",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": "a co-founder"
+      },
+      "summary": "Data quality is the bottleneck of the AI era. Every Fortune 500 is trying to solve it. We're the team they call. Soda is the data quality layer for Disney, Ralph Lauren, CBRE, HelloFresh, 2K Games, and Nubank. Our open-source engine, Soda Core, is used by comp…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-ai-content-engineer-berlin-195260",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cdb88c866cd5cefd",
+      "title": "Senior Elektroingenieur (m/w/d) – Analogelektronik & Messtechnik",
+      "company": "Empit",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Mission Zum nächstmöglichen Zeitpunkt suchen wir für unseren Standort Berlin einen erfahrenen Senior Elektroingenieur (m/w/d) mit Schwerpunkt Analogelektronik und Messtechnik , der mit seinem Know-how unsere Mess- und Inspektionstechnologie technisch wei…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/empit/senior-elektroingenieur-analogelektronik-messtechnik-berlin-208231",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3797dd80184fe6a7",
+      "title": "Contract & Operations Coordinator (m/w/d) im Bereich Supply Chain Management",
+      "company": "ECO STOR GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Du unterstützt das gesamte Team bei organisatorischen und administrativen Themen und koordinierst Termine, Abstimmungen und weitere teamübergreifende Anliegen. Du unterstützt den Einkauf im gesamten Vertragsprozess vom ersten Vertragsentwurf übe…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/eco-stor-gmbh/contract-operations-coordinator-im-bereich-supply-chain-management-munchen-87175",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1a52bb334a4afd28",
+      "title": "(Senior) Purchasing Manager (m/w/d)",
+      "company": "ECO STOR GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Procurement"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Du verantwortest die Beschaffung von Komponenten und Dienstleistungen für unsere stationären Batteriespeicherkraftwerke und die dazugehörige Energieinfrastruktur im In- und Ausland. Vertrags- und Preisverhandlungen mit Lieferanten führst Du eige…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/eco-stor-gmbh/senior-purchasing-manager-munchen-259583",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8fd32d435d8a5804",
+      "title": "Staff/Senior AI Engineer, AI for Code",
+      "company": "jetbrains",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At JetBrains, we build developer tools used by millions of engineers. The AI for Code team works on the next generation of coding agents and agentic workflows: systems that can understand codebases, plan and execute multi-step tasks, collaborate with developer…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/staff-senior-ai-engineer-ai-for-code-london-227434",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e46cc09e51d28aae",
+      "title": "Senior Product Manager (VCS Ecosystem)",
+      "company": "jetbrains",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "You know version control is more than just a subsystem. It’s the backbone of how teams build software. You’re ready to shape the future of code-change workflows, from local commits to AI-assisted reviews. If you’re excited by the challenge of turning a core ID…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/senior-product-manager-vcs-ecosystem-london-344677",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "54e17d9b22f06f7d",
+      "title": "Growth manager (JetBrains AI)",
+      "company": "jetbrains",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At JetBrains, we’re building an AI-native platform for software development that connects developer workflows, team-level collaboration, and organizational control into a single coherent system. This platform will serve as the execution and governance layer fo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/growth-manager-jetbrains-ai-london-245944",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8d1daa515846bb64",
+      "title": "Account Executive Large Enterprise Public Sector",
+      "company": "okta",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Secure Every Identity, from AI to Human Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to so…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/okta/account-executive-large-enterprise-public-sector-london-81767",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "671214e1bc35d3d6",
+      "title": "Senior GTM Manager",
+      "company": "tem",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "📈 Who We Are: We are rebuilding the energy transaction, making it transparent and fair. Our goal is to put power back where it belongs, in the hands of customers and to take on one of the most critical problems of our century, access to low cost electricity. t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/tem/senior-gtm-manager-united-kingdom-181398",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1c5e70bccc3d427d",
+      "title": "Sales Manager - Buy Side",
+      "company": "tem",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Procurement",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "📈 Who We Are: We are rebuilding the energy transaction, making it transparent and fair. Our goal is to put power back where it belongs, in the hands of customers and to take on one of the most critical problems of our century, access to low cost electricity. t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/tem/sales-manager-buy-side-united-kingdom-134112",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6e663e388b3c0e8a",
+      "title": "Senior Partner Growth Manager",
+      "company": "ocadogroup",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hatfield",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us We are Ocado Commercial, and we are revolutionising online grocery. We partner with the world's leading retailers, providing our innovative Ocado Smart Platform (OSP) – a powerful blend of automation and software – to elevate their e-commerce capabili…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ocadogroup/senior-partner-growth-manager-hatfield-4250",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1ce89772ac1999cd",
+      "title": "Paid Search Manager",
+      "company": "dept",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": "clients, highlighting key metrics and recommendations for improvement"
+      },
+      "summary": "DEPT® is a Growth Invention company built to help the world’s most ambitious brands grow faster. Operating at the intersection of technology and marketing, our 4,000+ specialists deliver growth invention services across Brand & Media, Experience, Commerce, CRM…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/dept/paid-search-manager-89677",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "890f960b1166a639",
+      "title": "CRM Campaign Managers (Talent Pool)",
+      "company": "dept",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Please note, this is a talent pool advertisement, not a live role. If you would like to be considered for any future CRM Campaign Manager / Marketing Manager positions at DEPT®, please submit an application and we will be in touch when a suitable opportunity a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/dept/crm-campaign-managers-talent-pool-352543",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "228ab7d89bea1303",
+      "title": "Paid Social Manager",
+      "company": "wppmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/paid-social-manager-london-494499",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "813ba0754232b47d",
+      "title": "Creative Producer & Videographer (Influencer Campaign Production)",
+      "company": "wppmedia",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/creative-producer-videographer-influencer-campaign-production-london-45335",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9417b37edb58275f",
+      "title": "FP&A Analyst",
+      "company": "Kraken",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "UK",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "International Development",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/kraken/fpa-analyst-london-176859",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c85085456a42e217",
+      "title": "People Operations Coordinator",
+      "company": "Montu Uk",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Winnersh",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What is the job? Ready to be part of a fast-growing business where no two days look the same? We’re looking for a proactive, highly organised and solutions-focused People Operations Coordinator to support our growing teams and help deliver a brilliant employee…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/people-operations-coordinator-winnersh-56907",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dc62f84a0ca7ba23",
+      "title": "Accuracy Checking Pharmacy Technician (Part-time)",
+      "company": "Montu Uk",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Winnersh",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Tired of retail pharmacy? Imagine working in a modern, technology-enabled online pharmacy where you can focus on accuracy, quality and patient safety—without standing behind a retail counter, selling OTC products or being interrupted every few minutes. No reta…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/accuracy-checking-pharmacy-technician-part-time-winnersh-461632",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "63e1ecbc31f3f169",
+      "title": "Accuracy Checking Pharmacy Technician (Full-time)",
+      "company": "Montu Uk",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Winnersh",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Tired of retail pharmacy? Imagine working in a modern, technology-enabled online pharmacy where you can focus on accuracy, quality and patient safety—without standing behind a retail counter, selling OTC products or being interrupted every few minutes. No reta…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/accuracy-checking-pharmacy-technician-full-time-winnersh-124844",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "70672be631b287a7",
+      "title": "Senior AI Engineer (GTM)",
+      "company": "Paddle",
+      "employmentType": "Internship",
+      "location": {
+        "city": "UK",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. T…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/paddle/senior-ai-engineer-gtm-uk-460480",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ecd281adc45413ca",
+      "title": "Blockchain Expansion  Manager (100% remote)",
+      "company": "Tether Operations Limited",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamless…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/blockchain-expansion-manager-100-remote-london-233994",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b520e2f4adaa6eb5",
+      "title": "Customer Service Representative - Paris",
+      "company": "Sennasearch Recruitment",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Frankrijk",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join the team behind Europe’s leading online print service FLYERALARM, is not just printing – they are powering creativity. As one of Germany’s largest e-commerce companies and Europe’s #1 online printing partner, they help thousands of businesses bring their …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/sennasearch-recruitment/customer-service-representative-paris-452307",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3e069a1078e9b39f",
+      "title": "Sales Advisor Saint Tropez",
+      "company": "Boggi Milano",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Saint Tropez",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "For our beautiful Store in Saint Tropez , we are looking for a motivated, enthusiastic Full Time Sales Advisor with great interpersonal skills, willing to work in a dynamic and engaging fashion environment. Responsibilities and tasks: · Providing an excellent …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/boggi-milano/sales-advisor-saint-tropez-268479",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4d63c9994ff2dfed",
+      "title": "Satcom Consultant Engineer",
+      "company": "Novaspace",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Toulouse",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Procurement",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": "a short presentation or produce a single intelligible content from multiple sources"
+      },
+      "summary": "Are you a highly-motivated, technically-minded, critical thinker with 3-5 years of experience in consulting, looking for your next challenge? Join a leading consulting player in the booming space industry! The Technology Consulting business line is the technol…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/novaspace/satcom-consultant-engineer-toulouse-france-497660",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1bfe65dab4902afe",
+      "title": "Solution Innovation Analyst",
+      "company": "Pigment",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join Pigment: The AI Platform Redefining Business Planning Pigment is the AI-powered business planning and performance management platform built for agility and scale. We connect people, data, and processes in one intuitive, feature-rich solution, empowering e…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/pigment/solution-innovation-analyst-paris-303864",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "05767b864f3b7755",
+      "title": "EPM Technical Account Manager - Paris",
+      "company": "Pigment",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join Pigment: The AI Platform Redefining Business Planning Pigment is the AI-powered business planning and performance management platform built for agility and scale. We connect people, data, and processes in one intuitive, feature-rich solution, empowering e…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/pigment/epm-technical-account-manager-paris-53784",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "746ea6486c102068",
+      "title": "Engineering Program Manager",
+      "company": "Pigment",
+      "employmentType": "Internship",
+      "location": {
+        "city": "France",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join Pigment: The AI Platform Redefining Business Planning Pigment is the AI-powered business planning and performance management platform built for agility and scale. We connect people, data, and processes in one intuitive, feature-rich solution, empowering e…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/pigment/engineering-program-manager-france-47534",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e29d94f319cacba7",
+      "title": "Business Development/Sales & Growth Marketing North America (6-month Internship)",
+      "company": "Pigment",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join Pigment: The AI Platform Redefining Business Planning Pigment is the AI-powered business planning and performance management platform built for agility and scale. We connect people, data, and processes in one intuitive, feature-rich solution, empowering e…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/pigment/business-development-sales-growth-marketing-north-america-6-month-internship-paris-75478",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bd492493844ade9e",
+      "title": "Travel & Customer Service Coordinator",
+      "company": "Suvoda",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We know why you are reading about this opportunity. You are driven to achieve goals. You are looking to make a direct impact. You want to work in a culture where your co-workers work as part of a diverse team, communicate across departments, and have a positiv…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/suvoda/travel-customer-service-coordinator-498380",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b5d8bf767954d04c",
+      "title": "Customer Care Specialist B2C",
+      "company": "Swile",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Montpellier",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Swile est une worktech lancée en 2018, présente en France et au Brésil, et co-leader des avantages salariés. Nous proposons une super-app et une smart-card qui regroupent titres-restaurant, cadeaux, mobilité durable et voyages d’affaires, pour une expérience e…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/swile/customer-care-specialist-b2c-montpellier-france-359888",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f9a3e04897c666cb",
+      "title": "STAGE - ASSISTANT(E) VISUAL DESIGN CREATION (H/F) - NOVEMBRE 2026 (6 MOIS)",
+      "company": "JACQUEMUS",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris HQ",
+        "region": null,
+        "country": "Île de France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "LA MAISON Jacquemus a été fondé par Simon Porte Jacquemus en 2009 à Paris, en France. Dédiée à la mémoire de la mère du créateur, la marque puise son inspiration dans une passion pour la culture. Les collections femme et homme font référence à l’art de vivre à…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/jacquemus/stage-assistante-visual-design-creation-h-f-novembre-2026-6-mois-paris-hq-ile-de-france-203749",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5172d3c69f19f95e",
+      "title": "STAGE - ASSISTANT(E) VIP (H/F) - SEPTEMBRE 2026",
+      "company": "JACQUEMUS",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris HQ",
+        "region": null,
+        "country": "Île de France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "LA MAISON JACQUEMUS Jacquemus a été fondé par Simon Porte Jacquemus en 2009 à Paris, en France. Dédiée à la mémoire de la mère du créateur, la marque puise son inspiration dans une passion pour la culture. Les collections femme et homme font référence à l’art …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/jacquemus/stage-assistante-vip-h-f-septembre-2026-paris-hq-ile-de-france-495863",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "26ae1c08dc745382",
+      "title": "Stage - Assistant(E) Operations Retail  & Showroom Wholesale (H/F)",
+      "company": "JACQUEMUS",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris HQ",
+        "region": null,
+        "country": "Île de France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "LA MAISON JACQUEMUS Jacquemus a été fondée par Simon Porte Jacquemus en 2009 à Paris, en France. Dédiée à la mémoire de la mère du créateur, la marque puise son inspiration dans une passion pour la culture. Les collections femme et homme font référence à l'art…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/jacquemus/stage-assistante-operations-retail-showroom-wholesale-h-f-paris-hq-ile-de-france-131411",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "21a9dd98257ac7eb",
+      "title": "Stage - Assistant(E) Coordination Studio (H/F) - Janvier 2027",
+      "company": "JACQUEMUS",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris HQ",
+        "region": null,
+        "country": "Île de France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "LA MAISON JACQUEMUS Jacquemus a été fondée par Simon Porte Jacquemus en 2009 à Paris, en France. Dédiée à la mémoire de la mère du créateur, la marque puise son inspiration dans une passion pour la culture. Les collections femme et homme font référence à l'art…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/jacquemus/stage-assistante-coordination-studio-h-f-janvier-2027-paris-hq-ile-de-france-369956",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "997e042eee1c76e8",
+      "title": "Stage - Assistant Visuel Merchandising - (H/F) - Septembre 2026 (6 Mois)",
+      "company": "JACQUEMUS",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris HQ",
+        "region": null,
+        "country": "Île de France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "LA MAISON JACQUEMUS Jacquemus a été fondé par Simon Porte Jacquemus en 2009 à Paris, en France. Dédiée à la mémoire de la mère du créateur, la marque puise son inspiration dans une passion pour la culture. Les collections femme et homme font référence à l’art …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/jacquemus/stage-assistant-visuel-merchandising-h-f-septembre-2026-6-mois-paris-hq-ile-de-france-187217",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b7b650e34a7f50a3",
+      "title": "Cdi - Responsable Qualite (H/F)",
+      "company": "JACQUEMUS",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris HQ",
+        "region": null,
+        "country": "Île de France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "LA MAISON JACQUEMUS Jacquemus a été fondée par Simon Porte Jacquemus en 2009 à Paris, en France. Dédiée à la mémoire de la mère du créateur, la marque puise son inspiration dans une passion pour la culture. Les collections femme et homme font référence à l'art…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/jacquemus/cdi-responsable-qualite-h-f-paris-hq-ile-de-france-390894",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a45cef70a844f135",
+      "title": "Cdi - Designer Maroquinerie (H/F)",
+      "company": "JACQUEMUS",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "LA MAISON JACQUEMUS Jacquemus a été fondé par Simon Porte Jacquemus en 2009 à Paris, en France. Dédiée à la mémoire de la mère du créateur, la marque puise son inspiration dans une passion pour la culture. Les collections femme et homme font référence à l’art …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/jacquemus/cdi-designer-maroquinerie-h-f-paris-40459",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c708df197284e587",
+      "title": "Cdi - 7H – Conseiller De Vente (H/F) – Montaigne",
+      "company": "JACQUEMUS",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Boutique Montaigne",
+        "region": null,
+        "country": "Île de France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "LA MAISON JACQUEMUS Jacquemus a été fondé par Simon Porte Jacquemus en 2009 à Paris, en France. Dédiée à la mémoire de la mère du créateur, la marque puise son inspiration dans une passion pour la culture. Les collections femme et homme font référence à l’art …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/jacquemus/cdi-7h-conseiller-de-vente-h-f-montaigne-boutique-montaigne-paris-ile-de-france-484096",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9ef01767f11b0c8c",
+      "title": "Cdd - Coordinateur Adv Wholesale & Retail (H/F)",
+      "company": "JACQUEMUS",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris HQ",
+        "region": null,
+        "country": "Île de France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sports",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "LA MAISON JACQUEMUS Jacquemus a été fondée par Simon Porte Jacquemus en 2009 à Paris, en France. Dédiée à la mémoire de la mère du créateur, la marque puise son inspiration dans une passion pour la culture. Les collections femme et homme font référence à l'art…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/jacquemus/cdd-coordinateur-adv-wholesale-retail-h-f-paris-hq-ile-de-france-243885",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2c55841d7dc53967",
+      "title": "Regional Marketing Intern",
+      "company": "Deliverect",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Deliverect, our API-first platform is revolutionizing commerce by providing a connected suite of on and off-premise solutions. We empower both the food and retail industries to expand their revenue and simplify their operations, creating seamless experience…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/deliverect/regional-marketing-intern-paris-25011",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ccce2d0c09927e2a",
+      "title": "Technical Advisor – Airframe & Engine",
+      "company": "Jetsupport",
+      "employmentType": "Internship",
+      "location": {
+        "city": "France",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About JSSI Founded in 1989 and headquartered in Chicago, Jet Support Services, Inc. (JSSI) is the largest independent provider of hourly cost maintenance programs for business aviation. JSSI delivers comprehensive coverage for engines, airframes, and auxiliary…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/jetsupport/technical-advisor-airframe-engine-france-378057",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5b591bdd7b9dcc87",
+      "title": "Commercial Sédentaire B2B (English/French)",
+      "company": "Ajax Systems",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ajax Systems est une entreprise technologique internationale et le plus grand fabricant de systèmes de sécurité en Europe, comptant plus de 4,5 millions d’utilisateurs finaux et 330 000 utilisateurs professionnels dans plus de 180 pays à travers le monde. L’en…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/ajax-systems/commercial-sedentaire-b2b-english-french-paris-158794",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "78c677ad0628c235",
+      "title": "B2B Marketing Specialist (France)",
+      "company": "Ajax Systems",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bordeaux",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ajax Systems is an international tech company and the largest manufacturer of security systems in Europe, with over 4.5 million end users and 330K PRO users in more than 180 countries worldwide. The company offers end-to-end solutions for protecting homes and …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/ajax-systems/b2b-marketing-specialist-france-bordeaux-199459",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3b17d72ba1d53a0e",
+      "title": "Area Pre-Sales Engineer France",
+      "company": "Ajax Systems",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Strasbourg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ajax Systems is an international tech company and the largest manufacturer of security systems in Europe, with over 4.5 million end users and 330K PRO users in more than 180 countries worldwide. The company offers end-to-end solutions for protecting homes and …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/ajax-systems/area-pre-sales-engineer-france-strasbourg-8630",
+      "source": "Arbeitnow"
+    },
     {
       "id": "530eab4701402197",
       "title": "Support Coordinators",
