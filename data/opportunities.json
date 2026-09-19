@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-19T18:02:26.471397+00:00",
+    "lastUpdated": "2026-09-19T20:42:22.434047+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -1476,9 +1476,9 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "4bf16328df74dbc3",
+      "id": "d968021781308656",
       "title": "Founding Engineer Intern",
-      "company": "SCAILE Technologies GmbH",
+      "company": "SCAILE TECHNOLOGIES GmbH",
       "employmentType": "Internship",
       "location": {
         "city": "Munich",
@@ -4758,6 +4758,294 @@
       },
       "summary": "Chez Withings, nous pensons qu’il est temps de redonner aux individus le contrôle de leur santé. Nous avons l’obsession de créer des produits beaux et au design non intrusif, afin que chacun puisse les utiliser facilement dans son quotidien ; nos balances conn…",
       "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/withings/international-key-account-manager-h-f-issy-les-moulineaux-271851",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e1bb4384a536241d",
+      "title": "Talent Scout / Recruiter (m/w/d) | 100 % Remote",
+      "company": "Claudia Buhl",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Schrobenhausen",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die besten Talente findet man nicht. Man erkennt sie. Wenn du Potenziale erkennst, gerne mit Menschen kommunizierst und Freude daran hast, Talente und Unternehmen erfolgreich zusammenzubringen, dann suchen wir genau dich. Bevor du weiterliest, möchten wir dir …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/claudia-buhl/talent-scout-recruiter-100-remote-schrobenhausen-490892",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7a17c334c528ccc1",
+      "title": "Senior Quality Systems Engineer, United Kingdom",
+      "company": "Andurilindustries",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defe…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-quality-systems-engineer-united-kingdom-london-246775",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "466be5d96642209e",
+      "title": "Mechanical Maintenance Technician",
+      "company": "Andurilindustries",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Sydney",
+        "region": null,
+        "country": "Australia",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defe…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/mechanical-maintenance-technician-sydney-australia-454617",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c7d13d278cfe4f93",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism",
+      "company": "Waymo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to imp…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/waymo/2027-summer-intern-ms-phd-machine-learning-simulation-realism-london-275889",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b9703dc8182a59e7",
+      "title": "Senior Quantum Scientist",
+      "company": "ionq",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Oxford",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About IonQ: IonQ, Inc . [NYSE: IONQ] is the world’s leading quantum platform and merchant supplier - delivering integrated quantum solutions across computing, networking, sensing, and security. IonQ’s newest generation of quantum computers, the IonQ Tempo, is …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ionq/senior-quantum-scientist-oxford-354633",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f47e7669c25898a7",
+      "title": "Android Engineer",
+      "company": "Monzo",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Cardiff",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": "an engineering manager who will meet with you every 1-2 weeks 1:1"
+      },
+      "summary": "🚀 We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/monzo/android-engineer-cardiff-337858",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e1745cf5945bb2a7",
+      "title": "Stage - Assistant.e Développement & Maintenance Retail H/F",
+      "company": "AMI PARIS",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Au sein du département Development, Operations & Maintenance , vous rejoindrez l'équipe Retail en charge du développement immobilier, du déploiement retail à l'international et de la maintenance des boutiques en Europe. Vous participerez activement à la gestio…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/ami-paris/stage-assistante-developpement-maintenance-retail-h-f-paris-463034",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e42a4b650655603d",
+      "title": "CDI - Responsable Logistique H/F",
+      "company": "AMI PARIS",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Allonne",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sports",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Le Responsable Logistique assure le lien permanent et opérationnel entre les équipes internes d'AMI Paris et le Prestataire Logistique externe situé à Allonne (Oise). Positionné au cœur des deux organisations, il maîtrise l'activité pour garantir la bonne réal…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/ami-paris/cdi-responsable-logistique-h-f-allonne-439063",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c31dede85ac8892e",
+      "title": "Stage - Assistant.e Buying / Retail Merchandising H/F",
+      "company": "AMI PARIS",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Au sein du pôle Buying de la maison AMI, l’assistant buying/retail merchandising intégrera une équipe au cœur de la performance produit dans un environnement international (Europe / Amérique du Nord) et omnicanal. Ce stage offre une immersion complète dans un …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/ami-paris/stage-assistante-buying-retail-merchandising-h-f-paris-326397",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "905bd07764e61941",
+      "title": "Stage - Assistant.e contrôle de gestion (international) H/F",
+      "company": "AMI PARIS",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Rattaché.e à l'équipe Contrôle de Gestion International, vous contribuez au suivi du chiffre d'affaires, à l’analyse de la performance des marchés et du canal retail. Vous serez amené(e) à : Participer aux clôtures mensuelles et aux exercices budgétaires Colle…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/ami-paris/stage-assistante-controle-de-gestion-international-h-f-paris-173591",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "84ae7ab566d28e14",
+      "title": "Account Manager, International",
+      "company": "Lemonway",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Lemonway is a licensed payment institution, at the heart of the new European economy. We secure payments for crowdfunding platforms, collaborative economy platforms, marketplaces, and e-merchants, with a strong commitment against fraud and to the protection of…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/lemonway/account-manager-international-paris-80627",
       "source": "Arbeitnow"
     },
     {
