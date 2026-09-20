@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-20T01:11:12.993969+00:00",
+    "lastUpdated": "2026-09-20T06:18:52.541103+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,3631 @@
     ]
   },
   "jobs": [
+    {
+      "id": "c89d779618acc97f",
+      "title": "Fullstack Software Engineer (m/w/d)",
+      "company": "Rhein Nadel Automation Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wer wir sind RNA Digital Solutions wurde 2016 als Industrial Tech Startup gegründet. Unsere Expertise liegt im Digitalen Maschinenbau und wir beschäftigen uns insbesondere mit der digitalen Auslegung und Herstellung automatisierter Zuführlösungen. In 2021 erfo…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/rhein-nadel-automation-gmbh/fullstack-software-engineer-munchen-15638",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e5871ff4ccf2b2d6",
+      "title": "Senior AI Architect & Consultant (m/w/d)",
+      "company": "Mayflower",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wer wir sind Die Mayflower GmbH baut Individualsoftware mit Fokus auf Generative AI – seit 1998 inhabergeführt. Wir bringen komplette AI-Infrastrukturen in Produktion: Model-Serving, Agent-Gateways, Chat und Voice – direkt in der Umgebung des Kunden. Dich erwa…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/mayflower/senior-ai-architect-consultant-munchen-492553",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "19fd89be5e74a96c",
+      "title": "Senior Engineer (m/w/d) — On-Site & Vollzeit",
+      "company": "Fulfin",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Intro Wir machen Unternehmensfinanzierung einfacher: digital, schnell und mit zunehmend intelligenten Lösungen. Mehr als 7.500 Unternehmerinnen und Unternehmer nutzen fulfin bereits. Zur Verstärkung unseres Tech Teams suchen zum sofortigen Start einen Senior E…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/fulfin/senior-engineer-on-site-vollzeit-munchen-19080",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b08b8b4454010ec7",
+      "title": "Product Manager – Platform Experience & Cloud Administration (m/f/d)",
+      "company": "Jedox GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Freiburg im Breisgau",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What is Jedox? Jedox is a leading provider of Enterprise Performance Management (EPM) solutions, helping organizations plan, analyze, and drive business performance with confidence. More than 2,000 companies worldwide, from ambitious mid-sized businesses to gl…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/jedox-gmbh/product-manager-platform-experience-cloud-administration-freiburg-im-breisgau-38417",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0e330aa2a5430dfb",
+      "title": "Software Engineer (all genders)",
+      "company": "Raysono",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Digital transformation support As part of our agile teams, you set new standards and celebrate real successes with your colleagues. Our projects are as wide-ranging and diverse as the challenges our customers face: from strategic experience design and digital …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/raysono/software-engineer-all-genders-munchen-111870",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "eb05855f4b92bb12",
+      "title": "Senior Architect (all genders)",
+      "company": "Raysono",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Digital transformation support As part of our agile teams, you set new standards and celebrate real successes together. Our projects are as wide-ranging and diverse as the challenges our customers face: From strategic experience design and digital communicatio…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/raysono/senior-architect-all-genders-munchen-318990",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5be0997e8c496938",
+      "title": "Account Executive – Central Europe (DACH)",
+      "company": "Bazaarvoice",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Bazaarvoice At Bazaarvoice, we create smart shopping experiences. Through our expansive global network, product-passionate community & enterprise technology, we connect thousands of brands and retailers with billions of consumers. Our solutions enable br…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/bazaarvoice/account-executive-central-europe-dach-munich-492052",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "267d3b7ea9ca3402",
+      "title": "Data Scientist (f/m/d)",
+      "company": "Think Cell",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Data Scientist - Join Our Innovative Team at think-cell Software Our Story At thinkcell, we create powerful software solutions that help professionals be more efficient and productive. Founded in 2002 and based in Berlin, our tools integrate seamlessly with Mi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/think-cell/data-scientist-168277",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c9fdfbff81f7cbe5",
+      "title": "Working Student - Logistics (f/m/d)",
+      "company": "Instagrid",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Ludwigsburg",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Instagrid, you are part of the clean-tech revolution by bringing pure energy into your region, helping professional workers transitioning away from combustion generators and making it possible for them to experience a safe, efficient, clean and silent energ…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/instagrid/working-student-logistics-ludwigsburg-350101",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "382435b67639d95b",
+      "title": "Freiberufliche(r) Trainer/-In (m/w/d) für Microsoft Office Anwendungen (vor Ort)",
+      "company": "Comhard Gesellschaft für Bildung und Personalentwicklung mbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Passionierte, freiberufliche Dozentinnen bzw. Dozenten im EDV-Bereich gesucht! Engagieren Sie sich in der Fortbildung Erwachsener mit Freiraum für kreative Lehrmethoden. Zur Verstärkung unseres Teams suchen wir engagierte EDV-Trainerinnen und Trainer auf freib…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/comhard-gesellschaft-fur-bildung-und-personalentwicklung-mbh/freiberuflicher-trainer-in-fur-microsoft-office-anwendungen-vor-ort-berlin-323827",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3e7184baf8357308",
+      "title": "Business Data Analyst Finance & Requirements Management (m/w/d)",
+      "company": "Aer Group",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin Boppstr.",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben: Du verstehst Geschäftsprozesse, denkst analytisch und kannst komplexe Anforderungen verständlich strukturieren? Du bewegst Dich sicher zwischen Fachbereichen und technischen Teams und hast Freude daran, aus Daten und Anforderungen tragfähige Lö…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/aer-group/business-data-analyst-finance-requirements-management-berlin-boppstr-117321",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2a20ec199bae5c43",
+      "title": "Working Student | Accounting & Finance (m/f/d)",
+      "company": "TWAICE",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Hybrid",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the role As renewable energy reshapes the global power system, batteries are taking center stage. Making them safe, reliable, and bankable at scale is a defining challenge of the energy transition. At TWAICE, our software turns battery data into insights…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/twaice/working-student-accounting-finance-munich-hybrid-470843",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0d95aa0b4d7fc6d6",
+      "title": "Senior Consultant Energy Markets & Economics (all genders)",
+      "company": "Meteocontrol",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission: Preparation of market analyses, economic assessments and expert reports for PV, BESS and hybrid projects Analysis of electricity markets, market mechanisms and regulatory frameworks within the European energy sector Evaluation of business models,…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/meteocontrol/senior-consultant-energy-markets-economics-all-genders-berlin-244149",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4e58965e53d32516",
+      "title": "Senior Consultant Energy Markets & Economics (all genders)",
+      "company": "Meteocontrol",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Augsburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission: Preparation of market analyses, economic assessments and expert reports for PV, BESS and hybrid projects Analysis of electricity markets, market mechanisms and regulatory frameworks within the European energy sector Evaluation of business models,…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/meteocontrol/senior-consultant-energy-markets-economics-all-genders-augsburg-126793",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c87d1da74b07039c",
+      "title": "Werkstudent:in Onboarding und & Prozessmanagement (m/w/d)",
+      "company": "doctari GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns Planerio revolutioniert das Workforce-Management im Gesundheitswesen. Mit unserer KI-basierten Software, der Smartphone-App und unserem technologischen Vorsprung digitalisieren und automatisieren wir alle Prozesse rund um den Personaleinsatz. Damit er…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/doctari-gmbh/werkstudentin-onboarding-und-prozessmanagement-munchen-300289",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e4c86b77ae0dc4a6",
+      "title": "Product Owner (m/w/d) - Customer Domain",
+      "company": "doctari GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns Seit 2008 arbeiten wir mit unseren vier Marken doctari, lichtfeld, Planerio und arztpool an unserer Vision, medizinisches Personal dorthin zu bringen, wo es am dringendsten benötigt wird. doctari pro ist unsere B2B-Buchungsplattform für Personalverant…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/doctari-gmbh/product-owner-customer-domain-munchen-169055",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "988d1eb49dc886d7",
+      "title": "Senior Online Marketing Manager – Fokus Media und Performance (m/w/d)",
+      "company": "Zebragroup",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Dresden",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "DAS SIND WIR Du möchtest in einem innovativen Umfeld arbeiten, in dem kreative Ideen gemeinsam umgesetzt und weiterentwickelt werden? Du suchst ein Team, das von Leidenschaft für Design und Kommunikation lebt und spannende Projekte für namhafte Kunden realisie…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/zebragroup/senior-online-marketing-manager-fokus-media-und-performance-dresden-33273",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d9066b68ad7c3b77",
+      "title": "Senior Technical Account Manager (UK)",
+      "company": "Dragos",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Dragos, the mission is personal. The systems we protect deliver the water you drink, power your home, and keep the hospitals your community depends on running. Those critical infrastructure systems that power our civilization around the world are under atta…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/dragos/senior-technical-account-manager-uk-434346",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "99c707aab83ce845",
+      "title": "AI Researcher, LLMs",
+      "company": "Wehrtyou",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hudson River Trading (HRT) is seeking an LLM-focused AI Researcher to join the HAIL team. HAIL (HRT AI Labs) is the team at HRT responsible for developing and maintaining our most powerful AI models, which are used by our trading teams to drive a significant f…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/ai-researcher-llms-london-187579",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b654e4785c5a30c3",
+      "title": "Marketing campaign intern (Danish Speaker)",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking for a 6-month internship starting January? We have good news for you. If you are an aspiring entrepreneur, looking for an internship in a fast-paced company, this would be your opportunity to be part of our marketing department. You can get a b…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/marketing-campaign-intern-danish-speaker-london-170311",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "aaed28e98dbf22ed",
+      "title": "Event marketing internship (paid) at United Media",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking for a 4-month internship starting as soon as possible? We have good news for you. If you are an aspiring entrepreneur, looking for an internship in a fast-paced company, this would be your opportunity of being part of our marketing department a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/event-marketing-internship-paid-at-united-media-london-276544",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1f410ce9612295f4",
+      "title": "Event marketing internship (paid) at United Media",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking for a 4-month internship starting as soon as possible? We have good news for you. If you are an aspiring entrepreneur, looking for an internship in a fast-paced company, this would be your opportunity of being part of our marketing department a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/event-marketing-internship-paid-at-united-media-london-356399",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "856574e626466b66",
+      "title": "Email Marketing Associate at United Media",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing?…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/email-marketing-associate-at-united-media-london-411947",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c66eb698e41c23c5",
+      "title": "Email Marketing Associate at United Media",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/email-marketing-associate-at-united-media-london-459746",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "578fc06e95c3119e",
+      "title": "Email Marketing Analyst at United Media",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing?…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/email-marketing-analyst-at-united-media-london-462857",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c0363141798caed1",
+      "title": "Email Content Manager at United Media",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing?…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/email-content-manager-at-united-media-london-100233",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d3dfe0a7abfb9340",
+      "title": "Email Channel Manager at United Media",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing?…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/email-channel-manager-at-united-media-london-217404",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a97c24fa4219e1b8",
+      "title": "Email Campaign Specialist at United Media",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing?…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/email-campaign-specialist-at-united-media-london-208219",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "499db2d2a1368b73",
+      "title": "Email campaign Manager at United Media",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing?…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/email-campaign-manager-at-united-media-london-308843",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "be2ef5d63992e42f",
+      "title": "Email Campaign Associate at United Media",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/email-campaign-associate-at-united-media-london-86225",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1da4cf29f73ad892",
+      "title": "Danish Speaker email marketing internship",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking for a 6-month internship starting January? We have good news for you. If you are an aspiring entrepreneur, looking for an internship in a fast-paced company, this would be your opportunity to be part of our marketing department. You can get a b…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/danish-speaker-email-marketing-internship-london-20527",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fc1fb52900cfe13d",
+      "title": "CRM Email Strategist at United Media",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing?…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/crm-email-strategist-at-united-media-london-279653",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7871d67fbf513677",
+      "title": "CEO-In-Training",
+      "company": "Unitedmedia",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you an aspiring leader who wants to fast-track your path to a CEO or CXO role? At United Media Group, we’re building the next generation of business leaders through our CEO-In-Training program. A unique program for people who want responsibility early on a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/ceo-in-training-london-403842",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1d96bf85d20ca1fe",
+      "title": "Webinar Associate at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/webinar-associate-at-retail-insights-london-205984",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c6b327f7a25c4aa2",
+      "title": "University Recruiter at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? And are you curious or passionate about people? If so, yo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/university-recruiter-at-retail-insights-london-1903",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "417a3fea7324ddb3",
+      "title": "Talent Recruiter at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? And are you curious or passionate about people? If so, yo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/talent-recruiter-at-retail-insights-london-141992",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "eec199c1e6ab3764",
+      "title": "Sponsorship Sales Manager at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you someone who thrives in a fast-paced environment, where you are given the autonomy and support to handle large amounts of responsibility? Are you looking for the opportunity to accelerate your sales career whilst also being surrounded by an exceptional …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/sponsorship-sales-manager-at-retail-insights-london-387837",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "11fcab131b55cbc1",
+      "title": "Speaker Associate at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/speaker-associate-at-retail-insights-london-240231",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9fe0e95e32228aaa",
+      "title": "Social Media Growth Associate at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/social-media-growth-associate-at-retail-insights-london-197820",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "79dad578e6085d69",
+      "title": "Social Media Coordinator at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/social-media-coordinator-at-retail-insights-london-157110",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0dc34a90d2913e7d",
+      "title": "Social Media Associate at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/social-media-associate-at-retail-insights-london-85645",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e2f905885d966fdf",
+      "title": "SDR at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about creating events? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/sdr-at-retail-insights-london-126388",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "31641c0017558452",
+      "title": "Sales Internship at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking for challenges within an exceptional entrepreneurial team with young, motivated and extremely driven people? If so, now is the time to apply for our Internship Program in London. Why Retail Insights We fundamentally believe our people are our g…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/sales-internship-at-retail-insights-london-139171",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0bb7f322d14ff41e",
+      "title": "Sales Executive at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment where you can take on responsibility from day one? Do you want to be part of an ambitious, entrepreneurial team? And are you excited about building a successful career in sales? About us Retail Insights is Northern Eur…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/sales-executive-at-retail-insights-london-148280",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "29dbde3d7684e6e2",
+      "title": "Sales Development Representative at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about creating events? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/sales-development-representative-at-retail-insights-london-315045",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2e5eb745cf2f4f51",
+      "title": "Recruiter Coordinator at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? And are you curious or passionate about people? If so, yo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/recruiter-coordinator-at-retail-insights-london-306451",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a77a160bbafbf0b2",
+      "title": "Recruiter consultant at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": "senior recruitment and to the CEO What we expect from you We do expect you to: Have acquired a bache"
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about people? If so, you mi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/recruiter-consultant-at-retail-insights-london-431000",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "71946ee5be7a59ca",
+      "title": "Recruiter at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? And are you curious or passionate about people? If so, yo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/recruiter-at-retail-insights-london-458881",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fcad45ce993ba2c0",
+      "title": "Recruiter Associate at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? And are you curious or passionate about people? If so, yo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/recruiter-associate-at-retail-insights-london-93734",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0b7b974ad66e7b1e",
+      "title": "Project Management Internship at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking for challenges within an exceptional entrepreneurial team with young, motivated and extremely driven people? If so, now is the time to apply for our Internship Program in London. Why Retail Insights We fundamentally believe our people are our g…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/project-management-internship-at-retail-insights-london-42234",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9eed31c319c48ec7",
+      "title": "Project Management - Conference Producer at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/project-management-conference-producer-at-retail-insights-london-123153",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "96f17e27cb14894f",
+      "title": "New Business Executive at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment where you can take on responsibility from day one? Do you want to be part of an ambitious, entrepreneurial team? And are you excited about building a successful career in sales? About us Retail Insights is Northern Eur…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/new-business-executive-at-retail-insights-london-99573",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "171977771d2572a0",
+      "title": "Marketing Internship at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking for challenges within an exceptional entrepreneurial team with young, motivated and extremely driven people? If so, now is the time to apply for our Internship Program in London. Why Retail Insights We fundamentally believe our people are our g…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/marketing-internship-at-retail-insights-london-360670",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "baa4a71c3e8007e2",
+      "title": "Marketing campaign intern (Danish Speaker)",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking for a 6-month internship starting January? We have good news for you. If you are an aspiring entrepreneur, looking for an internship in a fast-paced company, this would be your opportunity to be part of our marketing department. You can get a b…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/marketing-campaign-intern-danish-speaker-london-324764",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5d1283ab1cd6e114",
+      "title": "Marketing Associate at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/marketing-associate-at-retail-insights-london-2992",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9c0b3d61caab68ea",
+      "title": "Management Consulting Internship at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking for challenges within an exceptional entrepreneurial team with young, motivated and extremely driven people? If so, now is the time to apply for our Internship Program in London. Why Retail Insights We fundamentally believe our people are our g…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/management-consulting-internship-at-retail-insights-london-145540",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d62f1e5a723c3fff",
+      "title": "Management Associate at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you ready to unleash your entrepreneurial spirit and be a part of an exciting start-up revolution as the main driver for its growth and success? About us Retail Insights is Northern Europe’s leading retail forum. We are strengthening the retail ecosystem b…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/management-associate-at-retail-insights-london-442312",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "623eeac857463e95",
+      "title": "LinkedIn Copywriting Executive at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/linkedin-copywriting-executive-at-retail-insights-london-208407",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "088ab8cc845bf4dd",
+      "title": "LinkedIn Copywriting Associate at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/linkedin-copywriting-associate-at-retail-insights-london-114310",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "27d6c4c9b3e7b3ad",
+      "title": "LinkedIn Content Associate at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/linkedin-content-associate-at-retail-insights-london-100725",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "06cc7a3c66ce3f15",
+      "title": "Global Partnerships Manager at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you someone who thrives in a fast-paced environment, where you are given the autonomy and support to handle large amounts of responsibility? Are you looking for the opportunity to accelerate your sales career whilst also being surrounded by an exceptional …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/global-partnerships-manager-at-retail-insights-london-430632",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "89a97d5a1b20f6c4",
+      "title": "Global Internship Program at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking for challenges within an exceptional entrepreneurial team with young, motivated and extremely driven people? If so, now is the time to apply for our Internship Program in London. Why Retail Insights We fundamentally believe our people are our g…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/global-internship-program-at-retail-insights-london-442215",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9ae5a04e3344df83",
+      "title": "Global Consulting Internship at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking for challenges within an exceptional entrepreneurial team with young, motivated and extremely driven people? If so, now is the time to apply for our Internship Program in London. Why Retail Insights We fundamentally believe our people are our g…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/global-consulting-internship-at-retail-insights-london-157668",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6fdd17d70ca1da58",
+      "title": "Global Business Operations Internship at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking for challenges within an exceptional entrepreneurial team with young, motivated and extremely driven people? If so, now is the time to apply for our Internship Program in London. Why Retail Insights We fundamentally believe our people are our g…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/global-business-operations-internship-at-retail-insights-london-110214",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "62028fca3b09a960",
+      "title": "Founder Associate at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you ready to unleash your entrepreneurial spirit and be a part of an exciting start-up revolution as the main driver for its growth and success? About us Retail Insights is Northern Europe’s leading retail forum. We are strengthening the retail ecosystem b…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/founder-associate-at-retail-insights-london-361450",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7641b3aba7b9ed8c",
+      "title": "Financial accountant at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finance? I…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/financial-accountant-at-retail-insights-london-183063",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1c9b40b41af2e9a1",
+      "title": "Staff Security GRC Engineer",
+      "company": "mozilla",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Why Mozilla? Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people arou…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/mozilla/staff-security-grc-engineer-498280",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bbbf7873b84fad54",
+      "title": "Stage Consultant Média International F/H",
+      "company": "wppmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/wppmedia/stage-consultant-media-international-f-h-paris-428541",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bbab625a325dea23",
+      "title": "Stage Consultant Média International F/H",
+      "company": "wppmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/wppmedia/stage-consultant-media-international-f-h-paris-78679",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2803d9f4da6a2ae9",
+      "title": "Stage Consultant Média F/H",
+      "company": "wppmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/wppmedia/stage-consultant-media-f-h-paris-88596",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7dc3b82b143ae5b7",
+      "title": "Stage Consultant Média F/H",
+      "company": "wppmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/wppmedia/stage-consultant-media-f-h-paris-273426",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "57dd7811b03a5422",
+      "title": "Stage Consultant Média F/H",
+      "company": "wppmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/wppmedia/stage-consultant-media-f-h-paris-328686",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c038c418f4f71b06",
+      "title": "Programmatic Account Manager H/F - CDI",
+      "company": "wppmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/wppmedia/programmatic-account-manager-h-f-cdi-paris-254783",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d7739a242c7fb0a9",
+      "title": "Client Lead Paid Social - Luxury Client Team - F/H - CDI",
+      "company": "wppmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/wppmedia/client-lead-paid-social-luxury-client-team-f-h-cdi-paris-431531",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6a81183ba5b7b257",
+      "title": "Enterprise Sales Engineer - France",
+      "company": "chainguard",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/chainguard/enterprise-sales-engineer-france-373143",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9e2f574342accbed",
+      "title": "E-invoicing & EDI Integration Engineer (f/m/d) - with English and German/French/Italian",
+      "company": "ecosio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": "Poland - Remote",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirec…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/ecosio/remote-e-invoicing-edi-integration-engineer-with-english-and-german-french-italian-484506",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c9ff3bdebf7cdcef",
+      "title": "Electronics Process Engineer",
+      "company": "Secheron S Dot A",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Lyon",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Sécheron Hasler Group continues the Swiss tradition of over 140 years in the field of railway technology. We are a leading global supplier of electrical and electronic safety components and solutions and traction power systems for the railway industry and also…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/secheron-s-dot-a/electronics-process-engineer-lyon-323538",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "16d660925fc0c57f",
+      "title": "Electronics Industrialization Engineer",
+      "company": "Secheron S Dot A",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Lyon",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Sécheron Hasler Group continues the Swiss tradition of over 140 years in the field of railway technology. We are a leading global supplier of electrical and electronic safety components and solutions and traction power systems for the railway industry and also…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/secheron-s-dot-a/electronics-industrialization-engineer-lyon-169722",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "660e166715ff7db4",
+      "title": "Stage Communication – Stratégie événementielle & coordination (Adopt AI)",
+      "company": "Artefactjobs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Artefact Open Innovation est une entité du groupe Artefact spécialisée dans l’ acculturation et l’adoption des nouvelles technologies , avec un focus particulier sur la data et l’intelligence artificielle . Nous accompagnons les grands groupes dans la transfor…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-communication-strategie-evenementielle-coordination-adopt-ai-9th-arrondissement-of-paris-75009-paris-26661",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3b18a35ed99d2326",
+      "title": "Stage Communication – Stratégie & création de contenus (Adopt AI)",
+      "company": "Artefactjobs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Durée : 6 mois – Temps plein Période : à partir de septembre 2026 Localisation : Paris 9e Encadré par : la responsable communication de l’événement À propos d’Adopt AI – Grand Palais Les 3 et 4 décembre 2026 , Artefact Open Innovation organise la 3ᵉ édition d’…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-communication-strategie-creation-de-contenus-adopt-ai-9th-arrondissement-of-paris-75009-paris-312880",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c72682a4eef28ac2",
+      "title": "Stage – Chef(fe) de projet relations publiques et internationales (F/H/D)",
+      "company": "Artefactjobs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Vous êtes étudiant(e) en Master avec une forte appétence pour les relations publiques et internationales ? Vous avez des compétences en gestion de projet ? Rejoignez Artefact Open Innovation et contribuez au développement et dimensionnement international de no…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-cheffe-de-projet-relations-publiques-et-internationales-9th-arrondissement-of-paris-75009-paris-145849",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e4371b8269a8fc11",
+      "title": "Assistant.e Chef(fe) de projet évènementiel (stage)",
+      "company": "Artefactjobs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Étudiant.e en Master, passionné.e par l’innovation et l’intelligence collective, vous êtes à la recherche d’un stage de fin d’étude ou équivalent de 6 mois? Nous vous proposons d'accompagner notre équipe “Ideate & Achieve”, sur la création de programmes d’intr…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/assistante-cheffe-de-projet-evenementiel-stage-9th-arrondissement-of-paris-75009-paris-317547",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ee6cd9e12fc00ac6",
+      "title": "Ingénieur Support Technique - Vidéo F/H/X",
+      "company": "Genetec Inc",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Orléans",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ingénieur Support Technique / Technical Support Engineer Le poste peut être basé depuis notre bureau de Paris ou d’Orléans 🌍 Genetec - Protect the everyday Entreprise canadienne rayonnante à l'international, nous sommes animé(e)s par l'innovation et doté(e)s d…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/genetec-inc/ingenieur-support-technique-video-orleans-304298",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d289957e23f2c384",
+      "title": "Ingénieur Support Technique - Vidéo F/H/X",
+      "company": "Genetec Inc",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ingénieur Support Technique / Technical Support Engineer Le poste peut être basé depuis notre bureau de Paris ou d’Orléans 🌍 Genetec - Protect the everyday Entreprise canadienne rayonnante à l'international, nous sommes animé(e)s par l'innovation et doté(e)s d…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/genetec-inc/ingenieur-support-technique-video-paris-256063",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ba7427d63b80b819",
+      "title": "Finance Junior at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finance? I…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/finance-junior-at-retail-insights-london-376366",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "728555f207e1e06d",
+      "title": "Finance executive at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finance? I…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/finance-executive-at-retail-insights-london-53874",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9e39cde398ea9cc6",
+      "title": "Finance Associate  at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finance? I…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/finance-associate-at-retail-insights-london-329857",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "59cf41bda9bcc105",
+      "title": "Executive Producer at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/executive-producer-at-retail-insights-london-312992",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "29473653b977e34d",
+      "title": "Events Management - Content at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/events-management-content-at-retail-insights-london-184545",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "863ff915ebcf00f8",
+      "title": "Entry Level Content Writer at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/entry-level-content-writer-at-retail-insights-london-171748",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "546c11266ef58d5e",
+      "title": "Entrepreneur in Residence Internship at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking for challenges within an exceptional entrepreneurial team with young, motivated and extremely driven people? If so, now is the time to apply for our Internship Program in London. Why Retail Insights We fundamentally believe our people are our g…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/entrepreneur-in-residence-internship-at-retail-insights-london-318371",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3888957c80d0760b",
+      "title": "Email Marketing Associate at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing?…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/email-marketing-associate-at-retail-insights-london-2538",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bd7695c59265bf94",
+      "title": "Email Marketing Associate at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/email-marketing-associate-at-retail-insights-london-355021",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "978e98dd54b7e869",
+      "title": "Email Marketing Analyst at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing?…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/email-marketing-analyst-at-retail-insights-london-85493",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "38ffcf0e209c1de8",
+      "title": "Email Content Manager at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing?…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/email-content-manager-at-retail-insights-london-44499",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "651dbb753644fff5",
+      "title": "Email Channel Manager at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing?…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/email-channel-manager-at-retail-insights-london-218742",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "40563011a39e51c6",
+      "title": "Email Campaign Specialist at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing?…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/email-campaign-specialist-at-retail-insights-london-378284",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9f758c605732df37",
+      "title": "Email campaign Manager at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing?…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/email-campaign-manager-at-retail-insights-london-278969",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c857f93034ce2bed",
+      "title": "Email Campaign Associate at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/email-campaign-associate-at-retail-insights-london-20769",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bd56a8744e3a2e79",
+      "title": "Digital Marketing Coordinator at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing?…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/digital-marketing-coordinator-at-retail-insights-london-357859",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f02fd08392316f96",
+      "title": "Danish Speaker email marketing internship",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking for a 6-month internship starting January? We have good news for you. If you are an aspiring entrepreneur, looking for an internship in a fast-paced company, this would be your opportunity to be part of our marketing department. You can get a b…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/danish-speaker-email-marketing-internship-london-403958",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d87df9f026031c63",
+      "title": "CRM Email Strategist at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing?…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/crm-email-strategist-at-retail-insights-london-119516",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "698ae88c4e16f04a",
+      "title": "Content Marketing Specialist at Retail insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finance? I…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/content-marketing-specialist-at-retail-insights-london-174618",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "acd43b74b2df4f20",
+      "title": "Content Associate at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/content-associate-at-retail-insights-london-376825",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c3ff9fa55e389761",
+      "title": "Conference Producer at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/conference-producer-at-retail-insights-london-107601",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c794cf0784322e12",
+      "title": "Conference Marketing Associate at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/conference-marketing-associate-at-retail-insights-london-1327",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4c877ef72b406c54",
+      "title": "Conference Agenda Associate at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/conference-agenda-associate-at-retail-insights-london-1280",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "331689cf49a14459",
+      "title": "CMO at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/cmo-at-retail-insights-london-63170",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2ba10f3f47192803",
+      "title": "Client Success Manager at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About us Retail Insights is Northern Europe’s leading retail forum. We are strengthening the retail ecosystem by building a platform for insights, inspiration, and networking, connecting more than 3,000 leaders yearly from more than 15 countries. Retail Insigh…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/client-success-manager-at-retail-insights-london-9762",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e24583dc8a7e514f",
+      "title": "Client Success Associate at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About us Retail Insights is Northern Europe’s leading retail forum. We are strengthening the retail ecosystem by building a platform for insights, inspiration, and networking, connecting more than 3,000 leaders yearly from more than 15 countries. Retail Insigh…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/client-success-associate-at-retail-insights-london-67906",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "751c1b11eabdd36f",
+      "title": "CCO at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/cco-at-retail-insights-london-96228",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "42ceecb12d11b077",
+      "title": "Business Development Executive at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment where you can take on responsibility from day one? Do you want to be part of an ambitious, entrepreneurial team? And are you excited about building a successful career in sales? About us Retail Insights is Northern Eur…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/business-development-executive-at-retail-insights-london-474451",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e2deabce52fdc2b3",
+      "title": "Business Analyst Internship at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking for challenges within an exceptional entrepreneurial team with young, motivated and extremely driven people? If so, now is the time to apply for our Internship Program in London. Why Retail Insights We fundamentally believe our people are our g…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/business-analyst-internship-at-retail-insights-london-214790",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "02f33d612b70ecf4",
+      "title": "Brand Management Associate at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/brand-management-associate-at-retail-insights-london-454314",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7e5864cf77a913b7",
+      "title": "Bookkeeper and Credit controller at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finance? I…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/bookkeeper-and-credit-controller-at-retail-insights-london-241904",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ee4570390c37ebe3",
+      "title": "Associate at Retail Insights",
+      "company": "Retailinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/associate-at-retail-insights-london-271495",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ce12a3e3a2e3de6a",
+      "title": "Account Executive with French",
+      "company": "Sevenroomsuk",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the Team The Sales team at SevenRooms is on a mission to reshape the hospitality industry by empowering operators to take control of their guest relationships. We’re a passionate, high-performing group of go-getters who act as trusted advisors to restaur…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/sevenroomsuk/account-executive-with-french-london-74968",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f3198e1283f3efeb",
+      "title": "Back End Engineer - Partner Flow",
+      "company": "iwoca",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Back End Engineer - Partner Flow Team Hybrid in London / Remote within the UK We’re looking for a Back End Engineer to join the Partner Flow team. This role is a chance to shape how thousands of small businesses find their way to iwoca. You'll join the team th…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/back-end-engineer-partner-flow-london-405701",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "349c774308987c5e",
+      "title": "Engineering Manager – Growth Foundations",
+      "company": "Kraken",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Building the Future of Open Finance Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure pl…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/kraken/engineering-manager-growth-foundations-london-285089",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f77d85239e6a7379",
+      "title": "Marketing campaign intern (Danish Speaker)",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking for a 6-month internship starting January? We have good news for you. If you are an aspiring entrepreneur, looking for an internship in a fast-paced company, this would be your opportunity to be part of our marketing department. You can get a b…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/marketing-campaign-intern-danish-speaker-london-340809",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "db889f6f9e8a602d",
+      "title": "Email Marketing Associate at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing?…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/email-marketing-associate-at-setsales-london-481144",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "66464db88c7d8203",
+      "title": "Email Marketing Associate at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/email-marketing-associate-at-setsales-london-140383",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e2b4ee4d3d6bbb56",
+      "title": "Email Marketing Analyst at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing?…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/email-marketing-analyst-at-setsales-london-283948",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "effcb7f1163991ec",
+      "title": "Email Content Manager at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing?…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/email-content-manager-at-setsales-london-138884",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9a3b6896b56f6412",
+      "title": "Email Channel Manager at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing?…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/email-channel-manager-at-setsales-london-232111",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "55e8d8c4c6387b89",
+      "title": "Email Campaign Specialist at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing?…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/email-campaign-specialist-at-setsales-london-235783",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "212ed83f05e35bd5",
+      "title": "Email campaign Manager at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing?…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/email-campaign-manager-at-setsales-london-291099",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "93e88617be9c6497",
+      "title": "Email Campaign Associate at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/email-campaign-associate-at-setsales-london-427022",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6b493fa0534c7927",
+      "title": "Danish Speaker email marketing internship",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking for a 6-month internship starting January? We have good news for you. If you are an aspiring entrepreneur, looking for an internship in a fast-paced company, this would be your opportunity to be part of our marketing department. You can get a b…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/danish-speaker-email-marketing-internship-london-33647",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "750598471bb7370f",
+      "title": "CRM Email Strategist at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing?…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/crm-email-strategist-at-setsales-london-102655",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "037033d7d35faa40",
+      "title": "Marketing campaign intern (Danish Speaker)",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking for a 6-month internship starting January? We have good news for you. If you are an aspiring entrepreneur, looking for an internship in a fast-paced company, this would be your opportunity to be part of our marketing department. You can get a b…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/marketing-campaign-intern-danish-speaker-london-361581",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "aac516c4d0e7ab22",
+      "title": "Email Marketing Associate at CFO Insights",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/email-marketing-associate-at-cfo-insights-london-18490",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0aa4a59a7ea1a874",
+      "title": "Email Marketing Associate at CFO Insights",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? Are you curious or passionate about marketing? If …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/email-marketing-associate-at-cfo-insights-london-123573",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8f9a283e28f78e6e",
+      "title": "Email Marketing Analyst at CFO Insights",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? Are you curious or passionate about marketing? If …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/email-marketing-analyst-at-cfo-insights-london-331514",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "29ff13ca59721d23",
+      "title": "Email Content Manager at CFO Insights",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? Are you curious or passionate about marketing? If …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/email-content-manager-at-cfo-insights-london-363129",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "08b096c2eb13d785",
+      "title": "Email Channel Manager at CFO Insights",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? Are you curious or passionate about marketing? If …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/email-channel-manager-at-cfo-insights-london-372909",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2b3c7a779fb0a1a9",
+      "title": "Email Campaign Specialist at CFO Insights",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? Are you curious or passionate about marketing? If …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/email-campaign-specialist-at-cfo-insights-london-22948",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "83d594cb818836be",
+      "title": "Email campaign Manager at CFO Insights",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? Are you curious or passionate about marketing? If …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/email-campaign-manager-at-cfo-insights-london-35457",
+      "source": "Arbeitnow"
+    },
     {
       "id": "01fd64b31ea691df",
       "title": "Onboarding Manager:in (w/m/d)",
