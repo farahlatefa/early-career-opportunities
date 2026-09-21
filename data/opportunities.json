@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-21T19:29:25.277751+00:00",
+    "lastUpdated": "2026-09-21T23:18:00.903572+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -6285,6 +6285,1400 @@
       },
       "summary": "Our story: Every year millions of people are either filing their taxes in fear or giving up on their tax refund altogether. We're working on fixing that. Our intuitive app enables anyone, regardless of education or background, to file their taxes with newfound…",
       "applicationUrl": "https://www.arbeitnow.com/jobs/companies/taxfix/ai-first-builder-product-management-berlin-126442",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "55764f46379cc9d6",
+      "title": "Embedded Softwareentwickler (m/w/d)",
+      "company": "ICT Digital Solutions",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt einen Embedded Softwareentwickler (m/w/d) am Standort München oder hybrid. Deine Aufgaben Entwicklung und Implementierung von Embedded-Softwarelösungen in C und C++ Programmierung von Mikro…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/embedded-softwareentwickler-munich-230480",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a49c946a19911201",
+      "title": "Werkstudent Marketing & Communications",
+      "company": "AI for Hamburg GmbH / AI.FUND GmbH / AI.IMPACT GmbH / AI.GROUP GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die AI GROUP ist ein Unternehmen, das sich darauf spezialisiert hat, Künstliche Intelligenz in der Wirtschaft zu fördern und Unternehmen mit internationaler KI-Expertise zu unterstützen. Das Ziel ist es, die Einführung von KI zu beschleunigen und die Lücke zwi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ai-for-hamburg-gmbh-aifund-gmbh-aiimpact-gmbh-aigroup-gmbh/werkstudent-marketing-communications-hamburg-50824",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "166b4d6b4c8c8516",
+      "title": "Founders Associate - Engagement Innovation (all genders)",
+      "company": "JustPlay GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin (Hybrid)",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "JustPlay is looking for an experienced and business-oriented Founders Associate - Engagement Innovation to help us make JustPlay app ecosystem dramatically more fun, exciting and engaging. You'll work directly with our founders across every product team, const…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/justplay-gmbh/founders-associate-engagement-innovation-all-genders-berlin-421793",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a5ef0af7b572fd00",
+      "title": "SMTS - Process Engineer CMP (f/m/d)",
+      "company": "Black Semiconductor GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Aachen",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Role Black Semiconductor is seeking a highly skilled CMP Process Engineer to lead the development and implementation of advanced CMP processes tailored to next-generation materials and device architectures, including 2D materials such as graphene. In this …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/smts-process-engineer-cmp-aachen-171286",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "32cece4ea17dd4eb",
+      "title": "People & Culture Specialist (f/m/d)",
+      "company": "Black Semiconductor GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Aachen",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We are seeking a (Senior) People & Culture Specialist (f/m/d) to play a central role in building and scaling our People & Culture function as we grow. This role is instrumental in managing payroll, contracts, mobility, compliance, and reporting, while also act…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/people-culture-specialist-aachen-231114",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "df7d748ded6888eb",
+      "title": "Technician (f/m/d)",
+      "company": "Black Semiconductor GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Aachen",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About us We see the semiconductor industry as a realm of possibility. We see opportunity. We see the profound impact that our graphene solutions will have in transforming the industry. We invite you to join us in driving change with our fundamentally human-cen…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/technician-aachen-301732",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8dcada11ed418c90",
+      "title": "Accounting Manager (m/w/d)",
+      "company": "AKM Wundmanagement GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Duisburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Verantwortung übernehmen. Accounting weiterdenken. Du möchtest nicht nur sicherstellen, dass die Buchhaltung zuverlässig läuft, sondern auch aktiv daran mitwirken, wie sie künftig noch effizienter gestaltet werden kann? Wir sind ein wachsendes Unternehmen im a…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/akm-wundmanagement-gmbh/accounting-manager-duisburg-179672",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "516e2948779e8b86",
+      "title": "Accounting Manager (m/w/d)",
+      "company": "AKM Wundmanagement GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Verantwortung übernehmen. Accounting weiterdenken. Du möchtest nicht nur sicherstellen, dass die Buchhaltung zuverlässig läuft, sondern auch aktiv daran mitwirken, wie sie künftig noch effizienter gestaltet werden kann? Wir sind ein wachsendes Unternehmen im a…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/akm-wundmanagement-gmbh/accounting-manager-hamburg-253720",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "17f65f4d4a95ee4a",
+      "title": "Accounting Manager (m/w/d)",
+      "company": "AKM Wundmanagement GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Verantwortung übernehmen. Accounting weiterdenken. Du möchtest nicht nur sicherstellen, dass die Buchhaltung zuverlässig läuft, sondern auch aktiv daran mitwirken, wie sie künftig noch effizienter gestaltet werden kann? Wir sind ein wachsendes Unternehmen im a…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/akm-wundmanagement-gmbh/accounting-manager-berlin-75078",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "479c0c83130308fb",
+      "title": "Teamleiter Spritzguss / Kunststofftechnik (m/w/d)",
+      "company": "PolyTALENT GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bergedorf",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "PolyTALENT besetzt für ein wachstumsstarkes Unternehmen in Hamburg eine Schlüsselposition in der Produktion. Gesucht wird eine erfahrene Führungspersönlichkeit, die den Kunststoffspritzguss operativ steuert, Teams entwickelt und Prozesse entlang von Qualität, …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/teamleiter-spritzguss-kunststofftechnik-bergedorf-36952",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fdfdaecb8e7f3e35",
+      "title": "Trainee Online-Marketing-Manager/in (m/w/d)",
+      "company": "MONE Consulting GmbH (Pflegekraft.de)",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bielefeld",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir suchen zum nächstmöglichen Zeitpunkt eine/n Trainee Online-Marketing-Manager/in (m/w/d) für unsere Marketingagentur in Bielefeld. Du unterstützt unsere Kunden beim Onboarding in die Zusammenarbeit mit uns, bist für den Support zuständig und lernst, Marketi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/mone-consulting-gmbh-pflegekraftde/trainee-online-marketing-manager-in-bielefeld-373689",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "15374c91542ac2e6",
+      "title": "Wirtschaftsinformatiker/in (m/w/d)",
+      "company": "MONE Consulting GmbH (Pflegekraft.de)",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bielefeld",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir suchen zum nächstmöglichen Zeitpunkt eine/n Wirtschaftsinformatiker/in - Vollzeit (m/w/d) für den Bereich Business-Development in Bielefeld. Was macht Pflegekraft.de genau? Zu unseren Kunden gehören Unternehmen mit 50 bis 2.000 Mitarbeitern, wie z. B. Pfle…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/mone-consulting-gmbh-pflegekraftde/wirtschaftsinformatiker-in-bielefeld-272606",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f964882359652a81",
+      "title": "Product Engineer (Backend/AI) @Briink",
+      "company": "Merantix",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What we do At Briink , we’re building AI technology for the global sustainability economy. We work with the world’s largest climate organizations, including CDP and PRI, and multinational companies such as Bayer, Siemens, Commerzbank, E.ON, and Heidelberg Mate…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/merantix/product-engineer-backend-ai-at-briink-berlin-133558",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "65f5fdf071db49f9",
+      "title": "Senior Strategic Consultant Professional Services",
+      "company": "Contentsquare",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Contentsquare is the all-in-one experience intelligence platform designed to be easily used by anyone who cares about digital journeys. With our flexible and scalable platform, organizations quickly get a deep understanding of their customers’ whole online jou…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/contentsquare/senior-strategic-consultant-professional-services-germany-464247",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "34505e84921ff7b9",
+      "title": "Senior Backend Engineer  - Product (Remote)",
+      "company": "Finom",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Finom Finom is a European tech startup headquartered in Amsterdam, and we’re on a journey towards revolutionizing the financial landscape for entrepreneurs worldwide. Our mission is to develop an all-in-one financial B2B solution that integrates banking …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/finom/senior-backend-engineer-product-remote-germany-257761",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3dec66b29e8bf4cf",
+      "title": "Software Engineer, Agentic AI",
+      "company": "Roku",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cambridge",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Teamwork makes the stream work. Roku is changing how the world watches TV Roku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we've set our sights on powering every television in the world. Roku pioneered streaming to the TV. Our mission …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/roku/software-engineer-agentic-ai-cambridge-481796",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "05bbbe0884c1f40a",
+      "title": "Senior Software Engineer, UI Infrastructure",
+      "company": "Roku",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cambridge",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Teamwork makes the stream work. Roku is changing how the world watches TV Roku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we've set our sights on powering every television in the world. Roku pioneered streaming to the TV. Our mission …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-ui-infrastructure-cambridge-444717",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d4d0e0cf6a65bb99",
+      "title": "Senior Software Engineer, Live",
+      "company": "Roku",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cambridge",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Teamwork makes the stream work. Roku is changing how the world watches TV Roku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we've set our sights on powering every television in the world. Roku pioneered streaming to the TV. Our mission …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-live-cambridge-76208",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3759ab5a1e162677",
+      "title": "Senior Software Engineer, Live",
+      "company": "Roku",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Manchester",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Teamwork makes the stream work. Roku is changing how the world watches TV Roku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we've set our sights on powering every television in the world. Roku pioneered streaming to the TV. Our mission …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-live-manchester-481469",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d5cff07f809f73c2",
+      "title": "Senior Full Stack Engineer",
+      "company": "Roku",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cambridge",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Teamwork makes the stream work. Roku is changing how the world watches TV Roku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we've set our sights on powering every television in the world. Roku pioneered streaming to the TV. Our mission …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-full-stack-engineer-cambridge-53877",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7a359a4777ee3819",
+      "title": "Senior Data Engineer, Python, Spark",
+      "company": "Roku",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Manchester",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Teamwork makes the stream work. Roku is changing how the world watches TV Roku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we've set our sights on powering every television in the world. Roku pioneered streaming to the TV. Our mission …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-data-engineer-python-spark-manchester-331277",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6e6ba58dae00cdd2",
+      "title": "Senior Data Engineer, Python, Spark",
+      "company": "Roku",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cambridge",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Teamwork makes the stream work. Roku is changing how the world watches TV Roku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we've set our sights on powering every television in the world. Roku pioneered streaming to the TV. Our mission …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-data-engineer-python-spark-cambridge-290960",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1500520c754cf839",
+      "title": "Software Engineer",
+      "company": "Optiverus",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Data is the foundation of every trading decision we make. From financial instruments and corporate actions to market calendars, counterparty data, and alternative datasets, the breadth and complexity of reference data continues to grow alongside the increasing…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/software-engineer-london-493490",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "144276fea173e5f3",
+      "title": "Staff Backend Engineer",
+      "company": "Monzo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cardiff",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🚀 We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/monzo/staff-backend-engineer-cardiff-373600",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8787518c09c6d059",
+      "title": "Senior Backend Engineer",
+      "company": "Monzo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cardiff",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🚀 We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-backend-engineer-cardiff-424520",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "62331d58750333a7",
+      "title": "Backend Engineer III",
+      "company": "Monzo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cardiff",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🚀 We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/monzo/backend-engineer-iii-cardiff-356251",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d8e42fb5c07e7ce5",
+      "title": "Mid Market Account Executive - EMEA (UKI)",
+      "company": "How We Work & What We Value - Ashby",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Why Join Sales at Ashby Sales at Ashby is a unique opportunity to sell a product customers genuinely love during an AI-fueled market expansion. Over 5,000 companies rely on Ashby, including OpenAI, Doctolib, Alan, Mistral and Monday.com , and our business is d…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/how-we-work-what-we-value-ashby/mid-market-account-executive-emea-uki-united-kingdom-213165",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "43c01ac39a248ace",
+      "title": "IT Support Engineer",
+      "company": "Airwallex",
+      "employmentType": "Internship",
+      "location": {
+        "city": "UK - London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Airwallex Airwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 250,000 businesses worldwide – including Brex, Navan, Qantas, SHE…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/airwallex/it-support-engineer-london-348247",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "88d221c895c19c72",
+      "title": "Senior Associate, Revenue Strategy & Enablement, EMEA",
+      "company": "Airwallex",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "UK - London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Airwallex Airwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 250,000 businesses worldwide – including Brex, Navan, Qantas, SHE…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/airwallex/senior-associate-revenue-strategy-enablement-emea-london-335894",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "934c2608d91a77b6",
+      "title": "Maintenance Lead",
+      "company": "KP Snacks",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Ashby de la Zouch",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Maintenance Lead Ashby de la Zouch (Home of Hula Hoops, Space Raiders, Nik Naks and more) On-site, Monday - Friday 08:00 - 16:00 Join our snack-loving team We’re looking for a Maintenance Lead to join us at KP Snacks. If you’re ready to bring your ideas to the…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/kp-snacks/maintenance-lead-ashby-de-la-zouch-21935",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "54b34f88af99dd89",
+      "title": "Enterprise Sales Lead (French market)",
+      "company": "Alan",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Procurement",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alan/enterprise-sales-lead-french-market-paris-france-121050",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0829b14a90e176bb",
+      "title": "Union Relations Lead / Directeur(rice) du Paritarisme",
+      "company": "Alan",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alan/union-relations-lead-directeurrice-du-paritarisme-paris-france-41415",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "78303cba9bb75429",
+      "title": "Business Segment Lead",
+      "company": "Alan",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alan/business-segment-lead-paris-france-340608",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "40bcf632f85d5634",
+      "title": "Application Marketing Manager (m/f/d)",
+      "company": "Rohm Semiconductor",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hybrid",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your tasks The position is based at one of our sites in Willich, Stuttgart or Nuremberg. As part of a passionate team, you will act in a key role with a wide scope of action across a broad product portfolio. With your excellence you will drive innovative solut…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/rohm-semiconductor/application-marketing-manager-hybrid-136207",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "16d97848d2627886",
+      "title": "Site Reliability Engineer (Storage) - remote friendly",
+      "company": "Qonto",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": "Damien Cupif , our Storage Engineering Manager — but don't expect micro-management"
+      },
+      "summary": "Our mission and customers: We are creating the freedom for SMEs to succeed by delivering Europe's leading finance workspace with banking at its core, augmented by financial tools. We are proud to be rated 4.8 on Trustpilot , based on 55,000+ reviews. Our cultu…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/qonto/site-reliability-engineer-storage-remote-friendly-paris-496253",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "262dcab88a99e640",
+      "title": "On Holiday Support Agent",
+      "company": "loveholidays",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": "an On Holiday Support Team Leader"
+      },
+      "summary": "Why loveholidays? At loveholidays - we trailblaze together . We’re on a mission to open the world to everyone, giving our customers’ unlimited choice, unmatched ease and unmissable value for their next getaway. Our team is the driving force behind our role as …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/loveholidays/remote-on-holiday-support-agent-331036",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2000dd6ab3b955ea",
+      "title": "Senior Security Engineer",
+      "company": "CENTREON",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Centreon cherche à renforcer l'équipe sécurité en intégrant un senior security engineer. Au cœur du produit Centreon, la team security a un impact fort. Elle joue un rôle central au sein de la R&D composée d’environ 50 tech. Elle collabore notamment étroitemen…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/centreon/senior-security-engineer-paris-326644",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dd6a504c07a73ab3",
+      "title": "Product Guide (Sales Associate) Saisonnier – CDD 35H (h/f/d) – La Vallée Village",
+      "company": "ARC'TERYX",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Votre opportunité chez ARC’TERYX : Nous recherchons des Vendeurs / Vendeuses CDD pour rejoindre notre magasin ! Vous incarnez la marque en magasin et offrez une expérience inoubliable à nos clients. Vous êtes la source d’inspiration de l’évolution de notre mar…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/arcteryx/product-guide-sales-associate-saisonnier-cdd-35h-la-vallee-village-paris-345609",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "49de9c81b345df2c",
+      "title": "Stage de 6 mois UX/UI Designer (H/F/N) – PARIS",
+      "company": "Ekimetrics",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Les entreprises qui performent décident mieux. Depuis 2006, Ekimetrics aide les organisations à transformer leurs décisions en avantage concurrentiel durable grâce à des solutions d’IA. Notre double ambition est d’allier performance et durabilité, pour constru…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/ekimetrics/stage-de-6-mois-ux-ui-designer-paris-259094",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "eda93505d3123fc0",
+      "title": "Senior Strategic Consultant Professional Services",
+      "company": "Contentsquare",
+      "employmentType": "Internship",
+      "location": {
+        "city": "France",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Contentsquare is the all-in-one experience intelligence platform designed to be easily used by anyone who cares about digital journeys. With our flexible and scalable platform, organizations quickly get a deep understanding of their customers’ whole online jou…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/contentsquare/senior-strategic-consultant-professional-services-france-435820",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d8ee53ae867e8d8c",
+      "title": "Account Manager",
+      "company": "BLUE Communications",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "BLUE is a specialist global B2B communications consultancy for organisations operating in complex, high-value industries - such as maritime, marine leisure, energy and carbon markets. Since 2008, we've turned market expertise into influence and impact, helping…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/blue-communications/account-manager-london-4610",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "afd136f40983b54a",
+      "title": "Account Executive at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you someone who thrives in a fast-paced environment, where you are given the autonomy and support to handle large amounts of responsibility? Are you looking for the opportunity to accelerate your sales career whilst also being surrounded by an exceptional …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/account-executive-at-united-media-london-153767",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e45f0a93fe67e52a",
+      "title": "Senior National Account Manager - Industry & Manufacturing",
+      "company": "Flora Food Group",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Brentwood District",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": "senior leadership and includes line management of a Junior Key Account Manager"
+      },
+      "summary": "The Practical Detail Location: Southwark, London Working Model: Hybrid Why this role matters In your first year, you will lead the commercial growth of Flora Professional's Industry & Manufacturing business across the UK and Ireland, driving sustainable revenu…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/flora-food-group/senior-national-account-manager-industry-manufacturing-brentwood-district-371103",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b67275fa3dbc9ec2",
+      "title": "Senior National Account Manager - Industry & Manufacturing",
+      "company": "Flora Food Group",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Tunbridge Wells District",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": "senior leadership and includes line management of a Junior Key Account Manager"
+      },
+      "summary": "The Practical Detail Location: Southwark, London Working Model: Hybrid Why this role matters In your first year, you will lead the commercial growth of Flora Professional's Industry & Manufacturing business across the UK and Ireland, driving sustainable revenu…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/flora-food-group/senior-national-account-manager-industry-manufacturing-tunbridge-wells-district-359416",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "53756400c540f364",
+      "title": "Senior National Account Manager - Industry & Manufacturing",
+      "company": "Flora Food Group",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Oxford",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": "senior leadership and includes line management of a Junior Key Account Manager"
+      },
+      "summary": "The Practical Detail Location: Southwark, London Working Model: Hybrid Why this role matters In your first year, you will lead the commercial growth of Flora Professional's Industry & Manufacturing business across the UK and Ireland, driving sustainable revenu…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/flora-food-group/senior-national-account-manager-industry-manufacturing-oxford-59362",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "de77bfc34ab56c27",
+      "title": "Senior National Account Manager - Industry & Manufacturing",
+      "company": "Flora Food Group",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Basingstoke and Deane District",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": "senior leadership and includes line management of a Junior Key Account Manager"
+      },
+      "summary": "The Practical Detail Location: Southwark, London Working Model: Hybrid Why this role matters In your first year, you will lead the commercial growth of Flora Professional's Industry & Manufacturing business across the UK and Ireland, driving sustainable revenu…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/flora-food-group/senior-national-account-manager-industry-manufacturing-basingstoke-and-deane-district-490647",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0ef7f39ce24d8008",
+      "title": "Senior National Account Manager - Industry & Manufacturing",
+      "company": "Flora Food Group",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Woking",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": "senior leadership and includes line management of a Junior Key Account Manager"
+      },
+      "summary": "The Practical Detail Location: Southwark, London Working Model: Hybrid Why this role matters In your first year, you will lead the commercial growth of Flora Professional's Industry & Manufacturing business across the UK and Ireland, driving sustainable revenu…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/flora-food-group/senior-national-account-manager-industry-manufacturing-woking-116825",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6f59064843b5e77e",
+      "title": "Senior National Account Manager - Industry & Manufacturing",
+      "company": "Flora Food Group",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Reading",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": "senior leadership and includes line management of a Junior Key Account Manager"
+      },
+      "summary": "The Practical Detail Location: Southwark, London Working Model: Hybrid Why this role matters In your first year, you will lead the commercial growth of Flora Professional's Industry & Manufacturing business across the UK and Ireland, driving sustainable revenu…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/flora-food-group/senior-national-account-manager-industry-manufacturing-reading-424432",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c065ed190de0e8a0",
+      "title": "Senior National Account Manager - Industry & Manufacturing",
+      "company": "Flora Food Group",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": "senior leadership and includes line management of a Junior Key Account Manager"
+      },
+      "summary": "The Practical Detail Location: Southwark, London Working Model: Hybrid Why this role matters In your first year, you will lead the commercial growth of Flora Professional's Industry & Manufacturing business across the UK and Ireland, driving sustainable revenu…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/flora-food-group/senior-national-account-manager-industry-manufacturing-london-82796",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d9146091c7b136da",
+      "title": "Senior DevOps Engineer",
+      "company": "Catapult Sports",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Catapult is building the future of sports performance technology, with a mission to Unleash the Potential of every athlete and team on earth. We don't just work in the sporting industry; we are actively changing it. Since 2006, our solutions have been leading …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/catapult-sports/senior-devops-engineer-london-360950",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "706d803715e8bc50",
+      "title": "Senior Finance Manager",
+      "company": "Deliveroo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking n…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-finance-manager-london-216685",
       "source": "Arbeitnow"
     },
     {
