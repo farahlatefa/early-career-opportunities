@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-21T23:18:00.903572+00:00",
+    "lastUpdated": "2026-09-22T04:58:36.698273+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,2318 @@
     ]
   },
   "jobs": [
+    {
+      "id": "6d32e6f22527c47a",
+      "title": "(Senior) DevOps Engineer",
+      "company": "Augustus",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Few people get to build a bank from scratch. Even fewer get to build one at a moment when banking itself is being reinvented. The Dollar is the best product in the history of the world - there is infinite global demand. But International Fintechs and non-US ba…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/augustus/senior-devops-engineer-berlin-416800",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f9c3ce8434197517",
+      "title": "Internship",
+      "company": "Augustus",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Few people get to build a bank from scratch. Even fewer get to build one at a moment when banking itself is being reinvented. The Dollar is the best product in the history of the world - there is infinite global demand. But International Fintechs and non-US ba…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/augustus/internship-berlin-169169",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "07c3da20778029f8",
+      "title": "Werkstudent Customer Success (F/M/*)",
+      "company": "Amber",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Aus Europa, für Europa - Wir bauen Europas Business-KI. Wir sind Aachens größtes und Kölns am stärksten wachsende KI-Startup. KMUs profitieren davon, wenn internes Wissen sofort nutzbar wird und intelligente Agenten darauf reagieren können. Wir glauben an eine…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/amber/werkstudent-customer-success-f-m-koln-330593",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cae166f75662be89",
+      "title": "Account Executive - Bayern (F/M/*)",
+      "company": "Amber",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bayern",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Aus Europa, für Europa – Wir bauen Europas Business-KI. Wir sind amber, eines der am schnellsten wachsenden KI-Startups aus Deutschland. KMUs profitieren davon, wenn internes Wissen sofort nutzbar wird und intelligente Agenten darauf reagieren können. Wir glau…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/amber/account-executive-bayern-f-m-augsburg-209969",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "367ff19390de9603",
+      "title": "AI Product Support (F/M/*)",
+      "company": "Amber",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Aus Europa, für Europa – Wir bauen Europas Business-KI. Wir sind amber, eines der am schnellsten wachsenden KI-Startups aus Deutschland. KMUs profitieren davon, wenn internes Wissen sofort nutzbar wird und intelligente Agenten darauf reagieren können. Wir glau…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/amber/ai-product-support-f-m-koln-284814",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a76cf59a681c7b8a",
+      "title": "Content Creator (F/M/*)",
+      "company": "Amber",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Von Europa, für Europa – wir entwickeln Europas Business-KI. Bei amber entwickeln wir eine Business-KI-Plattform. Unsere Mission ist es, Unternehmenswissen zugänglich, nutzbar und sicher zu machen – damit Menschen die richtigen Informationen finden, bessere En…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/amber/content-creator-f-m-koln-367562",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ae8df4ad083921f6",
+      "title": "AI Adoption Engineer (F/M/*)",
+      "company": "Amber",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Aus Europa, für Europa – Wir bauen Europas Business-KI. Wir sind amber, ein wachsendes und innovatives KI-Startup. KMUs profitieren davon, wenn internes Wissen sofort nutzbar wird und intelligente Agenten darauf reagieren können. Wir glauben an eine Zukunft, i…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/amber/ai-adoption-engineer-f-m-koln-98234",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cbcad86ea7e229ca",
+      "title": "Account Executive - Niedersachsen & Norddeutschland (F/M/*)",
+      "company": "Amber",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hannover",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Aus Europa, für Europa – Wir bauen Europas Business-KI. Wir sind amber, eines der am schnellsten wachsenden KI-Startups aus Deutschland. KMUs profitieren davon, wenn internes Wissen sofort nutzbar wird und intelligente Agenten darauf reagieren können. Wir glau…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/amber/account-executive-niedersachsen-norddeutschland-f-m-hannover-19364",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e6b56ca6d82991cd",
+      "title": "Partner Manager (F/M/*)",
+      "company": "Amber",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Aus Europa, für Europa – Wir bauen Europas Business-KI. Wir sind amber, ein wachsendes und innovatives KI-Startup. KMUs profitieren davon, wenn internes Wissen sofort nutzbar wird und intelligente Agenten darauf reagieren können. Wir glauben an eine Zukunft, i…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/amber/partner-manager-f-m-koln-88174",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e77640b480ec9a5e",
+      "title": "AI Researcher (F/M/*)",
+      "company": "Amber",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Aachen",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Aus Europa, für Europa – Wir bauen Europas Business-KI. Wir sind amber, Aachens größtes uns Kölns am stärksten wachsende KI-Startup. Unternehmen profitieren davon, wenn internes Wissen sofort nutzbar wird und intelligente Agenten darauf reagieren können. Wir g…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/amber/ai-researcher-f-m-aachen-178438",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5e5060c7df9f95ae",
+      "title": "Performance Marketing Manager (F/M/*)",
+      "company": "Amber",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Aus Europa, für Europa - Wir bauen Europas Buisness-KI. Wir sind Aachens größtes und Kölns am stärksten wachsende KI-Startup. KMUs profitieren davon, wenn internes Wissen sofort nutzbar wird und intelligente Agenten darauf reagieren können. Wir glauben an eine…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/amber/performance-marketing-manager-f-m-koln-253600",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4525fb25c18fca0c",
+      "title": "(Senior) Technical Field Engineer — Robotics Integration & Deployment",
+      "company": "Se3",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Undisclosed test site 35km from Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🚀 Join SE3 Labs as (Senior) Technical Field Engineer — Robotics Integration & Deployment Be the person who makes advanced autonomous systems work in the real world. Move across the full stack: drones, sensors, calibration, autonomy software, perception, networ…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/se3/senior-technical-field-engineer-robotics-integration-deployment-erding-224500",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "50c341a4164efe9d",
+      "title": "Senior Computer Vision Engineer - Localization",
+      "company": "Se3",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join SE3 Labs as Senior Computer Vision Engineer - Localization Own the spatial state-estimation layer of our autonomy platform. Build the perception systems that let drones understand where they are, what they see, and how to operate when GPS, lighting, timin…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/se3/senior-computer-vision-engineer-localization-munich-242765",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fe059591d856169a",
+      "title": "Workplace Manager",
+      "company": "Se3",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Procurement",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About SE3 SE3 Labs is building Spatial AI by combining 3D computer vision with large language models (LLMs). We believe the ability to reason about and act within physical space is foundational to unlocking the next generation of automation, from construction …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/se3/workplace-manager-munich-493855",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fc4339e5d8d09ec2",
+      "title": "Customer Success Manager (f/d/m)",
+      "company": "Ceezer",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A definitive shift is currently happening. Corporates across the globe are no longer just reporting on sustainability; they are actively investing in it as a core financial and strategic asset. At CEEZER, we are architecting the infrastructure for enterprise-g…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ceezer/customer-success-manager-berlin-234486",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "07ae17c9212a7a9b",
+      "title": "Research Scientist, Foundational Data Science",
+      "company": "Prior Labs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Foundation models transformed text and images. Structured data - the largest and most consequential data format in the world - stayed untouched, until now. What LLMs did for language, we're doing for tables. We pioneered tabular foundation models: T…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/prior-labs/research-scientist-foundational-data-science-berlin-230440",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fe363697a8b2290d",
+      "title": "ML Engineer, Infrastructure",
+      "company": "Prior Labs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Foundation models transformed text and images. Structured data - the largest and most consequential data format in the world - stayed untouched, until now. What LLMs did for language, we're doing for tables. We pioneered tabular foundation models: T…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/prior-labs/ml-engineer-infrastructure-berlin-413317",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d4ac1846c4f69cc9",
+      "title": "Research Scientist Intern (PhD)",
+      "company": "Prior Labs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Foundation models transformed text and images. Structured data - the largest and most consequential data format in the world - stayed untouched, until now. What LLMs did for language, we're doing for tables. We pioneered tabular foundation models: T…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/prior-labs/research-scientist-intern-phd-berlin-266122",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "40ff518b24c80893",
+      "title": "Working Student / Intern - Hardware Validation (f/m/d)",
+      "company": "Munich Electrification",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Marketing & Communications",
+        "Operations",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Munich Electrification Munich Electrification is an innovative company founded with the aim of accelerating the transition to electric and connected mobility. We develop innovative electronic control units for electric vehicles and stationary storage sys…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/munich-electrification/working-student-intern-hardware-validation-munich-113142",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "37959f7597e8af81",
+      "title": "Working Student – Software Development (f/m/d)",
+      "company": "Munich Electrification",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Munich Electrification Munich Electrification is an innovative company founded with the aim of accelerating the transition to electric and connected mobility. We develop innovative electronic control units for electric vehicles and stationary storage sys…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/munich-electrification/working-student-software-development-munich-498489",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f0f32b2395d120f7",
+      "title": "Field Application Engineer – Battery Management Systems (m/f/d)",
+      "company": "Munich Electrification",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Munich Electrification Munich Electrification is an innovative company founded with the aim of accelerating the transition to electric and connected mobility. We develop innovative electronic control units for electric vehicles and stationary storage sys…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/munich-electrification/field-application-engineer-battery-management-systems-munich-149132",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2fdd3899f67d2b0f",
+      "title": "AI Platform Engineer (f/m/d)",
+      "company": "Munich Electrification",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Munich Electrification Munich Electrification is an innovative company founded with the aim of accelerating the transition to electric and connected mobility. We develop innovative electronic control units for electric vehicles and stationary storage sys…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/munich-electrification/ai-platform-engineer-munich-335777",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2e88f46d6bfe0d72",
+      "title": "Account Executive Deutschland",
+      "company": "Innova Market Insights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Aufgrund des schnellen Wachstums unseres Unternehmens in Deutschland möchten wir unser Vertriebsteam erweitern! Diese Position als Account Executive / Business Development Manager bietet Ihnen die Gelegenheit, als echter Verkaufsprofi zu glänzen – mit einem kl…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/innova-market-insights/remote-account-executive-deutschland-dusseldorf-204800",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "827b55d856efa56e",
+      "title": "Werkstudent (m/w/d) - Human Resources",
+      "company": "Gusti Leder GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Rostock",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Gestalte die Zukunft der Lederindustrie mit uns bei Gusti Leder 🌿✨ Werde Teil von Gusti Leder und präge mit uns die Zukunft der Lederbranche. Bei uns steht jedes Produkt für mehr als Design – es steht für Transparenz, nachhaltiges Denken und echte Werte. Wir b…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/gusti-leder-gmbh/werkstudent-human-resources-rostock-356635",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a04e74005608fd95",
+      "title": "Associate Product Owner",
+      "company": "Glassdollar",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "TL;DR Full-time. Berlin-based. No remote option available for this role. You sit with the PM. Join GlassDollar as an Associate Product Owner and own the space between a good idea and a shipped feature. Someone has to decide what \"done\" means, write it down cle…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/glassdollar/associate-product-owner-berlin-397387",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a63506586b782220",
+      "title": "Senior Sales Manager:in Brand & Performance Advertising (m/w/d)",
+      "company": "Good Hood Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission Deine Mission: Werde zum Wachstumsmotor von Deutschlands größter Nachbarschaftsplattform Du willst nicht nur Media-Budgets verwalten, sondern den Markt aktiv gestalten? Du hast den Instinkt für große Deals und die Ausdauer, Marken dort zu platzier…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/good-hood-gmbh/senior-sales-managerin-brand-performance-advertising-berlin-56979",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9bdc8e131c74ee14",
+      "title": "Werkstudent:in HR & KI Operations  (m/w/d)",
+      "company": "Talentsconnect",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Warum diese Rolle? Du willst HR nicht aus dem Lehrbuch lernen, sondern sehen, wie es gerade neu gebaut wird? Bei uns machst du beides: das Handwerk, also Onboarding, Verträge, Employee Lifecycle und die Frage, was davon in zwölf Monaten überhaup…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/talentsconnect/werkstudentin-hr-ki-operations-koln-285887",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "110acee4b6966991",
+      "title": "Product Manager (parental leave cover)",
+      "company": "Tandem",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Tandem Tandem is the leading global language learning community, with over 35 million members from all around the world practicing languages together. The concept of learning from each other is not only core to the Tandem community, it is also at the hea…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tandem/product-manager-parental-leave-cover-berlin-24549",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d4303568c008e8a6",
+      "title": "Werkstudent im Marketing m/w/d",
+      "company": "Vp Verbund Pflegehilfe Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Mainz",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Mission: Kreative Inhalte, gutes Gespür für Kommunikation und Lust auf vielseitige Marketingaufgaben. Als Werkstudent im Marketing unterstützt Du unser Team dabei, Inhalte zu erstellen, Marketingmaterialien umzusetzen und unsere verschiedenen Marketingak…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/vp-verbund-pflegehilfe-gmbh/werkstudent-im-marketing-mainz-224853",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "81441a4944cbf514",
+      "title": "Sales Manager Neukunden Krankenhaussoftware Deutschland (m/w/d)",
+      "company": "Meierhofer",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unsere Standorte Wir suchen dich zur Verstärkung unseres Vertriebsteams an einem unserer Standorte in München, Berlin, Hannover, Leipzig, oder im Home Office Dein zukünftiges Team Wir begleiten Kliniken und Gesundheitseinrichtungen dabei, Prozesse zu digitalis…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/meierhofer/sales-manager-neukunden-krankenhaussoftware-deutschland-munchen-291400",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "156c2a9da9ddfce9",
+      "title": "Produktmanager Klinikabrechnung / Krankenhausabrechnung (m/w/d)",
+      "company": "Meierhofer",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Healthcare",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unsere Standorte Wir suchen dich zur Verstärkung unseres Teams an einem unserer Standorte in München, Berlin, Leipzig, Hannover oder – bei passender Eignung – im Homeoffice Dein zukünftiges Team Du möchtest dein Fachwissen dort einbringen, wo moderne Kliniksof…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/meierhofer/remote-produktmanager-klinikabrechnung-krankenhausabrechnung-munchen-255121",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e3a15b614f0d05c4",
+      "title": "(Senior) Account Manager E-Health Deutschland (m/w/d)",
+      "company": "Meierhofer",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unsere Standorte Wir suchen dich zur Verstärkung unseres Vertriebsteams an einem unserer Standorte in Berlin, Hannover, Leipzig, München oder im Home Office Dein zukünftiges Team Du kennst die Entscheidungswege in Krankenhäusern und bringst Erfahrung im Vertri…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/meierhofer/senior-account-manager-e-health-deutschland-munchen-298686",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "617e50f26649cfdd",
+      "title": "Talent Acquisition Specialist at CFO Insights",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": "senior recruitment and to the CEO What we expect from you We do expect you to: Have acquired a bache"
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about people? If so, you mi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/talent-acquisition-specialist-at-cfo-insights-london-401786",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7565897985b35161",
+      "title": "Talent Acquisition Associate at CFO insights",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? And are you curious or passionate about people? If so, yo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/talent-acquisition-associate-at-cfo-insights-london-451523",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "786fdc02f9880179",
+      "title": "Senior Venture Associate at CFO Insights",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/senior-venture-associate-at-cfo-insights-london-457783",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5ca68ea7070000c1",
+      "title": "Senior Management Consultant at CFO Insights",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/senior-management-consultant-at-cfo-insights-london-370799",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1de44a849fd8390c",
+      "title": "Senior financial Writer at CFO insights",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/senior-financial-writer-at-cfo-insights-london-318796",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e3c16a2e01a3848e",
+      "title": "Senior Editor at CFO insights",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/senior-editor-at-cfo-insights-london-128335",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "aa3dd3298484bedb",
+      "title": "Senior Content Writer at CFO insights",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/senior-content-writer-at-cfo-insights-london-61748",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b054efa7906d0cf7",
+      "title": "Senior Content Editor  at CFO insights",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/senior-content-editor-at-cfo-insights-london-252601",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "21df314085eeec71",
+      "title": "Marketing Chief at CFO Insights",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/marketing-chief-at-cfo-insights-london-458699",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7ac32698ca12ce1e",
+      "title": "Chief Talent Development Officer at CFO insights",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "International Development",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/chief-talent-development-officer-at-cfo-insights-london-251143",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d77e05fc8722f16c",
+      "title": "Chief Marketing Officer at CFO Insights",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/chief-marketing-officer-at-cfo-insights-london-24153",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dfb93d4ea9801fe7",
+      "title": "Chief Growth Officer at CFO Insights",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/chief-growth-officer-at-cfo-insights-london-474042",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9040cb632488585d",
+      "title": "Chief Editor at CFO insights",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/chief-editor-at-cfo-insights-london-171522",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0da48e776519e05c",
+      "title": "Chief Commercial Officer at CFO Insights",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/chief-commercial-officer-at-cfo-insights-london-80280",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f2020e409538a990",
+      "title": "Account Executive at CFO Insights",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you someone who thrives in a fast-paced environment, where you are given the autonomy and support to handle large amounts of responsibility? Are you looking for the opportunity to accelerate your sales career whilst also being surrounded by an exceptional …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/account-executive-at-cfo-insights-london-404927",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "aefacc3ddbe3ddef",
+      "title": "Talent Acquisition Specialist at HRtechX",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": "senior recruitment and to the CEO What we expect from you We do expect you to: Have acquired a bache"
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about people? If so, you mi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/talent-acquisition-specialist-at-hrtechx-london-191272",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1599a89e26b80dab",
+      "title": "Talent Acquisition Associate at HRtechX",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? And are you curious or passionate about people? If so, yo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/talent-acquisition-associate-at-hrtechx-london-427655",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c71a364d0b539a58",
+      "title": "Senior Venture Associate at HRtechX",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/senior-venture-associate-at-hrtechx-london-145671",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ec4c332fc960c242",
+      "title": "Senior Management Consultant at HRtechX",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/senior-management-consultant-at-hrtechx-london-404493",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bd98929e5066cb92",
+      "title": "Senior financial Writer at HRtechX",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/senior-financial-writer-at-hrtechx-london-264239",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "85e5a16d7502647e",
+      "title": "Senior Editor at HRtechX",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/senior-editor-at-hrtechx-london-383644",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fdaf3a887feb2acd",
+      "title": "Senior Content Writer at HRtechX",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/senior-content-writer-at-hrtechx-london-255175",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "40a844440c79aba2",
+      "title": "Senior Content Editor at HRtechX",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/senior-content-editor-at-hrtechx-london-193023",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bf0e0ffea7183825",
+      "title": "Marketing Chief at HRTechX",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/marketing-chief-at-hrtechx-london-232503",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7aef5e9a8797206d",
+      "title": "Chief Talent Development Officer at HRTechX",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "International Development",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/chief-talent-development-officer-at-hrtechx-london-342533",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6bdb5f45b9841dd7",
+      "title": "Chief Marketing Officer at HRTechX",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/chief-marketing-officer-at-hrtechx-london-295613",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2bdc50560bd2ad03",
+      "title": "Chief Growth Officer at HRTechX",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/chief-growth-officer-at-hrtechx-london-272513",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "12da547a8a0a9ca6",
+      "title": "Chief Editor at HRtechX",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/chief-editor-at-hrtechx-london-348240",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1db5deb413df5853",
+      "title": "Chief Commercial Officer at HRTechX",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/chief-commercial-officer-at-hrtechx-london-165232",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4ff85c6ddaf0010e",
+      "title": "Associate Data Scientist - Operations Research",
+      "company": "Wheely",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Wheely Wheely is redefining premium transportation across major cities in Europe, the US, and the Middle East. We blend cutting-edge technology with the craft of five-star chauffeuring to deliver an experience trusted by more than 100,000 active riders a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/wheely/associate-data-scientist-operations-research-london-377845",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "584138639fa81a97",
+      "title": "Platform Engineer (Forward Deployment)",
+      "company": "Lightningai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who We Are Lightning AI is the company behind PyTorch Lightning. Founded in 2019, we build an end-to-end platform for developing, training, and deploying AI systems—designed to take ideas from research to production with less friction. Through our merger with …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/lightningai/platform-engineer-forward-deployment-london-101584",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fccf35f5217c8b14",
+      "title": "Analytics Manager",
+      "company": "Moniepoint",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Moniepoint Inc. is Africa’s all-in-one financial platform, helping 20 million businesses and individuals access seamless payments, banking, credit, cross-border, and business management tools each month. As Nigeria’s largest merchant acquirer, we po…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/moniepoint/analytics-manager-london-152461",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "32248b7713a29376",
+      "title": "Legal Counsel",
+      "company": "Docebo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "UK",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Artificial Intelligence. Actual Impact. At Docebo, we’re using AI to change how people learn at work—and we mean actually change it. We’re an AI-powered learning platform that helps organizations create, deliver, and manage training all in one place. But our r…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/docebo/legal-counsel-london-446224",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "71fa7174668af030",
+      "title": "Proposal Manager",
+      "company": "Synthesia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Synthesia is the world’s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. As AI continues to shape the way we live and work, S…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/synthesia/proposal-manager-london-320805",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9f2ffb1ac2f200bb",
+      "title": "Member of Technical Staff, Multilingual",
+      "company": "Cohere",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who are we? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. We’re training and deploying frontier models for enterprises who…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cohere/member-of-technical-staff-multilingual-london-59664",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e5be7bb0d9e640c0",
+      "title": "Senior Software Engineer, Blockchain Protocols",
+      "company": "Chainalysis",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The engineering team at Chainalysis is inspired by solving the hardest technical challenges and building products that establish trust in cryptocurrencies. We're a global organization that thrives on challenging work and doing it alongside exceptionally talent…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/chainalysis/senior-software-engineer-blockchain-protocols-united-kingdom-438901",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9cd5aa3b33b3ef1f",
+      "title": "Finance Partner",
+      "company": "Ankar",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The way companies innovate is broken. The systems built to create and protect ideas can’t keep up with the pace of change. Today, 90% of S&P 500 company value is intangible (e.g., IP) — yet R&D and IP teams spend half their time buried in manual work , sifting…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ankar/finance-partner-london-141500",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "99504b982dbee3fc",
+      "title": "Senior Performance Marketing Manager - ATL",
+      "company": "Omaze",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who We Are: At Omaze, we give our community in the UK and Germany the chance to win luxury homes and other life-changing prizes all while raising money for the causes they love. Thanks to our Omaze Community, we’ve raised over £100 million for UK charities in …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/omaze/senior-performance-marketing-manager-atl-london-339904",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9cd324c841a12a68",
+      "title": "Professional Services Consultant",
+      "company": "Illumio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Onwards Together! Illumio is the leader in ransomware and breach containment, redefining how organizations contain cyberattacks and enable operational resilience. Powered by the Illumio AI Security Graph, our breach containment platform identifies and contains…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/illumio/remote-professional-services-consultant-61732",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a010b7eb71a161c0",
+      "title": "Technical Customer Success Manager - AMER",
+      "company": "Camunda",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-technical-customer-success-manager-amer-336817",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5c803bde5a8f1c23",
+      "title": "Technical Writer",
+      "company": "Camunda",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-technical-writer-411605",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c8989c0e4536f535",
+      "title": "Software Engineer - Infrastructure",
+      "company": "Camunda",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-software-engineer-infrastructure-227772",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8269b9a67d3e4884",
+      "title": "Engineering Manager - Infrastructure",
+      "company": "Camunda",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-engineering-manager-infrastructure-155232",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a4856e91df0c3865",
+      "title": "Product Manager, Self Managed Service",
+      "company": "Camunda",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-product-manager-self-managed-service-317495",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "873b13796e0784dd",
+      "title": "Associate Partnership Manager",
+      "company": "Moss",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Moss, we give finance professionals the power to automate their day-to-day and make forward-thinking decisions. Our culture is what makes that possible: we play to win, we obsess over quality, and we win as One Moss, and it works. Moss closed a €35 million …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/moss/associate-partnership-manager-london-330782",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2e0656b4fc95209a",
+      "title": "Senior Business Travel Consultant - Out of Hours / Split Shift",
+      "company": "Perk",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Birmingham",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Perk (formerly TravelPerk) is the intelligent platform for travel and spend management. Built to tackle the time-consuming, manual work that gets in the way of real work, our tools automate everything from travel bookings to expenses, invoice processi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-business-travel-consultant-out-of-hours-split-shift-birmingham-297233",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fc2597e836978f59",
+      "title": "Senior Business Travel Consultant | Day Shifts | Remote - 7am - 7pm",
+      "company": "Perk",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Birmingham",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Perk (formerly TravelPerk) is the intelligent platform for travel and spend management. Built to tackle the time-consuming, manual work that gets in the way of real work, our tools automate everything from travel bookings to expenses, invoice processi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-business-travel-consultant-day-shifts-remote-7am-7pm-birmingham-215031",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "320f91b86262d0ca",
+      "title": "Field Sales Manager",
+      "company": "Lightspeedhq",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Glasgow",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hi there! Thanks for stopping by 👋 Are you actively looking for a new opportunity? Or just checking the market? Well… you might just be in the right place! Lightspeed is looking for a motivated and collaborative Field Sales Manager to join our growing Scotland…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/lightspeedhq/field-sales-manager-glasgow-100353",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1ad08561248ef7e8",
+      "title": "Senior Engineering Manager",
+      "company": "Checkout.com",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-engineering-manager-london-315128",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4dfb3666de2f1c59",
+      "title": "Manager, Sales Engineering",
+      "company": "Checkout.com",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/manager-sales-engineering-london-383065",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0cee0c3a318b98eb",
+      "title": "Senior Software Engineer, AI Centre of Excellence",
+      "company": "Checkout.com",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-software-engineer-ai-centre-of-excellence-london-159611",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "229021fceadfc2a0",
+      "title": "Data Scientist - Payment Success",
+      "company": "Checkout.com",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/data-scientist-payment-success-london-360943",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2c89ba46c0475494",
+      "title": "Senior Specialist, Communications (12m FTC)",
+      "company": "Checkout.com",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-specialist-communications-12m-ftc-london-471997",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d58adbc3a5226f13",
+      "title": "Communications Manager, Merchant Announcements",
+      "company": "Checkout.com",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/communications-manager-merchant-announcements-london-181584",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3e42b1cdb5ceed8a",
+      "title": "Sales Manager",
+      "company": "Checkout.com",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/sales-manager-london-264178",
+      "source": "Arbeitnow"
+    },
     {
       "id": "1f646581f4ba6e48",
       "title": "Trainee (m/w/d) im Finanzvertrieb – Karriere mit Struktur, Verantwortung und Perspektive (German Speaking)",
@@ -7679,6 +9991,868 @@
       },
       "summary": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking n…",
       "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-finance-manager-london-216685",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b55bf3806d503776",
+      "title": "M&A Associate (m/w/d)",
+      "company": "PraxisEins",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Frankfurt am Main",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind PraxisEins - Deutschlands führender digitalisierter Gesundheitsversorger . Mit unserer Mission, die Primärversorgung durch Digitalisierung zu sichern, konnten wir seit Gründung 2022 bereits auf >300 Mitarbeiter wachsen. Werde auch Du Teil unserer Wach…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/praxiseins/ma-associate-frankfurt-83035",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2efc69d486b87923",
+      "title": "Legal Analyst / Research Associate (m/f/d) – part-time, fixed-term",
+      "company": "Upvest",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Research",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Upvest, we are on a mission to make investing as easy as spending money . Upvest empowers businesses to offer a wide range of investment products and the best experience in the field of capital market investment and retirement planning. Upvest’s Investment …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/upvest/legal-analyst-research-associate-part-time-fixed-term-berlin-291615",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e4cae5106ad54098",
+      "title": "Systems Integration Engineer",
+      "company": "Rivianvw.tech",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Rivian and Volkswagen Group Technologies is a joint venture between two industry leaders with a clear vision for automotive’s next chapter. From operating systems to zonal controllers to cloud and connectivity solutions, we’re addressing the challenge…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/rivianvwtech/systems-integration-engineer-berlin-148577",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cc216ea2e231ff87",
+      "title": "HR Business Partner (m/w/d)",
+      "company": "Buena",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über Buena Buena (backed by GV) macht alles rund um Immobilien so einfach und transparent wie den Kauf eines ETFs. Ob Suchen, Kaufen oder Finanzieren einer Wohnung. Wir tun das, indem wir Hausverwaltungen in ganz Deutschland übernehmen und in Technologieuntern…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/buena/hr-business-partner-berlin-298717",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2d9113a04c435bee",
+      "title": "Praktikum Sales (m/f/d)",
+      "company": "Buena",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über Buena Buena (backed by GV) macht alles rund um Immobilien so einfach und transparent wie den Kauf eines ETFs. Ob Suchen, Kaufen oder Finanzieren einer Wohnung. Wir tun das, indem wir Hausverwaltungen in ganz Deutschland übernehmen und in Technologieuntern…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/buena/praktikum-sales-berlin-310448",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f3ce6943316c717a",
+      "title": "Customer Experience Specialist - German Speaker",
+      "company": "Perk",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Perk (formerly TravelPerk) is the intelligent platform for travel and spend management. Built to tackle the time-consuming, manual work that gets in the way of real work, our tools automate everything from travel bookings to expenses, invoice processi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/perk/customer-experience-specialist-german-speaker-berlin-163711",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "42c5ebc14e441343",
+      "title": "Customer Care Specialist - Spend -German Speaker",
+      "company": "Perk",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Perk (formerly TravelPerk) is the intelligent platform for travel and spend management. Built to tackle the time-consuming, manual work that gets in the way of real work, our tools automate everything from travel bookings to expenses, invoice processi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/perk/customer-care-specialist-spend-german-speaker-berlin-351754",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8fdc84b2946ad496",
+      "title": "Software Engineer Working Student (m/f/d)",
+      "company": "Codesphere",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Karlsruhe",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Codesphere Codesphere is a Virtual Cloud Provider from Germany building the future of sovereign cloud infrastructure. Our platform gives enterprises and governments full sovereignty without giving up modern cloud capability – a vision recently validated …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/codesphere/software-engineer-working-student-karlsruhe-390173",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8f427e740a52700b",
+      "title": "Senior Backend Software Engineer (m/f/d)",
+      "company": "Codesphere",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Karlsruhe",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Codesphere Codesphere is a Virtual Cloud Provider from Germany building the future of sovereign cloud infrastructure. Our platform gives enterprises and governments full sovereignty without giving up modern cloud capability – a vision recently validated …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/codesphere/senior-backend-software-engineer-karlsruhe-363232",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3167751f66eabfc7",
+      "title": "Technical Bid Manager (m/f/d)",
+      "company": "Codesphere",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Karlsruhe",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Codesphere Codesphere is a Virtual Cloud Provider from Germany building the future of sovereign cloud infrastructure. Our platform gives enterprises and governments full sovereignty without giving up modern cloud capability – a vision recently validated …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/codesphere/technical-bid-manager-karlsruhe-452720",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "84e35f8755b1dc4e",
+      "title": "Software Engineer - AI",
+      "company": "Kuro Technology",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "tl;dr After 14 years in construction tech, Lea & Jonas are building the AI foundation for the construction industry Leading European construction enterprises with >€40bn in combined annual construction volume already rely on Kuro every day Construction has som…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/kuro-technology/software-engineer-ai-berlin-324268",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "86771028bf269d3a",
+      "title": "Entrepreneur in Residence",
+      "company": "Finto",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Finto HQ",
+        "region": null,
+        "country": "Munich",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Finto Finto is on a mission to reinvent how enterprises run their finance operations. Starting with AI-powered automation for accounts payable, we eliminate manual invoice handling, supplier chasing, 3-Way-Matching and ERP data entry. Backed by Y Combina…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/finto/entrepreneur-in-residence-munich-125522",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8e7e597194b53519",
+      "title": "Senior Mechanical Engineer - Robotics (m/f/d)",
+      "company": "Omegga",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What We’re Building Towards At Omegga, we're on a mission to reinvent how AI and spectroscopy can drive positive change for animals, people and the planet. We started with a clear objective: eliminate chick culling on a global scale through early, non-invasive…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/omegga/senior-mechanical-engineer-robotics-munich-390214",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "40d62ee62b106f34",
+      "title": "Senior Product Manager - Marketplace",
+      "company": "Cosuno",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin/Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Procurement",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your Mission With the power of AI, we're set to revolutionize the way general contractors and subcontractors find and match with each other on our marketplace. As our Senior Product Manager Marketplace, you'll actively shape this product vision — in a small te…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-product-manager-marketplace-berlin-236965",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "81cd156e4f926180",
+      "title": "Senior Product Manager - General Contractors",
+      "company": "Cosuno",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin/Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your Mission With the power of AI, we're set to revolutionize the way general contractors create, manage, and award bid packages. As our Senior Product Manager General Contractors, you'll actively shape this product vision — in a small team with big leverage a…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-product-manager-general-contractors-berlin-422601",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8f5195deb4b6b412",
+      "title": "Senior Analytics Engineer",
+      "company": "Cosuno",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin/Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission As a member of our Data team, you'll take full ownership of the systems that turn raw data into decisions—for our product, our internal teams, our customers, and our investors. You won't just maintain dashboards; you'll own the pipeline end to end…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-analytics-engineer-berlin-20803",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0e3191f48fda6b21",
+      "title": "Site Reliability Engineer -Openstack (m/f/d)",
+      "company": "gridscale GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At our company, it’s all about #OneTeam! Join gridscale and help shape the future of the cloud together with OVH. As a leading tech company, we’ve been working for over two decades to reduce our environmental footprint - with innovative solutions and an open c…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/gridscale-gmbh/site-reliability-engineer-openstack-koln-377941",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e9e2f6f4f260493c",
+      "title": "Site Reliability Engineer -Cloudstore (m/f/d)",
+      "company": "gridscale GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At our company, it’s all about #OneTeam! Join gridscale and help shape the future of the cloud together with OVH. As a leading tech company, we’ve been working for over two decades to reduce our environmental footprint - with innovative solutions and an open c…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/gridscale-gmbh/site-reliability-engineer-cloudstore-koln-15348",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "100caa545afe8bc6",
+      "title": "Site Reliability Engineer -Openstack (m/w/d)",
+      "company": "gridscale GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Rolle Du unterstützt uns dabei, die On-Premise-Cloud-Plattform von OVHcloud weiterzuentwickeln, zu betreiben und zu industrialisieren. Als Teil eines kleinen, erfahrenen Teams arbeitest du an unserer OpenStack-basierten Infrastruktur sowie am Kubernetes-…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/gridscale-gmbh/site-reliability-engineer-openstack-koln-262893",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4e7a75cf3ad1992e",
+      "title": "Site Reliability Engineer -Cloudstore (m/f/d)",
+      "company": "gridscale GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At our company, it’s all about #OneTeam! Join gridscale and help shape the future of the cloud together with OVH. As a leading tech company, we’ve been working for over two decades to reduce our environmental footprint - with innovative solutions and an open c…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/gridscale-gmbh/site-reliability-engineer-cloudstore-koln-186762",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5c3e0c422abd3bf4",
+      "title": "(Senior) System Engineer (all genders) – Microsoft Infrastructure",
+      "company": "Urano",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Mainz",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Gestalte moderne Microsoft-Infrastrukturen im Public Sector Du möchtest dein technisches Know-how einsetzen, weiterentwickeln und Verantwortung übernehmen? Dann bring deine Fähigkeiten in unsere anspruchsvollen IT-Projekte im öffentlichen Umfeld ein. Wir reali…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/urano/senior-system-engineer-all-genders-microsoft-infrastructure-mainz-281984",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1b179d3359e4dd62",
+      "title": "Working Student – European Security Programme (m/f/d)",
+      "company": "Ecfr",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job Purpose The European Council on Foreign Relations (ECFR) seeks a Working Student to assist with European Security Programme’s overall event management and logistics activities and research efforts, ensuring the smooth execution of various tasks related to …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ecfr/working-student-european-security-programme-berlin-289399",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fee5705ad4cd1c6d",
+      "title": "Senior Consultant (w/m/d) Policy Monitoring & Reporting  im Bereich Forschung und Innovation",
+      "company": "Technopolis Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations",
+        "Policy / Government",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die Technopolis Group ist ein internationales Forschungs- und Beratungsunternehmen für den öffentlichen Sektor mit über 300 Kolleg*innen an zwölf Standorten in Europa, Afrika und Lateinamerika – knapp 50 davon in Deutschland und Österreich. Unser Team analysie…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/technopolis-group/senior-consultant-policy-monitoring-reporting-im-bereich-forschung-und-innovation-berlin-202191",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "20b5b68a403a8f67",
+      "title": "(Senior) Consultant (w/m/d)  Evidenzbasierte Politikberatung im Bereich Hochschul- und Bildungspolitik",
+      "company": "Technopolis Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die Technopolis Group ist ein internationales Forschungs- und Beratungsunternehmen für den öffentlichen Sektor mit über 300 Kolleg*innen an zwölf Standorten in Europa, Afrika und Lateinamerika – knapp 50 davon in Deutschland und Österreich. Wir begleiten – oft…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/technopolis-group/senior-consultant-evidenzbasierte-politikberatung-im-bereich-hochschul-und-bildungspolitik-berlin-348618",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4a89f730ee9f5b60",
+      "title": "Product Owner AI (m/f/d)",
+      "company": "Ocumeda Ag",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your role at Ocumeda We are looking for a Product Owner AI (m/f/d) to take ownership of a new AI-based medical device. You will own the product's technical specification, backlog and requirements end-to-end, from feature scoping through implementation and inte…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ocumeda-ag/product-owner-ai-munchen-421291",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f829fc55f8cf28cf",
+      "title": "Chief of Staff (m/w/d)",
+      "company": "Ocumeda Ag",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Rolle bei Ocumeda Als Chief of Staff (m/f/d) unterstützt den CEO dabei, strategische Ziele effizient zu erreichen und die Organisation in einem dynamischen Umfeld weiterzuentwickeln. Du trägst durch fundierte Analysen und strategische Entscheidungsgrundl…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ocumeda-ag/chief-of-staff-munchen-255187",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "338d38c52e3c3456",
+      "title": "Senior Technical Solution Consultant (d/f/m)",
+      "company": "Brandleadership",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über die Stelle Für den weiteren Ausbau unseres jungen, engagierten und innovativen Teams suchen wir dich als Technical Solution Consultant (d/f/m) Deine Aufgaben Deine zentralen Aufgaben in dieser Rolle umfassen Consulting, Requirements Engineering und System…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/brandleadership/senior-technical-solution-consultant-hamburg-403292",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d2bbd8f068e96616",
+      "title": "Senior Implementation Consultant – Marketing Technology (d/f/m)",
+      "company": "Brandleadership",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über die Stelle Für den weiteren Ausbau unseres jungen, engagierten und innovativen Teams suchen wir dich als Senior Implementation Consultant – Marketing Technology (d/f/m) Deine Aufgaben Deine zentralen Aufgaben in dieser Rolle umfassen Consulting, Requireme…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/brandleadership/senior-implementation-consultant-marketing-technology-hamburg-242340",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3bf17314bd9355bf",
+      "title": "Working Student (m/f/x) Finance and Accounting",
+      "company": "Circus",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "International Development",
+        "Operations",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Mission At Circus (Xetra: CA1), headquartered in Munich, we are pioneering global developments in on-demand autonomous food production. Everything from creation to production and operation – enabled by seamlessly integrated cutting-edge robotics and transf…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/circus/working-student-finance-and-accounting-munich-159966",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "74c4d9e84ec32142",
+      "title": "Full Stack Product Developer (m/w/d)",
+      "company": "Tablemedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Aufgaben Du willst Technologie gestalten, die direkt etwas bewegt? Bei Table.Briefings entwickeln wir digitale Produkte für ein wachsendes Medienunternehmen. Unsere Software hilft dabei, Prozesse effizienter zu machen, neue Geschäftsmodelle zu ermöglichen und …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tablemedia/full-stack-product-developer-berlin-465738",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "399ff4e1075c373c",
+      "title": "(Senior) Social Media Manager (all genders)",
+      "company": "Valuenet Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Einleitung Werde unsere kreative Stimme in den sozialen Medien! Du liebst es, mit Worten, Bildern und Videos Geschichten zu erzählen, die Menschen wirklich bewegen? Dann bist du bei uns genau richtig! Als Social Media Manager:in gestaltest du mit Leidenschaft …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/valuenet-group/senior-social-media-manager-all-genders-munchen-416024",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "75027d5f07099600",
+      "title": "(Senior) Social Media Manager (all genders)",
+      "company": "Valuenet Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Einleitung Werde unsere kreative Stimme in den sozialen Medien! Du liebst es, mit Worten, Bildern und Videos Geschichten zu erzählen, die Menschen wirklich bewegen? Dann bist du bei uns genau richtig! Als Social Media Manager:in gestaltest du mit Leidenschaft …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/valuenet-group/senior-social-media-manager-all-genders-munchen-453939",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4189d6b7fc6ada47",
+      "title": "Ausbildung zum*r Fachinformatiker*in Systemintegration 2027",
+      "company": "Innogames",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du hast Spaß daran, anderen das Arbeiten mit IT leicht zu machen – und willst verstehen, was im Hintergrund passiert, wenn Laptop, Account, Software und Rechte sauber zusammenspielen? Du möchtest lernen, wie wir unsere Kolleg*innen im Alltag unterstützen: von …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/innogames/ausbildung-zumr-fachinformatikerin-systemintegration-2027-hamburg-410048",
       "source": "Arbeitnow"
     },
     {
