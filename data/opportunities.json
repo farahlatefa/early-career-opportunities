@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-23T17:02:07.679767+00:00",
+    "lastUpdated": "2026-09-23T20:23:37.377185+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -4175,8 +4175,8 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "a6a2c21231c85caa",
-      "title": "Praktikant/in für Social Media Marketing und e-Commerce",
+      "id": "5bc05d730ad82d25",
+      "title": "Praktikum in 1) Social Media Marketing oder 2) e-Commerce (m/w/d)",
       "company": "myBuddy",
       "employmentType": "Internship",
       "location": {
@@ -6062,6 +6062,770 @@
       },
       "summary": "allaboutHRLaw GmbH ist ein dynamisches, stark wachsendes Beratungsunternehmen, welches für Start-ups, kleine und mittelständische Unternehmen ganz oder teilweise die Personalarbeit übernimmt, als HR as a service. Wir haben bereits namhafte Start-ups auf dem We…",
       "applicationUrl": "https://www.arbeitnow.com/jobs/companies/allabouthrlaw-gmbh/praktikant-human-resources-am-standort-leipzig-113247",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1c998aed97957f8f",
+      "title": "Senior IT-Projektmanager / Technical Consultant (m/w/d)",
+      "company": "IT Studio Rech GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Würzburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Business Systems, Digitalisierung & KI Du verstehst Softwareentwicklung, denkst in Geschäftsprozessen und bringst komplexe Projekte in die Umsetzung? Dann unterstütze mit uns wachsende Unternehmen dabei, ihre Systeme, Daten und Abläufe zukunftsfähig aufzustell…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/it-studio-rech-gmbh/senior-it-projektmanager-technical-consultant-wurzburg-62128",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d0033c5cc47f8a4c",
+      "title": "Corporate (Mid-Market) Account Executive DACH (m/w/d)",
+      "company": "SoSafe",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir bei SoSafe haben das Ziel, der führende Anbieter für Human Risk Management Lösungen in Europa zu werden. Unsere preisgekrönte Awareness-Plattform unterstützt Unternehmen dabei, nachhaltige Verhaltensänderungen durch effektive, interaktive Trainings rund um…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sosafe/corporate-mid-market-account-executive-dach-cologne-329750",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "89b41507d3fc02ff",
+      "title": "Linguist - Japanese - Remote",
+      "company": "LILT (Production)",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Linguist - Japanese - Finance - Remote About The Opportunity We are currently looking for experienced linguists to join our Finance Talent Community . We are seeking senior linguists with a strong background in financial translation and a deep understanding of…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-japanese-remote-79710",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1b59f7abf33226b6",
+      "title": "Voice Talent - German - Remote",
+      "company": "LILT (Production)",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany (Remote)",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About The Opportunity We are looking for professional or semi-professional voice talents with a passion for language and technology for an exciting project. The recordings will be used for model training. What You’ll Deliver Voice Samples Voice qualities of in…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lilt-production/voice-talent-german-remote-berlin-303461",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c56f02c296fcc751",
+      "title": "Senior Electrical Engineer (m/f/d)",
+      "company": "Dornier MedTech GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "DMT-Germany - Wessling",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ihre Aufgaben Development, implementation, construction and testing of electrical components and for medical products, which represent state-of-the-art technology. The job holder closely collaborates with stakeholders across department and operational structur…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/dornier-medtech-gmbh/senior-electrical-engineer-dmt-germany-wessling-106741",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a8c27e095fc30b45",
+      "title": "Business Analyst (m/w/d) - auch für Berufseinsteiger",
+      "company": "Fahrrad Xxl De",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Dresden",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Wir investieren viel in Digitalisierung und erstellen selbst leistungsfähige und sehr individualisierte Softwaretools für mehr als 1000 aktive User:innen. Zur Verstärkung unseres Teams in Dresden suchen wir zum nächstmöglichen Zeitpunkt einen Bu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/fahrrad-xxl-de/business-analyst-auch-fur-berufseinsteiger-dresden-14418",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c20d9179c6ebbe67",
+      "title": "Controller*in Senior / Business Analyst*in (m/w/d) in Bonn",
+      "company": "Aktion Mensch e.V.",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Bonn",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "WIR suchen dich! Du gestaltest das Controlling der Zukunft durch den Einsatz moderner Analyse-, Business-Intelligence-, Predictive-Analytics- und KI-Lösungen. Dabei agierst du als Sparringspartner*in für unsere Fachbereiche, entwickelst Self-Service-Lösungen, …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/aktion-mensch-ev/controllerin-senior-business-analystin-in-bonn-4119",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "99a5a65aff91b083",
+      "title": "(Senior) Financial Accountant Real Estate (m/f/d)",
+      "company": "Empira Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Leipzig",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission Independently managing the day-to-day financial accounting for our property companies and holding companies Preparing monthly, quarterly and annual financial statements in accordance with the German Commercial Code (HGB) and Luxembourg GAAP Prepar…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/empira-group/senior-financial-accountant-real-estate-leipzig-54808",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "93cdf6ebbf38eb1d",
+      "title": "(Senior) Financial Accountant Real Estate (m/f/d)",
+      "company": "Empira Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission Independently managing the day-to-day financial accounting for our property companies and holding companies Preparing monthly, quarterly and annual financial statements in accordance with the German Commercial Code (HGB) and Luxembourg GAAP Prepar…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/empira-group/senior-financial-accountant-real-estate-munchen-267171",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f1848ada95873fab",
+      "title": "System Engineer - Backup & Monitoring (m/w/d)",
+      "company": "Skaylink",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Essen",
+        "region": null,
+        "country": "Nordrhein-Westfalen",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ready to protect critical systems? 🔐📊 Dich erwartet ein modernes IT-Umfeld, in dem du in den Bereichen Backup, Monitoring und Automatisierung Verantwortung für geschäftskritische Systeme übernimmst. Mit Veeam, Cloud-Backups und professionellem Monitoring stell…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skaylink/system-engineer-backup-monitoring-essen-nordrhein-westfalen-186104",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "91e6ecd9e0c3b0b4",
+      "title": "Werkstudent Digital Marketing (m/w/d)",
+      "company": "BrainersHub GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du studierst Marketing, Business oder einen verwandten Studiengang und willst endlich richtig loslegen? Du interessierst dich für Content Marketing, SEO und digitale Strategien und möchtest lernen, wie moderne Webseiten und Landingpages wirklich performen? Dan…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/brainershub-gmbh/werkstudent-digital-marketing-hamburg-337119",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4ac6f67bb90a2171",
+      "title": "Product Architect & Software Engineer (AI) (m/w/d)",
+      "company": "LS Leasing & Service GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": "management"
+      },
+      "summary": "You build and own the software that runs a regulated financial services company — from customer-facing platforms to the tools our team uses every day — and you lead how we put AI to work. Senior role in Munich, reporting to management. Tasks Architecture and p…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ls-leasing-service-gmbh/product-architect-software-engineer-ai-munich-373856",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7cc97ebc15e49371",
+      "title": "Digital Media Consultant (m/w/d)",
+      "company": "adlicious",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über adlicious adlicious ist einer der führenden Advertising Solutions Provider im schönen Hamburg und unsere Mission ist es, die besten Werbekampagnen für unsere Kunden zu kreieren, indem wir Media, Creative & Tech miteinander vereinen. Mit unserer einzigarti…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/adlicious/digital-media-consultant-hamburg-35699",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "54753fbad075c5ee",
+      "title": "Werkstudent Digital Marketer (m/w/d)",
+      "company": "BrainersHub GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du studierst Marketing, Business oder einen verwandten Studiengang und willst endlich richtig loslegen? Du interessierst dich für Content Marketing, SEO und digitale Strategien und möchtest lernen, wie moderne Webseiten und Landingpages wirklich performen? Dan…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/brainershub-gmbh/werkstudent-digital-marketer-hamburg-94193",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ba98fe3d9779d07d",
+      "title": "Konstrukteur / Produktentwickler (m/w/d) für Prüfadapter & Testvorrichtungen - CAD / 3D-Druck",
+      "company": "eloprint",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Esslingen",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ELOPRINT ist ein 2018 gegründetes Technologie-Startup aus Esslingen. Wir entwickeln und fertigen kundenspezifische Prüfadapter und Testvorrichtungen für Leiterplatten und elektronische Baugruppen - vom ersten CAD-Modell bis zur fertigen Vorrichtung. Dabei arbe…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/eloprint/konstrukteur-produktentwickler-fur-prufadapter-testvorrichtungen-cad-3d-druck-esslingen-187886",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "618ee282954ebccb",
+      "title": "Chief of Staff to the President, International - Fanatics Collectibles",
+      "company": "fanaticscollectibles",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Fanatics is building a leading global digital sports platform. We ignite the passions of global sports fans and maximize the presence and reach for our hundreds of sports partners globally by offering products and services across Fanatics Commerce, Fa…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/fanaticscollectibles/chief-of-staff-to-the-president-international-fanatics-collectibles-london-454404",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4f06225059abe11e",
+      "title": "People Operations Executive (FTC)",
+      "company": "Carwow",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "OUR MISSION To become the car-changing destination of choice. By combining technology, media and deep automotive expertise, we've turned how people buy, sell, advertise and lease cars on its head. What started as a simple reviews site is now one of the largest…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/carwow/people-operations-executive-ftc-london-315046",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "446cc9016778dc54",
+      "title": "Senior Forward Deployed Engineer (5961)",
+      "company": "Shield AI",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/shield-ai/senior-forward-deployed-engineer-5961-london-66829",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7ff0cabaa4800f42",
+      "title": "Forward Deployed Engineer II",
+      "company": "Shield AI",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/shield-ai/forward-deployed-engineer-ii-london-378827",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "20ad21a48015b071",
+      "title": "Product Manager - Maritime (All Genders)",
+      "company": "Stark",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Plymouth",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us STARK is a new kind of defence technology company revolutionising the way autonomous systems are deployed across multiple domains. We design, develop, and manufacture high-performance unmanned systems that are software-defined, mass-scalable, and cost…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/stark/product-manager-maritime-all-genders-plymouth-493368",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "179d1343f324c2a9",
+      "title": "ML Engineer - Power",
+      "company": "Kpler",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors. Sin…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/kpler/ml-engineer-power-paris-215115",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4bcfa577da930869",
+      "title": "Senior Full-Stack Product Engineer",
+      "company": "The Flex",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Base360.ai is the AI operating system for short-term rental businesses, helping property managers run their operations on autopilot. Born out of The Flex, a short-term rental operator that scaled to an eight-figure business using its own software, Bas…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/the-flex/senior-full-stack-product-engineer-paris-446978",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3d14b8026b055033",
+      "title": "Product Engineer",
+      "company": "The Flex",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Base360.ai is the AI operating system for short-term rental businesses, helping property managers run their operations on autopilot. Born out of The Flex, a short-term rental operator that scaled to an eight-figure business using its own software, Bas…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/the-flex/product-engineer-paris-29691",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2586827a8818eb1a",
+      "title": "Senior Software Engineer",
+      "company": "The Flex",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Base360.ai is the AI operating system for short-term rental businesses, helping property managers run their operations on autopilot. Born out of The Flex, a short-term rental operator that scaled to an eight-figure business using its own software, Bas…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/the-flex/senior-software-engineer-paris-202243",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "444792444e69dcba",
+      "title": "Product Builder",
+      "company": "Camunda",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-product-builder-112036",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "259d3593aa3f8005",
+      "title": "Senior Software Engineer, Engineering Operations",
+      "company": "Camunda",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-474753",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "31dee3aea5bcb8d7",
+      "title": "Contrôleur de gestion & Data analyste",
+      "company": "Hi",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Lyon",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Sports",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "NOTRE ONG : Handicap International / Humanité & Inclusion (HI) est une association de solidarité internationale indépendante et impartiale, qui intervient dans les situations de pauvreté et d’exclusion, de conflits et de catastrophes. Œuvrant aux côtés des per…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/hi/controleur-de-gestion-data-analyste-lyon-497459",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d674b8b1e9939cfe",
+      "title": "Strategic Partner Account Manager DACH",
+      "company": "Aircall",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Aircall is a unicorn, AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, resolve issues faster, and scale customer-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI to…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/aircall/strategic-partner-account-manager-dach-paris-office-95265",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3f1e6d61695d6f94",
+      "title": "Regional Marketing Intern, DACH Market",
+      "company": "Aircall",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Aircall is a unicorn, AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, resolve issues faster, and scale customer-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI to…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/aircall/regional-marketing-intern-dach-market-paris-office-335123",
       "source": "Arbeitnow"
     },
     {
