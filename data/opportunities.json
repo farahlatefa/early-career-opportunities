@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-24T19:11:26.187335+00:00",
+    "lastUpdated": "2026-09-24T22:25:49.300369+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8564,6 +8564,2219 @@
       },
       "summary": "Du willst die Energiewende nicht nur begleiten – Du willst sie aktiv gestalten? Dann bist Du bei uns genau richtig. Wir entwickeln und realisieren Projekte im Bereich Windenergie, Photovoltaik, Batteriespeicher (BESS) und Stromtrassen – und treiben damit die E…",
       "applicationUrl": "https://www.arbeitnow.com/jobs/companies/deutscher-bauservice-gmbh/projektmanager-wegerecht-und-flachensicherung-erneuerbare-energien-molbergen-109236",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b7f141e31af80383",
+      "title": "Product Owner – Trust Services (eIDAS2, EUDI Wallet & Trust Platform) (f/m/d)",
+      "company": "idnow",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Bavaria",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "IDnow is a leader in digital identity and fraud prevention in Europe with a mission to transform trust into the most powerful asset in the digital world, empowering enterprises with AI-driven, SaaS-based identity solutions that deliver scalable security, adapt…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/idnow/product-owner-trust-services-eidas2-eudi-wallet-trust-platform-berlin-berlin-munchen-bavaria-471993",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3d79ed68561f5aa4",
+      "title": "Senior Backend Engineer - Golang",
+      "company": "sumup",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the team: The Commercial Systems and Intelligence squad is a newly formed team within SumUp's Acquisition Mission under the Run & Grow tribe. We sit at the intersection of data, backend engineering, and sales operations, building the infrastructure that …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-golang-cologne-161797",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f1d54e54f45b4957",
+      "title": "Senior Backend Engineer - Golang",
+      "company": "sumup",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the team: The Commercial Systems and Intelligence squad is a newly formed team within SumUp's Acquisition Mission under the Run & Grow tribe. We sit at the intersection of data, backend engineering, and sales operations, building the infrastructure that …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-golang-berlin-254897",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "df86a932589dd626",
+      "title": "Senior Software Engineer",
+      "company": "Catapult Sports",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Catapult is building the future of sports performance technology, with a mission to Unleash the Potential of every athlete and team on earth. We don't just work in the sporting industry; we are actively changing it. Since 2006, our solutions have been leading …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/catapult-sports/senior-software-engineer-cologne-481233",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "35127ceaa58d3a07",
+      "title": "Senior Software Engineer, Event Streaming Systems",
+      "company": "Deliveroo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking n…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/deliveroo/senior-software-engineer-event-streaming-systems-berlin-21853",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c7265ceecd64109b",
+      "title": "(Senior) Software Engineer (d/f/m)",
+      "company": "Taxfix",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our story: Every year millions of people are either filing their taxes in fear or giving up on their tax refund altogether. We're working on fixing that. Our intuitive app enables anyone, regardless of education or background, to file their taxes with newfound…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/taxfix/senior-software-engineer-berlin-333938",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3f9ead57483146aa",
+      "title": "Content Engineer (d/f/m)",
+      "company": "Taxfix",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our story: Every year millions of people are either filing their taxes in fear or giving up on their tax refund altogether. We're working on fixing that. Our intuitive app enables anyone, regardless of education or background, to file their taxes with newfound…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/taxfix/content-engineer-berlin-53504",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cd3916ebf19ab18a",
+      "title": "GTM Enablement Intern",
+      "company": "Peec AI",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Peec AI Peec AI is the analytics platform for AI search. People increasingly discover products and make buying decisions through ChatGPT, Claude, Gemini, and Google's AI Overviews instead of traditional search, and most brands have no idea where they sho…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/peec-ai/gtm-enablement-intern-berlin-204344",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "be618f03b6d6f7ed",
+      "title": "Performance Marketing Manager",
+      "company": "YAZIO",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": "bulk campaign changes - so you can focus on strategy and results Provide actionable insights to the"
+      },
+      "summary": "HEY THERE! Let's shape the future of nutrition together and make Yazio the most successful nutrition app worldwide! As a Performance Marketing Manager, you'll be a key player in our user acquisition team, owning and optimizing high-performing campaigns across …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/yazio/performance-marketing-manager-berlin-349965",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "75bf4295f303f6fa",
+      "title": "Data Analytics Team Lead",
+      "company": "YAZIO",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "HEY THERE You've spent the last few years as the analyst sitting alongside a mobile squad—close to the tracking, the experiments and the numbers behind their decisions. You've also been leading a small team as well for a while now, and you don't want to give u…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/yazio/data-analytics-team-lead-berlin-34045",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dc13e84d9b3f1d51",
+      "title": "Tax & Accounting Operations Assistant (f/m/d)",
+      "company": "bunch",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "bunch is building the backbone of private markets. We are enabling next-gen fund operations with one integrated system that combines secure data infrastructure, AI-powered workflows and expert fund services. If you value ownership, growth through real responsi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/bunch/tax-accounting-operations-assistant-berlin-185090",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d63ba858cdf4f9e7",
+      "title": "(Senior) Design System Engineer (f/m/d)",
+      "company": "Zeal Network",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ZEAL Network SE is a dynamic, international group of companies that has been creating exciting and innovative lottery experiences for over 20 years. As Germany’s largest provider of online lotteries through our brands LOTTO24 and Tipp24, and a trusted partner …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/zeal-network/senior-design-system-engineer-hamburg-354077",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0de1179505b74a7d",
+      "title": "(Senior) Quality Assurance Engineer (f/m/d)",
+      "company": "Zeal Network",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ZEAL Network SE is a dynamic, international group of companies that has been creating exciting and innovative lottery experiences for over 20 years. As Germany’s largest provider of online lotteries through our brands LOTTO24 and Tipp24, and a trusted partner …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/zeal-network/senior-quality-assurance-engineer-hamburg-205565",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1754b7e08b123649",
+      "title": "(Senior) Finance Technology Manager (m/f/d)",
+      "company": "Statista",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Statista , we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions. F…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/statista/senior-finance-technology-manager-hamburg-386354",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3fc299e686767ab1",
+      "title": "B2B Marketing Manager (m/f/d)",
+      "company": "Statista",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Statista , we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions. F…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/statista/b2b-marketing-manager-hamburg-227331",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9c3958a7235573b8",
+      "title": "(Junior) Graphic Designer (m/f/d)",
+      "company": "Statista",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Statista , we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions. F…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/statista/junior-graphic-designer-hamburg-322187",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "257f37b63a765150",
+      "title": "Staplerfahrer / Fachkraft für Lagerlogistik – Schubmast (m/w/d)",
+      "company": "Rohlik",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Garching bei München",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Staplerfahrer / Fachkraft für Lagerlogistik – Schubmast (m/w/d) Garching bei München (Gewerbegebiet) | Logistik / Operations | Vollzeit Knuspr ist Teil der Rohlik Gruppe – und wir verändern die Art und Weise, wie Menschen Lebensmittel einkaufen. Unser Herz sch…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/rohlik/staplerfahrer-fachkraft-fur-lagerlogistik-schubmast-garching-bei-munchen-439725",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "926a1a3fd35a9c37",
+      "title": "Staplerfahrer / Fachkraft für Lagerlogistik – Schubmast (m/w/d)",
+      "company": "Rohlik",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Schönefeld bei Berlin",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Staplerfahrer / Fachkraft für Lagerlogistik – Schubmast (m/w/d) Schönefeld bei Berlin | Logistik / Operations | Vollzeit Knuspr ist Teil der Rohlik Gruppe – und wir verändern die Art und Weise, wie Menschen Lebensmittel einkaufen. Unser Herz schlägt für frisch…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/rohlik/staplerfahrer-fachkraft-fur-lagerlogistik-schubmast-schonefeld-312227",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bf2be9ca4bbb36a9",
+      "title": "Staplerfahrer BSH (m/w/d)",
+      "company": "Rohlik",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bischofsheim bei Frankfurt",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Knuspr ist Teil der Rohlik Gruppe – und wir verändern die Art und Weise, wie Menschen Lebensmittel einkaufen. Unser Herz schlägt für frische, hochwertige Produkte und eine blitzschnelle Lieferung direkt an die Haustür. Für unser modernes Logistikzentrum in Bis…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/rohlik/staplerfahrer-bsh-bischofsheim-50320",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9de24e27171ab32b",
+      "title": "Personalsachbearbeiter (m/w/d)",
+      "company": "Rohlik",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bischofsheim bei Frankfurt",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du liebst Struktur, hast ein Auge fürs Detail und möchtest die treibende Kraft hinter einer reibungslosen Employee Journey sein? Als HR Administrator in unserem People Experience Team hältst du die Fäden der HR- und Payroll-Administration in der Hand. Du sorgs…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/rohlik/personalsachbearbeiter-bischofsheim-208416",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6b7f612dfa222b48",
+      "title": "Growth Consultant (m/w/d)",
+      "company": "Arvana",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Intro Bei Arvana bauen wir die ersten AI-native Go-To-Market Agentur in DACH. Seit 2024 sind wir auf über €5M ARR und 30+ Leute im Team gewachsen. Wir arbeiten mit über 200 B2B-Tech-Unternehmen zusammen, darunter FreeNow, SmapOne, Swisscom und Klett. Als Growt…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/arvana/growth-consultant-berlin-202740",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4a2f67d0cb0315dc",
+      "title": "Senior SRE – OpenStack & Bare Metal (m/f/d)",
+      "company": "gridscale GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At our company, it’s all about #OneTeam! Join gridscale and help shape the future of the cloud together with OVH. As a leading tech company, we’ve been working for over two decades to reduce our environmental footprint - with innovative solutions and an open c…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/gridscale-gmbh/senior-sre-openstack-bare-metal-koln-470451",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1fb03d5c74c8bb36",
+      "title": "Senior SRE - OpenStack & Bare Metal (m/w/d)",
+      "company": "gridscale GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Rolle Du unterstützt uns dabei, die On-Premise-Cloud-Plattform von OVHcloud weiterzuentwickeln, zu betreiben und zu industrialisieren. Als Teil eines kleinen, erfahrenen Teams arbeitest du an unserer OpenStack-basierten Infrastruktur sowie am Kubernetes-…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/gridscale-gmbh/senior-sre-openstack-bare-metal-koln-105260",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "244c6efc0ae3f1a2",
+      "title": "Senior Platform Engineer - Kubernetes & GitOps (m/f/d)",
+      "company": "gridscale GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At our company, it’s all about #OneTeam! Join gridscale and help shape the future of the cloud together with OVH. As a leading tech company, we’ve been working for over two decades to reduce our environmental footprint - with innovative solutions and an open c…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/gridscale-gmbh/senior-platform-engineer-kubernetes-gitops-koln-161593",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a02fffe1e19897bb",
+      "title": "Senior Platform Engineer - Kubernetes & GitOps (m/w/d)",
+      "company": "gridscale GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bei uns gilt #OneTeam! Komm zu gridscale und gestalte mit OVH die Zukunft der Cloud. Als führendes Tech-Unternehmen arbeiten wir seit über zwei Jahrzehnten daran, unseren ökologischen Fußabdruck zu verringern – mit innovativen Lösungen und einer offenen Cloud,…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/gridscale-gmbh/senior-platform-engineer-kubernetes-gitops-koln-169157",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "423017255fbf1d37",
+      "title": "(Senior) Produkt Manager (m/w/d)",
+      "company": "Finway",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "DE",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine neue Rolle bei finway Wir suchen ab sofort eine erfahrene und umsetzungsstarke Persönlichkeit als (Senior) Produkt Manager (m/w/d) für eine Elternzeitvertretung (erst einmal auf 2 Jahre befristet - potentielle unbefristete Anstellung nach dieser Zeit mög…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/finway/senior-produkt-manager-munich-de-416543",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7bb6ccf93389d1fe",
+      "title": "Senior Infrastructure & Network Engineer - Germany",
+      "company": "Sungrow Europe - Welcome traveler!",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany - Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission Servus und hallo bei uns in Sungrow! Join our Munich IT team and help keep the infrastructure behind Europe’s clean-energy growth secure, reliable, and ready for what comes next. Curious what this is all about? Let’s dive right in: Own the daily o…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sungrow-europe-welcome-traveler/senior-infrastructure-network-engineer-germany-germany-munich-31248",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c6883308b21a71fb",
+      "title": "Working Student Designer (Design System) – Heartbeat AI (m/f/d)",
+      "company": "1Komma5Grad",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "1KOMMA5° At 1KOMMA5° , we pursue a clear vision: Living on wind and sunlight forever for free . To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it? We bring together regional craftsmanship and scala…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/1komma5grad/working-student-designer-design-system-heartbeat-ai-berlin-104543",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cddd28a107a173e7",
+      "title": "Werkstudent:in Sales & Operations (m/w/d)",
+      "company": "1Komma5Grad",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "1KOMMA5° Bei 1KOMMA5° verfolgen wir eine Vision: Living on wind and sunlight forever for free . Dafür bauen wir mit Heartbeat AI das Energiesystem der Zukunft. Bist du dabei? Wir bringen regionales Handwerk und skalierbare Software zusammen: Solar, Speicher, W…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/1komma5grad/werkstudentin-sales-operations-koln-116287",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5bd722a4bcc60cc5",
+      "title": "Sales Manager Photovoltaik & Wärmepumpen (m/w/d) – Digital Sales",
+      "company": "1Komma5Grad",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "1KOMMA5° Werde Teil des CleanTech Unicorns und gestalte den größten Energiemarkt der Welt! Bei 1KOMMA5° verfolgen wir eine klare Vision: Living on wind and sunlight forever for free. Mit unserer KI-basierten Softwareplattform Heartbeat AI und Premium-Hardware …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/1komma5grad/sales-manager-photovoltaik-warmepumpen-digital-sales-berlin-286866",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7b72f64f294e66f0",
+      "title": "Internship AI & Automation - Energy (m/f/d)",
+      "company": "1Komma5Grad",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "1KOMMA5° Bei 1KOMMA5° bauen wir Europas führende Energie-Software-Plattform “Heartbeat” und schaffen so ein virtuelles Kraftwerk , das Photovoltaik, Stromspeicher, Wärmepumpen und Ladesäulen der Kunden verknüpft und so die Rentabilität vernetzter Kundenanlagen…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/1komma5grad/internship-ai-automation-energy-berlin-450137",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5799529520a7fda5",
+      "title": "(Junior) SEO & AI Marketing Manager (m/w/d)",
+      "company": "1Komma5Grad",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "1KOMMA5° Bei 1KOMMA5° verfolgen wir eine Vision: Living on wind and sunlight forever for free . Dafür bauen wir mit Heartbeat AI das Energiesystem der Zukunft. Bist du dabei? Wir bringen regionales Handwerk und skalierbare Software zusammen: Solar, Speicher, W…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/1komma5grad/junior-seo-ai-marketing-manager-berlin-376445",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ee0d801ab17d9f04",
+      "title": "Manager Digital & AI Strategy - Automotive (m/f/d)",
+      "company": "Ommax",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What we look for: You lead internal and external strategy projects in the automotive industry as a Manager and Project Lead, from planning and implementation to monitoring and review. You lead the strategic planning and implementation of digital marketing and …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ommax/manager-digital-ai-strategy-automotive-munchen-326610",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d5560b8774f2e20c",
+      "title": "Intern Data Governance, Strategy & Analytics (m/f/d)",
+      "company": "Ommax",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What we look for: You support client projects that strengthen data governance, data strategy, and analytics capabilities across organizations. You analyze and document data processes, standards, roles, responsibilities, and business requirements at the interfa…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ommax/intern-data-governance-strategy-analytics-munchen-101094",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "83d217b9d8124845",
+      "title": "Intern AI & Data Engineering (m/f/d)",
+      "company": "Ommax",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What we look for: You support client projects in turning AI opportunities into practical, valuable, and scalable solutions. You contribute to the development and implementation of AI and automation use cases, from the initial idea to technical prototypes. You …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ommax/intern-ai-data-engineering-munchen-481917",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f05ee4b77f7e9931",
+      "title": "Ausbildung Fachinformatiker für Systemintegration (m/w/d)",
+      "company": "Solvares",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Dein Job bei uns: Von Anfang an bist du mittendrin: Du installierst und betreust unsere eigenen IT-Systeme, kümmerst dich um technische Fragen und findest Lösungen für die Kollegen. Dabei tauchst du in ein modernes Microsoft-Umfeld ein, lernst Datenbanken und …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/solvares/ausbildung-fachinformatiker-fur-systemintegration-hamburg-3616",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "67053e093bcc5c02",
+      "title": "Senior Bilanzbuchhalter / Senior Accountant (all genders)",
+      "company": "tink GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Erstellung von Monats, Quartals und Jahresabschlüssen: Eigenverantwortliche Vorbereitung und Erstellung der Abschlüsse nach HGB für die tink GmbH und verbundene Gesellschaften Haupt und Nebenbuchhaltung: Überwachung und Durchführung der Debitore…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tink-gmbh/senior-bilanzbuchhalter-senior-accountant-all-genders-berlin-317159",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "982aa17b538f5c2f",
+      "title": "E-Commerce Product Owner:in (all genders)",
+      "company": "tink GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Du gestaltest E-Commerce-Erlebnisse, die Kunden begeistern und die Conversion messbar verbessern? Du denkst in durchgängigen User Journeys, hast einen scharfen Blick für UX/UI-Details und suchst eine Rolle mit voller Ownership für den Shop? Dann…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tink-gmbh/e-commerce-product-ownerin-all-genders-berlin-149895",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2b05bb3260b8dee0",
+      "title": "Automation Engineer (gn) - 40 Std, (hybrid) (München)",
+      "company": "42Watt",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben ​ Wir arbeiten über ein zertifiziertes Netzwerk lokaler Handwerkspartner – ohne eigene Installationskapazitäten. Der Erfolg unseres Geschäftsmodells hängt direkt davon ab, wie gut wir dieses Partnernetzwerk aufbauen , auslasten und kommerziell s…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-216639",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "45a74d1b10c043b3",
+      "title": "Senior Projektmanager Bau (m/w/d)",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein international agierendes Unternehmen, das sich auf Projektsteuerung, Baumanagement und die erfolgreiche Realisierung komplexer Bauvorhaben spezialisiert hat. In vielseitigen Projekten unterschiedlichster Größenordnungen werde…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-projektmanager-bau-dusseldorf-342845",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7c16726cb4ac5f93",
+      "title": "Senior Projektleiter (m/w/d) Hochbau",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Ein wachsendes Ingenieur- und Projektmanagementunternehmen mit Schwerpunkt Hochbau realisiert anspruchsvolle Bauprojekte für öffentliche und private Auftraggeber. Der Fokus liegt auf einer ganzheitlichen Steuerung von Bauvorhaben mit hohen Anforde…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-projektleiter-hochbau-dusseldorf-418266",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "66591cc5a8d92532",
+      "title": "Senior Projektleiter (m/w/d) Großprojekt",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Stuttgart",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein erfolgreiches und wirtschaftlich stark aufgestelltes Bauunternehmen. Das Unternehmen realisiert anspruchsvolle Großprojekte im Hochbau und überzeugt durch höchste Qualitätsstandards, innovative Bauprozesse und eine langfristi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-projektleiter-grossprojekt-stuttgart-3435",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "17fb45d08c73167c",
+      "title": "Senior Bauleiter (m/w/d) Ingenieurbau in Frankfurt (Main)",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Frankfurt",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein erfolgreiches und etabliertes Bauunternehmen mit langjähriger Erfahrung im Ingenieurbau und realisiert anspruchsvolle Infrastrukturprojekte. Das Unternehmen steht für Qualität, Innovation und nachhaltige Bauweise und überzeug…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-ingenieurbau-in-frankfurt-main-281255",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f8ab22bf5a070e65",
+      "title": "Senior Bauleiter (m/w/d) Ingenieurbau – Stuttgart / Karlsruhe",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Stuttgart",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein erfolgreiches und etabliertes Bauunternehmen mit langjähriger Erfahrung im Ingenieurbau und realisiert anspruchsvolle Infrastrukturprojekte. Das Unternehmen steht für Qualität, Innovation und nachhaltige Bauweise und überzeug…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-ingenieurbau-stuttgart-karlsruhe-377365",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "36ce5373e2c304ff",
+      "title": "Senior Bauleiter (m/w/d) Ingenieurbau - Stuttgart / Karlsruhe",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Stuttgart",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein erfolgreiches und etabliertes Bauunternehmen mit langjähriger Erfahrung im Ingenieurbau und realisiert anspruchsvolle Infrastrukturprojekte. Das Unternehmen steht für Qualität, Innovation und nachhaltige Bauweise und überzeug…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-ingenieurbau-stuttgart-karlsruhe-230491",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "52f55e17b478e04d",
+      "title": "Senior Bauleiter (m/w/d) Ingenieurbau - München / Nürnberg",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein erfolgreiches und etabliertes Bauunternehmen mit langjähriger Erfahrung im Ingenieurbau und realisiert anspruchsvolle Infrastrukturprojekte. Das Unternehmen steht für Qualität, Innovation und nachhaltige Bauweise und überzeug…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-ingenieurbau-munchen-nurnberg-124773",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b87688a0ab5cb379",
+      "title": "Senior Bauleiter (m/w/d) Ingenieurbau - Mannheim",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Mannheim",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein erfolgreiches und etabliertes Bauunternehmen mit langjähriger Erfahrung im Ingenieurbau und realisiert anspruchsvolle Infrastrukturprojekte. Das Unternehmen steht für Qualität, Innovation und nachhaltige Bauweise und überzeug…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-ingenieurbau-mannheim-56720",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4beb0c9b606a862d",
+      "title": "Senior Bauleiter (m/w/d) Ingenieurbau - Frankfurt (Main)",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Frankfurt",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein erfolgreiches und etabliertes Bauunternehmen mit langjähriger Erfahrung im Ingenieurbau und realisiert anspruchsvolle Infrastrukturprojekte. Das Unternehmen steht für Qualität, Innovation und nachhaltige Bauweise und überzeug…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-ingenieurbau-frankfurt-main-423450",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5ec099868630953d",
+      "title": "Senior Bauleiter (m/w/d) Ingenieurbau",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein erfolgreiches und etabliertes Bauunternehmen mit langjähriger Erfahrung im Ingenieurbau und realisiert anspruchsvolle Infrastrukturprojekte. Das Unternehmen steht für Qualität, Innovation und nachhaltige Bauweise und überzeug…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-ingenieurbau-munchen-263078",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f261df56f2c1d003",
+      "title": "Senior Bauleiter (m/w/d) - Stuttgart, München, Karlsruhe",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein erfolgreiches und etabliertes Bauunternehmen mit langjähriger Erfahrung in der Realisierung anspruchsvoller Hochbauprojekte. Das Unternehmen steht für hohe Qualität, professionelle Projektabwicklung und wirtschaftliche Stabil…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-stuttgart-munchen-karlsruhe-247947",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "befa96461efef737",
+      "title": "Senior Asset Manager (m/w/d)",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein erfolgreiches, inhabergeführtes Immobilienunternehmen mit einem breit diversifizierten Gewerbeimmobilienportfolio und langjähriger Marktpräsenz. Im Fokus stehen die nachhaltige Entwicklung, strategische Steuerung und Wertstei…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-asset-manager-koln-447823",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "047ace8e1b30b679",
+      "title": "Senior Registered Veterinary Nurse - HDU & Wards",
+      "company": "Ivcevidensia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "High Wycombe",
+        "region": null,
+        "country": "England",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At inspiring vet care, our people are at the heart of everything we do. As the UK’s number one vet care provider, we're trusted with the care of over 2 million animals, delivering our purpose of healthier animals and happier owners. Hamilton Specialist Referra…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/senior-registered-veterinary-nurse-hdu-wards-high-wycombe-buckinghamshire-england-85305",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3ef70dce32497779",
+      "title": "Senior Orthopaedic Veterinary Nurse",
+      "company": "Ivcevidensia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "High Wycombe",
+        "region": null,
+        "country": "England",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At inspiring vet care, our people are at the heart of everything we do. As the UK’s number one vet care provider, we're trusted with the care of over 2 million animals, delivering our purpose of healthier animals and happier owners. We are seeking a confident,…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/senior-orthopaedic-veterinary-nurse-high-wycombe-buckinghamshire-england-313119",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3b61115ff1815e7c",
+      "title": "Intern, System Architecture",
+      "company": "Psiquantum",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Daresbury",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Policy / Government",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "PsiQuantum’s mission is to build the first useful quantum computers—machines capable of delivering the breakthroughs the field has long promised. Since our founding in 2016, our singular focus has been to build and deploy million-qubit, fault-tolerant quantum …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/psiquantum/intern-system-architecture-daresbury-267310",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "70f1edb5540daf6b",
+      "title": "AI Strategy Analyst",
+      "company": "Schonfeld",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Role We are looking for a technically-minded individual with a deep personal interest in AI/ML to join the DMFI COO Office as a dedicated AI Strategy Analyst. This is not a traditional quant or engineering role — it sits at the intersection of investment w…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/schonfeld/ai-strategy-analyst-london-482570",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ae69d0e636b00210",
+      "title": "PhD Graduate AI & Algorithms Engineer (2026 start)",
+      "company": "Cambridgeconsultantslimited",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "International Development",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Role We have an exciting opportunity for an engineer within our AI & Algorithms department. As a PhD AI & Algorithms Engineer, you’ll work within our team of talented engineers and scientists on a diverse range of projects. With cutting-edge labs and compu…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/phd-graduate-ai-algorithms-engineer-2026-start-139270",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "915e6caf930f72e7",
+      "title": "Graduate Electronic Systems Engineer (2026 start)",
+      "company": "Cambridgeconsultantslimited",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Introduction We’re looking for Electronics graduates who want to work on real product developments across a range of industries and technologies. You’ll need to be willing to face a challenge and work with a range of different technologies across a variety of …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-electronic-systems-engineer-2026-start-479828",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3d07ec68611de299",
+      "title": "Graduate Electronics Engineer - Telecommunications -  2026 start",
+      "company": "Cambridgeconsultantslimited",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Introduction We’re looking for Electronics graduates who want to work on real product developments across a range of industries and technologies. You’ll need to be willing to face a challenge and work with a range of different technologies across a variety of …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-electronics-engineer-telecommunications-2026-start-118198",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "26b3542884c25ac8",
+      "title": "Graduate Electronics Engineer - RF  (2026 start)",
+      "company": "Cambridgeconsultantslimited",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Introduction We’re looking for RF & Electronics graduates who want to work on real product developments across a range of industries and technologies with a focus on RF . You’ll need to be willing to face a challenge and work with a range of different technolo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-electronics-engineer-rf-2026-start-107591",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e46b9f61ea9124b8",
+      "title": "Agentic Systems Engineer (Digital Services)",
+      "company": "Cambridgeconsultantslimited",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Finance",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About us At Cambridge Consultants, we believe the future of technology isn't just smart, it has agency. We're moving past passive tools and building human-centred digital services and products: systems that reason, plan, and act around the people who use them.…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/agentic-systems-engineer-digital-services-102698",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5256051bc61431f1",
+      "title": "Agentic AI Engineer (Defence & Security)",
+      "company": "Cambridgeconsultantslimited",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Healthcare",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Role We have an opportunity for an engineer in our AI & Algorithms department, working with a particular focus on our defence and security clients. You’ll join a team of talented engineers and scientists designing, building and testing intelligent systems …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/agentic-ai-engineer-defence-security-320896",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1fee78eadd633a35",
+      "title": "Product Manager  H/F",
+      "company": "capco",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Product Manager – Innovation & Design Location: Paris (Hybrid) | Practice Area: Technology & Engineering | Type: Permanent Imaginez et construisez des produits qui répondent aux vrais besoins des utilisateurs et transforment durablement les services financiers…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/capco/product-manager-h-f-240498",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "12802635935510eb",
+      "title": "CDI - Gestionnaire de Copropriétés (IDF)",
+      "company": "Matera",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Dans le cadre du développement de nos équipes de gestion, nous recherchons un·e Gestionnaire de Copropriété Volant·e pour intervenir en renfort sur les portefeuilles en Île-de-France. Ce poste a vocation à assurer la continuité de service sur les portefeuilles…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/matera/cdi-gestionnaire-de-coproprietes-idf-paris-493588",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8b916ea63244c49c",
+      "title": "Projektmanager (m/w/d) Revitalisierung/Hochbau in Frankfurt am Main",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Frankfurt",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein erfolgreiches und wirtschaftlich stark aufgestelltes Unternehmen mit langjähriger Erfahrung in der Entwicklung, Planung und Umsetzung anspruchsvoller Bauprojekte. Der Fokus liegt auf der Revitalisierung, Modernisierung und na…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/projektmanager-revitalisierung-hochbau-in-frankfurt-am-main-239074",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3221345826a107fe",
+      "title": "(Senior) Bauleiter (m/w/d) Tiefbau",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein erfolgreiches und etabliertes Bauunternehmen mit langjähriger Erfahrung in der Realisierung anspruchsvoller Infrastruktur- und Tiefbauprojekte. Das Unternehmen steht für hohe Qualität, wirtschaftliche Stabilität und eine prof…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-tiefbau-munchen-172890",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9a4bbacceb63919b",
+      "title": "(Senior) Bauleiter (m/w/d) Hochbau",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein erfolgreiches und etabliertes Bauunternehmen, das seit vielen Jahren anspruchsvolle Hochbauprojekte realisiert. Das Unternehmen steht für Qualität, wirtschaftliche Stabilität und eine professionelle Projektabwicklung. Moderne…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-hochbau-munchen-321354",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5de5de03982ec966",
+      "title": "Fullstack Software Engineer (m/w/d)",
+      "company": "Rhein Nadel Automation Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wer wir sind RNA Digital Solutions wurde 2016 als Industrial Tech Startup gegründet. Unsere Expertise liegt im Digitalen Maschinenbau und wir beschäftigen uns insbesondere mit der digitalen Auslegung und Herstellung automatisierter Zuführlösungen. In 2021 erfo…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/rhein-nadel-automation-gmbh/fullstack-software-engineer-munchen-226983",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4469c827f96b122b",
+      "title": "RevOps Engineer / Go to Market Systems Analyst",
+      "company": "Impossiblecloud",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ABOUT US: Impossible Cloud is a fast-growing B2B cloud company headquartered in Hamburg, Germany. We have built a cloud object storage solution comparable to AWS S3, purpose-built and optimised for AI and compute workloads. Our commercial hyper-growth speaks f…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/impossiblecloud/revops-engineer-go-to-market-systems-analyst-hamburg-477920",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0f46d1d2c3c766c1",
+      "title": "Teamleitung Controlling",
+      "company": "Lemon- Albrecht & Mangold GbR",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Pforzheim",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Sie sind auf der Suche nach einem neuen Arbeitsplatz als Teamleiter m/w/d für den Bereich Controlling in Vollzeit in Pforzheim? Branche: Metallverarbeitung | Mitarbeitende: ~ 100 | französischer Konzern Aufgaben Verantwortung für eine klare, effiziente Organis…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lemon-albrecht-mangold-gbr/teamleitung-controlling-pforzheim-300456",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "774c0aaf73f51e6b",
+      "title": "Pflichtpraktikum Projektmanagement & Vertrieb (flexibler Start möglich!)",
+      "company": "frechekoepfe GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Karlsruhe",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du möchtest nicht nur zusehen, sondern echte Projekte mitgestalten und Einblicke in den Vertriebsalltag gewinnen? Du interessierst dich für Organisation, Kommunikation und Kundenkontakt und suchst ein Pflichtpraktikum, in dem du Verantwortung übernehmen und di…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/frechekoepfe-gmbh/pflichtpraktikum-projektmanagement-vertrieb-flexibler-start-moglich-karlsruhe-99928",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "285bcc06da22749c",
+      "title": "Werkstudent*in (gn) Marketing & Kommunikation",
+      "company": "44k Digital GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Königsdorf",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "44k Digital ist eine inhabergeführte Boutique-Beratung aus Königsdorf im Oberland. Wir verbinden klare Strategie, moderne Kommunikation und digitale Umsetzung – pragmatisch, direkt und partnerschaftlich. Wir begleiten mittelständische Unternehmen dabei, besser…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/44k-digital-gmbh/werkstudentin-gn-marketing-kommunikation-konigsdorf-107154",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "32aee3299cf0892c",
+      "title": "Senior eCommerce Consultant (FTC)",
+      "company": "Vmlenterprisesolutions",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London; Manchester",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who We Are WPP Enterprise Solutions designs, builds, and operates the growth systems that competitive businesses rely on. In a world where Al is reshaping how companies drive growth, we lead clients in business transformation and marketing modernization, conne…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/vmlenterprisesolutions/senior-ecommerce-consultant-ftc-london-manchester-200638",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e0b901fc5f816075",
+      "title": "Senior Consultant (Commerce) - Contract",
+      "company": "Vmlenterprisesolutions",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London; Manchester",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who We Are WPP Enterprise Solutions designs, builds, and operates the growth systems that competitive businesses rely on. In a world where Al is reshaping how companies drive growth, we lead clients in business transformation and marketing modernization, conne…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/vmlenterprisesolutions/senior-consultant-commerce-contract-london-manchester-459703",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "04e4a14de6fffa76",
+      "title": "Graduate Ecommerce Executive",
+      "company": "Thgingenuity",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Manchester",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About THG Ingenuity THG Ingenuity is a fully integrated digital commerce ecosystem, designed to power brands without limits. Our global end-to-end tech platform is comprised of three products: THG Commerce, THG Studios, THG Fulfilment. Each represents a single…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/graduate-ecommerce-executive-manchester-480736",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "944e1ee72e69007a",
+      "title": "Senior Cloud Security Engineer - AI Resilience & Security Enhancements (Fixed-term contract)",
+      "company": "Form3",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "THE PROJECT 📝 We're looking for an experienced Senior Cloud Security Engineer to join Form3 on a 12 month fixed term contract basis to deliver a strategic programme of security enhancements across our cloud-native payments platform. Focusing on improving cloud…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/form3/senior-cloud-security-engineer-ai-resilience-security-enhancements-fixed-term-contract-157628",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f6ca2ead98040d6a",
+      "title": "Warehouse Associate - Part Time",
+      "company": "Deliveroo",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London - Yorkton St (Hop)",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Warehouse Associate Location: Hoxton (E2) Working pattern: Onsite | Part-time | Shift-based (15 hours per week) Pay: £14.40 per hour Join us in our mission to transform the way people shop and eat, where impact, innovation, and growth drives everything we do. …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/warehouse-associate-part-time-london-285740",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "44cb0b433a8ae9e8",
+      "title": "People Operations Coordinator",
+      "company": "Radiant",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job Title: People Operations Reports to: People Manager Location: London onsite About Radiant Radiant is redefining how AI infrastructure is built. We design and operate AI-native cloud platforms engineered for sovereignty, performance, and scale. Our infrastr…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/radiant/people-operations-coordinator-london-1482",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6c2f07501c0f5015",
+      "title": "LBS Internship 2026 (Part-time/Full-time)",
+      "company": "Aptura",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Aptura At Aptura, we combine domain expertise with proprietary technology to deliver high-quality, domain-specific training data that helps frontier models perform better. At work, we're building a high-performance, people-first culture. We move quickly,…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/aptura/lbs-internship-2026-part-time-full-time-london-292556",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "11c876194d3b52a1",
+      "title": "Member of Technical Staff (SWE/Product)",
+      "company": "Aptura",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Aptura We build the evaluation datasets and RL environments that make AI reliable in domains where mistakes are expensive: finance, healthcare, and legal. Our team designs expert-curated training data, calibrated rubrics, and verifiable task environments…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/aptura/member-of-technical-staff-swe-product-london-405544",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ddfc88eb15f31a6e",
+      "title": "Paralegal",
+      "company": "Unity Advisory",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "Mayfair",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Research",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": "General Counsel, you'll provide core paralegal support across contracts, legal research, and company"
+      },
+      "summary": "About the Role Reporting to the General Counsel, you'll provide core paralegal support across contracts, legal research, and company secretarial matters — while driving AI and legal tech adoption across the team. This role is built for someone genuinely fluent…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unity-advisory/paralegal-london-402458",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "33b0bf167c6eefa6",
+      "title": "BD Manager, Institutional Payments",
+      "company": "Taptapsend",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": "senior leadership What We're Looking For 3–5 years in BD, partnerships, or sales within payments, cr"
+      },
+      "summary": "About Us We’re building the world’s leading cross-border fintech for emerging markets - empowering families, fueling local economies, and changing how millions access financial services. Since our launch in 2019, we have transformed how money moves across bord…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/taptapsend/bd-manager-institutional-payments-london-43541",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dc243560092be26d",
+      "title": "Compliance Analyst - Corporate Due Diligence",
+      "company": "Taptapsend",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": "one of our 1st line compliance leads and work closely with our partner onboarding, risk, and operati"
+      },
+      "summary": "About Us We’re building the world’s leading cross-border fintech for emerging markets - empowering families, fueling local economies, and changing how millions access financial services. Since our launch in 2019, we have transformed how money moves across bord…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/taptapsend/compliance-analyst-corporate-due-diligence-london-148115",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cba1af21ea3c3039",
+      "title": "Key Account Manager - London",
+      "company": "Junior AI",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Junior We're building cutting-edge LLM-powered tools to supercharge the investment research process for private market investors. Our clients include several of the world's top 10 private equity and consulting firms, and are responsible for investing bil…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/junior-ai/key-account-manager-london-316737",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3d50bf904012cd0f",
+      "title": "ECommerce Designer",
+      "company": "Luzern eCommerce Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "International Development",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": "Content Operations Manager, you will be responsible for supporting them with content optimisation pr"
+      },
+      "summary": "Since 2003, Luzern eCommerce has been helping leading global brands grow their online business. We partner with brands including Panasonic, Reebok, Stokke, KIKO, Next, Twining's, Canon, Bondi Sands and Philips, helping them accelerate growth and deliver except…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/luzern-ecommerce-group/ecommerce-designer-london-360033",
       "source": "Arbeitnow"
     },
     {
