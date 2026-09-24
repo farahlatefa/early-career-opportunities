@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-23T23:43:17.914298+00:00",
+    "lastUpdated": "2026-09-24T04:53:37.039085+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,891 @@
     ]
   },
   "jobs": [
+    {
+      "id": "ff5377a03bdc0cbf",
+      "title": "Product Marketing Manager (m/w/d)",
+      "company": "Minerva Biolabs GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die Minerva Biolabs GmbH ist ein international tätiges, inhabergeführtes Biotech-Unternehmenmit Hauptsitz in Berlin. Wir entwickeln, produzieren und vermarkten Produkte zur Erkennung,Eliminierung und Vorbeugung mikrobieller Kontaminationen. Unsere Lösungen kom…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/minerva-biolabs-gmbh/product-marketing-manager-berlin-279965",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "043a498b97136c2d",
+      "title": "Senior Value Engineer",
+      "company": "Elastic",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings to…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/elastic/senior-value-engineer-221239",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3c0fa3a2077a8306",
+      "title": "Senior Electronics Engineer",
+      "company": "Auterion",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Auterion, we build a global platform for drones and autonomous robots. In the growing market of autonomous vehicles, we connect high-end software and hardware. Our Munich-based defense engineering team develops the technologies that form the foundation of c…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/auterion/senior-electronics-engineer-munich-82651",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a4ac114899461889",
+      "title": "Bilanzbuchhalter:in (w/m/d)",
+      "company": "Skalar",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "SKALAR – Wir bauen die digitale Steuerkanzlei der Zukunft Radikal einfach. Voll digital. 100% mandantenfokussiert. Wir denken Steuerberatung komplett neu: einfacher, schneller und transparenter für Mandanten und Kanzleiteam zugleich. Wo andere Kanzleien mit ma…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalar/bilanzbuchhalterin-munich-477689",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "33a1af3a463f31e7",
+      "title": "GTM Intern - New Products (AI x Greentech) (m/f/d)",
+      "company": "Reonic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "You turn new ideas into revenue at Reonic. Find the opportunity, test it, make it happen. Looking for a role where you don't just support growth but actually own it? This is for you. You'll work directly with installers to uncover real problems, turn those ins…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/reonic/gtm-intern-new-products-ai-x-greentech-berlin-48318",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7edeb8f15cf1f3b7",
+      "title": "First Hire GTM - New Products (AI x Greentech) (m/f/d)",
+      "company": "Reonic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "You turn new ideas into revenue at Reonic. Find the opportunity, test it, make it happen. Looking for a role where you don't just support growth but actually own it? This is for you. You'll work directly with installers to uncover real problems, turn those ins…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/reonic/first-hire-gtm-new-products-ai-x-greentech-berlin-465046",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cc6d1c78021ec446",
+      "title": "Software Engineering Intern (AI x Greentech) (m/f/d)",
+      "company": "Reonic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Build the Operating System of the Energy Transition Most internships have you sitting in meetings, fixing small bugs, and watching others build. This one doesn't. At Reonic, you'll work on software used by thousands of renewable energy companies across Europe.…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/reonic/software-engineering-intern-ai-x-greentech-berlin-214362",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8ffdae97df0f505e",
+      "title": "Expert Hardware Test Engineer (f/m/d)",
+      "company": "Orbem",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We see the potential inside everything and everyone. Starting with you. Orbem uses AI to industrialize MRI, delivering non-invasive insight into everything from fruits to eggs to the human body. We are transforming what is becoming the world's largest biologic…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/orbem/expert-hardware-test-engineer-munich-307127",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "15ffce793f7313f2",
+      "title": "Sales Manager (w/m/d) Außendienst - Rhein-Main-Gebiet",
+      "company": "Salonkee",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Deutschland / Frankfurt",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über Salonkee Wir sind eines der am schnellsten wachsenden SaaS-Unternehmen Europas und das digitale Herz der Friseur- und Beauty-Salons. Von smarter Terminplanung und Payments bis hin zu KI-gestütztem Reporting: Wir geben Salons die Tools, die sie brauchen, u…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/salonkee/sales-manager-aussendienst-rhein-main-gebiet-frankfurt-452262",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3fc4e6a3967ca5a6",
+      "title": "Logistics Manager - Retail & D2C (m/f/d)",
+      "company": "Holy",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About HOLY HOLY is the soft drink revolution: With our product lines Energy®, Iced Tea®, Hydration®, Milkshake®, and our newest innovation, the HOLY Syrup Bottle® you get amazing taste across 50+ flavors while maintaining a good conscience—for your body & the …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/holy/logistics-manager-retail-d2c-berlin-453815",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1870f135c435871e",
+      "title": "Senior Project Manager Digital Plattform Automotive (m/w/d)",
+      "company": "BBDO Germany",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Über die Rolle Wir suchen dich als Senior Project Manager für unseren großen Kunden aus dem Automobilbereich am Standort Hamburg. Da du intern wie extern die kommunikativen Fäden in der Hand hältst und direkt mit dem Kunden am Tisch sitzt, sind …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/bbdo-germany/senior-project-manager-digital-plattform-automotive-hamburg-50349",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "45896cd53f7a78e0",
+      "title": "Azure Infrastructure Engineer (m/w/d) in Köln",
+      "company": "GRÜNE'S LEIHHÄUSER GmbH & Co. KG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Büro Köln",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was dich erwartet Als Azure Infrastructure Engineer verantwortest du hauptsächlich den Aufbau, Betrieb und die kontinuierliche Weiterentwicklung unserer Microsoft-Cloud-Infrastruktur. Du stellst eine stabile, sichere und hochverfügbare Azure-Plattform bereit u…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/grunes-leihhauser-gmbh-co-kg/azure-infrastructure-engineer-in-koln-buro-koln-44200",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c729af4cddd99848",
+      "title": "Azure Infrastructure Engineer (m/w/d) in Frankfurt",
+      "company": "GRÜNE'S LEIHHÄUSER GmbH & Co. KG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Büro Frankfurt",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was dich erwartet Als Azure Infrastructure Engineer verantwortest du hauptsächlich den Aufbau, Betrieb und die kontinuierliche Weiterentwicklung unserer Microsoft-Cloud-Infrastruktur. Du stellst eine stabile, sichere und hochverfügbare Azure-Plattform bereit u…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/grunes-leihhauser-gmbh-co-kg/azure-infrastructure-engineer-in-frankfurt-buro-frankfurt-157658",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ec54c63fe50dab41",
+      "title": "(Senior) Accountant (all genders)",
+      "company": "YOSHI",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sports",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über die Rolle: Bei Yoshi en & Edeneve übernimmst du eine zentrale Rolle in unserer Finanzbuchhaltung und sorgst dafür, dass unsere Accounting-Prozesse zuverlässig und effizient laufen. Gleichzeitig hast du die Möglichkeit, Prozesse und Systeme aktiv weiterzue…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/yoshi/senior-accountant-all-genders-berlin-310312",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0de615914557bfa7",
+      "title": "Senior Business Development & Strategy Manager (m/w/d)",
+      "company": "Studyflix Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Augsburg",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Dein neuer Traumjob bei Studyflix Beginn ab sofort ● Vollzeit ● unbefristet ● in Augsburg oder remote Studyflix ist mit über 6 Mio. Nutzern die größte kostenlose E-Learning- und Karriere-Plattform im DACH-Raum! Unsere Mission ist es, allen SchülerInnen und Stu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/studyflix-gmbh/senior-business-development-strategy-manager-augsburg-372412",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c90fbda2c31ac6dc",
+      "title": "Teamleiter IT Infrastructure (m/w/d)",
+      "company": "IPG Automotive - Personio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Karlsruhe Fautenbruchstraße",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Disziplinarische und fachliche Leitung des Teams IT Infrastructure Strategische Weiterentwicklung der technischen Architektur in einer Enterprise Umgebung Analyse und Bewertung von Änderungswünschen in der globalen Applikationsarchitektur Mitarb…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ipg-automotive-personio/teamleiter-it-infrastructure-karlsruhe-fautenbruchstrasse-94895",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ad972ab261254f5f",
+      "title": "Praktikant/Werkstudent „Forschung & Innovation – Datengetriebene Entwicklung autonomer Systeme“ (m/w/d)",
+      "company": "IPG Automotive - Personio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Karlsruhe Fautenbruchstraße",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Unterstützung des Research & Innovation Managers in der täglichen Projekt- und Innovationsarbeit Recherche, Bewertung und Mitarbeit in Forschungsprojekten und Förderthemen Inhaltliche Bearbeitung von Innovationsthemen (z. B. im Bezug zu einer da…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ipg-automotive-personio/praktikant-werkstudent-forschung-innovation-datengetriebene-entwicklung-autonomer-systeme-karlsruhe-fautenbruchstrasse-133804",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "289cf8235dfed18b",
+      "title": "Praktikant/Werkstudent „Automatisiertes Infotainment Testing“ (m/w/d)",
+      "company": "IPG Automotive - Personio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Stuttgart",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Analyse, Evaluierung und Benchmark verschiedener Tools zur Testautomatisierung von GUI- und Infotainment-Systemen Inbetriebnahme und Konfiguration unseres Simulationstools IPG CarMaker und Integration einer exemplarischen Infotainment-GUI Aufbau…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ipg-automotive-personio/praktikant-werkstudent-automatisiertes-infotainment-testing-stuttgart-457497",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ba387208a1b6d2fa",
+      "title": "Praktikant/Werkstudent „AI based passenger simulation“ (m/w/d)",
+      "company": "IPG Automotive - Personio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Stuttgart",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Analyse und Evaluierung moderner KI-basierter Methoden zur Modellierung realistischen Passagierverhaltens Inbetriebnahme und Konfiguration unseres Simulationstools IPG CarMaker unter Einbindung realistischer Testfahrtdaten (z. B. Langstreckenpro…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ipg-automotive-personio/praktikant-werkstudent-ai-based-passenger-simulation-stuttgart-304825",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "370072d11ec7b980",
+      "title": "(Senior) Compliance & Legal Manager (m/w/d)",
+      "company": "IPG Automotive - Personio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Karlsruhe Fautenbruchstraße",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Entwicklung, Prüfung und Verhandlung kunden- und lieferantenseitiger Rahmen- und Einzelverträge und allgemeiner Geschäftsbedingungen sowie Betreuung und Anpassung laufender Verträge Unterstützung in sämtlichen unternehmensbezogenen vertrags- und…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ipg-automotive-personio/senior-compliance-legal-manager-karlsruhe-fautenbruchstrasse-477312",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b306207f865d3b72",
+      "title": "Marketing Data Analyst",
+      "company": "oliver",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Established in 2004, OLIVER is the world’s first and only specialist in designing, building, and running bespoke in-house agencies and marketing ecosystems for brands. We partner with over 300 clients in 40+ countries and counting. Our unique model drives crea…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/oliver/marketing-data-analyst-london-332195",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8b31371b2a6a38f8",
+      "title": "Data Analyst",
+      "company": "oliver",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Established in 2004, OLIVER is the world’s first and only specialist in designing, building, and running bespoke in-house agencies and marketing ecosystems for brands. We partner with over 300 clients in 40+ countries and counting. Our unique model drives crea…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/oliver/data-analyst-london-312756",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d73bec720bedb3a3",
+      "title": "Coordinator, Front of House & Workplace Experience",
+      "company": "Checkout.com",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/coordinator-front-of-house-workplace-experience-london-268757",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a9c163784405d80c",
+      "title": "Senior Product Manager, Orchestration",
+      "company": "Checkout.com",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-product-manager-orchestration-london-1334",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1e5ea7a77ed56be9",
+      "title": "Senior BigQuery Data Engineer",
+      "company": "Checkout.com",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-bigquery-data-engineer-london-212506",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ce51f6d2a7f5b87c",
+      "title": "Business Development Representative",
+      "company": "Checkout.com",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/business-development-representative-london-334527",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "18ff4e248972e4ca",
+      "title": "Analytics Manager, Financial Experiences",
+      "company": "Checkout.com",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Humanitarian / NGO",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/analytics-manager-financial-experiences-london-35657",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e945c3b9f012d3ef",
+      "title": "Senior Specialist, Account Management",
+      "company": "Checkout.com",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-specialist-account-management-london-205717",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "62a29c685b9f7518",
+      "title": "People Experience Administrator - German speaking",
+      "company": "iwoca",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The company Small businesses move fast. Opportunities often don’t wait, and cash flow pressures can appear overnight. To keep going, and growing, SMEs need finance that’s as flexible and responsive as they are. That's why we built iwoca. Our smart technology, …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/people-experience-administrator-german-speaking-london-232406",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a3c83571d5a2e909",
+      "title": "Customer Success Manager (Remote, UK)",
+      "company": "Easygenerator",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join Easygenerator and help customers unlock the full value of e-learning Step into an exciting role with an innovative e-learning software company in the EdTech space as a Customer Success Manager. Easygenerator is a fast-growing scale-up revolutionizing e-le…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/easygenerator/customer-success-manager-remote-uk-united-kingdom-225334",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "012367f5420df162",
+      "title": "Associate Software Engineer in Test  18 months Fixed Term ontract",
+      "company": "Vision RT Ltd.",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Basingstoke",
+        "region": null,
+        "country": "Hampshire",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Vision RT is a fast-growing MedTech company transforming radiation therapy for cancer patients by helping make it more accurate, effective, and comfortable. The company is the inventor of, and a market leader in, Surface Guided Radiation Therapy (SGRT). This t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/vision-rt-ltd/associate-software-engineer-in-test-18-months-fixed-term-ontract-basingstoke-hampshire-291105",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "00f4801ba6b1eabe",
+      "title": "Freelance 3D Artist - Puzzle Studio",
+      "company": "Voodoo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Voodoo Founded in 2013, Voodoo is a tech company that creates mobile games and apps with a mission to entertain the world. Gathering 800 employees, 7 billion downloads, and over 200 million active users, Voodoo is the #3 mobile publisher worldwide in ter…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/voodoo/freelance-3d-artist-puzzle-studio-paris-179537",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bd0c19c28c3e50bf",
+      "title": "Médecin du travail",
+      "company": "Alan",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🐼 Pourquoi Prévenir Prévenir est un nouveau Service de Prévention et de Santé au Travail Interentreprises (SPSTI) en Île-de-France. Notre ambition est de repenser la santé au travail pour améliorer l'impact sur la vie des salariés et l'expérience des professio…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alan/medecin-du-travail-paris-29553",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "199ce07de406b925",
+      "title": "Project Manager |  Customer Engagement & Communication (H/F)",
+      "company": "Moka.care",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🤝 Qui nous sommes Chez Moka.Care nous réinventons la façon de voir la santé mentale en entreprise. Nous croyons en des équipes qui se sentent bien pour une organisation saine. Concrètement, Moka.Care offre une solution complète de prévention en santé mentale :…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/mokacare/project-manager-customer-engagement-communication-h-f-paris-140605",
+      "source": "Arbeitnow"
+    },
     {
       "id": "db8241f6405adc64",
       "title": "Working Student Export Control & Trade Compliance (all genders)",
@@ -7152,32 +8037,6 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "ff5377a03bdc0cbf",
-      "title": "Product Marketing Manager (m/w/d)",
-      "company": "Minerva Biolabs GmbH",
-      "employmentType": "Internship",
-      "location": {
-        "city": "Berlin",
-        "region": null,
-        "country": null,
-        "workMode": "On-site"
-      },
-      "sectors": [
-        "Biology & Life Sciences",
-        "Marketing & Communications",
-        "Sales / Business Development"
-      ],
-      "deadline": null,
-      "postedDate": "2026-09-23",
-      "reportsTo": {
-        "name": null,
-        "title": null
-      },
-      "summary": "Die Minerva Biolabs GmbH ist ein international tätiges, inhabergeführtes Biotech-Unternehmen mit Hauptsitz in Berlin. Wir entwickeln, produzieren und vermarkten Produkte zur Erkennung, Eliminierung und Vorbeugung mikrobieller Kontaminationen. Unsere Lösungen k…",
-      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/minerva-biolabs-gmbh/product-marketing-manager-berlin-279965",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "8f641fc5b7f88785",
       "title": "Senior Backend Engineer, Python/Django (f/d/m): Path to CTO",
       "company": "INES Analytics",
@@ -7711,6 +8570,606 @@
       },
       "summary": "Einleitung Gestalte die Logistik von morgen Du möchtest Unternehmen dabei unterstützen, ihre Logistikprozesse auf das nächste Level zu heben? Für ein modernes Beratungsunternehmen mit Fokus auf digitale Transformation und SAP-Lösungen suchen wir Persönlichkeit…",
       "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/workidentity/remote-senior-sap-consultant-ewm-347887",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c8c1e8b9f0e8e5f5",
+      "title": "Data Engineer (f/m/d)",
+      "company": "Moonfare",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join the team rewriting the rules in private markets. Moonfare delivers what few others can: the highly sought-after funds and hidden-gem investments that go beyond what most private banks offer. Every opportunity is subjected to a ruthless vetting process; th…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/moonfare/data-engineer-berlin-345637",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d01004281369056d",
+      "title": "Senior Decision Scientist, Supply",
+      "company": "Vinteden",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Policy / Government",
+        "Procurement",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Brief info about Vinted Our mission is to make second-hand the first choice, and we're looking for people who want to help us get there. Every day, we work together to help our members buy and sell pre-loved clothing and lifestyle items, giving each piece a se…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/vinteden/senior-decision-scientist-supply-berlin-281939",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "402929120efc144c",
+      "title": "Lead Data Scientist, Revenue - Ads, Revenue",
+      "company": "Vinteden",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Policy / Government",
+        "Procurement",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Brief info about Vinted Our mission is to make second-hand the first choice, and we're looking for people who want to help us get there. Every day, we work together to help our members buy and sell pre-loved clothing and lifestyle items, giving each piece a se…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/vinteden/lead-data-scientist-revenue-ads-revenue-berlin-248829",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6f187d76f6222226",
+      "title": "Data Engineer",
+      "company": "Wayve",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About us Founded in 2017, Wayve is the leading developer of Embodied AI technology. Our advanced AI software and foundation models enable vehicles to perceive, understand, and navigate any complex environment, enhancing the usability and safety of automated dr…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/wayve/data-engineer-418990",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7a5daa1a727dac24",
+      "title": "Senior Account Executive, Enterprise",
+      "company": "Fivetran",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Policy / Government",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance requ…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/fivetran/remote-senior-account-executive-enterprise-333415",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "94f0c72bd2753761",
+      "title": "GTM Associate - Munich",
+      "company": "Legora",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Legora is redefining how legal work gets done. Not built for lawyers, built with them. We work alongside the world’s best legal teams, who expect excellence, precision, and speed, and we hold ourselves to the same bar. Our AI-native workspace lets leg…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/legora/gtm-associate-munich-132163",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3411525e940548a2",
+      "title": "Senior Product Designer (M/F/*)",
+      "company": "Amber",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Aachen",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Aus Europa, für Europa – Wir bauen Europas Business-KI. Wir sind amber, Aachens größtes und Kölns am stärksten wachsendes KI-Startup. Unternehmen profitieren davon, wenn internes Wissen sofort nutzbar wird und intelligente Agenten darauf reagieren können. Wir …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/amber/senior-product-designer-m-f-aachen-470611",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9f4dda910ac63c9e",
+      "title": "(Junior) Data & Automation Manager - Energy Operations (m/w/d)",
+      "company": "VREY",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin HQ",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Humanitarian / NGO",
+        "Operations",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns Bei VREY bauen wir das EnergyOS für Mehrfamilienhäuser . In Deutschland stehen über 3,3 Millionen Mehrparteienhäuser – und sie sind das schwarze Loch der Energiewende. <1% Solardurchdringung. <2% Smart Metering. Kaum Flexibilität oder intelligentes En…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/vrey/junior-data-automation-manager-energy-operations-berlin-226218",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5537869a690d40bc",
+      "title": "(Senior) Business Development Representative (f/m/d)",
+      "company": "Zeit Ai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Zeit AI Zeit AI builds ZeitMind, the autonomous data engineer for the European mid-market. We connect to the systems companies already run (ERP exports, CRM data, spreadsheets, internal databases) and put agents on top so operators get reliable answers w…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/zeit-ai/senior-business-development-representative-munich-127503",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5cd059f21b72a5c6",
+      "title": "Forward-Deployed Engineer (f/m/d)",
+      "company": "Zeit Ai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The opportunity LLMs are changing how analytical work gets done. Tasks that once required teams of data engineers can now be solved faster and more flexibly, if the underlying data and workflows are set up correctly. Zeit AI builds ZeitMind, the autonomous dat…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/zeit-ai/forward-deployed-engineer-munich-470648",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7e57146cd33adb81",
+      "title": "(Junior) Account Executive (f/m/d)",
+      "company": "Zeit Ai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "the autonomous data engineer for the European mid-marketAbout Zeit AI Zeit AI builds ZeitMind, the agent framework for business intelligence. We connect to the systems companies already run (ERP exports, CRM data, spreadsheets, internal databases) and put agen…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/zeit-ai/junior-account-executive-munich-178314",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f8a781d498706cda",
+      "title": "Data & Operations Specialist",
+      "company": "Anyone Ai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our vision: Mastering machine learning is difficult, time-consuming, and often frustrating. Meanwhile, the AI industry faces its biggest challenge: a global shortage of skilled talent. At Anyone AI, we close this gap by upskilling the best talent from LatAm th…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/anyone-ai/remote-data-operations-specialist-336817",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9910856aeda0044e",
+      "title": "Senior/Staff Golang Engineer (EMEA)",
+      "company": "Wundergraph",
+      "employmentType": "Internship",
+      "location": {
+        "city": "EMEA",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Healthcare",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "WunderGraph is a fast-growing startup, our goal is to bring everybody together to build digital products end-to-end. From interface design to API implementation, we provide the platform to go from sketch to product in a category-defining collaborative experien…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/wundergraph/senior-staff-golang-engineer-emea-frankfurt-145092",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0d2442e62ae83dcf",
+      "title": "Social Media Manager (m/f/d)",
+      "company": "Deepslate",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Remote / Berlin (regular video shoot days in Berlin) | Language Requirement : Fluent German & English | Employment Type: Part-Time or Working Student At Deepslate, we are building Speech to Speech Voice AI models that sound and act indistinguishable …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/deepslate/social-media-manager-berlin-228354",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "20bee4300df38592",
+      "title": "Trainee (m/w/d) im Finanzvertrieb – Karriere mit Struktur, Verantwortung und Perspektive (German Speaking)",
+      "company": "Kevin Kehr",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Homeoffice",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du suchst einen Berufseinstieg, der Vertrieb, Beratung und persönliche Entwicklung verbindet? Dann ist dieses Traineeprogramm genau das Richtige für dich. Wir suchen ambitionierte Persönlichkeiten (m/w/d), die sich im Finanzvertrieb eine langfristige Karriere …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/remote-trainee-im-finanzvertrieb-karriere-mit-struktur-verantwortung-und-perspektive-german-speaking-hamburg-366970",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5c2e529dbc27e671",
+      "title": "Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)",
+      "company": "Kevin Kehr",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Homeoffice",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du studierst und willst mehr als einen „Nebenjob“? Du willst Verantwortung, klare Ziele und ein Umfeld, in dem Leistung zählt? Dann ist diese Werkstudentenrolle dein Einstieg in die Finanzberatung, mit strukturiertem Onboarding, Coaching und einem klaren Weg i…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-156575",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bed14dc083c59a2c",
+      "title": "Channel Account Executive - Surveillance (m/w/d)",
+      "company": "Synology - Personio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Build a better world with data Du bist vertriebsstark, baust nachhaltige Partnerbeziehungen auf und möchtest den Erfolg unseres Surveillance-Geschäfts aktiv vorantreiben? Dann werde Teil unseres Teams als Channel Account Executive Surveillance . In dieser Roll…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/synology-personio/channel-account-executive-surveillance-dusseldorf-84261",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "89ed3a9abe075a3a",
+      "title": "Senior Product Designer (w/m/d/x) – UX / UI",
+      "company": "Emil Group Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "DEINE ROLLE Als Senior Product Designer (w/m/d/x) bei EMIL verantwortest du das End-to-End-Design komplexer B2B-SaaS-Workflows und die volle Ownership für UX, Usability und Form unseres Produkts. Dein Ziel: konfigurationslastige Tools intuitiv, konsistent und …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/emil-group-gmbh/senior-product-designer-x-ux-ui-berlin-405189",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b66d1c9d4eb10fd0",
+      "title": "Senior PR Manager (m/w/d) – Remote oder Berlin",
+      "company": "Getpress Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Overview PR steht vor einem strukturellen Bruch. Vertrauen verschiebt sich, Sichtbarkeit wird neu verteilt, KI wächst exponentiell. Wir bei getpress glauben, dass Reputation in den nächsten zehn Jahren der entscheidende Wettbewerbsvorsprung für Unternehmen wir…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/senior-pr-manager-remote-oder-berlin-59650",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "41d4326856e15e00",
+      "title": "Technical Project Manager (all genders) - Retail and window campaigns",
+      "company": "Going Beyond Group GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Stuttgart",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Supply Chain",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "JOIN US We are currently looking for a Technical Project Manager (all genders) to join our team at our Stuttgart location. With your enthusiasm, you will support our sophisticated retail and window campaigns, ensuring that projects are successfully implemented…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/going-beyond-group-gmbh/technical-project-manager-all-genders-retail-and-window-campaigns-stuttgart-213313",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a1400239a8f6bc29",
+      "title": "(Junior) Design Manager (all genders) – Luxury Retail",
+      "company": "Going Beyond Group GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Stuttgart",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "JOIN US Ab sofort suchen wir für unser Team am Standort Stuttgart einen (Junior) Design Manager (all genders) im Bereich Retail Kampagnen. Werde Teil unserer Community – wir freuen uns auf dich! WHAT YOU DO In Abstimmung mit dem Project Management bist du vera…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/going-beyond-group-gmbh/junior-design-manager-all-genders-luxury-retail-stuttgart-302210",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b7a5316a5cda507d",
+      "title": "Legal Engineer Manager, Paris",
+      "company": "Harvey",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Why Harvey At Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come. This is …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/harvey/legal-engineer-manager-paris-397688",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3501a565e3581bbc",
+      "title": "Sales Account Executive - Cybersecurity",
+      "company": "Crowdsec",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Passionate about Cybersecurity, open-source or network effect products? Interested in Sales? Join CrowdSec to build a safer internet for everyone. What we do We aim to deter opportunistic and organized cybercrime through an Internet-scale, real-time security n…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-108798",
       "source": "Arbeitnow"
     },
     {
