@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-26T01:35:46.355924+00:00",
+    "lastUpdated": "2026-09-26T07:44:23.313634+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -207,6 +207,1351 @@
       },
       "summary": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some int…",
       "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/kong/account-development-representative-german-speaking-london-33434",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1f1869da8ce73aaa",
+      "title": "Data Platform Engineer (m/f/d)",
+      "company": "Flix",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We're looking for a Data Platform Engineer (m/f/d) to join our team and help build and operate the data infrastructure that powers Flix's mobility platform. At FlixTech, our data platform enables teams across the company to process, analyze, and act on large v…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/flix/data-platform-engineer-berlin-324571",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8aab1ce51f8c9a65",
+      "title": "Commercial Account Executive, DACH",
+      "company": "Algolia",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Algolia is the retrieval intelligence layer that turns intent into trusted, decision-grade outcomes. Powering more than 1.7 trillion queries a year for over 18,000 customers with millisecond latency and 99.999% reliability, we are the recognized leader for Sea…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/algolia/commercial-account-executive-dach-320514",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "94861db60cd6b07f",
+      "title": "Working Student Analytics Engineer (m/w/d)",
+      "company": "Pergolux",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin | Global Team",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "As a Working Student Analytics Engineer, you will get hands-on with the systems and data that power decisions across the entire business. You will write real SQL, ship production dbt models, help maintain a modern data warehouse, and see your work land in the …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pergolux/working-student-analytics-engineer-berlin-127740",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e0e5adbabe2236af",
+      "title": "Customer Success Manager (AI Enterprise)",
+      "company": "Almetra",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "This is a foundational hire. You will join Almetra's early Customer Success function and own a series of accounts with the full customer lifecycle from day one. You will operate as a senior player: carrying your own book while continuously building the infrast…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/almetra/customer-success-manager-ai-enterprise-munich-130125",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ce6025c6b766ee28",
+      "title": "Fullstack Software Engineer (M/W/D) – AI-Native Development",
+      "company": "INSIDE M2M GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Garbsen",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was wir tun Als IoT Pioniere entwickeln wir mit mittlerweile über 40 Kollegen*innen an drei Standorten IoT-Komplettlösungen für unsere Kunden. Aktuell sind weltweit über 500.000 Geräte und Anlagen mit unseren Lösungen für Machine-to-Machine-Kommunikation ausge…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/inside-m2m-gmbh/fullstack-software-engineer-ai-native-development-garbsen-463913",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ac2761af3dfc15bd",
+      "title": "Senior Customer Success Manager (all genders)",
+      "company": "Foodji GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Als VC-backed Foodtech-Startup schaffen wir den Spagat zwischen gesunder Ernährung, Verfügbarkeit und Nachhaltigkeit. Mit unseren Foodjis bringen wir ultrafrische, leckere Gerichte genau dorthin, wo du die meiste Zeit verbringst – denn wir haben uns zum Ziel g…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-customer-success-manager-all-genders-munchen-284522",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b93dbe1d9d394f2a",
+      "title": "Senior Account Executive (Germany)",
+      "company": "Huble",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Welcome to Huble 👋, HubSpot’s 2024 global partner of the year! We are a global HubSpot, AI, marketing & creative consultancy enabling mid-market and enterprise businesses move faster, adapt smarter, and innovate freely—by building their business around HubSpot…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/huble/remote-senior-account-executive-germany-munich-217529",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e7ace7c78a972c60",
+      "title": "Senior Odoo Engineer ERP & E-Commerce (all genders)",
+      "company": "Valuenet Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Introduction Do you want to do more than just maintain an ERP system—do you want to help shape its future? As a Senior Odoo Engineer for ERP & E-Commerce (all genders), you’ll take responsibility for our Odoo platform—the system that powers sales, order proces…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/valuenet-group/senior-odoo-engineer-erp-e-commerce-all-genders-munchen-488225",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3113e874adeec61b",
+      "title": "Product Engineer (Backend/AI) @Briink",
+      "company": "Merantix",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What we do At Briink , we’re building AI technology for the global sustainability economy. We work with the world’s largest climate organizations, including CDP and PRI, and multinational companies such as Bayer, Siemens, Commerzbank, E.ON, and Heidelberg Mate…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/merantix/product-engineer-backend-ai-at-briink-berlin-413825",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7c4c8b202cbd807a",
+      "title": "Senior Backend Engineer (f/m/d)",
+      "company": "Predium",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Opportunity Over the past three years, Predium has built the leading real estate intelligence platform for ESG and value management in the DACH region - with the strongest names in the industry as customers: asset managers, housing companies, banks. Our cu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/predium/senior-backend-engineer-munich-222038",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "980998c615fd834f",
+      "title": "Associate Data Scientist (f/m/d)",
+      "company": "Predium",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Opportunity Over the past three years, Predium has built the leading real estate intelligence platform for ESG and value management in the DACH region - with the strongest names in the industry as customers: asset managers, housing companies, banks. Our cu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/predium/associate-data-scientist-munich-248899",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "25b95d9efaf7d949",
+      "title": "Account Executive (all genders)",
+      "company": "Synaos Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany (remote)",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Rolle Als Account Executive (all genders) bei SYNAOS bist du für unser Neukundenwachstum verantwortlich. Dein Ziel ist es weitere Unternehmen von der Zukunft der Intralogisitik zu überzeugen und somit bestehende Märkte und Industrien auszubauen sowie neu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/synaos-gmbh/remote-account-executive-all-genders-343377",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f0524b9be644af33",
+      "title": "Senior Software Engineer",
+      "company": "Catapultsports",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Catapult is building the future of sports performance technology, with a mission to Unleash the Potential of every athlete and team on earth. We don't just work in the sporting industry; we are actively changing it. Since 2006, our solutions have been leading …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/catapultsports/senior-software-engineer-koln-223228",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0bb1a9be9542f882",
+      "title": "Laboratory Technician / Operator BTA/CTA – Protein Analytics (all genders)",
+      "company": "Formo Foods GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Frankfurt am Main",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Data & Analytics",
+        "Humanitarian / NGO",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Role Overview Help us ensure the quality and reliability behind every protein we bring to life. As our Laboratory Technician - Protein Analytics, you'll be the hands-on backbone of our analytical lab, running the routine testing that tells us exactly what's ha…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/formo-foods-gmbh/laboratory-technician-operator-bta-cta-protein-analytics-all-genders-frankfurt-am-main-194607",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "518aad8b0c134233",
+      "title": "Senior Learning, Development and Culture Manager (m/f/d)",
+      "company": "TYTAN Technologies GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "TYTAN Technologies The PACE is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We thrive, think big, and hold ourselves to the highest standard. Our mission and values guide everything we do, a…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-learning-development-and-culture-manager-munich-154375",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7208fe61632cce29",
+      "title": "Werkstudent Technical Support & Self-Service (m/w/d)",
+      "company": "Thermondo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin (Zentrale)",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir suchen ...Dich als Werkstudent:in im Bereich Customer Success (w/m/d). Du unterstützt unsere Kund:innen beim Remote-Onboarding ihrer smarten Energiegeräte und sorgst dafür, dass alles reibungslos läuft. Dabei kannst du deine Leidenschaft für User Experienc…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/thermondo/werkstudent-technical-support-self-service-berlin-zentrale-120022",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "719db9c8ff058d35",
+      "title": "Senior Software Engineer - Platform & Infrastructure (f/m/d)",
+      "company": "Holoplot",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The product you will work on The HOLOPLOT Matrix Array is a new type of sound system built around precise, software-defined control of sound in three dimensions - grounded in physics and implemented through a combination of custom hardware and purpose-built so…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/holoplot/senior-software-engineer-platform-infrastructure-berlin-375070",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "55b7de728edd0799",
+      "title": "Trainee -  Buchhaltung & Office Management (m/w/d)",
+      "company": "Reisetopia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Intro Du willst nach dem Studium oder deiner Ausbildung praktisch durchstarten, hast Lust, dich in neue Themen einzuarbeiten, und suchst ein Umfeld, in dem du von Anfang an mit anpackst und wirklich etwas lernst? Dann steig als Trainee Buchhaltung & Office Man…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/reisetopia/trainee-buchhaltung-office-management-berlin-84281",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "442badbaaef1ff78",
+      "title": "Praktikum SEO Marketing & Communication Management",
+      "company": "Juvigo Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What we offer Gesunde Work-Life Balance (voller Überstundenausgleich, Gleitzeit) Internationales Team und ein Büro im Herzen von Berlin Regelmäßiges Feedback und hohe Mitarbeiterzufriedenheit (Kununu Top Company) Vielfältige Lern-, Entwicklungs- und Aufstiegsm…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/juvigo-gmbh/praktikum-seo-marketing-communication-management-berlin-456629",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8d13d02136e1c4ec",
+      "title": "Team Lead Sales Development (AI x Renewables)",
+      "company": "Autarcenergy",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Dein Impact We’re building the AI platform for energy installers and want to change how the industry works. Founded in 2023, graduated from Y Combinator in 2024, and now a team of 70 in our Berlin office near Weinbergspark. And we have much more ahead. As Team…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/autarcenergy/team-lead-sales-development-ai-x-renewables-berlin-409375",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "35906932c2abccd9",
+      "title": "Outbound Sales · UK · Intern / Working Student",
+      "company": "Autarcenergy",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Sales / Business Development",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company As a Business Development Intern, you are responsible for making autarc visible in the UK market, winning over new customers, and laying the foundation for long-term partnerships. Start: January 2027 Location: Berlin You cultivate and develop relations…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/autarcenergy/outbound-sales-uk-intern-working-student-berlin-300162",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b672b80c03e1d5a7",
+      "title": "Internship Go-to-Market Engineering, AI & Automation (m/f/d)",
+      "company": "Autarcenergy",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Dein Impact autarc is building the operating system for energy installers across Europe. As we scale, we want our Go-to-Market organization to operate with the same level of automation, data quality, and product thinking as our engineering organization. In thi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/autarcenergy/internship-go-to-market-engineering-ai-automation-berlin-271758",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3bec397b29ac396e",
+      "title": "GTM UK · Intern / Working Student",
+      "company": "Autarcenergy",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Founded in Berlin, autarc is a 65 person start-up which graduated from Y Combinator in San Francisco. Our team consists of people in Sales, Tech and Operations and we serve more then 2.000 customers in Germany. Our next step is to expand into new count…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/autarcenergy/gtm-uk-intern-working-student-berlin-171909",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "46568726d24c1dec",
+      "title": "Growth Manager (AI x Renewables)",
+      "company": "Autarcenergy",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Dein Impact We’re building the AI platform for energy installers - and rethinking how an entire industry works. Founded in 2023, we graduated from Y Combinator in 2024 and have grown into a team of 70+ at our Berlin office near Weinbergspark. More than 2,000 c…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/autarcenergy/growth-manager-ai-x-renewables-berlin-342548",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b13fb3dff43d3ae1",
+      "title": "Werkstudent Field Service Operations & Koordination (m/w/d)",
+      "company": "Deutsche GigaNetz GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unser Angebot Deine Gesundheit liegt uns am Herzen: Mit dem Wellpass kannst du deutschlandweit günstig in Fitnessstudios trainieren oder auf unseren beiden Booten auf der Alster segeln. Für deine tägliche Portion Vitamine ist gesorgt: In unseren Büros findest …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/deutsche-giganetz-gmbh/werkstudent-field-service-operations-koordination-hamburg-267584",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "83a1de8476078963",
+      "title": "Software Engineer – Internal Tools & Automation (m/w/d)",
+      "company": "Wattfox",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Home Office Deutschland",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Gemeinsam großartig – werde Teil des Teams Du willst als Software Engineer mit Python , APIs und Automatisierungen an Lösungen arbeiten, die direkt im operativen Alltag eingesetzt werden? In dieser Rolle entwickelst du interne Tools, Services und Schnittstelle…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/wattfox/software-engineer-internal-tools-automation-home-office-deutschland-380551",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "16192dddd6490304",
+      "title": "Senior Controller / FP&A Manager (m/w/d)",
+      "company": "Thermengruppe Josef Wund",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Arbeiten, wo andere Urlaub machen - willkommen in unseren Paradiesen Wir bei Therme Horizon schaffen besondere Erlebnisse für unsere Gäste – und entwickeln gleichzeitig unsere Unternehmensgruppe kontinuierlich weiter. Dafür bauen wir aktuell gemeinsam mit eine…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/thermengruppe-josef-wund/senior-controller-fpa-manager-munchen-235457",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5e96c374719f1fbb",
+      "title": "Senior Product Manager (ISR) Defence & Intelligence (f/m/x)",
+      "company": "LiveEO GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "LiveEO GmbH Berlin Office (Hybrid)",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Policy / Government",
+        "Procurement",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Build the Market Leader in Satellite Analytics with us at LiveEO We are looking for a Senior Product Manager ( ISR ) (f/m/x) to own the product and delivery side of LiveEO's defence and intelligence business. Sektion 4 builds AI-based ISR capabilities for Germ…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/senior-product-manager-isr-defence-intelligence-liveeo-gmbh-berlin-office-hybrid-183753",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f3dc60a936ecd77d",
+      "title": "Senior Full Stack Engineer (f/m/x)",
+      "company": "LiveEO GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "LiveEO GmbH Berlin Office (Hybrid)",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Build the Market Leader in Satellite Analytics with us at LiveEO We are looking for a Senior Full Stack Engineer to help shape the next stage of SurfaceScout, one of LiveEO's core products. SurfaceScout turns satellite data into reliable, actionable insights f…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/senior-full-stack-engineer-liveeo-gmbh-berlin-office-hybrid-201230",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "edb7531ae8585ef5",
+      "title": "Working Student (m/f/x) - Support Functions",
+      "company": "Cofinity-X GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our vision - your future Cofinity-X is a joint venture founded in 2023 by BASF, BMW Group, Henkel, Mercedes-Benz, SAP, Schaeffler, Siemens, T-Systems, Volkswagen, and ZF. Established by industry experts, our company is primed for growth and is intended to be f…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cofinity-x-gmbh/working-student-support-functions-koln-364029",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "93e8adb19b668f09",
+      "title": "Senior Analytics Engineer",
+      "company": "Monzo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cardiff",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🚀 We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-analytics-engineer-cardiff-408174",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "82930385bd58d05e",
+      "title": "Senior Front-End Engineer, Quantum Tools",
+      "company": "ionq",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Oxford",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About IonQ: IonQ, Inc . [NYSE: IONQ] is the world’s leading quantum platform and merchant supplier - delivering integrated quantum solutions across computing, networking, sensing, and security. IonQ’s newest generation of quantum computers, the IonQ Tempo, is …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ionq/senior-front-end-engineer-quantum-tools-oxford-116704",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8dc50ea7fca8ff38",
+      "title": "Customer Support Engineer - London",
+      "company": "Heidi",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We’re Heidi. We're building the future of healthcare by giving every clinician the earth's finest AI Care Partner. Our platform has absorbed the administrative chaos of 175 million patient visits and supported 67 million clinical hours. Today, we support 2.8 m…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/heidi/customer-support-engineer-london-275256",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d96469b95a0c0bb7",
+      "title": "Customer Support Engineering Lead - London",
+      "company": "Heidi",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We’re Heidi. We're building the future of healthcare by giving every clinician the earth's finest AI Care Partner. Our platform has absorbed the administrative chaos of 175 million patient visits and supported 67 million clinical hours. Today, we support 2.8 m…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/heidi/customer-support-engineering-lead-london-90155",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a148b0ed49155a0d",
+      "title": "Senior Information Security Analyst",
+      "company": "Cirrus",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Edinburgh",
+        "region": null,
+        "country": "Scotland",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "For over four decades, Cirrus Logic has been propelled by the top engineers in mixed-signal processing. Our rockstar team thrives on solving complex challenges with innovative end-user solutions for the world's top consumer brands. Cirrus Logic is also known f…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cirrus/senior-information-security-analyst-edinburgh-scotland-49436",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e1f2b084c2e85807",
+      "title": "Staff Product Designer, Enterprise",
+      "company": "scaleai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Scale is hiring a Staff/Senior Product Designer to lead product design for Scale’s rapidly growing ‘AI for Enterprise Data’ business unit. The mission of AI for Enterprise Data is to accelerate the deployment of AI by helping large enterprises solve their most…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/staff-product-designer-enterprise-london-68774",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f68997db6d460108",
+      "title": "Senior Research Scientist (Architectures Research)",
+      "company": "Nebius",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-research-scientist-architectures-research-335775",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6198b1dbf51ebfe1",
+      "title": "Graphic Designer (f/m/d)",
+      "company": "Zeal Network",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Norwich",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ZEAL Network SE is a leading international provider of online lottery and prize draw products, operating for over 20 years with brands like LOTTO24 and Tipp24. As Germany’s largest digital lottery operator and a trusted partner of Spain’s ONCE, we are passiona…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/zeal-network/graphic-designer-norwich-44968",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "56f9e683e8e8de4a",
+      "title": "Product Marketing Manager",
+      "company": "Ankar",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Overview The way companies innovate is broken. The systems built to create and protect ideas can’t keep up with the pace of change. Today, 90% of S&P 500 company value is intangible (e.g. in intellectual property) - yet R&D and IP teams spend half their time b…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ankar/product-marketing-manager-london-201952",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "44a63821ea096083",
+      "title": "Software Engineer, Infrastructure - Self Managed Experience (SMX)",
+      "company": "Camunda",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-software-engineer-infrastructure-self-managed-experience-smx-330128",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2b746164dbe9e513",
+      "title": "Senior Business Travel Consultant - Flexible Shift",
+      "company": "Perk",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Birmingham",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Perk (formerly TravelPerk) is the intelligent platform for travel and spend management. Built to tackle the time-consuming, manual work that gets in the way of real work, our tools automate everything from travel bookings to expenses, invoice processi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-business-travel-consultant-flexible-shift-birmingham-165598",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0a7604ea9ff9bc67",
+      "title": "Tech Lead Software Engineer Android (f/m/d)",
+      "company": "Decathlontechnology",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Villeneuve-d'Ascq",
+        "region": null,
+        "country": "Nord",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🇫🇷 Offre en Français Notre équipe Instore recherche un·e Tech Lead Android (f/m/d) — Software Engineer IC3 en CDI basé·e à Villeneuve-d'Ascq. L'équipe Instore développe des applications mobiles innovantes pour nos coéquipiers vendeurs en magasin. L'application…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/tech-lead-software-engineer-android-villeneuve-dascq-nord-490267",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "80d16d58e9a0b547",
+      "title": "Tech Lead Backend Java/Kafka — Price Hub (f/m/d)",
+      "company": "Decathlontechnology",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Lille",
+        "region": null,
+        "country": "Nord",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Notre équipe Price Hub recrute son ou sa Tech Lead à Lille DECATHLON accélère sa transformation pour devenir LA plateforme numérique sportive mondiale. Le digital et l'IA sont les moteurs de notre ambition 2026-2030 pour rendre le sport durablement accessible.…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/tech-lead-backend-java-kafka-price-hub-lille-upline-nord-266081",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3d3359cbeaf5a5fe",
+      "title": "Tech Lead Backend Java/Kafka — Price Hub (f/m/d)",
+      "company": "Decathlontechnology",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Nantes",
+        "region": null,
+        "country": "Loire-Atlantique",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Notre équipe Price Hub recrute son ou sa Tech Lead à Nantes DECATHLON accélère sa transformation pour devenir LA plateforme numérique sportive mondiale. Le digital et l'IA sont les moteurs de notre ambition 2026-2030 pour rendre le sport durablement accessible…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/tech-lead-backend-java-kafka-price-hub-nantes-loire-atlantique-193712",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "93699fbb8d3aa363",
+      "title": "Software Engineer Frontend - AI-Powered Store Manager Companion (f/m/d)",
+      "company": "Decathlontechnology",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Nantes",
+        "region": null,
+        "country": "Loire-Atlantique",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Le projet : Conception d’applications web d'aide à la décision AI & Data-driven Avec Manager’s Companion, nous aidons les managers de plus de 1 900 magasins dans 56 pays à analyser et piloter leur activité en temps réel. Pour accompagner le déploiement interna…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/software-engineer-frontend-ai-powered-store-manager-companion-nantes-loire-atlantique-277606",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5fed6ec3302f7832",
+      "title": "Senior Data Steward",
+      "company": "Decathlontechnology",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Offre d'Emploi : Senior Data Steward (Center of Expertise Data & AI Governance - Central) Notre équipe Data & AI Governance recherche un·e Senior Data Steward (f/m/d) en CDI basé·e à Lille / Paris . Chez Decathlon, nous croyons au pouvoir du sport pour unir et…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-data-steward-paris-paris-178481",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0c6bc2acf7736c5c",
+      "title": "Technical Recruiter",
+      "company": "Vibe",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": "Nicholas Wagner, Chief People Officer"
+      },
+      "summary": "Streaming TV is no longer just a brand awareness channel. It’s becoming a core part of the performance marketing mix, alongside search and social. Vibe.co is building the platform that makes TV work like the rest of the acquisition stack: targeted, measurable,…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/vibe/technical-recruiter-paris-253682",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "acc7370a00163597",
+      "title": "Gestionnaire ADV - Customer Support Representative FR",
+      "company": "tesa",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Alfortville",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you enjoy working with customers, solving problems, and keeping things running smoothly behind the scenes? We’re looking for a Customer Support Representative who is passionate about delivering excellent service and creating great customer experience every …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/tesa/gestionnaire-adv-customer-support-representative-fr-alfortville-16371",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5e66b4c2867221dc",
+      "title": "Photovoltaic & Battery Energy Storage System Expert (m/w/d)",
+      "company": "ILF Consulting Engineers Germany GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Fontainebleau (Frankreich)",
+        "region": null,
+        "country": "Frankreich",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The ILF Solar Photovoltaic & hybrid systems team works across a vast range of large-scale renewables projects and programs, both grid connected and off-grid across private and public sectors globally. We offer you to join a dynamic environment and to work on u…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/ilf-consulting-engineers-germany-gmbh/photovoltaic-battery-energy-storage-system-expert-fontainebleau-frankreich-407356",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "77bce7ace2f203a2",
+      "title": "Senior Backend Engineer - Payment Squad",
+      "company": "Blablacar",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": "squad's Engineering Manager and working closely with a team of Software Engineers and a Product Mana"
+      },
+      "summary": "About BlaBlaCar BlaBlaCar is the world’s leading community-based travel app enabling 27 million members a year to carpool or travel by bus in 21 countries. Our team of 800 employees counts over 50 nationalities and is spread across our 5 global offices, 30% wo…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/blablacar/senior-backend-engineer-payment-squad-paris-france-280976",
       "source": "Arbeitnow"
     },
     {
