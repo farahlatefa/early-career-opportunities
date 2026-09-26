@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-25T22:22:16.436124+00:00",
+    "lastUpdated": "2026-09-26T01:35:46.355924+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,207 @@
     ]
   },
   "jobs": [
+    {
+      "id": "3ea55c8c169d3e21",
+      "title": "Senior Regional Marketing Manager",
+      "company": "nozominetworks",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Procurement",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Now is an amazing time to join Nozomi Networks as we build the future of OT and IoT cybersecurity. We defend some of the world’s largest organizations and critical infrastructure in more than 68 countries and we’re just getting started. Our AI-powered cybersec…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/nozominetworks/senior-regional-marketing-manager-243027",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a8db3e7c8c0958bf",
+      "title": "Senior Performance Marketing Manager (Paid Social)",
+      "company": "iwoca",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The company Small businesses move fast. Opportunities often don’t wait, and cash flow pressures can appear overnight. To keep going, and growing, SMEs need finance that’s as flexible and responsive as they are. That's why we built iwoca. Our smart technology, …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/senior-performance-marketing-manager-paid-social-london-324396",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c87daeae551307c4",
+      "title": "Back End Tech Lead - Funnel Platform",
+      "company": "iwoca",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Humanitarian / NGO",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Back End Tech Lead - Funnel Platform Hybrid in London (UK) or Remote within the UK We’re hiring a Tech Lead for our Funnel Platform Team. You will lead the evolution of the shared code, frameworks, and integrations that power our services, build and improve bu…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/back-end-tech-lead-funnel-platform-london-299755",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a1d3a30f5fd0c9ae",
+      "title": "Data Scientist - iwocaPay Risk Squad",
+      "company": "iwoca",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Humanitarian / NGO",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hybrid in London, United Kingdom We're looking for a Data Scientist to join the iwocaPay Risk Squad You'll own credit models that decide who iwocaPay can safely fund and on what terms. The team is small, the product is growing, and you'll shape how risk modell…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/data-scientist-iwocapay-risk-squad-london-383254",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7cd1dfe4a1dc71b6",
+      "title": "Senior Data Analyst, People Analytics",
+      "company": "Checkout.com",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Humanitarian / NGO",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-data-analyst-people-analytics-london-258871",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8a0631ef702ed1fc",
+      "title": "Product Manager, Agentic Commerce",
+      "company": "Checkout.com",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/product-manager-agentic-commerce-london-217042",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "747525e0a9d3af16",
+      "title": "Account Development Representative (German-speaking)",
+      "company": "Kong",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some int…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/kong/account-development-representative-german-speaking-london-33434",
+      "source": "Arbeitnow"
+    },
     {
       "id": "ffd5c9fac54d7b1c",
       "title": "Trainee (m/w/d) im Finanzvertrieb – Karriere mit Struktur, Verantwortung und Perspektive (German Speaking)",
@@ -7293,6 +7494,803 @@
       },
       "summary": "About Gladia Gladia builds the audio AI infrastructure behind the new generation of voice products. Our mission is to give every voice platform true conversational intelligence — the audio infrastructure that understands every conversation, turning voice into …",
       "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/gladia/developer-relations-manager-paris-74237",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "babbe31d1ac77048",
+      "title": "Werkstudent (m/w/d) Sales & Business Development (apeiron)",
+      "company": "Ginmon GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Frankfurt",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Werde Teil des Business Development Teams zur Förderung der neuen, innovativen apeiron-Plattform! Bei Ginmon arbeiten wir in einem Team aus jungen, visionären Experten daran, die Lücke zwischen wissenschaftlichem Portfoliomanagement und modernster Kapitalmarkt…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ginmon-gmbh/werkstudent-sales-business-development-apeiron-frankfurt-477135",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1118e201d9a25ecf",
+      "title": "Team Lead SAP ABAP Development – Data Migration (m/w/d)",
+      "company": "Natuvion GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du findest ABAP-Entwicklungen und technische Beratung im SAP-Umfeld spannend, bist spezialisiert an Themen der Datenmigration und bringst erste Führungserfahrung und Leidenschaft für die Entwicklung deiner Mitarbeitenden mit? Du hast Lust in agilen und interna…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-team-lead-sap-abap-development-data-migration-berlin-368024",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2341ce0d4a4d6224",
+      "title": "SAP Finance (FI/CO) Migration Architect (m/w/d)",
+      "company": "Natuvion GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Möchtest du die Zukunft unserer Kunden aktiv mitgestalten und dabei sowohl fachlich als auch technisch Verantwortung übernehmen? Dann bist du bei uns genau richtig! Wir suchen einen Migration Architect SAP FI/CO (m/w/d) der unsere nationalen und internationale…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-sap-finance-fi-co-migration-architect-berlin-58106",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "89a420b4a9f061bc",
+      "title": "Account Executive (m/f/d)",
+      "company": "Bliq",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission At Bliq, we are building and launching driverless vehicles for everyday life and business operations across Europe. We are looking for a Account Executive to help bring them to customers. You will acquire business and individual customers across E…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/bliq/account-executive-berlin-394830",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f3ebd59418965be7",
+      "title": "System Software Engineer (gn) Cloud & Simulation",
+      "company": "Wandelbots GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Dresden",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission At Wandelbots, we are building NOVA, a platform that makes industrial robot programming accessible to everyone. Our Simulation team develops the technologies that allow partners, customers, and internal teams to work with photorealistic digital tw…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/wandelbots-gmbh/system-software-engineer-gn-cloud-simulation-dresden-405805",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b29efcc76b6311a4",
+      "title": "Automation Engineer (gn) Industrial Robotics & Software Development",
+      "company": "Wandelbots GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Dresden",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission At Wandelbots, we combine modern software development with industrial robotics and automation. With NOVA, we are building a platform that makes the use of industrial robots easier, more flexible, and more software-driven. As an Automation Engineer…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/wandelbots-gmbh/automation-engineer-gn-industrial-robotics-software-development-dresden-89935",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d850b187b24faea1",
+      "title": "Systemadministratorin (m/w/d) Administration und Weiterentwicklung von Enterprise Wiki-Lösungen",
+      "company": "Lrz",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Garching bei München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Beschreibung: Das Leibniz-Rechenzentrum (LRZ) betreibt auf Basis von Atlassian Confluence eine bayernweite Plattform zur hochschulübergreifenden Zusammenarbeit in Wissenschaft und Forschung. Zur Pflege und Weiterentwicklung unserer Kollaborationsplattform Baye…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lrz/systemadministratorin-administration-und-weiterentwicklung-von-enterprise-wiki-losungen-garching-bei-munchen-414146",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8644222dd6e0e77a",
+      "title": "Fachinformatikerin (m/w/d) - Systemintegration",
+      "company": "Lrz",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Garching bei München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Beschreibung: Du interessierst dich für IT, Computer und moderne Technologien? Du möchtest verstehen, wie IT-Infrastruktur funktioniert und dabei mit aktueller Hard- und Software arbeiten? Dann starte deine Ausbildung bei uns als: Fachinformatikerin - Systemin…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lrz/fachinformatikerin-systemintegration-garching-bei-munchen-370521",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7371b28537894007",
+      "title": "Data Platform Engineer (f/m/d)  for the European AI Factory HammerHAI",
+      "company": "Lrz",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Garching bei München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Description: Looking for an employer you can count on? Join us! Data Platform Engineer (f/m/d) for the European AI Factory HammerHAI Your Role and Responsibilities: Developing and maintaining the data facility of the AI Factory including its software environme…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lrz/data-platform-engineer-for-the-european-ai-factory-hammerhai-garching-bei-munchen-91148",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "486cec027c268f17",
+      "title": "Customer Success Expert (m/f/d) for the European AI Factory HammerHAI",
+      "company": "Lrz",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Garching bei München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Description: Looking for an employer you can count on? Join us! Customer Success Expert (m/f/d) for the European AI Factory HammerHAI Your Role and Responsibilities: Build and maintain strong relationships with key stakeholders and decision-makers, as well as …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lrz/customer-success-expert-for-the-european-ai-factory-hammerhai-garching-bei-munchen-10158",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e46b6eff660c9de6",
+      "title": "AI Education Expert (m/f/d) for the European AI Factory HammerHAI",
+      "company": "Lrz",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Garching bei München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Description: Looking for an employer you can count on? Join us! AI Education Expert (m/f/d) for the European AI Factory HammerHAI Your Role and Responsibilities: Developing and planning the AI Factory’s (AIF) portfolio of education & training offers within a f…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lrz/ai-education-expert-for-the-european-ai-factory-hammerhai-garching-bei-munchen-289248",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4641d28d7c7bbd7a",
+      "title": "Senior Rollout Manager (f/m/x) – DACH",
+      "company": "IONITY GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote Work Germany",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission IONITY baut ein europaweites Netzwerk von High-Power-Ladestationen auf und betreibt dieses. Als Senior Rollout Manager übernimmst du die Verantwortung für die erfolgreiche Umsetzung mehrerer Ladestandorte in der DACH-Region – von der Rollout-Planu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ionity-gmbh/remote-senior-rollout-manager-dach-461078",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8555962abde27fc9",
+      "title": "Senior People Operations & Payroll Manager (f/m/x)",
+      "company": "IONITY GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Remote Work Germany",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission IONITY is building the backbone of electric mobility in Europe. Founded by leading automotive manufacturers, we operate Europe’s largest high-power charging network across 24 countries, enabling seamless long-distance travel for EV drivers. With t…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ionity-gmbh/remote-senior-people-operations-payroll-manager-174683",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "df604939c873bda1",
+      "title": "Werkstudent Enterprise Risk Management (m/w/d)",
+      "company": "Auxmoney Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote / Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Dein neues Team: Du willst verstehen, wie ein FinTech seine wichtigsten Risiken steuert und dabei selbst mit anpacken, um Abläufe mit Daten, digitalen Workflows und KI effizienter zu machen? Dann bist Du bei uns richtig. Im Enterprise Risk Management von auxmo…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-werkstudent-enterprise-risk-management-46808",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "122b487f3534b500",
+      "title": "Werkstudent Customer Service (m/w/d)",
+      "company": "Auxmoney Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote / Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Dein neues Team: Du möchtest nicht einfach nur einen Studentenjob, sondern Teil eines Teams sein, das wirklich etwas bewegt? Dann bist Du bei uns im Customer Service genau richtig. Wir begleiten unsere Kundinnen und Kunden bei einem wichtigen Schritt in ihrem …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-werkstudent-customer-service-174702",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b5e26fae2055874b",
+      "title": "Werkstudent Automatisierung, KI & Workflows im Enterprise Risk Management (m/w/d)",
+      "company": "Auxmoney Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote / Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Dein neues Team: Du willst verstehen, wie ein modernes FinTech Risiken steuert und gleichzeitig mit Automatisierung und KI echte Prozessverbesserungen bauen? Im Enterprise Risk Management von auxmoney arbeitest Du in unserer GRC-Plattform (OneTrust) an Workflo…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-werkstudent-automatisierung-ki-workflows-im-enterprise-risk-management-462253",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2463f291996c9b5d",
+      "title": "Senior Software Engineer – IT Risk & Pricing (m/f/d)",
+      "company": "Auxmoney Gmbh",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Remote / Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your new team: As a Senior Software Engineer (m/f/d) at auxmoney, you’ll join our IT Risk & Pricing team, where we build backend systems and services that support risk decisioning, pricing, and data-driven product logic. The work is backend-heavy, involving co…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-software-engineer-it-risk-pricing-172194",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2dec5390ff74db26",
+      "title": "Senior SEO & GEO Manager (m/w/d)",
+      "company": "Auxmoney Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote / Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Dein neues Team: Du willst organische Sichtbarkeit so aufbauen, dass sie in Google ebenso wie in KI-Antwortsystemen zuverlässig wirkt? Dann übernimm bei auxmoney die Weiterentwicklung unserer SEO- und GEO-Strategie und setze sie end to end um. Du arbeitest mit…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-seo-geo-manager-141645",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "744492738d6a497f",
+      "title": "Training Specialist (m/f/d)",
+      "company": "DocuWare",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germering / Germany",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Why should you join? DocuWare stands for globally distributed, international teams and an open corporate culture that invites you to help shape it. Mobile Work and flexible working hours are part of our everyday life. Would you like to be part of an innovative…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/docuware/training-specialist-germering-germany-344080",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0c56cf3cf7199791",
+      "title": "Team Lead AI Process Automation (m/f/d)",
+      "company": "DocuWare",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germering / Germany",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Why should you join? DocuWare stands for globally distributed, international teams and an open corporate culture that invites you to help shape it. Mobile Work and flexible working hours are part of our everyday life. Would you like to be part of an innovative…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/docuware/team-lead-ai-process-automation-germering-germany-159182",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8179c9326a56291d",
+      "title": "Strategic Account Executive (m/f/d)",
+      "company": "DocuWare",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germering / Germany",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Why should you join? DocuWare stands for globally distributed, international teams and an open corporate culture that invites you to help shape it. Mobile Work and flexible working hours are part of our everyday life. Would you like to be part of an innovative…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/docuware/strategic-account-executive-germering-germany-424741",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5bc6c9c6a68c2e5d",
+      "title": "Ausbildung Fachinformatiker:in (m/w/d) für Systemintegration 2027",
+      "company": "DocuWare",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germering / Germany",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Das erwartet Dich Du bist kommunikationsstark und interessierst Dich für die neuesten Entwicklungen in der IT, wie zum Beispiel künstliche Intelligenz oder Cloud? Dann ist die Ausbildung Fachinformatiker:in (m/w/d) für Systemintegration genau das Richtige für …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/docuware/ausbildung-fachinformatikerin-fur-systemintegration-2027-germering-germany-428080",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "caa03755200935c9",
+      "title": "Product Owner (all genders) - Management Suite Tribe",
+      "company": "Baramundi Software Ag",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Augsburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Welcome to baramundi! “Where security, automation and centralized control come together, modern endpoint management begins.” Do you want to actively shape modern UEM solutions, translate technical complexity into clear product decisions and create real value f…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/baramundi-software-ag/product-owner-all-genders-management-suite-tribe-augsburg-328546",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a8816df32a75e6b4",
+      "title": "Teamleiter IT Finance & Risk (m/w/d)",
+      "company": "Allane SE",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Dein Highlight im Job Unser Teamleiter IT Finance & Risk verantwortet die fachliche und personelle Führung des gesamten Teams innerhalb des Bereichs IT Delivery. Er stellt die stabile, sichere und wirtschaftliche Bereitstellung der betreuten Geschäftsanwendung…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/allane-se/teamleiter-it-finance-risk-munchen-95544",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1494b8732a13d3ad",
+      "title": "(Senior) Team Head Accounting (m/w/d)",
+      "company": "Allane SE",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Dein Highlight im Job In dieser Schlüsselrolle gestaltest du die finanzielle und strategische Weiterentwicklung des Unternehmens aktiv mit und übernimmst Verantwortung für zentrale Transformations- und Accounting-Projekte. Als Sparringspartner für Management, …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/allane-se/senior-team-head-accounting-munchen-222417",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "487c583059b96287",
+      "title": "Analytics Engineer - Cost Modelling (m/w/d)",
+      "company": "Octopus Energy Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich (DE)",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Als global tätiges EnerTech-Unternehmen verbinden wir Energieversorgung, Technologie und Services. Unser Ziel ist es, mehr Menschen Zugang zu modernen Energielösungen zu ermöglichen. Dafür bieten wir Stromtarife aus 100% erneuerbaren Energien an, installieren …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/octopus-energy-group/analytics-engineer-cost-modelling-munich-de-418543",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "65e05efa5c3ce382",
+      "title": "Thruster CAD and Stress Analyst",
+      "company": "The Exploration Company",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Bordeaux",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Here at The Exploration Company, we are building innovative aerospace technologies that advance the future of space transportation. The heart of a spacecraft lies in its propulsion system, and that's why we, at The Exploration Company, are dedicated to develop…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/thruster-cad-and-stress-analyst-bordeaux-105031",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e31eff292ebedb89",
+      "title": "Software Engineer, Infrastructure - Self Managed Experience (SMX)",
+      "company": "Camunda",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-software-engineer-infrastructure-self-managed-experience-smx-123880",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ffdecb2f15d68e54",
+      "title": "Ingénieur·e en médiation scientifique et valorisation de la recherche",
+      "company": "Institut Mines-Télécom",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Nantes",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "1- ENVIRONNEMENT DU POSTE Grande école d’ingénieur généraliste de l’IMT-Institut Mines-Télécom, premier groupe d’écoles d’ingénieurs de France, IMT Atlantique a pour ambition d’accompagner les transitions, de former des ingénieurs responsables et mettre l'exce…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/ingenieure-en-mediation-scientifique-et-valorisation-de-la-recherche-nantes-284012",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "daa0ce1724a3aa73",
+      "title": "Post-doctorat en sociologie, ergonomie ou en sciences de gestion",
+      "company": "Institut Mines-Télécom",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Nantes",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "1- ENVIRONNEMENT DU POSTE Grande école d’ingénieur généraliste de l’IMT-Institut Mines-Télécom, premier groupe d’écoles d’ingénieurs de France, IMT Atlantique a pour ambition d’accompagner les transitions, de former des ingénieurs responsables et mettre l'exce…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorat-en-sociologie-ergonomie-ou-en-sciences-de-gestion-nantes-60471",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8d9da8f563d80015",
+      "title": "Stage - Développement Retail & Excellence Opérationnelle",
+      "company": "AMI PARIS",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-25",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Rejoignez une équipe au cœur de l'expansion retail internationale Au sein du département Retail, vous participerez activement au développement immobilier et au déploiement de nos boutiques en Europe. Une mission à la croisée de l'immobilier, du pilotage de pro…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/ami-paris/stage-developpement-retail-excellence-operationnelle-paris-406357",
       "source": "Arbeitnow"
     },
     {
