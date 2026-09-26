@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-26T19:52:40.910277+00:00",
+    "lastUpdated": "2026-09-26T22:53:18.547298+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -6778,6 +6778,801 @@
       },
       "summary": "The Role: Our team is expanding and we are hiring several high caliber QA Software Test Automation Engineers (Java) to join our fast-growing team. You will work with world class specialists in a friendly, supportive and open-minded environment on challenging g…",
       "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-466766",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4565d129ab5ce1b3",
+      "title": "Junior Talent Acquisition Manager (f/m/d)",
+      "company": "thinkcellsoftware",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Junior Talent Acquisition Manager - Join Our Innovative Team at thinkcell Software Our Story At thinkcell, we create powerful software solutions that help professionals be more efficient and productive. Founded in 2002 and based in Berlin, our tools integrate …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/thinkcellsoftware/junior-talent-acquisition-manager-16012",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "62648af8c8d1ac49",
+      "title": "AI Solution Architect (m/w/d)",
+      "company": "virtual7 GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Homeoffice",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-72576",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "df8b70324ba23d6a",
+      "title": "Senior GenAI Solution Engineer (all genders)",
+      "company": "Eraneos",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "remote",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What you can expect from us We are a technical, implementation-oriented spin-off of a global management consultancy. Our clients are primarily DAX and Fortune Global 500 companies, which we advise on issues in the areas of analytics, big data and machine learn…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-genai-solution-engineer-all-genders-297775",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4de98ede845d6aeb",
+      "title": "Manager SAP EWM – Logistics / Supply Chain (m/w/d)",
+      "company": "Eraneos",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "remote",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": "Logistics management and the steering committee, as well as issue and change management"
+      },
+      "summary": "What you can expect from us As the business-side EWM project lead, you take overall responsibility in our client projects for the planning, management and successful implementation of our SAP EWM initiatives from a Logistics perspective. You ensure that our cl…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-manager-sap-ewm-logistics-supply-chain-191713",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ac577d39b0cbf378",
+      "title": "Forward Deployed Engineer (all genders)",
+      "company": "Eraneos",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "remote",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Data & Analytics",
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What you can expect from us Eraneos supports AI initiatives from strategy all the way through to production. In most AI projects, there's a gap between the strategy and what actually ends up running in production and creating real value. That's exactly the gap…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-forward-deployed-engineer-all-genders-108309",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "81f7b722ead3cf6c",
+      "title": "Senior Solutions Architect - Data & AI Engineer (f/m/d, 4-Days-Week), German Speaking",
+      "company": "Auvaria",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "It’s time to change. We change! Über uns It’s time to change. We change! Willkommen bei Auvaria, wo Leidenschaft, Teamgeist und Verantwortung unsere Kultur prägen. Wir sind ein mehrfach ausgezeichneter AWS Consulting & Engineering Partner mit Büros in Wien, Ha…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/auvaria/senior-solutions-architect-data-ai-engineer-4-days-week-german-speaking-munchen-414296",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cd5bab7c7c7d78ba",
+      "title": "(SENIOR) Relationship & Recruiting Manager (m/w/d)",
+      "company": "Synsero",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurzbeschreibung Du liebst es, Menschen und Unternehmen erfolgreich zusammenzubringen? Dann bist Du bei uns genau richtig. Als (Senior) Relationship & Recruiting Manager (m/w/d) verantwortest Du die Besetzung anspruchsvoller Fach- und Projektpositionen im Indu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/synsero/senior-relationship-recruiting-manager-munchen-105528",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0f5e92a6675f197d",
+      "title": "Working Student (m/f/d)​Indexing Platform",
+      "company": "Solactive",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description Since its creation in 2007 in the financial city of Frankfurt am Main, Solactive AG has grown to one of the key players in the indexing space. The German multi-asset index provider focusses on tailor-made indices, offering to its clients a …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/solactive/working-student-indexing-platform-berlin-396498",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b5cf01350c214860",
+      "title": "Working Student (m/f/d) ​Quantitative development",
+      "company": "Solactive",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description Since its creation in 2007 in the financial city of Frankfurt am Main, Solactive AG has grown to one of the key players in the indexing space. The German multi-asset index provider focusses on tailor-made indices, offering to its clients a …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/solactive/working-student-quantitative-development-berlin-462366",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "53d822b676346e49",
+      "title": "Machine Learning Engineer",
+      "company": "Grahamcapitalmanagement",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Graham Capital Management, L.P. (collectively with its affiliates, \"Graham\") is an alternative investment manager founded in 1994 by Kenneth G. Tropin. Specializing in discretionary and quantitative macro strategies, Graham is dedicated to delivering strong, u…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/grahamcapitalmanagement/machine-learning-engineer-london-412766",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "84bfbfc5377bb02e",
+      "title": "Senior Software Engineer",
+      "company": "Schonfeld",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Role Schonfeld is seeking an exceptional Senior Software Engineer to join our Treasury Technology team. This team is dedicated to delivering top-tier systems that manage the firm’s securities lending and financing, repo trading, FX hedging, and collateral …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/schonfeld/senior-software-engineer-london-213831",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "beafe1e0243f5441",
+      "title": "SEO Executive - Graduate / Junior",
+      "company": "Thgingenuity",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Manchester",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About THG Ingenuity THG Ingenuity is a fully integrated digital commerce ecosystem, designed to power brands without limits. Our global end-to-end tech platform is comprised of three products: THG Commerce, THG Studios, THG Fulfilment. Each represents a single…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/seo-executive-graduate-junior-manchester-234835",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "85ff4c955a2bde62",
+      "title": "Legal Counsel",
+      "company": "Zilch",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zilch UK",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are: We're one of Europe's fastest-growing fintech companies – on a mission to create the world's most empowering way to pay. We launched the product in 2020 and achieved double unicorn status, valued at $2 billion, and since then have taken on more tha…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/zilch/legal-counsel-london-130968",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1d1040748f694f3b",
+      "title": "Electrical Engineer II (Integrations)",
+      "company": "Kraken",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Manchester",
+        "region": null,
+        "country": "UK",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "International Development",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/kraken/electrical-engineer-ii-integrations-manchester-260447",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f6b3c4ea2f520cee",
+      "title": "Senior Electrical Engineer (Integrations)",
+      "company": "Kraken",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Manchester",
+        "region": null,
+        "country": "UK",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "International Development",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/kraken/senior-electrical-engineer-integrations-manchester-143920",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "16e546913e1c1d1d",
+      "title": "AI Researcher — Distillation",
+      "company": "Jobgether",
+      "employmentType": "Internship",
+      "location": {
+        "city": "UK",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels) based in United Kingdom. This role foc…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/ai-researcher-distillation-uk-63519",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "24c3aa1e688ac3d4",
+      "title": "Electronics Engineering Intern",
+      "company": "Auterion",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We are looking for an enthusiastic Electronics Engineering Intern to gain hands-on experience designing, building, testing, and debugging electronic hardware. Working alongside senior engineers, you’ll contribute across the development cycle—from schematic and…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/auterion/electronics-engineering-intern-zurich-37639",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cf58e3ab694c8469",
+      "title": "Senior Software Engineer - Vector Search - Elasticsearch",
+      "company": "Elastic",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings to…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/elastic/senior-software-engineer-vector-search-elasticsearch-292118",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2e9574cbd3a3dd4b",
+      "title": "Senior Software Engineer - Search Algorithms - Elasticsearch",
+      "company": "Elastic",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings to…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/elastic/senior-software-engineer-search-algorithms-elasticsearch-23252",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ac2bbabe1a657a7f",
+      "title": "Senior Product Manager (XDR) - Security Solutions",
+      "company": "Elastic",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings to…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/elastic/senior-product-manager-xdr-security-solutions-75844",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "06769c127d1a9eb6",
+      "title": "Software Engineer (m/w/d) - C# & .Net",
+      "company": "Swissitsecuritygroup",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Jona",
+        "region": null,
+        "country": "St. Gallen",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Willst Du, dass Deine Arbeit eine echte Bedeutung & spürbare Auswirkung für uns als Gesellschaft hat? Hast Du Lust mit einem grossartigen Team eine sichere, digitale Zukunft aufzubauen? Das ist noch nicht alles – b ei uns erwarten Dich 40 Wochenarbeitsstunden …",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swissitsecuritygroup/software-engineer-c-net-jona-st-gallen-314241",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8fea78123f449d01",
+      "title": "Talent Lead",
+      "company": "Adaptyv",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Lausanne",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Adaptyv is building an automated lab that lets AI agents run biology experiments. We're entering the era of agentic science where AI models can now design novel proteins, propose hypotheses, and iterate on experimental results. But they can't run the experimen…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/adaptyv/talent-lead-lausanne-224619",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "73b62b1187d25ffd",
+      "title": "Binding Kinetics Scientist (SPR & BLI)",
+      "company": "Adaptyv",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Lausanne / Hybrid / Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Adaptyv is building an automated lab that lets AI agents run biology experiments. We're entering the era of agentic science where AI models can now design novel proteins, propose hypotheses, and iterate on experimental results. But they can't run the experimen…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/adaptyv/binding-kinetics-scientist-spr-bli-lausanne-206017",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "51368f1bbcc7d41f",
+      "title": "Lab Operations Associate",
+      "company": "Adaptyv",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Lausanne",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Operations",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Adaptyv is building an automated lab that lets AI agents run biology experiments. We're entering the era of agentic science where AI models can now design novel proteins, propose hypotheses, and iterate on experimental results. But they can't run the experimen…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/adaptyv/lab-operations-associate-lausanne-69860",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bce7621b5c1dd067",
+      "title": "Dealer Account Manager",
+      "company": "AIM",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About AIM Intelligent Machines AIM Intelligent Machines is pioneering the future of heavy equipment automation. Our technology enables a single operator to monitor and control multiple machines simultaneously—dramatically improving productivity, reducing labor…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/aim/remote-dealer-account-manager-212965",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1bd6be1dc438d1c5",
+      "title": "Quality Assurance Engineer",
+      "company": "Exeon Analytics",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "80-100% | as soon as possible | Germany or Switzerland About Exeon Exeon Analytics is a Swiss security analytics software vendor delivering holistic visibility, reliable detection, and actionable response across networks, identities, and applications. By combi…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/exeon-analytics/quality-assurance-engineer-zurich-186771",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c82500806c218ffd",
+      "title": "Lead EIC Engineer (100%)",
+      "company": "Climeworks",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Technical Direction: You define and maintain the technical direction for the Electrical, Instrumentation, and Controls (EIC) Department. You lead the development of fit-for-purpose EIC specifications, design philosophies, and basis of design for execution Glob…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/climeworks/lead-eic-engineer-100-zurich-311222",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8f177783e708007c",
+      "title": "Sorbent Module Product Owner (80-100%)",
+      "company": "Climeworks",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Product Development Ownership: You take ownership of developing innovative sorbent modules from approximately TRL3 to TRL6, optimizing trade-offs between product requirements, performance, manufacturability, and scalability. Lifecycle Management: You lead the …",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/climeworks/sorbent-module-product-owner-80-100-zurich-86343",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "71f8235cf7380588",
+      "title": "IT Onsite Support Engineer (Heerbrugg 1st, 2nd level support, English, German)",
+      "company": "D Ploy",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Au",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "D-ploy is an IT and Engineering Solutions company with operations throughout the EMEA region including Switzerland, Germany, Czech Republic, Austria, UK, as well as the USA. We pride ourselves on delivering innovative and superior services and solutions to num…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/d-ploy/it-onsite-support-engineer-heerbrugg-1st-2nd-level-support-english-german-au-10765",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f9de5a6a0471192e",
+      "title": "Senior Solution Sales Manager CH - m/f/d (R-19497)",
+      "company": "Dnb",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Urdorf - Switzerland",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Shape the Future with Dun & Bradstreet At Dun & Bradstreet, we believe data has the power to create a better tomorrow. As a global leader in business decisioning data and analytics, we help companies worldwide grow, manage risk, and innovate. Since 1841, busin…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/dnb/senior-solution-sales-manager-ch-r-19497-urdorf-switzerland-280704",
       "source": "Arbeitnow"
     },
     {
