@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-26T22:53:18.547298+00:00",
+    "lastUpdated": "2026-09-27T01:28:29.149571+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,143 @@
     ]
   },
   "jobs": [
+    {
+      "id": "79889b8031c2a598",
+      "title": "Product Manager, Performance AI",
+      "company": "Wpp",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "WPP is the trusted growth partner for the world’s leading brands. We unite cutting-edge media intelligence and data solutions, world-class creativity, next-generation production, transformative enterprise solutions and expert strategic counsel in a single comp…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/wpp/product-manager-performance-ai-496159",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7bbc67bf2f16bf13",
+      "title": "Senior Product Manager (Roadmap) - Star Trek Fleet Command",
+      "company": "Scopely",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "GB - London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Scopely is looking for a Senior Product Manager to join our Star Trek™ Fleet Command team in the UK on a remote basis. Star Trek Fleet Command's ongoing success goes from strength to strength. Our in-house developed 4X MMO was launched in 2018 and continues to…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/scopely/senior-product-manager-roadmap-star-trek-fleet-command-gb-london-169456",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bb78cf3bf1f57b97",
+      "title": "Application Security Engineer",
+      "company": "Pokemoncareers",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Get to know The Pokémon Company International The Pokémon Company International manages the Pokémon property outside of Asia and is responsible for brand management, licensing and marketing, the Pokémon Trading Card Game, the animated TV series, home entertain…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/pokemoncareers/application-security-engineer-london-147708",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4e6fe3c264e3a88e",
+      "title": "Campaign Manager",
+      "company": "tem",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-27",
+      "reportsTo": {
+        "name": null,
+        "title": "you"
+      },
+      "summary": "📈 Who We Are: We are rebuilding the energy transaction, making it transparent and fair. Our goal is to put power back where it belongs, in the hands of customers and to take on one of the most critical problems of our century, access to low cost electricity. t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/tem/campaign-manager-united-kingdom-215660",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "80e8c2ff8df5ee1b",
+      "title": "Senior Electrical Characterisation Engineer",
+      "company": "Quantum Motion Technologies - Personio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "UK",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About The Role and Team Quantum Motion is a fast-growing quantum computing scale-up based in London founded by internationally renowned researchers from UCL and Oxford University with over 40 years’ experience in developing qubits and quantum computing archite…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/quantum-motion-technologies-personio/senior-electrical-characterisation-engineer-london-uk-441418",
+      "source": "Arbeitnow"
+    },
     {
       "id": "3ea55c8c169d3e21",
       "title": "Senior Regional Marketing Manager",
@@ -7573,6 +7710,704 @@
       },
       "summary": "Shape the Future with Dun & Bradstreet At Dun & Bradstreet, we believe data has the power to create a better tomorrow. As a global leader in business decisioning data and analytics, we help companies worldwide grow, manage risk, and innovate. Since 1841, busin…",
       "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/dnb/senior-solution-sales-manager-ch-r-19497-urdorf-switzerland-280704",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "40801af9d85c4300",
+      "title": "(Senior) Consultant* - Payments Transformation",
+      "company": "capco",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Standort: Frankfurt (Hybrid) | Practice Area : Banking & Payments | Art: Festanstellung Begleite führende Finanzinstitute bei der Transformation moderner Zahlungsverkehrslandschaften. Die Rolle Capco sucht engagierte (Senior) Consultants mit Leidenschaft für P…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/capco/senior-consultant-payments-transformation-147892",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "74ec3e780b3ec80b",
+      "title": "Enterprise Account Executive- Germany",
+      "company": "Harness: Open Positions & Job Opportunities",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Schleswig-Holstein",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/harness-open-positions-job-opportunities/enterprise-account-executive-germany-berlin-schleswig-holstein-475663",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1181cc750256759e",
+      "title": "Senior Area Sales Manager (Hamburg Ost) | Food Startup (m/w/d)",
+      "company": "Ahead Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "YOU & AHEAD Bist du ein Verkaufstalent, das keine Angst davor hat, auf neue Leute zuzugehen und Beziehungen aufzubauen? Du kennst dich im Lebensmitteleinzelhandel bestens aus und liebst den Nervenkitzel, neue Kunden zu gewinnen? Wenn das nach dir klingt, bist …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ahead-gmbh/senior-area-sales-manager-hamburg-ost-food-startup-hamburg-office-262741",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3aa23740c7aeb568",
+      "title": "E-Commerce Campaign Manager (All Genders)",
+      "company": "Ahead Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "YOU & AHEAD At ahead, we’re on a mission to clean up the world’s candy drawers. We create the snacks people genuinely crave, from chocolate bars and wafers to cookies, gummies, and protein bars, with up to 90% less sugar and no compromise on taste. As our E-Co…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ahead-gmbh/e-commerce-campaign-manager-all-genders-hamburg-office-270528",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a051efd3a909eb36",
+      "title": "Applied AI Scientist(m/f/d)",
+      "company": "Nc Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Data & Analytics",
+        "Operations",
+        "Policy / Government",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About us NET CHECK GmbH was founded in 1999 with the aim of improving the quality of communication networks. Since then, NET CHECK has developed into the leading partner of network operators and infrastructure providers of mobile and fixed networks of all tech…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/nc-group/applied-ai-scientist-berlin-383064",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c64228ac559004f6",
+      "title": "Senior Controller (f/m/d)",
+      "company": "Chrono24",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Karlsruhe",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Operations",
+        "Procurement",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Chrono24 is the world's leading marketplace for luxury watches, bringing together watch enthusiasts, collectors, dealers, and buyers from all over the world every day. As a Senior Controller, you'll be part of our Controlling team and actively help shape…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/chrono24/senior-controller-karlsruhe-243629",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4900b36d4c1a6e6e",
+      "title": "Working Student – Invoice Checking (d/f/m)",
+      "company": "Letmeship",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sports",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About us Since 2000, ITA Logistics Group has been making shipping simpler, more transparent, and more efficient for businesses. With our platforms LetMeShip and ParcelParcel / LMS Next , companies can quickly compare and directly book their daily shipping need…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/letmeship/working-student-invoice-checking-hamburg-436719",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f5dc5381580a63b7",
+      "title": "E-retail Executive H/F - CDI",
+      "company": "wppmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/wppmedia/e-retail-executive-h-f-cdi-paris-167371",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a7951d103fd7da38",
+      "title": "Labour Legal Counsel",
+      "company": "Mistral.ai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": "our Lead Labour & Employment law, you will provide labour law expertise and play a pivotal role in h"
+      },
+      "summary": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/mistralai/labour-legal-counsel-paris-238247",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "66e249b53cb2d148",
+      "title": "Technical Product Manager (FR)",
+      "company": "Genesis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What You'll Do Own the product roadmap needed for deployment for our core Physical AI capabilities, translating research breakthroughs into deployable, customer-facing products. Sit at the intersection of research, robotics engineering, and field deployment to…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/genesis/technical-product-manager-fr-paris-480507",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3fe904334efc94db",
+      "title": "Senior data collection operator (FR)",
+      "company": "Genesis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Genesis We are a full-stack general-purpose robot company, born across San Francisco, London and Paris and bound by a single mission: to make general-purpose robots a reality, unlocking infinite physical labor for the world and freeing people for creativ…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/genesis/senior-data-collection-operator-fr-paris-52700",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6aa4ca698261b42e",
+      "title": "Sr. Account Executive - Strategic (German Speaking)",
+      "company": "Addepar1",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Geneva",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who We Are Addepar is a global data and AI platform empowering investment professionals to turn complex financial information into actionable intelligence. Addepar unifies portfolio, market and client data in a total portfolio view and delivers AI-powered insi…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/addepar1/sr-account-executive-strategic-german-speaking-geneva-457927",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f42cb0649a34a74f",
+      "title": "Field Engineer (m/w/x)",
+      "company": "Rotzinger Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Altendorf",
+        "region": null,
+        "country": "Schweiz",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Rotzinger Transver mit Standorten in Kaiseraugst und Altendorf in der Schweiz ist ein führender Anbieter von Lösungen für Produktflusssteuerung, Pufferung, Verteilung und Fördertechnik für die Lebensmittel-, Süsswaren- und Verpackungsindustrie. Unser Portfolio…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-116575",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "118d3facbfd7a24e",
+      "title": "Technical Product Manager - Code Quality",
+      "company": "Sonarsource",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Geneva",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Position description Sonar is looking for passionate Product Managers who will make our products truly loved by developers around the world. You will be part of the Product Management team that drives the vision and roadmaps for SonarQube Cloud, SonarQube Serv…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/sonarsource/technical-product-manager-code-quality-geneva-123629",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fb7656786c7560ce",
+      "title": "Technical Account Manager (Technical Advisory)",
+      "company": "Sonarsource",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Geneva",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who is Sonar? Sonar is driving the future of agent-centric software development. As the leader in AI code review and verification, we solve a critical problem: ensuring that software generated by AI-assisted developers or autonomous agents is reliable, secure,…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/sonarsource/technical-account-manager-technical-advisory-geneva-344889",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0b2e8e1e1613c887",
+      "title": "Sr. Staff Customer Trust Manager",
+      "company": "Sonarsource",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Geneva",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who is Sonar? Sonar is driving the future of agent-centric software development. As the leader in AI code review and verification, we solve a critical problem: ensuring that software generated by AI-assisted developers or autonomous agents is reliable, secure,…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/sonarsource/sr-staff-customer-trust-manager-geneva-162029",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1f621016b49fa932",
+      "title": "Platform Product Manager",
+      "company": "Sonarsource",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Geneva",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who is Sonar? Sonar is driving the future of agent-centric software development. As the leader in AI code verification and governance, we solve a critical problem: ensuring that software generated by AI-assisted developers or autonomous agents is reliable, sec…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/sonarsource/platform-product-manager-geneva-36173",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1ec0c97b66bbe921",
+      "title": "Marketing AI Engineer",
+      "company": "Sonarsource",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Geneva",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who is Sonar? Sonar is driving the future of agent-centric software development. As the leader in AI code review and verification, we solve a critical problem: ensuring that software generated by AI-assisted developers or autonomous agents is reliable, secure,…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/sonarsource/marketing-ai-engineer-geneva-191237",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "13a378da66b89224",
+      "title": "Identity Product Manager",
+      "company": "Sonarsource",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Geneva",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who is Sonar? Sonar is driving the future of agent-centric software development. As the leader in AI code verification and governance, we solve a critical problem: ensuring that software generated by AI-assisted developers or autonomous agents is reliable, sec…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/sonarsource/identity-product-manager-geneva-401195",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "04ec37b662389e52",
+      "title": "Application Security Engineer",
+      "company": "Sonarsource",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Geneva",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who is Sonar? Sonar is driving the future of agent-centric software development. As the leader in AI code review and verification, we solve a critical problem: ensuring that software generated by AI-assisted developers or autonomous agents is reliable, secure,…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/sonarsource/application-security-engineer-geneva-242973",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e4f0deccf31de817",
+      "title": "Senior Software Engineer - Trading",
+      "company": "Swissblock",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Baar ZG",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your team At Swissblock, we are passionate about creating cutting-edge algorithmic trading strategies. Our institutional-grade trading solution delivers precision execution and deep market insights across multiple traditional financial markets. The quant and p…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swissblock/senior-software-engineer-trading-baar-zg-259201",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "52b3c7b4366b553d",
+      "title": "Solution Architect - Power & Utilities",
+      "company": "Anybotics",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ANYbotics is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 200 people and work on cutting-edge robot technology. The Opportunity As our Soluti…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/anybotics/solution-architect-power-utilities-zurich-403743",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dffaa89e4290ddb9",
+      "title": "Software Engineering Internship - AI Platform",
+      "company": "Anybotics",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ANYbotics is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 200 people and work on cutting-edge robot technology. The Opportunity We are lookin…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/anybotics/software-engineering-internship-ai-platform-zurich-switzerland-391884",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "44b55e177f7f1cfb",
+      "title": "Senior Product Quality Engineer",
+      "company": "Anybotics",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ANYbotics is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 200 people and work on cutting-edge robot technology. The Opportunity We are lookin…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/anybotics/senior-product-quality-engineer-zurich-switzerland-256960",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "682798c20b048dd5",
+      "title": "PCB Layout Designer / ECAD Engineer",
+      "company": "Anybotics",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ANYbotics is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 200 people and work on cutting-edge robot technology. The Opportunity We are lookin…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/anybotics/pcb-layout-designer-ecad-engineer-zurich-switzerland-401087",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c788772e3a5d0a2f",
+      "title": "Key Account Manager - Oil & Gas",
+      "company": "Anybotics",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ANYbotics is a fast-growing tech company shaping the future of mobile robotics across multiple industries. Join our talented and motivated team of more than 200 people and work on cutting-edge robot technology. The Opportunity We are seeking a highly driven, s…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/anybotics/key-account-manager-oil-gas-zurich-199148",
       "source": "Arbeitnow"
     },
     {
