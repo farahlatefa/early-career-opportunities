@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-28T00:48:55.823471+00:00",
+    "lastUpdated": "2026-09-28T06:56:13.522333+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,616 @@
     ]
   },
   "jobs": [
+    {
+      "id": "70b97a0ad69232e7",
+      "title": "Strategic Account Executive",
+      "company": "Jfrog",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Residency in Germany is required. Currently, this position is remote and does not require working from the office. #LI-Remote At JFrog, we’re reinventing DevSecOps to help the world’s greatest companies innovate securely-- recognized by Gartner as a Leader in …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/jfrog/remote-strategic-account-executive-196007",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e288d5a91c7cab06",
+      "title": "Senior Electronics Engineer",
+      "company": "Auterion",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Auterion, we build a global platform for drones and autonomous robots. In the growing market of autonomous vehicles, we connect high-end software and hardware. Our Munich-based defense engineering team develops the technologies that form the foundation of c…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/auterion/senior-electronics-engineer-munich-425857",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "07da9d33f75d29ad",
+      "title": "Avionics Manufacturing Team Lead",
+      "company": "The Exploration Company",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Here at The Exploration Company, we are building innovative aerospace technologies that advance the future of space transportation. The Avionics Manufacturing Team Lead will be responsible for managing a team of technicians to assemble, integrate, and test avi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/avionics-manufacturing-team-lead-munich-265023",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8c8eba83670548b5",
+      "title": "Fachkraft für Arbeitssicherheit (SiFA) (w/m/d)",
+      "company": "Enpal",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamtlösung für dezentrale Energie – von Solaranlage und Batteriespeicher über Wallbox, Smart Meter bis z…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/enpal/remote-fachkraft-fur-arbeitssicherheit-sifa-96577",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "133533fa68013c6f",
+      "title": "Teamleiter:in für Photovoltaikanlagen (w/m/d)",
+      "company": "Enpal",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamtlösung für dezentrale Energie – von Solaranlage und Batteriespeicher über Wallbox, Smart Meter bis z…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/enpal/remote-teamleiterin-fur-photovoltaikanlagen-107457",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "df2dae64f81e3eac",
+      "title": "Teamleiter:in für Photovoltaikanlagen (w/m/d)",
+      "company": "Enpal",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hannover",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamtlösung für dezentrale Energie – von Solaranlage und Batteriespeicher über Wallbox, Smart Meter bis z…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/enpal/teamleiterin-fur-photovoltaikanlagen-hannover-4676",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "56a7579660a906f9",
+      "title": "Werkstudent*in Marketing ab sofort (m/w/d)",
+      "company": "TWIST Gmbh & Co. KG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "TWIST ist eine preisgekrönte Film und Fotoproduktion aus Düsseldorf. Seit 2020 machen wir Werbefilme, Imagefilme, Social Media Content und Eventfilme für Marken wie L'Oréal, NFL, Kerrygold und Burlington. Unser Leitsatz lautet Goosebumps never lie, denn wir ma…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/twist-gmbh-co-kg/werkstudentin-marketing-ab-sofort-dusseldorf-165301",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f0923fcfcb1b8712",
+      "title": "Senior PR Manager (m/w/d) – Remote oder Berlin",
+      "company": "Getpress Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Overview PR steht vor einem strukturellen Bruch. Vertrauen verschiebt sich, Sichtbarkeit wird neu verteilt, KI wächst exponentiell. Wir bei getpress glauben, dass Reputation in den nächsten zehn Jahren der entscheidende Wettbewerbsvorsprung für Unternehmen wir…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/senior-pr-manager-remote-oder-berlin-164094",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9f662209a711c49a",
+      "title": "Technical Project Manager (all genders) - Retail and window campaigns",
+      "company": "Going Beyond Group GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Stuttgart",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Supply Chain",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "JOIN US We are currently looking for a Technical Project Manager (all genders) to join our team at our Stuttgart location. With your enthusiasm, you will support our sophisticated retail and window campaigns, ensuring that projects are successfully implemented…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/going-beyond-group-gmbh/technical-project-manager-all-genders-retail-and-window-campaigns-stuttgart-487879",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "15c2e9cb0d99ea49",
+      "title": "(Junior) Design Manager (all genders) – Luxury Retail",
+      "company": "Going Beyond Group GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Stuttgart",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "JOIN US Ab sofort suchen wir für unser Team am Standort Stuttgart einen (Junior) Design Manager (all genders) im Bereich Retail Kampagnen. Werde Teil unserer Community – wir freuen uns auf dich! WHAT YOU DO In Abstimmung mit dem Project Management bist du vera…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/going-beyond-group-gmbh/junior-design-manager-all-genders-luxury-retail-stuttgart-334599",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2057b6c7504e0ebd",
+      "title": "Junior Full Stack Developer (All Genders)",
+      "company": "Seniovo GmbH - Ein Unternehmen der HORNBACH-Gruppe",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Pflege, Konfiguration und Erweiterung unserer operativen Systeme ( Zoho CRM, Desk, Books, Sign und angrenzende Tools) Entwicklung von Automationen und Business-Logik mit Deluge , Python und JavaScript: Workflows, Functions , Client-Skripte und g…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-87279",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a3a3c26f0bcc4659",
+      "title": "Backend Engineer - (Kotlin, Spring, AWS) - Better Places (d/f/m)",
+      "company": "Bettermile",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Better Place",
+        "region": null,
+        "country": "Berlin",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What is working at Bettermile like? We mean it when we say “cutting edge” and have a high level of creative freedom in our everyday work You will be surrounded by like-minded, driven, skilled, and highly motivated people who are keen to contribute to successfu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/bettermile/backend-engineer-kotlin-spring-aws-better-places-berlin-475926",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9f6567755541e998",
+      "title": "Softwareentwickler Automatisierungstechnik / SPS-Programmierer (m/w/d)",
+      "company": "CERTUSS GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Krefeld",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Softwareentwickler Automatisierungstechnik / SPS-Programmierer (m/w/d) Standort: Krefeld | Vollzeit (40 h Woche) | unbefristet SPS-Programmierung | Automatisierungstechnik | Visualisierung | Steuerungstechnik CERTUSS ist Teil des japanischen Miura-Konzerns und…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/certuss-gmbh/softwareentwickler-automatisierungstechnik-sps-programmierer-krefeld-340003",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6cd97ac0a62584bd",
+      "title": "Performance Creative Strategist - Social & Paid (w/m/d)",
+      "company": "Zasta Karriere",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was du bei uns machen wirst: Wie bringt man Menschen dazu, sich freiwillig mit ihrer Steuererklärung zu beschäftigen? Genau das ist deine Aufgabe. Als Performance Creative Strategist bei Zasta entwickelst du Ideen, Hooks und Kampagnen, die aus einem komplexen …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/zasta-karriere/performance-creative-strategist-social-paid-berlin-452104",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ffea65b4b3c49488",
+      "title": "Senior Electrical Engineer (m/f/d)",
+      "company": "Dornier MedTech GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "DMT-Germany - Wessling",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ihre Aufgaben Development, implementation, construction and testing of electrical components and for medical products, which represent state-of-the-art technology. The job holder closely collaborates with stakeholders across department and operational structur…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/dornier-medtech-gmbh/senior-electrical-engineer-dmt-germany-wessling-466457",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0bb8bf099e4879e0",
+      "title": "Business Analyst (m/w/d) - auch für Berufseinsteiger",
+      "company": "Fahrrad Xxl De",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Dresden",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Wir investieren viel in Digitalisierung und erstellen selbst leistungsfähige und sehr individualisierte Softwaretools für mehr als 1000 aktive User:innen. Zur Verstärkung unseres Teams in Dresden suchen wir zum nächstmöglichen Zeitpunkt einen Bu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/fahrrad-xxl-de/business-analyst-auch-fur-berufseinsteiger-dresden-185536",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "472172879b9bc876",
+      "title": "Multidisciplinary Studio Internship - Art, Engineering & Communication (Berlin)",
+      "company": "AnalogDream e.V.",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Studio Apelbaum, founded by artist and engineer Jonathan Apelbaum, brings painting, technology, sound and people into the same space. Our work begins with stories of intimacy, memory and identity and grows through a team of makers, engineers, musicians, perfor…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/analogdream-ev/multidisciplinary-studio-internship-art-engineering-communication-berlin-63261",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b81e601c83dd3975",
+      "title": "Operations Manager - Education & Student Services",
+      "company": "London School of Excellence",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "London School of Excellence is looking for a highly organised and proactive Operations Manager to oversee our day-to-day education operations. The successful candidate will manage staff activity, student communication, application progress, university correspo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/london-school-of-excellence/operations-manager-education-student-services-london-257699",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fe2b816df3a2a543",
+      "title": "Product Designer",
+      "company": "The Flex",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Base360.ai , we believe running a short-term rental company should feel effortless. Our mission is ambitious: enable anyone to launch, operate and scale a short-term rental business on AI autopilot. Born from the technology powering The Flex, Base360 brings…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/the-flex/product-designer-london-42782",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "72d105e113346c08",
+      "title": "Field Service Engineer (ESS / PV) - France (South)",
+      "company": "Sungrow Europe - Welcome traveler!",
+      "employmentType": "Internship",
+      "location": {
+        "city": "France - remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission Bonjour et bienvenue à Sungrow! We’re seeking a skilled Field Service Engineer to join our vibrant team in the south part of France. In this role, you will become the primary point of contact for our valued customers, handling technical inquiries …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/sungrow-europe-welcome-traveler/remote-field-service-engineer-ess-pv-france-south-467419",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "961c030836c8dae6",
+      "title": "Junior Product Owner",
+      "company": "Erasys",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hybrid",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your journey ROMEO is the queer company behind the legendary ROMEO dating app, one of Europe’s longest-standing dating platforms for queer communities. We are looking for a Product Owner to join our Product team in Berlin and help shape how ideas and product r…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/erasys/junior-product-owner-hybrid-418921",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a0232298af473b75",
+      "title": "Manager, Field Engineering - Polish speaker",
+      "company": "databricks",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "FEQ427R475 As a Field Engineering Manager , you will lead, coach, and scale a high-performing team of technical pre-sales Solutions Architects and Solutions Engineers across Eastern Europe. Positioned at the intersection of complex cloud architecture and enter…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/databricks/manager-field-engineering-polish-speaker-zurich-419286",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "577224965712c2c6",
+      "title": "Senior Key Account Manager",
+      "company": "Xebiadach",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Zürich (plus travel activity in German-speaking Switzerland) Workload: 80–100% Xebia pushes the boundaries of what's possible – and you're right in the middle of it! We're not just consultants, but visionaries who, together with over 5,000 experts wo…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/xebiadach/senior-key-account-manager-176306",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d55e2595d6353ad4",
+      "title": "Elite Account Manager",
+      "company": "Xebiadach",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Zürich (plus travel activity in German-speaking Switzerland) Workload: 80–100% Xebia pushes the boundaries of what's possible – and you're right in the middle of it! We're not just consultants, but visionaries who, together with over 5,000 experts wo…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/xebiadach/elite-account-manager-464895",
+      "source": "Arbeitnow"
+    },
     {
       "id": "79889b8031c2a598",
       "title": "Product Manager, Performance AI",
