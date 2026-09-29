@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-28T22:02:45.086331+00:00",
+    "lastUpdated": "2026-09-29T01:59:00.901479+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,60 @@
     ]
   },
   "jobs": [
+    {
+      "id": "4d65efcf5ef05b88",
+      "title": "Senior Cloud Security Engineer - AI Resilience & Security Enhancements (Fixed-term contract)",
+      "company": "Form3",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "THE PROJECT 📝 We're looking for an experienced Senior Cloud Security Engineer to join Form3 on a 12 month fixed term contract basis to deliver a strategic programme of security enhancements across our cloud-native payments platform. Focusing on improving cloud…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/form3/senior-cloud-security-engineer-ai-resilience-security-enhancements-fixed-term-contract-450559",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "32e3dd5ee2fa21ec",
+      "title": "Security Engineer, Incident Response",
+      "company": "Twilio",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/twilio/security-engineer-incident-response-23554",
+      "source": "Arbeitnow"
+    },
     {
       "id": "70b97a0ad69232e7",
       "title": "Strategic Account Executive",
@@ -6198,6 +6252,364 @@
       },
       "summary": "Möchtest du flexibel arbeiten - ohne Pendelwege und in deinen eigenen vier Wänden? Wir bieten dir die Möglichkeit, als Testperson für Testees - eine der führenden Online-Marktforschungsplattformen deutschlandweit - tätig zu werden. Arbeite mit deinem eigenen R…",
       "applicationUrl": "https://www.arbeitnow.com/jobs/companies/winkler-company/testkunde-online-testkaufer-nebenjob-flexibel-von-zuhause-arbeiten-leipzig-356583",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ae9cfaa5156bc57e",
+      "title": "Product Manager (m/w/d) – Digital Wealth Management (apeiron)",
+      "company": "Ginmon GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Frankfurt",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über Uns Ginmon ist einer der führenden digitalen Vermögensverwalter in Deutschland. Seit der Gründung im Jahr 2014 in Frankfurt am Main verfolgt das Unternehmen die Mission, professionelles, wissenschaftlich fundiertes Vermögensmanagement einer breiten Zielgr…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ginmon-gmbh/product-manager-digital-wealth-management-apeiron-frankfurt-212864",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "190f7c0d3150092f",
+      "title": "Werkstudent Digital Marketing & Content Creation (m/w/d)",
+      "company": "Ginmon GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Frankfurt am Main",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du möchtest modernes Marketing mit smarten KI-Tools verbinden und das Wachstum eines innovativen FinTech-Unternehmens aktiv mitgestalten? Dann werde Teil unseres Teams und präge die Zukunft des digitalen Marketings in der WealthTech-Branche! Ginmon ist ein füh…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ginmon-gmbh/werkstudent-digital-marketing-content-creation-frankfurt-am-main-253207",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0276068f1749754c",
+      "title": "Working Student – Technical Onboarding (f/m/d) | B2B SaaS | Berlin (hybrid)",
+      "company": "Packmatic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We are digitalising one of Europe’s largest and most heavily regulated industries. The packaging industry has a market volume of several hundred billion euros and is under enormous pressure to act due to new regulations such as PPWR, EPR and EUDR. With Packa ,…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/packmatic/working-student-technical-onboarding-b2b-saas-berlin-hybrid-189274",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ba20be9ca58bf66f",
+      "title": "Systemadministrator (m/w/d)",
+      "company": "Webgo Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Herausforderungen bei uns... Technik-Hero: Du bist die erste Anlaufstelle für unserer Abteilungen bei komplexen technischen Anfragen der Kunden zu unseren Systemen und Anwendungen. Linux-Versteher: Du bewegst dich sicher auf der Linux-Konsole, um Logfile…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/webgo-gmbh/systemadministrator-hamburg-38242",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "610f1e6a8081159e",
+      "title": "Staff AI/ML Engineer (all)",
+      "company": "Xolife",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Healthcare",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are looking for We’re looking for a Staff AI/ML Engineer to take technical ownership of our AI/ML work end-to-end. You’ll work on complex AI/ML problems, lead projects from idea to implementation, and help shape how we build and scale AI across the comp…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/xolife/staff-ai-ml-engineer-all-berlin-491432",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8e7d20340df0f7aa",
+      "title": "Werkstudent im Bereich Legal / Compliance (d/m/w)",
+      "company": "Nyala",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ihre Aufgaben Bei NYALA begleitest Du die Weiterentwicklung unseres Angebots von juristischer Seite. Du lernst, regulatorische Anforderungen umzusetzen sowie zu diesen mit den Aufsichtsbehörden zu kommunizieren. Dabei wendest Du den bestehenden Rechtsrahmen au…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/nyala/werkstudent-im-bereich-legal-compliance-berlin-72178",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "488cb9fee9f95da0",
+      "title": "Cloud Platform Engineer (m/w/d)",
+      "company": "IP Dynamics GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Stuttgart",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ab sofort Das erwartet dich Wir bauen mit unserem Green-Field-Ansatz eine neue Cloud in unseren deutschen Rechenzentren auf — vollständig selbst gehostet, cloud-native und ohne Abhängigkeit von amerikanischen Hyperscalern. Jeder unserer Kunden erhält ein dediz…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ip-dynamics-gmbh/cloud-platform-engineer-stuttgart-323121",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "65a8553fb1c015bb",
+      "title": "Cloud Platform Engineer (m/w/d)",
+      "company": "IP Dynamics GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hannover",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ab sofort Das erwartet dich Wir bauen mit unserem Green-Field-Ansatz eine neue Cloud in unseren deutschen Rechenzentren auf — vollständig selbst gehostet, cloud-native und ohne Abhängigkeit von amerikanischen Hyperscalern. Jeder unserer Kunden erhält ein dediz…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ip-dynamics-gmbh/cloud-platform-engineer-hannover-283482",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c42465a9b1905020",
+      "title": "Senior-Projektleitung Wasserbau / Küsteningenieurwesen (m/w/d)",
+      "company": "Tractebel",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Gotenstraße",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was erwartet Sie? Eigenverantwortliche Leitung, Steuerung und Bearbeitung anspruchsvoller Projekte im Wasserbau, Küsteningenieurwesen sowie im Infrastruktur- und Ingenieurbau Fachliche und wirtschaftliche Gesamtverantwortung für Projekte hinsichtlich Qualität,…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tractebel/senior-projektleitung-wasserbau-kusteningenieurwesen-hamburg-gotenstrasse-97509",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "40f1404c78e2f26b",
+      "title": "Senior Business Development Manager (m/f/d) IndraMind",
+      "company": "Indra Avitech",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ihre Aufgaben Drive new business development for IndraMind’s AI & cybersecurity portfolio in Germany/the DACH region, with an initial focus on hunting, qualifying and converting new prospects Develop and maintain trusted relationships with key clients and deci…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/indra-avitech/senior-business-development-manager-indramind-koln-174136",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "89c4cb1cb60e81ce",
+      "title": "Privatassistenz / Chief of Staff (m/w/d)",
+      "company": "Goebel Hahn Consulting Personalvermittlung",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Um was es geht. Für einen unserer Hamburger Klienten sehen wir uns aktuell um. Hinter einem anspruchsvollen privaten Umfeld steht oft eine Person, der man vorbehaltlos vertrauen kann: jemand, der entlastet, mitdenkt und das Leben im Hintergrund so organisiert,…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/goebel-hahn-consulting-personalvermittlung/privatassistenz-chief-of-staff-hamburg-283612",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cfb646b7f81177e6",
+      "title": "Senior AI Data Engineer  (x/f/m)",
+      "company": "Doctolib",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your Impact We are looking for a Senior Data Engineer to join the AI Team working on our AI Medical Companion . Your mission will be to build and optimize the data foundations that power safe, scalable, and impactful AI models. You will work on data infrastruc…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-ai-data-engineer-paris-paris-394082",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d17f4de84f8a784c",
+      "title": "Post-Doctorant·e en Economie Digitale et Management des Plateformes Digitales - CDD 12 mois",
+      "company": "Institut Mines-Télécom",
+      "employmentType": "Internship",
+      "location": {
+        "city": "EVRY",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Présentation de l'Ecole : Grande Ecole de management de l’IMT-Institut Mines-Télécom, premier groupe d’écoles d’ingénieurs de France, Institut Mines-Télécom Business School est une Grande Ecole publique qui forme des managers et des entrepreneurs responsables,…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorante-en-economie-digitale-et-management-des-plateformes-digitales-cdd-12-mois-evry-428640",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d2777b1affdb6fcb",
+      "title": "Ingénieur Réseaux et Sécurité (H/F)",
+      "company": "Nomios",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Boulogne Billancourt",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-09-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Dans le cadre de notre développement, nous recherchons un(e) Ingénieur Réseaux & Sécurité Senior pour renforcer notre équipe d'experts. Vous intervenez auprès de nos clients sur des projets d'intégration, d'évolution et de sécurisation de leurs infrastructures…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/nomios/ingenieur-reseaux-et-securite-h-f-boulogne-billancourt-92050",
       "source": "Arbeitnow"
     },
     {
