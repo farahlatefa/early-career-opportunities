@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-02T22:58:39.233313+00:00",
+    "lastUpdated": "2026-10-03T01:59:21.386202+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,568 @@
     ]
   },
   "jobs": [
+    {
+      "id": "28be11117da597ea",
+      "title": "Technical Site Reliability Engineer",
+      "company": "Andurilindustries",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defe…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/technical-site-reliability-engineer-london-128076",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1e13bf2a724ed659",
+      "title": "Senior Financial Analyst - FP&A",
+      "company": "Andurilindustries",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defe…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-financial-analyst-fpa-london-20766",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0c4ce211820883b8",
+      "title": "Quality inspector",
+      "company": "Andurilindustries",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Sydney",
+        "region": null,
+        "country": "Australia",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defe…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/quality-inspector-sydney-australia-136998",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "370455caee614414",
+      "title": "Data Scientist (Electromagnetic Environment)",
+      "company": "84674Th44Metrea9999",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Overview Metrea delivers effects-as-a-service to national security partners across five domains and more than a dozen mission areas. These include airborne ISR, electronic warfare, secure communications, aerial refueling, special air missions, aerial f…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/84674th44metrea9999/data-scientist-electromagnetic-environment-london-314097",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c9a0a628af1017d6",
+      "title": "Staff Software Engineer, Runtime",
+      "company": "ionq",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Oxford",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About IonQ: IonQ, Inc . [NYSE: IONQ] is the world’s leading quantum platform and merchant supplier - delivering integrated quantum solutions across computing, networking, sensing, and security. IonQ’s newest generation of quantum computers, the IonQ Tempo, is …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ionq/staff-software-engineer-runtime-oxford-263421",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "26121fd5118823eb",
+      "title": "Staff Software Engineer, Non-Realtime Controllers",
+      "company": "ionq",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Oxford",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About IonQ: IonQ, Inc . [NYSE: IONQ] is the world’s leading quantum platform and merchant supplier - delivering integrated quantum solutions across computing, networking, sensing, and security. IonQ’s newest generation of quantum computers, the IonQ Tempo, is …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ionq/staff-software-engineer-non-realtime-controllers-oxford-298086",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "55da260666a131e8",
+      "title": "Software Engineer, Runtime",
+      "company": "ionq",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Oxford",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About IonQ: IonQ, Inc . [NYSE: IONQ] is the world’s leading quantum platform and merchant supplier - delivering integrated quantum solutions across computing, networking, sensing, and security. IonQ’s newest generation of quantum computers, the IonQ Tempo, is …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ionq/software-engineer-runtime-oxford-397451",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d87064b8a6bef639",
+      "title": "Senior Software Engineer, Non-Realtime Controllers",
+      "company": "ionq",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Oxford",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About IonQ: IonQ, Inc . [NYSE: IONQ] is the world’s leading quantum platform and merchant supplier - delivering integrated quantum solutions across computing, networking, sensing, and security. IonQ’s newest generation of quantum computers, the IonQ Tempo, is …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ionq/senior-software-engineer-non-realtime-controllers-oxford-71503",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9fadbd70a60b73d9",
+      "title": "Senior Quantum Physicist",
+      "company": "ionq",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Oxford",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About IonQ: IonQ, Inc . [NYSE: IONQ] is the world’s leading quantum platform and merchant supplier - delivering integrated quantum solutions across computing, networking, sensing, and security. IonQ’s newest generation of quantum computers, the IonQ Tempo, is …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ionq/senior-quantum-physicist-oxford-497022",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "21e1120f2b3c9dac",
+      "title": "Senior QPU Design Engineer",
+      "company": "ionq",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Oxford",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About IonQ: IonQ, Inc . [NYSE: IONQ] is the world’s leading quantum platform and merchant supplier - delivering integrated quantum solutions across computing, networking, sensing, and security. IonQ’s newest generation of quantum computers, the IonQ Tempo, is …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ionq/senior-qpu-design-engineer-oxford-158799",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8695b07d23778dcb",
+      "title": "Senior Optics Technician",
+      "company": "ionq",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Oxford",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About IonQ: IonQ, Inc . [NYSE: IONQ] is the world’s leading quantum platform and merchant supplier - delivering integrated quantum solutions across computing, networking, sensing, and security. IonQ’s newest generation of quantum computers, the IonQ Tempo, is …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ionq/senior-optics-technician-oxford-198862",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1e86f3ac45f30400",
+      "title": "Senior Materials Planner",
+      "company": "ionq",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Oxford",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Procurement",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About IonQ: IonQ, Inc . [NYSE: IONQ] is the world’s leading quantum platform and merchant supplier - delivering integrated quantum solutions across computing, networking, sensing, and security. IonQ’s newest generation of quantum computers, the IonQ Tempo, is …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ionq/senior-materials-planner-oxford-441830",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e9b9621f37aed17d",
+      "title": "Senior Front-End Engineer, Quantum Tools",
+      "company": "ionq",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Oxford",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About IonQ: IonQ, Inc . [NYSE: IONQ] is the world’s leading quantum platform and merchant supplier - delivering integrated quantum solutions across computing, networking, sensing, and security. IonQ’s newest generation of quantum computers, the IonQ Tempo, is …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ionq/senior-front-end-engineer-quantum-tools-oxford-195331",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8d9d88b7427a54b4",
+      "title": "Senior  FPGA Verification Engineer",
+      "company": "ionq",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Oxford",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About IonQ: IonQ, Inc . [NYSE: IONQ] is the world’s leading quantum platform and merchant supplier - delivering integrated quantum solutions across computing, networking, sensing, and security. IonQ’s newest generation of quantum computers, the IonQ Tempo, is …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ionq/senior-fpga-verification-engineer-oxford-11143",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "10a70820ba589551",
+      "title": "Senior Electronics Engineer",
+      "company": "ionq",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Oxford",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About IonQ: IonQ, Inc . [NYSE: IONQ] is the world’s leading quantum platform and merchant supplier - delivering integrated quantum solutions across computing, networking, sensing, and security. IonQ’s newest generation of quantum computers, the IonQ Tempo, is …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ionq/senior-electronics-engineer-oxford-410620",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "02c18f9509e2f9d4",
+      "title": "Customer Success Lead (Hybrid, London)",
+      "company": "Dualentry",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "UK (Hybrid)",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Operations",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About DualEntry DualEntry is building the OS for finance. Every business needs a financial system of record, yet the world's largest fintech market ($220B+) still runs on software from the 1990s. DualEntry's AI-native ERP automates accounting from data entry t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/dualentry/customer-success-lead-hybrid-london-119705",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0baf1a272d49c9d6",
+      "title": "Solutions Consultant (London, Hybrid)",
+      "company": "Dualentry",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "UK (Hybrid)",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About DualEntry DualEntry is building the OS for finance. Every business needs a financial system of record, yet the world's largest fintech market ($220B+) still runs on software from the 1990s. DualEntry's AI-native ERP automates accounting from data entry t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/dualentry/solutions-consultant-london-hybrid-338044",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fe378072efdffc71",
+      "title": "Junior Strategy & Operations - Outpost",
+      "company": "Outpost Technologies",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🌍 About Outpost Global expansion is broken. Without a local entity, conversion rates fall, costs rise, and compliance gets messy. Outpost fixes it. Selling internationally is a maze of tax, payments, and operational friction. Most brands avoid it or expand slo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/outpost-technologies/junior-strategy-operations-outpost-london-277122",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2e36852eaa345d52",
+      "title": "Senior Fraud Strategy Manager",
+      "company": "Zilch",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zilch UK",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are: We're one of Europe's fastest-growing fintech companies – on a mission to create the world's most empowering way to pay. We launched the product in 2020 and achieved double unicorn status, valued at $2 billion, and since then have taken on more tha…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/zilch/senior-fraud-strategy-manager-london-125383",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2cb817c5b10bed3b",
+      "title": "Sales Account Executive",
+      "company": "TransPerfect",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Sterling Technology , a subsidiary of TransPerfect , is the leading provider of premium virtual data room (VDR) solutions for the secure sharing of content, business process automation, and collaboration for the M&A, corporate development, real estate, capital…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/sales-account-executive-london-177272",
+      "source": "Arbeitnow"
+    },
     {
       "id": "4bba9bc78b4e6d98",
       "title": "Customer Success Associate",
@@ -9180,6 +9742,607 @@
       },
       "summary": "Über unseren Mandanten Daimler Buses ist ein Tochterunternehmen der Daimler Truck AG und gehört zu den weltweit führenden Busherstellern. Mit den Marken Mercedes-Benz, Setra, OMNIplus und BusStore verkauft das Unternehmen nicht nur Busse, sondern bietet auch d…",
       "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/edl-consulting/daimler-buses-teamleiter-ersatzteile-m-w-granges-paccot-fribourg-449612",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3cedfe59b0c0a152",
+      "title": "Senior Product Manager (Business Applications Development)",
+      "company": "jetbrains",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin; Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Policy / Government",
+        "Procurement",
+        "Sales / Business Development",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking to own the customer-facing experience for JetBrains products, from how individuals and organizations buy and manage software to how licensing and entitlements work behind the scenes? About JetBrains We create intelligent software development to…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/jetbrains/senior-product-manager-business-applications-development-berlin-munich-305759",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "33f8c12c607a2fd5",
+      "title": "Senior Lifecycle Marketing Manager (all genders)",
+      "company": "hellofresh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Berlin",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The role For our global Mature Customer Marketing team in Berlin, we are looking for a Lifecycle Marketing Manager to own the lifecycle strategy for one these topics: merchandising, or partnerships & retail media. The Mature Customer Marketing team sits within…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-lifecycle-marketing-manager-all-genders-berlin-berlin-164937",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "21457467065ff3dc",
+      "title": "Senior FSQA Manager - PHF (all genders)",
+      "company": "hellofresh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Berlin",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Policy / Government",
+        "Procurement",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About The Team: Are you passionate about building food safety standards and driving product quality? We are looking for someone with technical experience to drive food safety and quality compliance. Our Food Safety & Quality Assurance team is recruiting and we…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-fsqa-manager-phf-all-genders-berlin-berlin-328691",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a9be204e9790bcff",
+      "title": "Software Engineering Intern (2027 Start) - Berlin",
+      "company": "databricks",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Policy / Government",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "P-968 At Databricks, we are passionate about helping data teams solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/databricks/software-engineering-intern-2027-start-berlin-57480",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4c6bd808938b45fa",
+      "title": "Product Manager, New Grad (2026) - Berlin",
+      "company": "databricks",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "P-1453 At Databricks, we are passionate about helping data teams solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world'…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/databricks/product-manager-new-grad-2026-berlin-380039",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cb0f291f5200d2ff",
+      "title": "AI Trainers Network - Maltese",
+      "company": "Jobgether",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a AI Trainers Network - Maltese based in Germany. Join a global contributor network helping shape the next generation of artificial …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-trainers-network-maltese-germany-416538",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "50b03f91e7a27955",
+      "title": "IT Administrator – Working student (m/f/d) - Frankfurt am Main (hybrid)",
+      "company": "Lissi GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Frankfurt",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission Managing user accounts, access rights and on-/offboarding in tools such as Google Workspace, Slack and Atlassian (Jira, Confluence) Maintaining our inventory of hardware, software and licenses Supporting the implementation of security and complian…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lissi-gmbh/it-administrator-working-student-frankfurt-am-main-hybrid-111532",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fc18c6e63bb1dd0d",
+      "title": "Werkstudent im Projekt- und Accountmanagement (m/w/d) im Facility Management",
+      "company": "Es Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Präzise Datenpflege: Als versierter Datenjongleur (m/w/d) sorgst du für die akkurate Erfassung und Verwaltung von Kundendaten in unserem hochmodernen System. Angebots- und Rechnungswesen: Deine Fähigkeiten in der Angebots- und Rechnungserstellun…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/es-group/werkstudent-im-projekt-und-accountmanagement-im-facility-management-berlin-150670",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3b4b86125b6f553b",
+      "title": "Werkstudent (m/w/d) MarTech, Data & Analytics",
+      "company": "Es Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Zahlen, Tools und der Blick dahinter: Du machst sichtbar, was im Marketing wirkt. Du unterstützt beim Aufbau und bei der Pflege unserer Dashboards und unseres MarTech-Stacks, hältst Marketingdaten nachvollziehbar und unterstützt bei ersten KI-ge…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/es-group/werkstudent-martech-data-analytics-berlin-149545",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1ae0554ca99cf6a2",
+      "title": "Werkstudent (m/w/d) Marketing & Growth",
+      "company": "Es Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Hier dreht sich alles um eine Frage: Wie erreichen und gewinnen wir die richtigen Kunden? Du unterstützt dabei, relevante Unternehmen auf die Eberhardt Service Group aufmerksam zu machen, Interesse auf der Website und in Kampagnen zu entwickeln …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/es-group/werkstudent-marketing-growth-berlin-317112",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6494fa98c093e348",
+      "title": "Werkstudent (m/w/d) Brand & Employer Branding",
+      "company": "Es Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Eine Arbeitgebermarke von Grund auf mitgestalten, während sich das ganze Unternehmen neu aufstellt: Genau das machst du hier. Du arbeitest an der Schnittstelle von Marketing und HR/Talent Acquisition: Du machst über Social Recruiting und unsere …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/es-group/werkstudent-brand-employer-branding-berlin-329746",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "429221ecf5a4e238",
+      "title": "AI Innovation Engineer - IT Security (all genders)",
+      "company": "Revel8",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our mission We're on a mission to create 10 million human firewalls! At revel8, we redefine cybersecurity training with hyper-realistic simulations that reflect today's evolving attack landscape. Our innovative platform combines AI-driven multi-channel attacks…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/revel8/ai-innovation-engineer-it-security-all-genders-munich-158767",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ea582c2cc94db5b1",
+      "title": "Werkstudent Business Operations – Automation & AI (m/w/d)",
+      "company": "Talentspring Academy",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns – Talentspring Academy Group Über 6 Millionen Menschen in Deutschland haben keinen anerkannten Berufsabschluss. Gleichzeitig verändern Künstliche Intelligenz, Automatisierung und digitale Geschäftsmodelle ganze Branchen schneller, als das Bildungssyst…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/talentspring-academy/werkstudent-business-operations-automation-ai-berlin-171707",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "afad9f9b1b1c3d54",
+      "title": "Praktikant Business Building & AI Automation (m/w/d) – Digital Education mit Impact",
+      "company": "Talentspring Academy",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns – Talentspring Academy Group Was passiert, wenn Millionen Menschen nicht mithalten können – aber die Arbeitswelt längst weiterzieht? Über 6 Millionen Menschen in Deutschland verfügen über keinen anerkannten Berufsabschluss, während gleichzeitig ganze …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/talentspring-academy/praktikant-business-building-ai-automation-digital-education-mit-impact-berlin-108582",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1159092234fe38cc",
+      "title": "Chief of Staff to the CEO – Focus Finance (m/f/d)",
+      "company": "Impower",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-02",
+      "reportsTo": {
+        "name": null,
+        "title": "our CEO"
+      },
+      "summary": "Introduction At Impower GmbH, we are developing the future of property management – simple, fast, and digital. With a strong team of now around 90 employees and over 10,000 users, we are changing an industry whose processes are often still manual, complex, and…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/impower/chief-of-staff-to-the-ceo-focus-finance-munchen-460621",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a07cb47819c55dd6",
+      "title": "Senior Berater*in und Programm-Manager*in Kooperationen & Collective Impact (m/w/d)",
+      "company": "Phineo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Dein neuer Job Unsere Vision ist eine offene, nachhaltige und friedliche Gesellschaft, in der Gutes tun mit Wirkung das gemeinsame Handeln leitet. Um dazu unseren Beitrag zu leisten, haben wir PHINEO als gemeinnützige Plattform für strategisches gesellschaftli…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/phineo/senior-beraterin-und-programm-managerin-kooperationen-collective-impact-berlin-315501",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f2b1309f8bc4fba4",
+      "title": "Senior Data Analyst Backend E-commerce (f/m/d)",
+      "company": "Decathlontechnology",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Lille",
+        "region": null,
+        "country": "Nord",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Senior Data Analyst Backend E-commerce (f/m/d) Notre équipe Backend E-commerce recherche un·e Data Analyst (f/m/d) basé·e à Lille . PRÉSENTATION DE L'ÉQUIPE Rejoins une équipe dynamique de 15 passionné·es (développeur·euses, product owners, data engineers) au …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-data-analyst-backend-e-commerce-lille-upline-nord-192688",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "759c3071a666350d",
+      "title": "Senior AI Platform Engineer - Data Factory (f/m/d)",
+      "company": "Decathlontechnology",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Nord",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "L'équipe Data Platform recherche un·e Senior AI Platform Engineer basé·e·s à Lille/Paris. Au cœur de l’entité Decathlon Digital, nous recherchons un·e Senior AI Platform Engineer pour rejoindre les équipes Data Factory. Cette plateforme technologique, globale …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-ai-platform-engineer-data-factory-paris-paris-villeneuve-dascq-nord-330115",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8015d5d370a28473",
+      "title": "Expert Data Catalog (f/m/d)",
+      "company": "Decathlontechnology",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Villeneuve-d'Ascq",
+        "region": null,
+        "country": "Nord",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Product Manager Data Catalog Notre Center of Excellence Data & AI recherche un·e Product Manager basé·e à Lille. Chez Decathlon, nous croyons au pouvoir du sport pour unir et inspirer. Notre mission : rendre le sport accessible au plus grand nombre, partout da…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/expert-data-catalog-villeneuve-dascq-nord-234153",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4bb26bcce4845d6a",
+      "title": "AI engineer (AI & GenAI) - People Domain (f/m/d)",
+      "company": "Decathlontechnology",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Dans le cadre de l’ouverture d’un poste en CDI, nous recrutons un.e AI engineer (f/m/d) , basé-e à Paris. 🚀 CONTEXTE & ENJEUX STRATÉGIQUES Au sein de Decathlon Digital, l'équipe People Data engage une initiative majeure : transformer l'expérience de nos 100 00…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/ai-engineer-ai-genai-people-domain-paris-paris-229691",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cf918bdacbaa5866",
+      "title": "Growth Marketer",
+      "company": "Alan",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Anywhere in France",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alan/growth-marketer-anywhere-in-france-256472",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "32a5c54aec6532bb",
+      "title": "Senior Cloud Operations Engineer (all genders) CH",
+      "company": "BSI Software",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Homeoffice",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen bei der Digitalisierun…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-senior-cloud-operations-engineer-all-genders-ch-baar-329699",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "86660965ab003552",
+      "title": "(Senior) Manager (f/m/d) Finance & Accounting Advisory - US Markets",
+      "company": "Cfgigermany",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Schweiz (Zürich)",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Finance",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Key responsibilities You advise clients on the complex accounting and financial reporting matters that shape their most important decisions, including: Subject matter expertise: Serve as the firm's subject matter expert for US GAAP reporting and US-related tra…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/cfgigermany/senior-manager-finance-accounting-advisory-us-markets-schweiz-zurich-167224",
       "source": "Arbeitnow"
     },
     {
