@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-05T00:56:58.072637+00:00",
+    "lastUpdated": "2026-10-05T07:04:21.259949+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,608 @@
     ]
   },
   "jobs": [
+    {
+      "id": "24f7d29bd7ef181b",
+      "title": "Senior Conversion Design Analyst (f/m/d)",
+      "company": "Good Hood Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission We're looking for a Senior Conversion Design Analyst who is genuinely both things: a designer who digs into data, and an analyst who designs. You decide with evidence. You will frame real user problems based on qualitative and quantitative data, d…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/good-hood-gmbh/senior-conversion-design-analyst-berlin-232268",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "059ca8b0af136fdb",
+      "title": "AI & Automation Manager (m/w/d)",
+      "company": "P3 Security",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns Sicherheit ist unsere Mission. Dafür suchen wir Menschen, die Verantwortung übernehmen. In der P3 Security Unternehmensgruppe arbeiten Menschen, die jeden Tag dazu beitragen, die Welt ein Stück sicherer zu machen – im Werks- und Objektschutz, bei sens…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/p3-security/ai-automation-manager-munchen-165675",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2f778de16c8a67a1",
+      "title": "Werkstudent:in HR & KI Operations  (m/w/d)",
+      "company": "Talentsconnect",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Warum diese Rolle? Du willst HR nicht aus dem Lehrbuch lernen, sondern sehen, wie es gerade neu gebaut wird? Bei uns machst du beides: das Handwerk, also Onboarding, Verträge, Employee Lifecycle und die Frage, was davon in zwölf Monaten überhaup…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/talentsconnect/werkstudentin-hr-ki-operations-koln-241755",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6adb898c6af52d6f",
+      "title": "Sales Manager Neukunden Krankenhaussoftware Deutschland (m/w/d)",
+      "company": "Meierhofer",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unsere Standorte Wir suchen dich zur Verstärkung unseres Vertriebsteams an einem unserer Standorte in München, Berlin, Hannover, Leipzig, oder im Home Office Dein zukünftiges Team Wir begleiten Kliniken und Gesundheitseinrichtungen dabei, Prozesse zu digitalis…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/meierhofer/sales-manager-neukunden-krankenhaussoftware-deutschland-munchen-485935",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "aa356b553a62921f",
+      "title": "(Senior) Account Manager E-Health Deutschland (m/w/d)",
+      "company": "Meierhofer",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unsere Standorte Wir suchen dich zur Verstärkung unseres Vertriebsteams an einem unserer Standorte in Berlin, Hannover, Leipzig, München oder im Home Office Dein zukünftiges Team Du kennst die Entscheidungswege in Krankenhäusern und bringst Erfahrung im Vertri…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/meierhofer/senior-account-manager-e-health-deutschland-munchen-276880",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ca275f9317db9948",
+      "title": "Senior Product Manager, Wealth & AI (f/m/d)",
+      "company": "Getquin",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What we do At getquin, we're on a mission to empower everyone to build wealth. Founded in 2020, we started with a simple idea: help people see their entire financial life in one place, so they can make more informed decisions. Today, getquin has grown into one…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/getquin/senior-product-manager-wealth-ai-berlin-251131",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ed0cf2301a8ceffb",
+      "title": "Chief of Staff (m/w/d)",
+      "company": "Ocumeda Ag",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Rolle bei Ocumeda Als Chief of Staff (m/f/d) unterstützt den CEO dabei, strategische Ziele effizient zu erreichen und die Organisation in einem dynamischen Umfeld weiterzuentwickeln. Du trägst durch fundierte Analysen und strategische Entscheidungsgrundl…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ocumeda-ag/chief-of-staff-munchen-9658",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "39feb7bb233d6107",
+      "title": "Senior Campaign Analyst",
+      "company": "Justwatch",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are JustWatch delivers data-driven digital marketing for the global entertainment business. From the biggest blockbusters to award-winning shows, major sporting events, and best-selling console games. Not only are we entertainment obsessives ourselves, …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/justwatch/senior-campaign-analyst-berlin-370151",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "464ef3abb6a7a698",
+      "title": "IT Systemadministrator (m/w/d)",
+      "company": "ANGEHEUERT GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "📍 Berlin | Bezirk Lichtenberg | 2 Tage Home Office 💻 Microsoft 365 | Azure | Automatisierung | Digitalisierung Du möchtest als zentrale IT Ansprechperson die technische Infrastruktur eines Unternehmens gestalten, weiterentwickeln und automatisieren? Dann könnt…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/it-systemadministrator-berlin-398709",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7e5d8c7d0d97179d",
+      "title": "Senior Customer Success Manager (all genders)",
+      "company": "Foodji GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Als VC-backed Foodtech-Startup schaffen wir den Spagat zwischen gesunder Ernährung, Verfügbarkeit und Nachhaltigkeit. Mit unseren Foodjis bringen wir ultrafrische, leckere Gerichte genau dorthin, wo du die meiste Zeit verbringst – denn wir haben uns zum Ziel g…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-customer-success-manager-all-genders-munchen-451982",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d97932cea6dff660",
+      "title": "Senior Implementation Consultant – Marketing Technology (d/f/m)",
+      "company": "Brandleadership",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über die Stelle Für den weiteren Ausbau unseres jungen, engagierten und innovativen Teams suchen wir dich als Senior Implementation Consultant – Marketing Technology (d/f/m) Deine Aufgaben Deine zentralen Aufgaben in dieser Rolle umfassen Consulting, Requireme…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/brandleadership/senior-implementation-consultant-marketing-technology-hamburg-387201",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0370ab02dcd4851a",
+      "title": "Full Stack Product Developer (m/w/d)",
+      "company": "Tablemedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Aufgaben Du willst Technologie gestalten, die direkt etwas bewegt? Bei Table.Briefings entwickeln wir digitale Produkte für ein wachsendes Medienunternehmen. Unsere Software hilft dabei, Prozesse effizienter zu machen, neue Geschäftsmodelle zu ermöglichen und …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tablemedia/full-stack-product-developer-berlin-140031",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "99b3f130a2749341",
+      "title": "Senior Odoo Engineer ERP & E-Commerce (all genders)",
+      "company": "Valuenet Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Introduction Do you want to do more than just maintain an ERP system—do you want to help shape its future? As a Senior Odoo Engineer for ERP & E-Commerce (all genders), you’ll take responsibility for our Odoo platform—the system that powers sales, order proces…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/valuenet-group/senior-odoo-engineer-erp-e-commerce-all-genders-munchen-427454",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bad3b07233e2e776",
+      "title": "Working Student Marketing (all genders)",
+      "company": "Deskbird",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hybrid - Berlin",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission At deskbird, your work is visible from day one. As a working student, you get real projects and real ownership, and you learn how a fast-growing B2B SaaS company does marketing. We're a leading workplace management platform, backed by $23M Series …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/deskbird/working-student-marketing-all-genders-hybrid-berlin-germany-328760",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6623fdfaef1d3b21",
+      "title": "Senior Backend Engineer (f/m/d)",
+      "company": "Predium",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Opportunity Over the past three years, Predium has built the leading real estate intelligence platform for ESG and value management in the DACH region - with the strongest names in the industry as customers: asset managers, housing companies, banks. Our cu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/predium/senior-backend-engineer-munich-343507",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bc275f1d6e41a76f",
+      "title": "Associate Data Scientist (f/m/d)",
+      "company": "Predium",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Opportunity Over the past three years, Predium has built the leading real estate intelligence platform for ESG and value management in the DACH region - with the strongest names in the industry as customers: asset managers, housing companies, banks. Our cu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/predium/associate-data-scientist-munich-18247",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7da6a9688e3b8ffa",
+      "title": "(Senior) Account Executive - Software Sales (d/f/m)",
+      "company": "Vivenu",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Gestalte die Zukunft von Live-Entertainment-Tech Willkommen bei vivenu – dem globalen Vorreiter für Event-Ticketing-Technologie und einem der weltweit schnellst wachsenden Tech-Unternehmen im Live-Entertainment. Wir revolutionieren Ticketing für internationale…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/vivenu/senior-account-executive-software-sales-dusseldorf-185022",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bfd53e682faf0737",
+      "title": "Commercial Customer Success Manager",
+      "company": "incident.io",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A little about us incident.io is the AI software reliability platform trusted by engineering teams at Netflix, Etsy, and 2,000+ companies who can't afford downtime. The stakes are real, the talent is insane, and somehow it's a genuinely lovely place to work. W…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/incidentio/commercial-customer-success-manager-london-215215",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9349915139ce90bd",
+      "title": "Enterprise Customer Success Manager",
+      "company": "incident.io",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A little about us incident.io is the AI software reliability platform trusted by engineering teams at Netflix, Etsy, and 2,000+ companies who can't afford downtime. The stakes are real, the talent is insane, and somehow it's a genuinely lovely place to work. W…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/incidentio/enterprise-customer-success-manager-london-153456",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d2012dd8f4789060",
+      "title": "Junior Account Executive",
+      "company": "TransPerfect",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Sterling Technology , a subsidiary of TransPerfect , is the leading provider of premium virtual data room (VDR) solutions for the secure sharing of content, business process automation, and collaboration for the M&A, corporate development, real estate, capital…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/junior-account-executive-london-459157",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8ee647c50610d181",
+      "title": "Sterling Account Executive",
+      "company": "TransPerfect",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Manchester",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Sterling Technology , a subsidiary of TransPerfect , is the leading provider of premium virtual data room (VDR) solutions for the secure sharing of content, business process automation, and collaboration for the M&A, corporate development, real estate, capital…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/sterling-account-executive-manchester-76282",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "331e567597f147a4",
+      "title": "Sales Operations Analyst",
+      "company": "Metaview",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Metaview is an AI company focused on recruiting. We build AI agents that help world-class companies hire with radically more speed and precision. We automate the toil, and augment the human for companies like Brex, Affirm, Deel, and Navan. Founded by Siadhal a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/metaview/sales-operations-analyst-london-395746",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "97a5dd9349ed8d56",
+      "title": "Product Manager, Healthcare (H/F)",
+      "company": "Withings",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Issy-les-Moulineaux",
+        "region": null,
+        "country": "France",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Healthcare",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Withings est une entreprise française pionnière de la santé connectée. Depuis 2008, nous concevons des produits et services qui permettent à chacun de mieux comprendre sa santé et aux professionnels de santé de mieux accompagner leurs patients. Balances connec…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/withings/product-manager-healthcare-h-f-issy-les-moulineaux-335042",
+      "source": "Arbeitnow"
+    },
     {
       "id": "eea442312da4f14b",
       "title": "Customer Success Associate - Renewable Energy",
