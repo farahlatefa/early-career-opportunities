@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-05T22:38:56.314914+00:00",
+    "lastUpdated": "2026-10-06T02:59:38.521490+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,169 @@
     ]
   },
   "jobs": [
+    {
+      "id": "133705c91f1dbdbe",
+      "title": "Mitarbeiter/in Business Operations & Executive Support (m/w/d)",
+      "company": "INDEC GmbH & Co. KG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Lippstadt",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Geschäftsbetrieb und Executive Support bei INDEC INDEC gestaltet als IT-Dienstleister passgenaue Partnerschaften und Benchmarking-Innovationen. Für das Team in Lippstadt suchen wir eine Verstärkung für die administrative Steuerung und die direkte Assistenz der…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/indec-gmbh-co-kg/mitarbeiter-in-business-operations-executive-support-lippstadt-134271",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d30026aa71794b5a",
+      "title": "Senior Integration Engineer",
+      "company": "Baringa",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Data & Analytics",
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Baringa Baringa is a global consulting firm that partners with leaders to drive change and create value. With deep industry expertise, and enabled by advanced technology, the firm helps clients to deliver with greater confidence and certainty. With over …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/baringa/remote-senior-integration-engineer-353808",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e04259bf421c56fa",
+      "title": "Quality Assurance Associate",
+      "company": "Delta Capita",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Glasgow",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Quality Assurance Associate Glasgow About the Role We are seeking a Quality Assurance Associate to support the delivery of high-quality customer due diligence and enhanced due diligence reviews. This role is responsible for conducting independent quality asses…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/delta-capita/quality-assurance-associate-glasgow-239678",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a6f0fb2d93b9bf54",
+      "title": "Talent Engagement Specialist - Partner / Contractor Associate Workforce",
+      "company": "Opencast",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Hybrid - Newcastle",
+        "region": null,
+        "country": "London",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ready for a new challenge? Are you looking for work that makes a difference? Do you want to work with people who learn and grow together? If so, Opencast could be the place for you. Opencast is a purpose-driven digital and technology consultancy, making life b…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/opencast/talent-engagement-specialist-partner-contractor-associate-workforce-hybrid-newcastle-edinburgh-glasgow-leeds-manchester-birmingham-bristol-7498",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "022f1a5a069e7af3",
+      "title": "STAGE - Junior Fullstack Engineer - Jobexit",
+      "company": "Doctrine",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Notre mission ⚖️ Chez Doctrine, nous construisons le leader de l’IA juridique en Europe. Notre conviction ? Le droit ne doit pas être ralenti par des tâches répétitives. Il doit être augmenté par une IA spécialisée, conçue pour comprendre, analyser et produire…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-fullstack-engineer-jobexit-paris-140565",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "10f21aba574b1fe1",
+      "title": "Web Developer",
+      "company": "Novaspace",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you passionate about web development, digital products, and the space sector? Would you like to expand your technical expertise while contributing to an innovative and rapidly evolving industry? Joining Novaspace means becoming part of a fast-growing inter…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/novaspace/web-developer-paris-france-149922",
+      "source": "Arbeitnow"
+    },
     {
       "id": "24f7d29bd7ef181b",
       "title": "Senior Conversion Design Analyst (f/m/d)",
@@ -4518,6 +4681,545 @@
       },
       "summary": "Join Our Team We are the Audi Revolut F1® Team. Audi Revolut F1 Team is the official factory team of Audi, as the brand enters the FIA Formula 1 World Championship for the first time in 2026. The team is based in three locations: the power unit is developed by…",
       "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/audif1/senior-supplier-quality-development-specialist-hinwil-switzerland-366041",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d98601cd47d3ce96",
+      "title": "Forward Deployed Inference Engineer",
+      "company": "Tensordyne",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Tensordyne Tensordyne is building a new class of AI inference system designed for high-performance, power-efficient deployment of the world's most demanding generative AI workloads. Our platform combines purpose-built silicon, new AI math, optimized scal…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tensordyne/forward-deployed-inference-engineer-munich-481912",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cb37624ea9fd46f9",
+      "title": "Recruiter / Talent Acquisition Manager (m/w/d)",
+      "company": "Hypertrics GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Homeoffice",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Recruiter / Talent Acquisition Manager (m/w/d) Standort: Essen | Vollzeit | Unbefristet Hypertrics ist eine wachstumsstarke HR-Tech-Plattform mit Sitz in Essen, die mittelständische Unternehmen und Konzerne bei der zielgerichteten, nachhaltigen Besetzung offen…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/remote-recruiter-talent-acquisition-manager-essen-234319",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4ff2eadb190eeac5",
+      "title": "Service Delivery Manager - Airline Industry Experience is a Must",
+      "company": "Mullers Solutions 1",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": "clients and management"
+      },
+      "summary": "Müller’s Solutions is a leading technology and consulting company delivering innovative IT solutions and professional services across the EMEA region. We work with organizations to support digital transformation, IT modernization, and high-quality technology s…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/mullers-solutions-1/service-delivery-manager-airline-industry-experience-is-a-must-berlin-40322",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e683ddd79d47cf82",
+      "title": "Werkstudent:in Wholesale (m/f/d) - 16h-20h/Woche",
+      "company": "Horizn Studios",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Allgemein In deiner Rolle als Werkstudent:in Wholesale (m/w/d) wirst du ein wichtiger Teil unseres Wholesales Teams und unterstützt uns bei einer Vielzahl spannender und herausfordernder Aufgaben im Austausch mit unseren Kunden, im Projektmanagement und an der…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/horizn-studios/werkstudentin-wholesale-16h-20h-woche-berlin-9170",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c2172b969074d49d",
+      "title": "(Senior) Sales Manager:in Wholesale & B2B (m/f/d) – 40h/week",
+      "company": "Horizn Studios",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Procurement",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "General Description As (Senior) Sales Manager Wholesale & B2B , you are a key pillar of our sales team and responsible for establishing and expanding our wholesale and B2B partnerships. You independently manage a portfolio of national and international key acc…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/horizn-studios/senior-sales-managerin-wholesale-b2b-40h-week-berlin-35827",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3c8de960937a67cf",
+      "title": "Werkstudent Talent Acquisition (m/w/d)",
+      "company": "Aampere",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über Aampere Werde Teil von Aampere , einem Seed-Stage VC-backed Startup, das den europäischen Markt für gebrauchte E-Autos neu definiert . Seit unserem Launch ermöglichen wir EV-Besitzern einen schnellen & reibungslosen Verkauf innerhalb von 48h. Kaufende Hän…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/aampere/werkstudent-talent-acquisition-munchen-127830",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b4dfbf7430a2b609",
+      "title": "Business Operations Werkstudent (m/w/d)",
+      "company": "Aampere",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über Aampere Werde Teil von Aampere, einem Seed-Stage VC-backed Startup, das den europäischen Markt für gebrauchte E-Autos neu definiert. Wir ermöglichen es EV-Besitzer:innen, ihr Fahrzeug innerhalb von 48 Stunden zu verkaufen, und verschaffen Händlern in ganz…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/aampere/business-operations-werkstudent-munchen-39771",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a18469b1b1d7db2e",
+      "title": "Senior Fullstack Developer – Business Automation (m/w/d)",
+      "company": "Metergrid",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Wir verantworten u.a. das zentrale CRM HubSpot, über das alle Prozesse unserer Wertschöpfungskette laufen. Interne Software-Produkte integrieren sich genauso in unsere CRM-Infrastruktur wie spezifische Apps, z.B. zur Terminbuchung bei einer Kund…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/metergrid/senior-fullstack-developer-business-automation-hamburg-59608",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "43fd6a8140765131",
+      "title": "Junior Fullstack Developer (m/w/d)",
+      "company": "Metergrid",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Du wirst Teil des Teams, das die Software baut, die ein Mieterstromprojekt von der ersten Anfrage bis zum laufenden Betrieb begleitet. Das Team wächst gerade in zwei Bereichen: Go-to-Market: Von der ersten Anfrage bis zum unterschriebenen Projek…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/metergrid/junior-fullstack-developer-hamburg-27740",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8dee49358290fa6f",
+      "title": "Fullstack Developer (m/w/d)",
+      "company": "Metergrid",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Du wirst Teil des Teams, das die Software baut, die ein Mieterstromprojekt von der ersten Anfrage bis zum laufenden Betrieb begleitet. Das Team wächst gerade in zwei Bereichen: Go-to-Market: Von der ersten Anfrage bis zum unterschriebenen Projek…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/metergrid/fullstack-developer-hamburg-387687",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4a72d8cc5e6fd8d4",
+      "title": "AI Program Manager (w/m/d)",
+      "company": "Timetoact Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg Schellerdamm",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Werde Teil unseres Teams! Wofür wir dich suchen Als AI Program Manager (w/m/d) übernimmst du eine neu geschaffene Position und verantwortest den internen Einsatz von Künstlicher Intelligenz bei catworkx, von der Ausrichtung über die Identifikation von Potenzia…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/timetoact-group/remote-ai-program-manager-hamburg-schellerdamm-147992",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "15e8693838f8efc4",
+      "title": "(Senior) Performance Consultant (m/w/d) - Paid Social",
+      "company": "LOBECO ...",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Dein Mission Du schaust dir Ads im Feed genauer an als die meisten Menschen, und bei Suchanzeigen oder Display-Kampagnen geht es dir genauso? Du weißt, wann ein Euro bei Meta besser angelegt ist als bei Google oder in einer programmatischen Buchung? Dann sollt…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lobeco/senior-performance-consultant-paid-social-munchen-140697",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cc78551306526c81",
+      "title": "Senior Area Sales Manager (Hamburg Ost) | Food Startup (m/w/d)",
+      "company": "Ahead Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "YOU & AHEAD Bist du ein Verkaufstalent, das keine Angst davor hat, auf neue Leute zuzugehen und Beziehungen aufzubauen? Du kennst dich im Lebensmitteleinzelhandel bestens aus und liebst den Nervenkitzel, neue Kunden zu gewinnen? Wenn das nach dir klingt, bist …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ahead-gmbh/senior-area-sales-manager-hamburg-ost-food-startup-hamburg-office-303399",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d04d59843b6ad550",
+      "title": "E-Commerce Campaign Manager (All Genders)",
+      "company": "Ahead Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "YOU & AHEAD At ahead, we’re on a mission to clean up the world’s candy drawers. We create the snacks people genuinely crave, from chocolate bars and wafers to cookies, gummies, and protein bars, with up to 90% less sugar and no compromise on taste. As our E-Co…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ahead-gmbh/e-commerce-campaign-manager-all-genders-hamburg-office-80721",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3a34a7519ff64e9a",
+      "title": "Staff Software Engineer",
+      "company": "Liftoff",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across programmatic and direct dem…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/liftoff/staff-software-engineer-london-478724",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1342cc833ea7528a",
+      "title": "Senior Account Manager",
+      "company": "Liftoff",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across programmatic and direct dem…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/liftoff/senior-account-manager-london-109333",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6b875637b5228937",
+      "title": "Software Engineer (Elite Motorsport)",
+      "company": "Catapult Sports",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Software Engineer (Motorsport) DO YOU WANT TO WORK FOR THE WORLD LEADER IN ELITE SPORTS PERFORMANCE ANALYTICS? Catapult is a world leader in sports performance technology, serving over 5,000 teams across 40 sports. We improve many of your favorite athletes' pe…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/catapult-sports/software-engineer-elite-motorsport-london-102315",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a470599f2a0380eb",
+      "title": "Research Scientist - 3D Reconstruction & Novel View Synthesis",
+      "company": "Spaitial",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "SpAItial is pioneering the next generation of World Models, pushing the boundaries of generative AI, computer vision, and the simulation of reality. We are moving beyond 2D pixels to build models that natively understand the physics and geometry of our world. …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/spaitial/research-scientist-3d-reconstruction-novel-view-synthesis-london-416094",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "18a26455216655a6",
+      "title": "Research Engineer - 3D Reconstruction",
+      "company": "Spaitial",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "SpAItial is pioneering the next generation of World Models, pushing the boundaries of generative AI, computer vision, and the simulation of reality. We are moving beyond 2D pixels to build models that natively understand the physics and geometry of our world. …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/spaitial/research-engineer-3d-reconstruction-london-21178",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d0a7748099afa2a0",
+      "title": "Staff AI Engineer - Architecture skills",
+      "company": "shifttechnology",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Shift delivers AI agents that transform insurers' most critical work. By combining deep industry expertise and unmatched data resources, Shift provides proven results that have earned the trust of hundreds of the world's leading insurers. Our insurance-grade A…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/staff-ai-engineer-architecture-skills-488816",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8ba16ab3659f90c6",
+      "title": "Ingenieur:in Maschinenbau (m/w/d) 80-100%",
+      "company": "cross-ING AG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Langnau im Emmental",
+        "region": null,
+        "country": "Schweiz",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Im Auftrag eines innovativen und international tätigen Unternehmens im Werkzeugmaschinenbau suchen wir für den Standort in Langnau im Emmental zum nächstmöglichen Zeitpunkt eine:n Entwicklungsingenieur*in Konstruktion 100% Ihre Aufgaben Konzipieren und Auslege…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/ingenieurin-maschinenbau-80-100-langnau-im-emmental-24040",
       "source": "Arbeitnow"
     },
     {
