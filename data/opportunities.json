@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-07T01:33:37.133540+00:00",
+    "lastUpdated": "2026-10-07T08:41:26.492224+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,2526 @@
     ]
   },
   "jobs": [
+    {
+      "id": "3a647a4fc8e20b55",
+      "title": "Initiative application (m/f/x)",
+      "company": "Nitrado (marbis GmbH)",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Einleitung There is no vacant position suitable for you at the moment? We are always looking for motivated and creative people who are passionate about their job. Does this apply to you? Then send us an initiative application! Your mission You can expect excit…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/nitrado-marbis-gmbh/initiative-application-berlin-50481",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e909d8e55ba24ebd",
+      "title": "Account Manager (m/w/d)",
+      "company": "Swisio GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Gestalte mit uns die Zukunft der Schichtplanung im Gesundheitswesen Du möchtest mit deiner Arbeit wirklich etwas bewegen? Bei Swisio entwickeln wir eine der führenden SaaS-Cloud-Lösungen für Workforce Management, Dienst- und Personalplanung – und helfen Kranke…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/swisio-gmbh/account-manager-berlin-322668",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f88f58da796302f9",
+      "title": "Procurement Manager",
+      "company": "Eberhardt Service Group GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations",
+        "Procurement",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Eberhardt Service Group GmbH Eberhardt Service Group GmbH provides modern, professional, and innovative facility services from Berlin, covering property management, building cleaning, winter maintenance, and facility management for enhanced comfort and w…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/eberhardt-service-group-gmbh/procurement-manager-berlin-395532",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0a7008b3a5faa37a",
+      "title": "Systemadministrator (w/m/d)",
+      "company": "EVYTRA GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Villingen-Schwenningen",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Sie möchten die Zukunft eines innovativen Technologieunternehmens aktiv mitgestalten? EVYTRA GmbH – ehemals FELA GmbH – steht seit 1969 für Innovation, Präzision und Qualität. Mit rund 100 Mitarbeitenden entwickeln und produzieren wir innovative Eingabesysteme…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/evytra-gmbh/systemadministrator-villingen-schwenningen-431159",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0a5504b6c8f2dd13",
+      "title": "Teamleiter (m/w/d) Mechaniker in der Pharmaproduktion",
+      "company": "simtrabps",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Halle",
+        "region": null,
+        "country": "North Rhine-Westphalia",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Simtra ist ein erstklassiges Auftragsentwicklungs- & Herstellungsunternehmen, welches seit über 65 Jahren in Zusammenarbeit mit mehr als 60 internationalen Kunden weltweit sterile, injizierbare Arzneimittel auf den Markt bringt. Unser Hauptaugenmerk liegt hier…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/simtrabps/teamleiter-mechaniker-in-der-pharmaproduktion-halle-north-rhine-westphalia-44859",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "af045eaed2c676a4",
+      "title": "Senior Product Manager (f/m/d)",
+      "company": "idnow",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Bavaria",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "IDnow is a leader in digital identity and fraud prevention in Europe with a mission to transform trust into the most powerful asset in the digital world, empowering enterprises with AI-driven, SaaS-based identity solutions that deliver scalable security, adapt…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/idnow/senior-product-manager-berlin-berlin-munchen-bavaria-56562",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a3dca130e474d9e4",
+      "title": "Talent Acquisition Specialist",
+      "company": "Pergolux",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin | Global Team",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "As our Talent Acquisition Specialist (m/w/d), you will take the lead in identifying, approaching, and engaging top talent across every function of our global business. You will own your talent pipeline end-to-end, partnering directly with hiring managers to so…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pergolux/talent-acquisition-specialist-berlin-477499",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "000f2c6f342d58da",
+      "title": "Werkstudent:in – Talent Acquisition (m/w/d)",
+      "company": "Pergolux",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin | Global Team",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Als Werkstudent:in im Bereich Talent Acquisition übernimmst du echte Verantwortung bei der Identifikation und Ansprache von Führungskräften und begleitest Kandidat:innen entlang des gesamten Recruiting-Prozesses. Du unterstützt unser Executive Recruiting für D…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pergolux/werkstudentin-talent-acquisition-berlin-341739",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "51b5f39e022619c2",
+      "title": "AI Onboarding Specialist",
+      "company": "Almetra",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What you’ll do Own onboarding outcomes against success metrics and customer KPIs (quality, reliability, time-to-value) Execute the initial onboarding cycle using internal tools, then revisit and iterate to improve quality as new data and edge cases appear Vali…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/almetra/ai-onboarding-specialist-berlin-10134",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b98e93027856cc20",
+      "title": "Fachkraft für Arbeitssicherheit (m/w/d)",
+      "company": "Rohrleitungsbau Münster GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hanover",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über die Stelle Für unsere Betriebsstätten in Niedersachsen besetzen wir die Stelle als Sicherheitsfachkraft mit Dienstsitz in Hannover-Laatzen . Sicherheit ist auf unseren Baustellen und in den Betriebsstätten keine Option, sondern ein Eckpfeiler unseres Erfo…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/rohrleitungsbau-munster-gmbh/fachkraft-fur-arbeitssicherheit-hanover-425959",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "88d36e7f08191238",
+      "title": "Senior Projektmanager:in Beiersdorf (Schweiz) - Social Media & Influencer Marketing (gn)",
+      "company": "Intermate Media GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Jobbeschreibung Intermate x SAMY – Shaping the State of Social Intermate gehört zu den größten Social-Media- und Influencer-Agenturen im DACH-Raum. Mit mehr als 250 Mates in Berlin, Hamburg, Köln und Remote entwickeln wir Social-First-Strategien, produzieren C…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/senior-projektmanagerin-beiersdorf-schweiz-social-media-influencer-marketing-gn-berlin-71067",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "76a66ec51fbe32d7",
+      "title": "Senior Projektmanager:in Beiersdorf (Österreich) - Social Media & Influencer Marketing (gn)",
+      "company": "Intermate Media GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Jobbeschreibung Intermate x SAMY – Shaping the State of Social Intermate gehört zu den größten Social-Media- und Influencer-Agenturen im DACH-Raum. Mit mehr als 250 Mates in Berlin, Hamburg, Köln und Remote entwickeln wir Social-First-Strategien, produzieren C…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/senior-projektmanagerin-beiersdorf-osterreich-social-media-influencer-marketing-gn-berlin-73884",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e37f7d2934857470",
+      "title": "Senior Technical Product Specialist (m/w/d)",
+      "company": "CUREosity GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über CUREosity CUREosity ist ein innovatives Med-Tech-Startup aus Düsseldorf, das die Gesundheitsbranche mit Virtual-Reality-Therapien revolutioniert. Unsere mehrfach ausgezeichneten Lösungen verbessern die Rehabilitation für Patient*innen weltweit. Du möchtes…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cureosity-gmbh/senior-technical-product-specialist-dusseldorf-33765",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0e50d009ca7b449b",
+      "title": "Buchhalter / Accountant (m/w/d)",
+      "company": "FCF Fox Corporate Finance GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was sind Deine Aufgaben Unterstützung bei der laufenden Kreditoren- und Debitorenbuchhaltung im Unternehmen. Bearbeitung interner Kreditkartenabrechnungen (u.a. via Pleo); Sicherstellung der vollständigen Belege sowie Weiterberechnung kundenbezogener Auslagen.…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/fcf-fox-corporate-finance-gmbh/buchhalter-accountant-munich-159538",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d96d6e3813acbdde",
+      "title": "IT-Systemadministrator (m/w/d) – Infrastruktur & IT-Sicherheit  / Teilzeit (20 Std./Woche)",
+      "company": "CUREosity GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über CUREosity CUREosity ist ein innovatives Med-Tech-Startup aus Düsseldorf, das die Gesundheitsbranche mit Virtual-Reality-Therapien revolutioniert. Unsere mehrfach ausgezeichneten Lösungen verbessern die Rehabilitation für Patient*innen weltweit. Damit wir …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cureosity-gmbh/it-systemadministrator-infrastruktur-it-sicherheit-teilzeit-20-std-woche-dusseldorf-465970",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bf176668a8aafa70",
+      "title": "Steuerberater (m/w/d) in Passau",
+      "company": "Dr. Kittl & Partner",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Passau",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Warum du bei uns genau richtig bist?! WORK LIFE BALANCE flexible Arbeitszeiten & mobile Arbeitsplatzgestaltung sowie Home-Office Optionen attraktives Büro in zentraler, verkehrsgünstiger Lage Top-Büroausstattung (z.B. höhenverstellbare Schreibtische) moderne I…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/dr-kittl-partner/steuerberater-in-passau-283484",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1e1183a6a17826ee",
+      "title": "Projektmanager Defence (m/w/d)",
+      "company": "Göhler GmbH & Co. KG, Anlagentechnik",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hösbach",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Jobbeschreibung Sie suchen eine neue Herausforderung und würden mit uns gerne ein neues Geschäftsfeld aufbauen? Das Projektmanagement reizt Sie von der Akquise bis hin zur Umsetzung? Mit Ihrem technischen Verständnis, Ihrer Beratungskompetenz und Ihrem sensibl…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/gohler-gmbh-co-kg-anlagentechnik/projektmanager-defence-hosbach-54198",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1b74a956808cc28a",
+      "title": "Creative Concept/Copy (Social) (gn)",
+      "company": "Intermate Media GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Jobbeschreibung Intermate x SAMY – Shaping the State of Social Intermate gehört zu den größten Social-Media- und Influencer-Agenturen im DACH-Raum. Mit mehr als 250 Mates in Berlin, Hamburg, Köln und Remote entwickeln wir Social-First-Strategien, produzieren C…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/creative-concept-copy-social-gn-berlin-386688",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6df7c9ed201062d6",
+      "title": "Werkstudent Sales - 100% Remote (m/w/d)",
+      "company": "Digistore24",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hanover",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Jobbeschreibung Du studierst und willst nicht nur Theorie pauken, sondern echte Vertriebspraxis sammeln? Bei Digistore24 arbeitest du direkt im Sales-Team, qualifizierst Leads, unterstützt Outbound-Kampagnen und lernst von erfahrenen Account Executives, wie mo…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/digistore24/werkstudent-sales-100-remote-hanover-431921",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "87d5c6a490f52dda",
+      "title": "Finanzbuchhalter*in / Accounting Manager*in (m/w/d)",
+      "company": "Amperecloud GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Jobbeschreibung Du willst die Zukunft erneuerbarer Energien mitgestalten? Bei uns zählen deine Ideen! Wir entwickeln das Betriebssystem für die erneuerbaren Energien und machen das Management entsprechender Anlagen mit Amperecloud Platform einfacher – für eine…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/amperecloud-gmbh/finanzbuchhalterin-accounting-managerin-berlin-397653",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1efc2e7e5b05fd09",
+      "title": "Senior Social Media Grafiker:in (gn)",
+      "company": "Intermate Media GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Jobbeschreibung Intermate x SAMY – Shaping the State of Social Intermate gehört zu den größten Social-Media- und Influencer-Agenturen im DACH-Raum. Mit mehr als 250 Mates in Berlin, Hamburg, Köln und Remote entwickeln wir Social-First-Strategien, produzieren C…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/senior-social-media-grafikerin-gn-berlin-384318",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ba20b51c839dadab",
+      "title": "Medientechniker (TikTok Shop & Livestreaming) (m/f/d)",
+      "company": "GENUINE Beauty GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission TikTok Shop verändert gerade, wie Menschen online einkaufen – und du kannst von Anfang an mit dabei sein. GENUINE ist einer der führenden TikTok-Shop-Partner in Deutschland, und wir suchen einen Production Assistant für unseren Standort in Köln. W…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/genuine-beauty-gmbh/medientechniker-tiktok-shop-livestreaming-cologne-154191",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ddc11f9866aa239d",
+      "title": "Finance & Operations Manager (m/f/d)",
+      "company": "GENUINE Beauty GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission Als Finance Manager bist du verantwortlich für das operative Finanzmanagement unserer deutschen Gesellschaften und arbeitest eng mit unserem internationalen Finance-Team sowie externen Steuerberatern zusammen. Zu deinen Aufgaben gehören insbesonde…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/genuine-beauty-gmbh/finance-operations-manager-cologne-414206",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1f03ff51f58651b9",
+      "title": "Creator Manager TikTok Shop - DACH (m/f/d)",
+      "company": "GENUINE Beauty GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission Wir suchen dich! TikTok Shop verändert gerade, wie Menschen online einkaufen – und du kannst von Anfang an mit dabei sein. GENUINE ist einer der führenden TikTok-Shop-Partner in Deutschland, und wir suchen einen Creator Manager (m/w/d) für unseren…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/genuine-beauty-gmbh/creator-manager-tiktok-shop-dach-cologne-18503",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "93d7b29361e3f0a5",
+      "title": "Customer Service Specialist (d/w/m)",
+      "company": "SpotmyEnergy GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Mission Als Customer Service Specialist (d/w/m) bist Du die erste Anlaufstelle für unsere Kund:innen rund um SmartMetro, SmartDynamo und SmartRobo – und sorgst dafür, dass aus einer Anfrage eine gute Erfahrung wird. Du bearbeitest telefonische und schrif…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/spotmyenergy-gmbh/customer-service-specialist-cologne-326509",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "591c10d48f9316fa",
+      "title": "Kaufmännische Assistenz der Geschäftsführung (m/w/d) – Finanzbuchhaltung & Controlling",
+      "company": "Weissenberg Group GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Aufgabengebiet Wir suchen Dich als Kaufmännische Assistenz der Geschäftsführung mit Schwerpunkt Finance & Controlling (m/w/d) . In dieser vielseitigen Rolle unterstützt Du unsere Geschäftsführung im operativen Tagesgeschäft und übernimmst gleichzeitig verantwo…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/weissenberg-group-gmbh/kaufmannische-assistenz-der-geschaftsfuhrung-finanzbuchhaltung-controlling-dusseldorf-332905",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e9f868c5bc37ed56",
+      "title": "Junior Consultant IT-Projektmanagement - Schwerpunkt Requirements Engineering/ Business Analyse*",
+      "company": "Haeger Consulting GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Bonn",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was dich erwartet Du interessierst dich für IT, Softwareentwicklung und innovative Projekte? Als Junior Consultant baust du ein solides Grundlagenwissen im Bereich Business Analyse auf und lernst wichtige Methoden und Vorgehensmodelle kennen. Nach Abschluss de…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/haeger-consulting-gmbh/junior-consultant-it-projektmanagement-schwerpunkt-requirements-engineering-business-analyse-bonn-145893",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "706ab7249d902c7f",
+      "title": "Junior Consultant Softwareentwicklung – Java, Spring*",
+      "company": "Haeger Consulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bonn",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was dich erwartet Onboarding & Grundlagen: Du vertiefst systematisch deine Kenntnisse in Java und Spring und entwickelst dich Schritt für Schritt zum professionellen Softwareentwickler weiter. Im Rahmen unseres Traineeprogramms machen wir dich gezielt fit für …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/haeger-consulting-gmbh/junior-consultant-softwareentwicklung-java-spring-bonn-363318",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "62614a6e12c42152",
+      "title": "Product Owner (m/w/d)",
+      "company": "Interlead GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was wir suchen Jedes Unternehmen braucht laufend neue Kunden – und genau dieses Problem lösen wir. Mit Interlead bauen die wir #1 Plattform für Leads, Termine und Aufträge und machen die Kundengewinnung für unsere Partner damit einfacher, transparenter und pla…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/interlead-gmbh/product-owner-berlin-72733",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c2d5f6a7b5a49c84",
+      "title": "Mid/Senior Full-Stack-Developer (w/m/d) Deutsch Level C1",
+      "company": "Buchner & Partner GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Kiel",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Darum geht's: Wir brennen darauf, für unsere Kunden innovative Lösungen zu entwickeln! Du brennst für Technik? Und du haust mit deinem Fachwissen alle um? Neue Herausforderungen in einer spannenden Branche reizen Dich? Das ist Dein Arbeitsfeld: Entwicklung und…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/buchner-partner-gmbh/mid-senior-full-stack-developer-deutsch-level-c1-kiel-131486",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "46a77f7f38b6de1b",
+      "title": "Materialprüfer / NDT-Experte (m/w/d)",
+      "company": "Bridgemaker GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Rostock",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über die Position Wir suchen für next-ray by Oehm & Rehbein einen Materialprüfer / NDT-Experten (m/w/d). Du arbeitest an digitalen Röntgensystemen, begleitest Kunden bei Inbetriebnahme, Schulung und Support und bringst deine Erfahrung in der zerstörungsfreien …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/bridgemaker-gmbh/materialprufer-ndt-experte-rostock-284548",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "df9424b0dcc21705",
+      "title": "Manager Einkaufstransformation (w/m/d)",
+      "company": "Kloepfel Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was kommt auf Dich zu? Aufbau und Weiterentwicklung des Bereichs Einkaufstransformation bei Kloepfel Entwicklung und Umsetzung von Einkaufsstrategien, -prozessen, -organisationen und der digitalen Transformation für unsere Kunden Eigenständige Durchführung und…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/kloepfel-group/manager-einkaufstransformation-dusseldorf-167657",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "934abf3d74d98629",
+      "title": "Growth Intelligence & AI Analyst",
+      "company": "Lovebetter Gesellschaft für männliche Sexualität mbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Jobbeschreibung Warum gibt es diese Rolle - und warum jetzt? Lovebetter wächst in eine neue Phase. Wir haben starke Inhalte, eine klare Mission, Gavin als Gesicht der Marke und eine gewachsene Marketingdatenbank, deren Potenzial wir künftig deutlich systematis…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lovebetter-gesellschaft-fur-mannliche-sexualitat-mbh/growth-intelligence-ai-analyst-berlin-207865",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7ebc906a48885cdd",
+      "title": "Senior Creative Concept/Copy (Social) (gn)",
+      "company": "Intermate Media GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Jobbeschreibung Intermate x SAMY – Shaping the State of Social Intermate gehört zu den größten Social-Media- und Influencer-Agenturen im DACH-Raum. Mit mehr als 250 Mates in Berlin, Hamburg, Köln und Remote entwickeln wir Social-First-Strategien, produzieren C…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/senior-creative-concept-copy-social-gn-berlin-3885",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "78b9e207c24d7aab",
+      "title": "DevOps Engineer (m/w/d)",
+      "company": "Interlead GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was wir suchen Jedes Unternehmen braucht laufend neue Kunden – und genau dieses Problem lösen wir. Mit Interlead bauen wir die #1 Plattform für Leads, Termine und Aufträge und machen die Kundengewinnung für unsere Partner damit einfacher, transparenter und pla…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/interlead-gmbh/devops-engineer-berlin-317808",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f1eb5f994fb814ab",
+      "title": "KI-Automatisierungsingenieur (m/w/d)",
+      "company": "Bahmann Coaching GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hanover",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Jobbeschreibung Wir suchen KI-Automatisierungsingenieure (m/w/d) mit dem Schwerpunkt: Prozessautomatisierung & digitale Lösungen Deine Mission bei uns: Du liebst es, digitale Prozesse zu optimieren und effiziente IT-Lösungen zu entwickeln? Als KI-Automatisieru…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/bahmann-coaching-gmbh/ki-automatisierungsingenieur-hanover-1283",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f5f13d6d6847a9df",
+      "title": "Wirtschaftsinformatiker/-in - Vollzeit (m/w/d)",
+      "company": "Bahmann Coaching GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hanover",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Jobbeschreibung Wir suchen Wirtschaftsinformatiker (m/w/d) mit dem Schwerpunkt: Prozessautomatisierung & digitale Lösungen Deine Mission bei uns: Du liebst es, digitale Prozesse zu optimieren und effiziente IT-Lösungen zu entwickeln? Als Wirtschaftsinformatike…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/bahmann-coaching-gmbh/wirtschaftsinformatiker-in-vollzeit-hanover-486566",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d3d4b0b5fd271a0c",
+      "title": "Founder’s Associate Intern (m/w/d)",
+      "company": "Amperecloud GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job Description Want to shape the future of renewable energy? Bring your ideas. We build the operating system for renewables and simplify asset management with the Amperecloud Platform. The goal is a world where green energy drives growth. As a Founder Associa…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/amperecloud-gmbh/founders-associate-intern-berlin-41797",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cadc9f1d793dbcb8",
+      "title": "Senior Produktmanager Versicherungsprodukte & Partnerschaften (m/w/d)",
+      "company": "Alteos GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Diese Aufgaben warten auf Dich Du übernimmst die Verantwortung für unserer Produktlinien im Bereich Brokerproducts (Haftpflicht, Hausrat, Unfall und Mietkaution) und entwickelst sie mit einem klaren Blick für Wachstum, Kundennutzen und Innovation weiter. Du br…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/alteos-gmbh/senior-produktmanager-versicherungsprodukte-partnerschaften-berlin-122109",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "83800dba08b513c1",
+      "title": "Leiter Projektmanagement (m/w/d)",
+      "company": "Kloepfel Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Augsburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was kommt auf Dich zu? Aktive Mitgestaltung der strategischen Ausrichtung und Weiterentwicklung der Abteilung Projektmanagement Optimierung interner Prozesse, Abläufe und Dokumentationen Förderung und Steuerung von kontinuierlichen Verbesserungsprozessen (KVP)…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/kloepfel-group/leiter-projektmanagement-augsburg-468227",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d660c25981bcb333",
+      "title": "Sales Account Executive",
+      "company": "TransPerfect",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Sterling Technology , a subsidiary of TransPerfect , is the leading provider of premium virtual data room (VDR) solutions for the secure sharing of content, business process automation, and collaboration for the M&A, corporate development, real estate, capital…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/sales-account-executive-london-103304",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f0dc901e88f4daed",
+      "title": "Software Engineer (Elite Motorsport)",
+      "company": "Catapultsports",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Software Engineer (Motorsport) DO YOU WANT TO WORK FOR THE WORLD LEADER IN ELITE SPORTS PERFORMANCE ANALYTICS? Catapult is a world leader in sports performance technology, serving over 5,000 teams across 40 sports. We improve many of your favorite athletes' pe…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/catapultsports/software-engineer-elite-motorsport-london-442120",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8d2311dfc1663a56",
+      "title": "Graduate Software Engineer",
+      "company": "Catapultsports",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Starting Immediately Catapult is building the future of sports performance technology, with a mission to Unleash the Potential of every athlete and team on earth. We don't just work in the sporting industry; we are actively changing it. Since 2006, our solutio…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/catapultsports/graduate-software-engineer-london-300087",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "09b4b3105bef7311",
+      "title": "Office Assistant (Part-Time)",
+      "company": "Kraken",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "UK",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "International Development",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Procurement",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/kraken/office-assistant-part-time-london-309229",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "438a7065b52038f8",
+      "title": "Senior Product Quality Analyst - AI Voice",
+      "company": "Spotify",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Blend to Discover Weekly, we’re behind some of Spotify’s most-loved features. We built them by understanding the world of music and podcasts better tha…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/spotify/senior-product-quality-analyst-ai-voice-london-457694",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e30422f6497d81e8",
+      "title": "Senior Software Engineer (Node.js, TypeScript)",
+      "company": "diligentcorporation",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Here’s a summary of the role: Build software that matters, take real technical ownership, and use modern AI tooling to do your best work. This is a hands-on senior engineering role for someone who enjoys solving complex product problems, shaping robust solutio…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/diligentcorporation/senior-software-engineer-nodejs-typescript-london-86646",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a6f6661d0d660c34",
+      "title": "Data Scientist - Marketing Science",
+      "company": "wppmedia",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/data-scientist-marketing-science-london-497277",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4b5c5b8b5f22bfa7",
+      "title": "Senior Account Manager DACH (f/m/d)",
+      "company": "ecosio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Vienna",
+        "region": null,
+        "country": "London",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job Description ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect ta…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ecosio/senior-account-manager-dach-vienna-vienna-austria-croatia-paris-paris-france-munchen-bavaria-germany-budapest-budapest-hungary-mi-246129",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3cac56de17ba01da",
+      "title": "Global People & Workplace Specialist (London)",
+      "company": "Voleon",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": "Senior Payroll & Benefits Analyst, you will be an integral member of the People Operations team and"
+      },
+      "summary": "As a Global People & Workplace Specialist, you will play a key role in supporting payroll, benefits, and workplace experience for our global team, with a particular focus on our UK-based employees. You will work closely with the People Operations team and cros…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/voleon/global-people-workplace-specialist-london-444412",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e5d66ed468db7275",
+      "title": "Partnerships Marketing Manager",
+      "company": "Goodlord",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": "our Senior Enterprise Marketing Manager, you’ll work closely with Partnerships and Sales to decide w"
+      },
+      "summary": "📍 London - Hybrid. 2 days per week in our London office, 3 days remote / work from home (40 hour week) Goodlord’s mission is to be the gold standard platform for renting, and we’re looking for a Partnerships Marketing Manager to join our Marketing team. This i…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/goodlord/partnerships-marketing-manager-london-435267",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c4bac843e8326c22",
+      "title": "Junior Designer",
+      "company": "Goodlord",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "📍 London - Hybrid. 2 days per week in our London office, 3 days remote / work from home (40 hour week) Goodlord’s mission is to be the gold standard platform for renting, and we’re looking for a Junior Graphic Designer to join our Marketing team and help us ac…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/goodlord/junior-designer-london-366886",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2fb1a0917ec0181a",
+      "title": "Senior Solution Engineer",
+      "company": "UiPath",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Life at UiPath The people at UiPath believe in the transformative power of automation to change how the world works. We’re committed to creating category-leading enterprise software that unleashes that power. To make that happen, we need people who are curious…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/uipath/senior-solution-engineer-paris-281187",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "52ffa43bfea2ca2a",
+      "title": "Junior Product Owner",
+      "company": "Erasys",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hybrid",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your journey ROMEO is the queer company behind the legendary ROMEO dating app, one of Europe’s longest-standing dating platforms for queer communities. We are looking for a Product Owner to join our Product team in Berlin and help shape how ideas and product r…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/erasys/junior-product-owner-hybrid-3250",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ce25cf7c9f2b1e71",
+      "title": "Quality Engineer",
+      "company": "Odaseva",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": "Manager of the Quality Engineering team"
+      },
+      "summary": "Odaseva provides enterprise data management and security solutions that help organizations exercise sovereignty over their critical data. Companies representing 10% of global market capitalization trust Odaseva, including Schneider Electric, Volkswagen and Rob…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/odaseva/quality-engineer-paris-491894",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "65c27ebdbc851248",
+      "title": "Stage - Chargé(e) de Performance Marketing et Merchandising (H/F/X) - Janvier 2027",
+      "company": "Veepee",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Saint-Denis",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Pionnier des ventes événementielles en ligne depuis 2001 et acteur incontournable du e-commerce en Europe, Veepee collabore avec plus de 7 000 marques pour proposer des produits à forte décote, disponibles sur une durée limitée. Présent dans de nombreux univer…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/veepee/stage-chargee-de-performance-marketing-et-merchandising-janvier-2027-saint-denis-286258",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bcd8bbc78830db74",
+      "title": "Gestionnaire de l'administration des commandes - Customer Service F/H/X",
+      "company": "Genetec Inc",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🌍 Genetec - Protect the everyday Entreprise canadienne rayonnante à l'international, nous sommes animé(e)s par l'innovation et doté(e)s d'un large éventail de solutions qui englobent l'intelligence, la sécurité et les opérations. Nos clients évoluent dans tous…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/genetec-inc/gestionnaire-de-ladministration-des-commandes-customer-service-paris-419442",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ae783dbb6fe9e11b",
+      "title": "(French & English C1) Customer Success Manager (remote)",
+      "company": "Supportyourapp",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Montpellier",
+        "region": null,
+        "country": "France",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who are we? SupportYourApp is a global Intelligent Support-as-a-Service leader, partnering with tech companies and industry leaders like MasterCard, Calm and MacPaw in 30+ countries since 2010 to deliver secure customer and technical support. We operate global…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/supportyourapp/french-english-c1-customer-success-manager-remote-montpellier-401361",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cc3e53a85b67c6dc",
+      "title": "Computer Vision Engineer - Tracker",
+      "company": "Harmattan Ai",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Harmattan AI is a next-generation defense prime building autonomous and scalable defense systems. Following the close of a $200M Series B, valuing the company at $1.4 billion, we are expanding our teams and capabilities to deliver mission-critical sys…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/computer-vision-engineer-tracker-zurich-499979",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cc0112a7083e36f0",
+      "title": "Computer Vision Engineer - Tracker",
+      "company": "Harmattan Ai",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Lausanne",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Harmattan AI is a next-generation defense prime building autonomous and scalable defense systems. Following the close of a $200M Series B, valuing the company at $1.4 billion, we are expanding our teams and capabilities to deliver mission-critical sys…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/computer-vision-engineer-tracker-lausanne-250003",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "eceb10aa3f645ae1",
+      "title": "Software Engineer (Intern or Recent Graduate)",
+      "company": "Flink",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Flink Robotics is a fast-paced startup, out of ETH Zurich's Computational Robotics Lab, building autonomous robots that can handle any item, including ones they've never seen before. We're revolutionising material handling, from stacking boxes to sorting parce…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/flink/software-engineer-intern-or-recent-graduate-zurich-231071",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "938de2614bf14e02",
+      "title": "Hardware/Robotics Engineer (Intern or Recent Graduate)",
+      "company": "Flink",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Flink Robotics is a fast-paced startup, out of ETH Zurich's Computational Robotics Lab, building autonomous robots that can handle any item - including ones they've never seen before. We're revolutionising material handling, from stacking boxes to sorting parc…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/flink/hardware-robotics-engineer-intern-or-recent-graduate-zurich-210621",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4a64e17b7360d735",
+      "title": "Forward Deployed Software Engineer (Intern or Recent Graduate)",
+      "company": "Flink",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Flink Robotics is a fast-paced startup, out of ETH Zurich's Computational Robotics Lab, building autonomous robots that can handle any item - including ones they've never seen before. We're revolutionising material handling, from stacking boxes to sorting parc…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/flink/forward-deployed-software-engineer-intern-or-recent-graduate-zurich-459893",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "571a3e998ffc5d18",
+      "title": "Deployment Engineer (Intern or Recent Graduate)",
+      "company": "Flink",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Flink Robotics is a fast-paced startup, out of ETH Zurich's Computational Robotics Lab, building autonomous robots that can handle any item - including ones they've never seen before. We're revolutionising material handling, from stacking boxes to sorting parc…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/flink/deployment-engineer-intern-or-recent-graduate-zurich-209563",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ebc0aacc31ce97d8",
+      "title": "Engineering Intern",
+      "company": "The Robotics Company",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us We are The Robotics Company , building the infrastructure that enables robots to be deployed at scale. In just six months, we’ve grown from $0 to $1M in revenue, driven by strong demand for what we’re building. We’re backed by leading investors, resea…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/the-robotics-company/engineering-intern-zurich-359315",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1af3d868c86d37b0",
+      "title": "Linguist - Somali - UI Technical / Marketing - Remote",
+      "company": "LILT (Production)",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the Opportunity We are expanding our talent network and seeking skilled Somali-language professionals with expertise in user interfaces, marketing localization, and retail content. Our ideal partners possess a nuanced command of market-specific nuances a…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/lilt-production/linguist-somali-ui-technical-marketing-remote-60289",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5016a068bfe4186b",
+      "title": "Accountant (m/w/d) – Teilzeit (20-30 Std./Woche)",
+      "company": "evolutiq GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns evolutiq ist eine Investment Management Gesellschaft mit Sitz in Köln, die in die Bereiche Real Estate und Private Equity investiert. Mit unserem unternehmerischen und nachhaltigen Investmentansatz setzen wir neue Maßstäbe und schaffen so Wert für uns…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/evolutiq-gmbh/accountant-teilzeit-20-30-std-woche-cologne-197180",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2f86b1dc894b02b1",
+      "title": "Technical Customer Success Manager (m/w/d) - Manufacturing",
+      "company": "PartSpace GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Deggendorf",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Werde Teil von PartSpace und gestalte mit uns die Zukunft der Bauteilbeschaffung! PartSpace ist ein wachstumsstarkes, innovatives Tech-Unternehmen mit einer klaren Mission: Mit Künstlicher Intelligenz und echten Engineering-Daten definiert PartSpace den techni…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/partspace-gmbh/technical-customer-success-manager-manufacturing-deggendorf-285753",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "696d3866e1d70052",
+      "title": "Digital Marketing Specialist (m/w/d)",
+      "company": "dean&david Franchise GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Gräfelfing",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Mach den Unterschied – mit uns! Du bist verantwortlich für die operative Umsetzung, Steuerung und Optimierung der digitalen Marketingmaßnahmen von dean&david. Dein Fokus liegt auf Website, App, SOT, Performance Marketing und CRM – mit dem Ziel, Reichweite, Con…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/deandavid-franchise-gmbh/digital-marketing-specialist-grafelfing-354792",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "60e76a4915ca01c2",
+      "title": "Mitarbeiter:in Finanzbuchhaltung (m/w/d)",
+      "company": "Adam & Eve Beautylounge GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir suchen... Unsere Unternehmensgruppe ist seit über 20 Jahren fester Bestandteil und Marktführer im Beauty- und Health-Segment. Mit unseren Beteiligungen in den Bereichen Kosmetik, ästhetische Medizin und Immobilien wachsen wir stetig. Zur Verstärkung unsere…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/adam-eve-beautylounge-gmbh/mitarbeiterin-finanzbuchhaltung-hamburg-244679",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "95b7cc66eb8e2cd3",
+      "title": "Projektmanager Digitale Kommunikation (m/w/d)",
+      "company": "CBE DIGIDEN AG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hi, wir sind CBE DIGIDEN! Du liebst digitale Kommunikation, denkst strategisch und handelst lösungsorientiert? Dann werde Teil unseres Teams und gestalte mit uns digitale Projekte, die begeistern – von der ersten Idee bis zum erfolgreichen Launch. Was du bei u…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cbe-digiden-ag/projektmanager-digitale-kommunikation-berlin-134956",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6950aa912275668c",
+      "title": "Initiativbewerbung",
+      "company": "Intermate Media GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Jobbeschreibung Du brennst für Social Media und möchtest in einem dynamischen Umfeld arbeiten, in dem kreative Ideen, strategisches Denken und innovative Lösungen Hand in Hand gehen? Wir sind ein One-Stop-Shop für Social Media Marketing und immer auf der Suche…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/initiativbewerbung-berlin-11744",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e2439c07ae64f5b0",
+      "title": "IT Service Management Berater (m/w/d)",
+      "company": "SERVIEW GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bad Homburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Gemeinsam machen wir den Unterschied Sind Sie bereit, Ihr ITSM-Wissen nicht nur anzuwenden, sondern auch weiterzugeben? Wir suchen erfahrene Berater:innen, die Unternehmen dabei unterstützen, ihre IT-Service-Prozesse nachhaltig zu verbessern – und dabei auch F…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/serview-gmbh/it-service-management-berater-bad-homburg-430700",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8ab42fc6b3a96649",
+      "title": "Senior Softwareentwickler mit Fokus AI (m/w/d)",
+      "company": "Theobald Software GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Stuttgart",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wer wir sind Vor über 20 Jahren gegründet, ist die Theobald Software GmbH heute führender Anbieter in der Konzeption und Entwicklung von SAP-Schnittstellen und betreut derzeit mehr als 1.700 Kunden weltweit. Wir arbeiten mit einem Team aus rund 60 Mitarbeiter:…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/theobald-software-gmbh/senior-softwareentwickler-mit-fokus-ai-stuttgart-492462",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b2fdfafd278e5947",
+      "title": "Werkstudent Healthcare Logistics (m/w/d)",
+      "company": "audibene",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Sports",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "audibene ist das am schnellsten wachsende Hörgeräte-Unternehmen aller Zeiten. Wir wissen, dass gutes Hören die Lebensqualität entscheidend erhöht. Mit unserem einzigartigen digitalen Geschäftsmodell haben wir die Art und Weise der Hörgeräte-Versorgung revoluti…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/audibene/werkstudent-healthcare-logistics-berlin-201182",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e96bc8e14313acf0",
+      "title": "Pflichtpraktikum Marketing (m/w/d) in Vollzeit",
+      "company": "dean&david Franchise GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Gräfelfing",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Mach den Unterschied – mit uns! Werde Teil einer Marke, die für mehr steht als nur gutes Essen. In deinem Pflichtpraktikum im Marketing bei dean&david kombinierst du kreatives Denken mit strategischem Know-how, um gemeinsam mit uns ein starkes Markenbild zu fo…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/deandavid-franchise-gmbh/pflichtpraktikum-marketing-in-vollzeit-grafelfing-359639",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d2c2de4446fef163",
+      "title": "Werkstudent*in im Bereich Finance (m/w/d)",
+      "company": "CUREosity GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über CUREosity CUREosity ist ein innovatives Med-Tech-Startup aus Düsseldorf, das die Gesundheitsbranche mit Virtual-Reality-Therapien revolutioniert. Unsere mehrfach ausgezeichneten Lösungen verbessern die Rehabilitation für Patient*innen weltweit. Als Werkst…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cureosity-gmbh/werkstudentin-im-bereich-finance-dusseldorf-109779",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1dd7fd752bebb235",
+      "title": "Werkstudent für Research Tätigkeiten & Datenbankpflege (m/w/d)",
+      "company": "FCF Fox Corporate Finance GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was sind Deine Aufgaben Internet Research Tätigkeiten Industrierecherche Investorenrecherche Datenbankpflege und -eingabe (Microsoft Dynamics 365) Präsentationserstellung Was FCF von Dir erwartet Sehr guter Umgang mit MS-Office Programmen Affinität für Online-…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/fcf-fox-corporate-finance-gmbh/werkstudent-fur-research-tatigkeiten-datenbankpflege-munich-439345",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b339cc077e582a83",
+      "title": "Praktikant im Investment Banking (m/w/d) - Attraktive Vergütung in Höhe von (brutto) €3.500,- pro Monat",
+      "company": "FCF Fox Corporate Finance GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was sind Deine Aufgaben Wir bieten ein einzigartiges Praktikum bei FCF als „fully integrated and active team member“. Du wirst Teil unseres dynamischen Teams von Investment Bankern mit einem außergewöhnlichen, familiären Arbeitsklima. Nach professioneller Eina…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/fcf-fox-corporate-finance-gmbh/praktikant-im-investment-banking-attraktive-vergutung-in-hohe-von-brutto-eur3500-pro-monat-munich-288877",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "612f36f5a78db8bc",
+      "title": "Praktikum (m/f/d) - Data & AI Engineering",
+      "company": "Scalefree International GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hanover",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Dein Weg zu Scalefree Du willst schon während oder direkt nach deinem Studium Berufserfahrungen sammeln? Bei Scalefree bist Du als Praktikant mittendrin, statt nur dabei. Du hast Lust auf Systemintegration im Cloud Bereich und der Weiterentwicklung von Informa…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/scalefree-international-gmbh/praktikum-data-ai-engineering-hanover-187089",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6446e4217bc0ad27",
+      "title": "Data Quality Analyst (f/m/d, befristet als Elternzeitvertretung)",
+      "company": "Workist GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Rolle bei uns Als Data Quality Analyst bist du verantwortlich für die Sicherstellung der Genauigkeit und Konsistenz der annotierten Daten für unsere Machine Learning Projekte. Deine Aufgaben Deine Aufgaben umfassen: Überprüfung von annotierten Daten auf …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/workist-gmbh/data-quality-analyst-befristet-als-elternzeitvertretung-berlin-482612",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "304c2ca71066cbb6",
+      "title": "Senior Steuerfachangestellte (m/w/d) Euskirchen",
+      "company": "VRT Partnerschaft mbB Wirtschaftsprüfer Steuerberater Rechtsanwälte",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Euskirchen",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die VRT Euskirchen mit mehr als 40 Mitarbeiter/-innen befindet sich im Zentrum von Euskirchen, wenige Meter vom Bahnhof und der Fußgängerzone entfernt. Dank des neuen Anbaus wächst dieser Standort noch weiter. Dein Aufgabengebiet umfasst unter anderem ... Im S…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/vrt-partnerschaft-mbb-wirtschaftsprufer-steuerberater-rechtsanwalte/senior-steuerfachangestellte-euskirchen-96873",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "967a85329cf53a3d",
+      "title": "Senior IT Architect (m/w/d)",
+      "company": "virtual7 GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Homeoffice",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der öffentlichen Verwaltung. Aktu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-it-architect-bonn-263416",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "87d6bd8dc64c9586",
+      "title": "Testingenieur (m/w/d) Radiation",
+      "company": "encontec GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Backnang",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Testingenieur (m/w/d) Radiation Willkommen in der faszinierenden Welt der Luft- und Raumfahrtbranche ! Komm in unser Team und profitiere von unseren zahlreichen Benefits! Dein zukünftiger Tätigkeitsbereich Aktive Mitwirkung bei der Vorbereitung, Durchführung u…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/encontec-gmbh/testingenieur-radiation-backnang-146075",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f793825ac2f57df7",
+      "title": "(Senior) Accountant",
+      "company": "Epay",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du möchtest Verantwortung in der Finanzbuchhaltung übernehmen und deine Expertise in einem vielseitigen Aufgabenfeld einbringen? In dieser Rolle wirkst du an der Erstellung von Monats-, Quartals- und Jahresabschlüssen nach HGB mit, verantwortest operative Buch…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/epay/senior-accountant-hamburg-64820",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f12a768bf2517750",
+      "title": "Trainee (m/w/d) im Finanzvertrieb – Karriere mit Struktur, Verantwortung und Perspektive (German Speaking)",
+      "company": "Kevin Kehr",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du suchst einen Berufseinstieg, der Vertrieb, Beratung und persönliche Entwicklung verbindet? Dann ist dieses Traineeprogramm genau das Richtige für dich. Wir suchen ambitionierte Persönlichkeiten (m/w/d), die sich im Finanzvertrieb eine langfristige Karriere …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/trainee-im-finanzvertrieb-karriere-mit-struktur-verantwortung-und-perspektive-german-speaking-hamburg-67841",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b1e586e6b79d1408",
+      "title": "Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)",
+      "company": "Kevin Kehr",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du studierst und willst mehr als einen „Nebenjob“? Du willst Verantwortung, klare Ziele und ein Umfeld, in dem Leistung zählt? Dann ist diese Werkstudentenrolle dein Einstieg in die Finanzberatung, mit strukturiertem Onboarding, Coaching und einem klaren Weg i…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-269277",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "20ab64ca792adbf2",
+      "title": "Personal Trainer/in (m/w/d) gesucht",
+      "company": "Soulhouse",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Erfahrene Stretch Experts für Selfcare Company in Teilzeit gesucht (flexibel von 10 bis 30 Stunden die Woche) Standort: Köln Über Soulhouse Soulhouse ist ein schnell wachsendes Self-Care Scale-up mit der Mission, die #1 für Modern Bodywork in Europa zu werden.…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/soulhouse/personal-trainer-in-gesucht-cologne-106025",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e4b69c0bc76a015c",
+      "title": "Channel Account Executive - Surveillance (m/w/d)",
+      "company": "Synology - Personio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Build a better world with data Du bist vertriebsstark, baust nachhaltige Partnerbeziehungen auf und möchtest den Erfolg unseres Surveillance-Geschäfts aktiv vorantreiben? Dann werde Teil unseres Teams als Channel Account Executive Surveillance . In dieser Roll…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/synology-personio/channel-account-executive-surveillance-dusseldorf-40957",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "11cfb579bd706e1d",
+      "title": "Senior Tax Manager (gn)",
+      "company": "Bikeleasing",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote Deutschland",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission The Bikeleasing Group continues to grow and is expanding its international tax function. As a Senior Tax Manager (gn), your initial focus will be on our tax matters in Germany. At the same time, you will have the opportunity to develop internation…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-senior-tax-manager-gn-395718",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b195a2c3919c987d",
+      "title": "Senior QA Engineer (gn)",
+      "company": "Bikeleasing",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote Deutschland",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission The Bikeleasing Group has grown into a leading corporate group for employer benefits and mobility solutions. It consists of five specialized companies, including a multi-benefit provider, leasing and insurance service providers, as well as a retai…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-senior-qa-engineer-gn-80961",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "19300b59e2446e2c",
+      "title": "Senior PR Manager (m/w/d) – Remote oder Berlin",
+      "company": "Getpress Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Overview PR steht vor einem strukturellen Bruch. Vertrauen verschiebt sich, Sichtbarkeit wird neu verteilt, KI wächst exponentiell. Wir bei getpress glauben, dass Reputation in den nächsten zehn Jahren der entscheidende Wettbewerbsvorsprung für Unternehmen wir…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/senior-pr-manager-remote-oder-berlin-436305",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "762ad16ff83d6a60",
+      "title": "(Junior) Design Manager (all genders) - Retail Design",
+      "company": "Going Beyond Group GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Stuttgart",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "JOIN US Ab sofort suchen wir für unser Team am Standort Stuttgart einen (Junior) Design Manager (all genders) im Bereich Retail Kampagnen. Werde Teil unserer Community – wir freuen uns auf dich! WHAT YOU DO In Abstimmung mit dem Project Management übernimmst d…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/going-beyond-group-gmbh/junior-design-manager-all-genders-retail-design-stuttgart-53482",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4b35c00d0ebc2e08",
+      "title": "(Junior/Senior) Grafiker (m/w/d)",
+      "company": "stickerfive GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Gräfelfing",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir spielen in der ersten Liga der Sticker-Sammelalben . Unser Team entwickelt, gestaltet und produziert hochwertige Sticker-Sammelalben für den Profi- und Amateursport . Von der ersten Idee über das Design bis zum fertigen Album entstehen bei uns Produkte, di…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/stickerfive-gmbh/junior-senior-grafiker-grafelfing-158864",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a77f32496fd8f926",
+      "title": "Teamleitung Food Safety and Quality Assurance (all genders)",
+      "company": "hellofresh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Verden",
+        "region": null,
+        "country": "Niedersachsen",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Rolle Als Teamleitung FSQA (all genders) übernimmst Du die Gesamtverantwortung für die Lebensmittelsicherheit und Qualitätssicherung an unserem Factor_ Produktionsstandort in Verden. Du treibst die operative Weiterentwicklung der Qualitäts- und Lebensmit…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/hellofresh/teamleitung-food-safety-and-quality-assurance-all-genders-verden-niedersachsen-168299",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "58205098397d03f2",
+      "title": "[DACH MAG] Senior Production Planner (all genders)",
+      "company": "hellofresh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Magdeburg",
+        "region": null,
+        "country": "Saxony-Anhalt",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Procurement",
+        "Sports",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Rolle Als Senior Production & Resource Planner (m/w/d) bist du eine zentrale Schnittstelle für die operative Planung unseres Produktionsstandorts. Du übersetzt Nachfrageprognosen und Business-Anforderungen in belastbare Kapazitäts-, Personal- und Produkt…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/hellofresh/dach-mag-senior-production-planner-all-genders-magdeburg-saxony-anhalt-80839",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ac92216b63c756c2",
+      "title": "Forward Deployed Inference Engineer",
+      "company": "tensordyne",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Tensordyne Tensordyne is building a new class of AI inference system designed for high-performance, power-efficient deployment of the world’s most demanding generative AI workloads. Our platform combines purpose-built silicon, new AI math, optimized scal…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tensordyne/forward-deployed-inference-engineer-munich-202489",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1904ee8c2ec81af2",
+      "title": "Account Executive (w/m/d)",
+      "company": "Skalar",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "SKALAR – Wir bauen die digitale Steuerkanzlei der Zukunft Radikal einfach. Voll digital. 100% mandantenfokussiert. Wir denken Steuerberatung komplett neu: einfacher, schneller und transparenter für Mandanten und Kanzleiteam zugleich. Wo andere Kanzleien mit ma…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalar/account-executive-munich-240133",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "51b705ef48ce9674",
+      "title": "Senior eCommerce Growth Manager (all genders)",
+      "company": "Distribusion Technologies",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Distribusion is the world’s leading ground transportation marketplace and gives travelers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail, and ferry o…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-ecommerce-growth-manager-all-genders-berlin-184011",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "968506cf451315bd",
+      "title": "Junior Full Stack Developer (All Genders)",
+      "company": "Seniovo GmbH - Ein Unternehmen der HORNBACH-Gruppe",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Pflege, Konfiguration und Erweiterung unserer operativen Systeme ( Zoho CRM, Desk, Books, Sign und angrenzende Tools) Entwicklung von Automationen und Business-Logik mit Deluge , Python und JavaScript: Workflows, Functions , Client-Skripte und g…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-196288",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e712bf99a8d8c7ed",
+      "title": "Internship - Studio Apelbaum - Art, Engineering or Communication (Berlin)",
+      "company": "AnalogDream e.V.",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We are looking for interns in art, engineering, and communication to join Studio Apelbaum. Studio Apelbaum, founded by artist and engineer Jonathan Apelbaum, combines traditional oil painting with interactive technology to create ‘Cognitive Paintings’ that shi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/analogdream-ev/internship-studio-apelbaum-art-engineering-or-communication-berlin-272697",
+      "source": "Arbeitnow"
+    },
     {
       "id": "133705c91f1dbdbe",
       "title": "Mitarbeiter/in Business Operations & Executive Support (m/w/d)",
