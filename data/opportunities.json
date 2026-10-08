@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-07T21:59:30.958961+00:00",
+    "lastUpdated": "2026-10-08T01:58:17.092913+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,167 @@
     ]
   },
   "jobs": [
+    {
+      "id": "85498ca5acbbeafa",
+      "title": "Senior Infrastructure Operations Engineer (EMEA)",
+      "company": "Lightningai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who We Are Lightning AI is the company behind PyTorch Lightning. Founded in 2019, we build an end-to-end platform for developing, training, and deploying AI systems—designed to take ideas from research to production with less friction. Through our merger with …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-infrastructure-operations-engineer-emea-london-313126",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1390f8d77ad33ffc",
+      "title": "AI Platform Support Engineer (EMEA)",
+      "company": "Lightningai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who We Are Lightning AI is the company behind PyTorch Lightning. Founded in 2019, we build an end-to-end platform for developing, training, and deploying AI systems—designed to take ideas from research to production with less friction. Through our merger with …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/lightningai/ai-platform-support-engineer-emea-london-63117",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "292a8bdea6ea94e5",
+      "title": "Technical Project Manager, Applied AI (Contract)",
+      "company": "Lilt Corporate",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "UK",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About LILT AI is changing how the world communicates — and LILT is leading that transformation. We're on a mission to make the world's information accessible to everyone , regardless of the language they speak. We use cutting-edge AI, machine translation, and …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/lilt-corporate/technical-project-manager-applied-ai-contract-london-209791",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a909a7c2a8c68983",
+      "title": "HR Business Partner, EMEA",
+      "company": "How We Work & What We Value - Ashby",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hi! I'm Hannah and I lead the HRBP Team here at Ashby. I joined over four years ago as the first People hire, and I'm excited that our team is expanding! The People Team provides support to Ashby employees through the development and implementation of programs…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/how-we-work-what-we-value-ashby/hr-business-partner-emea-united-kingdom-336883",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "92cf9bea64d6bdc0",
+      "title": "Senior Electrical Characterisation Engineer",
+      "company": "Quantum Motion Technologies - Personio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "UK",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About The Role and Team Quantum Motion is a fast-growing quantum computing scale-up based in London founded by internationally renowned researchers from UCL and Oxford University with over 40 years’ experience in developing qubits and quantum computing archite…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/quantum-motion-technologies-personio/senior-electrical-characterisation-engineer-london-uk-198528",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "aa0952ffb1c16385",
+      "title": "Artificial Intelligence (AI) Technician",
+      "company": "Jobgether",
+      "employmentType": "Internship",
+      "location": {
+        "city": "UK",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Artificial Intelligence (AI) Technician based in United Kingdom. This is a remote opportunity for a technically skilled AI profes…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/artificial-intelligence-ai-technician-uk-456473",
+      "source": "Arbeitnow"
+    },
     {
       "id": "3a647a4fc8e20b55",
       "title": "Initiative application (m/f/x)",
@@ -8735,6 +8896,644 @@
       },
       "summary": "Key responsibilities You advise clients on the complex accounting and financial reporting matters that shape their most important decisions, including: Subject matter expertise: Serve as the firm's subject matter expert for US GAAP reporting and US-related tra…",
       "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/cfgigermany/senior-manager-finance-accounting-advisory-us-markets-schweiz-zurich-234260",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d1d12e70a8d8bcb8",
+      "title": "Wirtschaftsinformatiker/in (m/w/d)",
+      "company": "MONE Consulting GmbH (Pflegekraft.de)",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bielefeld",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir suchen zum nächstmöglichen Zeitpunkt eine/n Wirtschaftsinformatiker/in - Vollzeit (m/w/d) für den Bereich Business-Development in Bielefeld. Was macht Pflegekraft.de genau? Zu unseren Kunden gehören Unternehmen mit 50 bis 2.000 Mitarbeitern, wie z. B. Pfle…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/mone-consulting-gmbh-pflegekraftde/wirtschaftsinformatiker-in-bielefeld-326208",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ab4d0ac0be096edf",
+      "title": "Project Manager - Software Implementation (m/f/x)",
+      "company": "Makersite GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job Title: Project Manager - Software Implementation (m/f/x) Location: EU (Remote) Who You’ll Work For: At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle manageme…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-project-manager-software-implementation-berlin-46294",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "974debca65b7c35a",
+      "title": "Software Sales Consultant (m/w/d)",
+      "company": "ANGEHEUERT GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Homeoffice",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du möchtest deine Expertise als Sales Consultant in einem engagierten Team einbringen oder deine Karriere starten? Dann ist das hier die perfekte Gelegenheit für dich!Unser Kunde ist einer der führenden Value-Added-Distributoren für IT- Infrastruktur und Secur…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-software-sales-consultant-deutschlandweit-435583",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "361df47c96671edd",
+      "title": "Software Engineer (all genders)",
+      "company": "Raysono",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Digital transformation support As part of our agile teams, you set new standards and celebrate real successes with your colleagues. Our projects are as wide-ranging and diverse as the challenges our customers face: from strategic experience design and digital …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/raysono/software-engineer-all-genders-munchen-314025",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6bc748dc45c6dff2",
+      "title": "Business Data Analyst Finance & Requirements Management (m/w/d)",
+      "company": "Aer Group",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin Boppstr.",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben: Du verstehst Geschäftsprozesse, denkst analytisch und kannst komplexe Anforderungen verständlich strukturieren? Du bewegst Dich sicher zwischen Fachbereichen und technischen Teams und hast Freude daran, aus Daten und Anforderungen tragfähige Lö…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/aer-group/business-data-analyst-finance-requirements-management-berlin-boppstr-28055",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fae0e746814d3268",
+      "title": "Senior Consultant Energy Markets & Economics (all genders)",
+      "company": "Meteocontrol",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission: Preparation of market analyses, economic assessments and expert reports for PV, BESS and hybrid projects Analysis of electricity markets, market mechanisms and regulatory frameworks within the European energy sector Evaluation of business models,…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/meteocontrol/senior-consultant-energy-markets-economics-all-genders-berlin-467079",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "82ddfe17013c81af",
+      "title": "Senior Consultant Energy Markets & Economics (all genders)",
+      "company": "Meteocontrol",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Augsburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission: Preparation of market analyses, economic assessments and expert reports for PV, BESS and hybrid projects Analysis of electricity markets, market mechanisms and regulatory frameworks within the European energy sector Evaluation of business models,…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/meteocontrol/senior-consultant-energy-markets-economics-all-genders-augsburg-61857",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f53da17fb5892aea",
+      "title": "Senior Account Manager (all genders)",
+      "company": "Meteocontrol",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Augsburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission: You take strategic responsibility for a defined portfolio of mid-sized national and international B2B customers in the photovoltaic and BESS sectors, with a focus on revenue, margin, growth and long-term customer retention. As a trusted point of …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/meteocontrol/senior-account-manager-all-genders-augsburg-168319",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6ff71d24b1c41b77",
+      "title": "Product Owner (m/w/d) - Customer Domain",
+      "company": "doctari GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns Seit 2008 arbeiten wir mit unseren vier Marken doctari, lichtfeld, Planerio und arztpool an unserer Vision, medizinisches Personal dorthin zu bringen, wo es am dringendsten benötigt wird. doctari pro ist unsere B2B-Buchungsplattform für Personalverant…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/doctari-gmbh/product-owner-customer-domain-munchen-197130",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f39179f97db02da3",
+      "title": "(Junior) AI Visual Creator:in - E-Commerce (m/w/d)",
+      "company": "Snocks GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Mannheim Büro",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Du glaubst, dass AI-generierte Bilder nicht nach AI aussehen sollten? Perfekt. Als (Junior) AI Visual Creator:in – E-Commerce (m/w/d) sorgst du dafür, dass unsere Produkte im Online-Shop und auf unseren Marktplätzen so aussehen, dass man sie hab…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/snocks-gmbh/junior-ai-visual-creatorin-e-commerce-mannheim-buro-315337",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0d160f0b99ee310c",
+      "title": "Publication Ethics Senior Editor - 12 Month FTC",
+      "company": "Plos",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Policy / Government"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "*This position is fully remote/home based. Applications will be accepted from candidates based in the UK and the following US states: FL, IL, MA, MD, NY, PA, TX, VA. This is a 12 month FTC position. Role Summary The PLOS Publication Ethics team works to uphold…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/plos/publication-ethics-senior-editor-12-month-ftc-235562",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ce44f320bac49e22",
+      "title": "Senior Machine Learning Scientist",
+      "company": "Flagshippioneeringinc",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cambridge",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "(Senior) Scientist, Machine Learning About Quotient Therapeutics Quotient Therapeutics is a Flagship Pioneering company that uses somatic genomics to discover drug targets. We use high-accuracy sequencing to find rare somatic mutations in cells from non-cancer…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/flagshippioneeringinc/senior-machine-learning-scientist-cambridge-316285",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f2649184994438b5",
+      "title": "Digital Marketing Graduate Associate",
+      "company": "Theacademy",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Applications are now open! So you think you’ve got what it takes to join the best graduate program in the world? The Academy is a two-year program designed to give you a remarkable foundation in digital marketing. Blending masterclasses with on-the-job trainin…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/theacademy/digital-marketing-graduate-associate-152809",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2d57da2b05114baa",
+      "title": "AI Policy Reporter",
+      "company": "Newsweek",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Policy / Government"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": "News Editor, the AI Policy Reporter will source, pitch, research and develop breaking news, original"
+      },
+      "summary": "Newsweek is the global media organization that has earned audience time and trust for more than 90 years. Newsweek reaches 100 million people each month with thought-provoking news, opinion, images, graphics, and video delivered across a dozen print and digita…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/newsweek/ai-policy-reporter-49934",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6261fadd41eaf89d",
+      "title": "Senior Machine Learning Engineer - Recommendations",
+      "company": "Deliveroo",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking n…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-machine-learning-engineer-recommendations-london-67083",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3549bec7a621225b",
+      "title": "Onboarding Specialist - Lyon",
+      "company": "Salonkee",
+      "employmentType": "Internship",
+      "location": {
+        "city": "France / Lyon",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Salonkee est l'une des entreprises beauty-tech à la croissance la plus rapide en Europe. Nous aidons des milliers de salons à simplifier leurs opérations quotidiennes et à offrir une expérience client hors du commun. Notre logiciel tout-en-un simplifie la pris…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/salonkee/onboarding-specialist-lyon-368707",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5da50f19b0061338",
+      "title": "Représentant(e) commercial(e) - Strasbourg",
+      "company": "Salonkee",
+      "employmentType": "Internship",
+      "location": {
+        "city": "France / Strasbourg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Salonkee est l'une des entreprises beauty-tech à la croissance la plus rapide en Europe. Nous aidons des milliers de salons à simplifier leurs opérations quotidiennes et à offrir une expérience client hors du commun. Notre logiciel tout-en-un simplifie la pris…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/salonkee/representante-commerciale-strasbourg-421679",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a0e1c7765d04424c",
+      "title": "Onboarding Specialist - Metz",
+      "company": "Salonkee",
+      "employmentType": "Internship",
+      "location": {
+        "city": "France / Metz-Nancy",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Salonkee est l'une des entreprises beauty-tech à la croissance la plus rapide en Europe. Nous aidons des milliers de salons à simplifier leurs opérations quotidiennes et à offrir une expérience client hors du commun. Notre logiciel tout-en-un simplifie la pris…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/salonkee/onboarding-specialist-metz-metz-nancy-286797",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9dcf0317e41c502f",
+      "title": "Onboarding Specialist - Annecy / Chambéry",
+      "company": "Salonkee",
+      "employmentType": "Internship",
+      "location": {
+        "city": "France / Annecy",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Salonkee est l'une des entreprises beauty-tech à la croissance la plus rapide en Europe. Nous aidons des milliers de salons à simplifier leurs opérations quotidiennes et à offrir une expérience client hors du commun. Notre logiciel tout-en-un simplifie la pris…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/salonkee/onboarding-specialist-annecy-chambery-56536",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "58295ca9d7ad2355",
+      "title": "Représentant(e) commercial(e) - Valenciennes",
+      "company": "Salonkee",
+      "employmentType": "Internship",
+      "location": {
+        "city": "France / Valenciennes",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Salonkee est l'une des entreprises beauty-tech à la croissance la plus rapide en Europe. Nous aidons des milliers de salons à simplifier leurs opérations quotidiennes et à offrir une expérience client hors du commun. Notre logiciel tout-en-un simplifie la pris…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/salonkee/representante-commerciale-valenciennes-196948",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d803dbbe17fa0cfe",
+      "title": "Représentant(e) commercial(e) - Lille / Lens",
+      "company": "Salonkee",
+      "employmentType": "Internship",
+      "location": {
+        "city": "France / Lille",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Salonkee est l'une des entreprises beauty-tech à la croissance la plus rapide en Europe. Nous aidons des milliers de salons à simplifier leurs opérations quotidiennes et à offrir une expérience client hors du commun. Notre logiciel tout-en-un simplifie la pris…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/salonkee/representante-commerciale-lille-lens-472578",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dec0318ce60b2b99",
+      "title": "Sales Account Executive - Cybersecurity",
+      "company": "Crowdsec",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Passionate about Cybersecurity, open-source or network effect products? Interested in Sales? Join CrowdSec to build a safer internet for everyone. What we do We aim to deter opportunistic and organized cybercrime through an Internet-scale, real-time security n…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-389413",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "eaac841ca6038f7e",
+      "title": "Stage - Auditeur interne H/F/X - Janvier 2027",
+      "company": "Veepee",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Saint-Denis",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "📄 DESCRIPTION DU POSTE L’équipe d’audit interne de Veepee, au sein de la Direction du Contrôle Groupe, a pour mission l’évaluation du dispositif de contrôle interne du groupe à travers des missions d’audit, effectuées selon une approche par les risques. Elle a…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/veepee/stage-auditeur-interne-janvier-2027-saint-denis-215700",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "90320106dfd36ba5",
+      "title": "Solution Engineer 100% (a)",
+      "company": "Brandleadership",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Steinhausen",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über die Stelle Als Solution Engineer bei gateB übersetzt du komplexe Kundenanforderungen in tragfähige technische Lösungen. Du verbindest Beratung, Technologie und Umsetzung und begleitest unsere Kunden bei der Konzeption, Implementierung und Weiterentwicklun…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/brandleadership/solution-engineer-100-a-steinhausen-91642",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ae8ccde6bbe534cd",
+      "title": "Sales Manager Kliniksoftware Schweiz (80–100 %)",
+      "company": "Meierhofer",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Liebefeld",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unsere Standorte Wir suchen dich für unser Vertriebsteam in der Schweiz an unserem Standort in Liebefeld bei Bern Dein zukünftiges Team Bei Meierhofer treiben wir die Digitalisierung von Spitälern, Reha und psychiatrischen Kliniken voran. Mit unseren Softwarel…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/meierhofer/sales-manager-kliniksoftware-schweiz-80-100-liebefeld-42528",
       "source": "Arbeitnow"
     },
     {
