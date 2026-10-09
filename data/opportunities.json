@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-08T22:05:39.154379+00:00",
+    "lastUpdated": "2026-10-09T02:11:35.700441+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,274 @@
     ]
   },
   "jobs": [
+    {
+      "id": "0bef98db2f5e5902",
+      "title": "Senior Software Engineer (m/w/d)",
+      "company": "Pflegia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Pflegia we are building and operating an innovative job matching platform, which intelligently brings together caregivers and healthcare employers. Our vision is to become Europe's leading job platform for nursing professions and to fight the nursing crisis…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pflegia/senior-software-engineer-berlin-355454",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "240658766b7d0a24",
+      "title": "Software Engineer",
+      "company": "Axon",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join Axon and be a Force for Good. At Axon, we’re on a mission to Protect Life. We’re explorers, pursuing society’s most critical safety and justice issues with our ecosystem of devices and cloud software. Like our products, we work better together. We connect…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/axon/software-engineer-london-321769",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b58272353749acd9",
+      "title": "Software Engineer",
+      "company": "Axon",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join Axon and be a Force for Good. At Axon, we’re on a mission to Protect Life. We’re explorers, pursuing society’s most critical safety and justice issues with our ecosystem of devices and cloud software. Like our products, we work better together. We connect…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/axon/software-engineer-london-332129",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "340e722db85d5465",
+      "title": "Chief of Staff, Strategic Growth & Partnerships (UK)",
+      "company": "raisin",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Raisin is the world’s leading platform for savings and investment products. Founded in 2012, the FinTech connects consumers with banks in the EU, the UK and the US. This gives consumers better interest rates and banks a diversified form of refinancing . Our vi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/raisin/chief-of-staff-strategic-growth-partnerships-uk-london-55586",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "70a456da4a5ab526",
+      "title": "Senior Full Stack Developer - AI Team",
+      "company": "Thinkcellsoftware",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About The Role At thinkcell, we are continuously improving how professionals create business presentations by introducing smarter automation and assistance features into our product. In this role, you will help turn new ideas and early AI-driven concepts into …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/thinkcellsoftware/senior-full-stack-developer-ai-team-38265",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "61ce972005f13ecb",
+      "title": "Neuroscientist",
+      "company": "Netholabs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Brighton",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Type: Full-time Location: University of Sussex, Brighton - On-site The Role Netholabs is building AI grounded in biological intelligence. We record petascale, high-resolution neurobehavioural data from living systems and use it to train neural foundation model…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/netholabs/neuroscientist-brighton-188522",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "29db0f33cb6e6fd0",
+      "title": "Clinical Training and Education Lead",
+      "company": "Montu Uk",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "International Development",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-09",
+      "reportsTo": {
+        "name": null,
+        "title": "demonstrate progress, risks and areas for improvement Regularly review and improve learning content"
+      },
+      "summary": "What is the job? This is an opportunity to shape how our clinical teams learn, develop and perform as Montu continues to grow. Sitting within the Learning and Development function, you will take ownership of the learning experience across our clinical teams. Y…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/clinical-training-and-education-lead-london-301182",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "35b0b4a20c7634ac",
+      "title": "Senior AI Software Engineer",
+      "company": "Aveni",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Aveni is redefining how financial institutions use AI. We build real, production-ready agentic systems that reshape how banks, advisers, and financial services firms operate, replacing fragmented processes with intelligent, end-to-end workflows. Our achievemen…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/aveni/senior-ai-software-engineer-united-kingdom-351690",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fd8bf897b7f23563",
+      "title": "Graduate Data Engineer",
+      "company": "Quantum",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Company At Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity. Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world’s most used digital comparison serv…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/quantum/graduate-data-engineer-london-224719",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "57dc892c4e56ba21",
+      "title": "Sales Order Compliance Coordinator",
+      "company": "Legal 500",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Leeds",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Legal 500 Legal 500 is a global legal market research, data and intelligence business. Our research helps corporate clients make informed decisions about legal representation and gives law firms insight into their market position, performance, and client…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/legal-500/sales-order-compliance-coordinator-leeds-73417",
+      "source": "Arbeitnow"
+    },
     {
       "id": "85498ca5acbbeafa",
       "title": "Senior Infrastructure Operations Engineer (EMEA)",
@@ -2902,32 +3170,6 @@
       },
       "summary": "Wer wir sind Heringer Consulting ist ein inhabergeführtes Beratungshaus mit über 100 Mitarbeitenden an vier Standorten: Köln, Berlin, Leipzig und Hamburg. Wir helfen Unternehmen dabei, Daten nutzbar zu machen: von der Datenarchitektur über Analytics bis hin zu…",
       "applicationUrl": "https://www.arbeitnow.com/jobs/companies/heringer-consulting-gmbh/data-consultant-trainee-koln-und-leipzig-cologne-447040",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "0bef98db2f5e5902",
-      "title": "Senior Software Engineer (m/w/d)",
-      "company": "Pflegia",
-      "employmentType": "Internship",
-      "location": {
-        "city": "Berlin",
-        "region": null,
-        "country": null,
-        "workMode": "On-site"
-      },
-      "sectors": [
-        "Data & Analytics",
-        "Healthcare",
-        "Technology / IT"
-      ],
-      "deadline": null,
-      "postedDate": "2026-10-08",
-      "reportsTo": {
-        "name": null,
-        "title": null
-      },
-      "summary": "At Pflegia we are building and operating an innovative job matching platform, which intelligently brings together caregivers and healthcare employers. Our vision is to become Europe's leading job platform for nursing professions and to fight the nursing crisis…",
-      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pflegia/senior-software-engineer-berlin-355454",
       "source": "Arbeitnow"
     },
     {
@@ -9133,6 +9375,1146 @@
       },
       "summary": "Die CURRENTA-Gruppe sucht Dich für die Business Line Analytik, Bildung & Gesundheitsschutz. Als Werkstudent*in bist Du für folgende Aufgaben verantwortlich: Mitarbeit an spannenden Digitalisierungs- und Entwicklungsprojekten mit direktem Mehrwert für das Unter…",
       "applicationUrl": "https://www.arbeitnow.com/jobs/companies/currenta-gruppe/werkstudent-full-stack-developer-leverkusen-463905",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "138d0b5fe75fba53",
+      "title": "Territory Account Executive (Germany)",
+      "company": "purestorage",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of techn…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/purestorage/remote-territory-account-executive-germany-312675",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4f2653720525e1ee",
+      "title": "Territory Account Executive",
+      "company": "purestorage",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of techn…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/purestorage/remote-territory-account-executive-166841",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "aecad99c28bf33a9",
+      "title": "Senior Value Engineer - CPG/Retail",
+      "company": "celonis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning A…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/celonis/senior-value-engineer-cpg-retail-munich-214888",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e3dcffa6374ce4c5",
+      "title": "Senior Value Engineer - Aviation/Logistics",
+      "company": "celonis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning A…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/celonis/senior-value-engineer-aviation-logistics-munich-355200",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bcb463169f27e1c4",
+      "title": "Senior Process Intelligence & Supply Chain Transformation Consultant - CPG/Retail",
+      "company": "celonis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning A…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/celonis/senior-process-intelligence-supply-chain-transformation-consultant-cpg-retail-munich-73983",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9d07b7a74629ad00",
+      "title": "Senior Process Intelligence & Supply Chain Transformation Consultant - Aviation/Logistics",
+      "company": "celonis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning A…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/celonis/senior-process-intelligence-supply-chain-transformation-consultant-aviation-logistics-munich-344197",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a53785818c2d3978",
+      "title": "Senior Management & Technology Consultant - CPG/Retail - CPG/Retail",
+      "company": "celonis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning A…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/celonis/senior-management-technology-consultant-cpg-retail-cpg-retail-munich-165994",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "723891e86d24f28a",
+      "title": "Senior Management & Technology Consultant - Aviation/Logistics",
+      "company": "celonis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning A…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/celonis/senior-management-technology-consultant-aviation-logistics-munich-101013",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8dd94cdf677fcf39",
+      "title": "Senior Digital Transformation & Process Optimisation Consultant - CPG/Retail",
+      "company": "celonis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning A…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/celonis/senior-digital-transformation-process-optimisation-consultant-cpg-retail-munich-211875",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8d19ce7e9f10e309",
+      "title": "Senior Business Transformation & Process Optimisation Consultant - Aviation/Logistics",
+      "company": "celonis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning A…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/celonis/senior-business-transformation-process-optimisation-consultant-aviation-logistics-munich-395033",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3391b8f89551feee",
+      "title": "C-UAS Training & Demo Expert (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Gilching",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Quantum Systems is a leading European deep-tech company for unmanned systems across air, land and maritime domains. We develop and scale integrated hardware, software and AI-powered solutions for mission-critical operations. By combining autonomous platforms w…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/c-uas-training-demo-expert-gilching-204225",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4ae78fc9456bd7d4",
+      "title": "UxS Training Equipment & Fleet Coordinator (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Gilching",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Quantum Systems is a leading European deep-tech company for unmanned systems across air, land and maritime domains. We develop and scale integrated hardware, software and AI-powered solutions for mission-critical operations. By combining autonomous platforms w…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/uxs-training-equipment-fleet-coordinator-gilching-88219",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ec6f767a58d6e6d0",
+      "title": "Senior Project Manager Construction (m/w/d)",
+      "company": "Q Energy",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Hamburg",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Gestalte mit uns die Energiezukunft Deutschlands Für unser Construction-Team suchen wir einen erfahrenen Senior Project Manager Construction (m/w/d) , der komplexe Wind- und Photovoltaikprojekte von der technischen Bewertung bis zur Übergabe an …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/q-energy/senior-project-manager-construction-berlin-hamburg-53417",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c553be0840fe3841",
+      "title": "Senior Accountant / Bilanzbuchhalter (m/w/d)",
+      "company": "Q Energy",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Gestalte mit uns die Energiezukunft Deutschlands Für unser Accounting-Team suchen wir einen erfahrenen Senior Accountant / Bilanzbuchhalter (m/w/d) , der Abschlusssicherheit mit Eigenverantwortung und dem Anspruch verbindet, Finanzprozesse konti…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/q-energy/senior-accountant-bilanzbuchhalter-berlin-186759",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5cc3b77fe1ece1ff",
+      "title": "Werkstudent Sustainability/Nachhaltigkeit/ESG (m/w/d)",
+      "company": "Lindalgroup",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany (Hamburg)",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Supply Chain",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Rolle Du unterstützt die Weiterentwicklung unserer Nachhaltigkeitsaktivitäten durch die Aufbereitung relevanter ESG-, Klima- und Umweltdaten. Gemeinsam mit internen Stakeholdern arbeitest Du an Reportings, Nachhaltigkeitsratings und Projekten und leistes…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lindalgroup/werkstudent-sustainability-nachhaltigkeit-esg-germany-hamburg-67017",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f58e4d6fdb3147f5",
+      "title": "Working Student - Information Security",
+      "company": "Eqs Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "JOIN OUR TEAM Are you a student with a keen interest in information security, audits, and assurance? Join our Audit, Certifications and Assurance team and help strengthen the evidence, processes, and collaboration behind EQS Group’s security commitments. You w…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/eqs-group/working-student-information-security-munich-287432",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d9d186dd7c3f3ccd",
+      "title": "Senior Accountant (m/w/d) - Markranstädt, Germany",
+      "company": "Skeletontech",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Markranstädt",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": "Group Chief Accountant who works in English"
+      },
+      "summary": "Skeleton Technologies is looking for a Senior Accountant to join our team in Markranstädt, Germany. About Skeleton Skeleton Technologies is a global leader in critical power infrastructure for AI data centers and electrical grid stability, founded in 2009. Pow…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skeletontech/senior-accountant-markranstadt-germany-39034",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1757d0c03cbfdd02",
+      "title": "Software Engineer (all gender)",
+      "company": "Kranus Health Gmbh",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job description Kranus Health builds digital therapeutics for urology and gynecology. Our therapies are developed with clinicians, prescribed by doctors, and reimbursed by health insurers. As regulated medical software, everything you build reaches patients wi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/kranus-health-gmbh/software-engineer-all-gender-munchen-233411",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9263dde481977990",
+      "title": "(Senior) Revenue Operations Manager (d/m/w)",
+      "company": "Riskident",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About To strengthen our Revenue organisation, we are looking for a (Senior) Revenue Operations Manager (d/f/m) to join us full-time or part-time, as soon as possible. As the connective tissue between Sales, Marketing, Finance & Management, you make sure our re…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/riskident/senior-revenue-operations-manager-hamburg-40998",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ed5ccc9bfc337dbc",
+      "title": "Senior Engineering Project Manager (m/w/d)",
+      "company": "Idealworks",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Role: What to expect Idealworks builds industrial automation as a coordinated system — mobile robots, orchestration software, simulation, and increasingly humanoids and physical AI, working together in real production environments rather than as isolated p…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/idealworks/senior-engineering-project-manager-munchen-80731",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "736d1ba31dd9dbd2",
+      "title": "Werkstudent Recruiting (all genders)",
+      "company": "asgoodasnew electronics GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Mission Du willst neben deinem Studium praktische Erfahrung im Recruiting sammeln und nicht nur Bewerbungen verwalten? Dann kannst du bei uns direkt mitmachen: von der Stellenausschreibung über das erste Gespräch mit Kandidat bis hin zur Direktansprache …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/asgoodasnew-electronics-gmbh/werkstudent-recruiting-all-genders-berlin-67829",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "27bc12e64cfa22cf",
+      "title": "Communications & Design Working Student",
+      "company": "Personal data collected as part of the application process",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the role Gauss Fusion is looking for a creative and hands-on Working Student to support its communications activities at our headquarters in Garching bei München. The role will have a particular focus on visual and digital communications, helping to turn…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/personal-data-collected-as-part-of-the-application-process/communications-design-working-student-munich-419584",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4860953be0d302c3",
+      "title": "Praktikum Trainer*innen-Entwicklung (m/w/d)",
+      "company": "Deutscher Fußball-Bund",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Frankfurt am Main",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Position Zur Unterstützung im Bildungsmanagement suchen wir zum 01.01.2027 für min. 6 Monate eine*n Praktikant*in in der Abteilung Trainer*innen-Entwicklung. Mit der Neustrukturierung der Trainerausbildung wurde das Lehrgangsangebot des DFB umfangreich überarb…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/deutscher-fussball-bund/praktikum-trainerinnen-entwicklung-frankfurt-am-main-415542",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d499eeb6e943f33a",
+      "title": "Terminplaner / Scheduling Engineer (m/w/d)",
+      "company": "SpotOn Solutions",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bremen",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unser Kunde ist ein international aufgestelltes Unternehmen mit rund 1000 Mitarbeitenden. Gebaut werden Übertragungsnetze für die großen Netzbetreiber, Projekte, die über Jahre laufen und bei denen der Endtermin zählt. Aufgaben Sie erstellen und verantworten d…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/spoton-solutions/terminplaner-scheduling-engineer-bremen-261835",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "77aeaa00ba177fde",
+      "title": "Product Manager (UK)",
+      "company": "Hypori",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hypori, Inc. is a high-growth cybersecurity SaaS company transforming how organizations think about secure mobility. Our virtual workspace platform enables users to access enterprise apps an d d ata from a ny mobile device—with zero data on the endpoint and to…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hypori/product-manager-uk-292697",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ff923adf40eac00b",
+      "title": "Fire Alarm Service and Maintenance Engineer - Brighton & Hove",
+      "company": "Helix International Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Brighton and Hove",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Fire Alarm Service & Maintenance Engineer Field Based - Brighton & Hove & Local Catchment | Circa £35,000 + Benefits and Additional Earning Potential Company Overview: Firetecnics is one of London's most trusted, LPCB-certified fire safety companies, with one …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/helix-international-group/fire-alarm-service-and-maintenance-engineer-brighton-hove-brighton-and-hove-451251",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "df6a369db30cc0bb",
+      "title": "Associate/Contractor - Fire, Health and Safety Consultant",
+      "company": "Ark Workplace Risk",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Birmingham",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Fire, Health & Safety Consultant - Contractor/Associate Ark Workplace Risk | Competitive Day Rate At Ark Workplace Risk, we empower our clients to confidently manage risk, compliance, and safety through a trusted partnership built on expert knowledge, innovati…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ark-workplace-risk/associate-contractor-fire-health-and-safety-consultant-birmingham-383513",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ae32ba9437c94bb8",
+      "title": "Associate/Contractor - Fire, Health and Safety Consultant",
+      "company": "Helix International Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Fire, Health & Safety Consultant - Contractor/Associate Ark Workplace Risk | Competitive Day Rate At Ark Workplace Risk, we empower our clients to confidently manage risk, compliance, and safety through a trusted partnership built on expert knowledge, innovati…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/helix-international-group/associate-contractor-fire-health-and-safety-consultant-london-74253",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "239881cae2d67cac",
+      "title": "Underwriter - Commercial Mortgages - 12 Month FTC",
+      "company": "Allica Bank",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London Office",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Allica Bank Allica is the UK’s fastest growing company - and the fastest-growing financial technology (Fintech) firm ever. Our purpose is to help established SMEs, one of the last major underserved opportunities in Fintech. Established SMEs are the backb…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/underwriter-commercial-mortgages-12-month-ftc-london-36524",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ffbe1b7204ff6cc3",
+      "title": "Underwriter - Commercial Mortgages",
+      "company": "Allica Bank",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London Office",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Allica Bank Allica is the UK’s fastest growing company - and the fastest-growing financial technology (Fintech) firm ever. Our purpose is to help established SMEs, one of the last major underserved opportunities in Fintech. Established SMEs are the backb…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/underwriter-commercial-mortgages-london-256990",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6feebd4afbb43bed",
+      "title": "Site Associate - Canning Town",
+      "company": "Deliveroo",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London - Canning Town (Editions)",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Site Associate Location: Canning Town Working pattern: Part-time (20 hours per week) | Shift-based (Site hours between 7:00 AM – 4:30 AM) Pay: £14.40 per hour (20% uplift for hours worked after 10:00 PM) Join us in our mission to transform the way people shop …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/site-associate-canning-town-london-92970",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8f35a84df8b95fe6",
+      "title": "People Operations Coordinator",
+      "company": "Radiant",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job Title: People Operations Reports to: People Manager Location: London onsite About Radiant Radiant is redefining how AI infrastructure is built. We design and operate AI-native cloud platforms engineered for sovereignty, performance, and scale. Our infrastr…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/radiant/people-operations-coordinator-london-28905",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cd9fc0573e9f6add",
+      "title": "Graduate Technical Support Analyst",
+      "company": "Odin",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Odin Odin is building the investment infrastructure for the future of private markets. We believe capital is one of the most powerful tools for shaping the world - and more people should be putting it to work. Our mission is to make it radically easier t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/odin/graduate-technical-support-analyst-london-353425",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "12591171c5e7ae2a",
+      "title": "Senior Corporate Tax Manager",
+      "company": "Unity Advisory",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "UK Wide",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Unity Advisory Unity Advisory is a modern advisory business built for today's CFO, with connected solutions across finance, deals and tax. Focussed on client outcomes, seasoned experts lead every engagement, in an operating model powered by AI and free f…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unity-advisory/senior-corporate-tax-manager-national-88396",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dbd699163636dada",
+      "title": "Account Manager, Customer Success",
+      "company": "Pencil",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom - Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job Description At Pencil, we are driving innovation in advertising technology through our state-of-the-art SaaS product, which harnesses Generative AI to redefine content creation. Our mission is to make AI the default in advertising without replacing creativ…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/pencil/account-manager-customer-success-london-371398",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "329f967b634798b8",
+      "title": "Chargé d'action Affaires Générales - 3948 H/F",
+      "company": "Agence de services et de paiement",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Montreuil",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "_______________________ Domaine : Direction et pilotage des politiques publiques Nature du poste : Pérenne Statut : Fonctionnaire cat A- ouvert aux contractuels Corps : AAE Cotation RIFSEEP : G4 Cotation Parcours professionnel : 1 Pour les contractuels Fondeme…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/agence-de-services-et-de-paiement/charge-daction-affaires-generales-3948-h-f-montreuil-412858",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ef10b019de7b0c30",
+      "title": "Gestionnaire référent budget / logistique - 0846 - H/F",
+      "company": "Agence de services et de paiement",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Dijon",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "_______________________ Domaine : Gestion budgétaire et financière Nature du poste : Pérenne Statut : Fonctionnaire - ouvert aux contractuels Corps : SA / TSMA Cotation RIFSEEP : G2.B Pour les contractuels Fondement juridique du contrat : L 332-1 Niveau d’étud…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/agence-de-services-et-de-paiement/gestionnaire-referent-budget-logistique-0846-h-f-dijon-464732",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "597e81c1c0bb1904",
+      "title": "Customer Success Manager (H/F) CDI",
+      "company": "Mistertemp' group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Clichy",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Rejoignez la forte croissance de Mistertemp Plus au sein de son pôle relation client. Vous construirez l’amélioration des process, accompagnerez les établissements et participerez directement à la croissance de l'offre. Mistertemp Group dispose de Mistertemp P…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/mistertemp-group/customer-success-manager-h-f-cdi-clichy-450608",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cd508376f011ec75",
+      "title": "Assistant de formation temporaire F/H",
+      "company": "Université de Technologie de Compiègne",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Compiègne",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "L’Université de technologie de Compiègne recrute un assistant de formation temporaire F/H au sein du pôle formation et développement des compétences, à la direction des ressources humaines. Vous évoluerez au cœur des enjeux RH de l'enseignement supérieur et de…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/universite-de-technologie-de-compiegne/assistant-de-formation-temporaire-f-h-compiegne-63236",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5a4bdf2aa91a719f",
+      "title": "Electrical Design Engineer & Machine Safety Specialist (M/F)",
+      "company": "One Mobility",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Masevaux-Niederbruck",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join us in driving connectivity forward! At One Mobility Group , we bridge worlds—combining nearly a century of German automotive engineering precision with the innovation power of the globe's largest electronics and ICT manufacturer. This unique positioning m…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/one-mobility/electrical-design-engineer-machine-safety-specialist-m-f-masevaux-niederbruck-396307",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "88a018532feeb247",
+      "title": "Full time paid Internship DSU/ Stage DSU Paris",
+      "company": "Technopolis Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Introduction The selected person will join the Technopolis Group Data Science Unit (DSU), whose members work across different country offices. Our growing team brings together diverse academic backgrounds and a shared passion for developing data science applic…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/technopolis-group/full-time-paid-internship-dsu-stage-dsu-paris-310496",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "54321a30ca0a32ed",
+      "title": "Senior Project Manager (m/f/d)",
+      "company": "Arethia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hybrid",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Role description As Senior Project Manager, you will join our central Project Management team in Reinbek, which leads the company's large and complex cross-functional projects and sets the standards for how projects are run across all of arethia's global locat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/arethia/senior-project-manager-hybrid-394825",
       "source": "Arbeitnow"
     },
     {
