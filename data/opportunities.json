@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-10T22:33:59.097535+00:00",
+    "lastUpdated": "2026-10-11T01:55:19.530511+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,195 @@
     ]
   },
   "jobs": [
+    {
+      "id": "7b0dadf7350e6041",
+      "title": "Server & Infrastructure Engineer - Unannounced project",
+      "company": "Nmcareers",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who We Are: At NaturalMotion, we make games that wow people. We innovate to create previously impossible experiences that would not exist without us. We take pride in making titles that reach a large audience and creating communities that last. Our commitment …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/nmcareers/server-infrastructure-engineer-unannounced-project-london-269288",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "91a33c184ab42b39",
+      "title": "ML Research Engineer - Member of Technical Staff",
+      "company": "Callosum",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us We’re living through a Cambrian explosion of intelligence: new models and new chips, each specialised for different tasks, are arriving all at once. The result is a new era for AI, one of radical heterogeneity. Callosum is the Intelligent Systems Comp…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/callosum/ml-research-engineer-member-of-technical-staff-london-451626",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f4490a9497bd8d12",
+      "title": "Evolutionary Optimisation - Member of Technical Staff",
+      "company": "Callosum",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us We’re living through a Cambrian explosion of intelligence: new models and new chips, each specialised for different tasks, are arriving all at once. The result is a new era for AI, one of radical heterogeneity. Callosum is the Intelligent Systems Comp…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/callosum/evolutionary-optimisation-member-of-technical-staff-london-92921",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "77a7cf5971d6486a",
+      "title": "Technical GTM Lead",
+      "company": "Cosine",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job title: Technical GTM Lead Location: London; full in-office working as default Start date: ASAP Reports to: CRO Compensation: Salary and Equity options available for discussion Application deadline: 01/11/26 at 23:59 UK time ________________________________…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cosine/technical-gtm-lead-london-4704",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "effd2c24c0c64bc7",
+      "title": "ML Systems Engineer - Model Training and Infrastructure (SWE-focused LLMs)",
+      "company": "Cosine",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job title: ML Systems Engineer - Model Training and Infrastructure (SWE-focused LLMs) Location: London; full in-office working as default Start date: ASAP Compensation: £80,000 - £110,000 Base Salary & £80,000 - £110,000 Share options. ________________________…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cosine/ml-systems-engineer-model-training-and-infrastructure-swe-focused-llms-london-49524",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8f01245eea30b9a1",
+      "title": "Warehouse Supervisor - Manchester",
+      "company": "Deliveroo",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Manchester - Western St (Hop)",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Warehouse Supervisor Location: Manchester (M12) Working pattern: Onsite | Full-time | Shift-based (37.5 hours per week) Pay: £14.30 per hour Join us in our mission to transform the way people shop and eat, where impact, innovation, and growth drives everything…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/warehouse-supervisor-manchester-217657",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f622bdcea910ac67",
+      "title": "Data Analyst",
+      "company": "Cube",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "CUBE are a global RegTech business defining and implementing the gold standard of regulatory intelligence for the financial services industry. We deliver our services through intuitive SaaS solutions, powered by AI, to simplify the complex and everchanging wor…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cube/data-analyst-london-190016",
+      "source": "Arbeitnow"
+    },
     {
       "id": "41c849c9cbf27903",
       "title": "Projektmanager Terminplanung (m/w/d)",
@@ -5020,6 +5209,671 @@
       "summary": "Do you want to work for the global leader in the language services and technology industry? Are you interested in helping international brands/organizations find and implement solutions that allow them to communicate, operate and sell their products and servic…",
       "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/transperfect/account-executive-zurich-115076",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "97761be4cec63d62",
+      "title": "Senior Project Manager (all genders)",
+      "company": "Agilerobotsse",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Bavaria",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the Role : We are looking for a Senior Project Manager, Robotics & Technical Solutions, to join our team and lead complex robotics and automation projects from initial customer engagement through successful implementation. This role is ideal for someone …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-project-manager-all-genders-munich-bavaria-225623",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "964e263417f36d68",
+      "title": "Senior Sales Manager, Regional Enterprise",
+      "company": "wolt",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin; Cologne; Frankfurt am Main; Hamburg; Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Wolt At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we’re building the delivery of (almost) everything and you’ll find us in over 500 citi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/wolt/senior-sales-manager-regional-enterprise-berlin-cologne-frankfurt-am-main-hamburg-munich-77313",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "09d5fd623ea5f99b",
+      "title": "Associate GTM Recruiter",
+      "company": "Constructor",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About You We're looking for an Associate GTM Recruiter who is competitive, curious, and hungry to become exceptional at recruiting. At Constructor, we hire builders: people who take real ownership of their work, spot what needs fixing, and fix it without waiti…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/constructor/associate-gtm-recruiter-munich-198363",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d8d245dead7f6617",
+      "title": "Senior Verkaufsberater Showroom (m/w/d)",
+      "company": "Pergolux",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany | Leipzig | Showroom",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Als Senior Verkaufsberater:in Showroom machst du unsere Pergolen für Kund:innen auf dem deutschen Markt erlebbar und führst sie sicher vom ersten Gespräch bis zum Kaufabschluss, auch bei größeren und anspruchsvolleren Projekten. Du bist erste Ansprechperson im…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pergolux/senior-verkaufsberater-showroom-leipzig-345069",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9322c7939c3a3fe3",
+      "title": "Verkaufsberater Showroom (m/w/d)",
+      "company": "Pergolux",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany | Leipzig | Showroom",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Als Verkaufsberater:in Showroom machst du unsere Pergolen für Kund:innen auf dem deutschen Markt erlebbar und begleitest sie vom ersten Gespräch bis zum Kaufabschluss. Du verstehst die Wünsche der Kund:innen, führst Produkte und Zubehör im Showroom vor und emp…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pergolux/verkaufsberater-showroom-leipzig-327873",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d0e679933b55abfe",
+      "title": "Projektleiter / Teamleiter (m/w/d)",
+      "company": "Tabel GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Donnersdorf",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "VOLLZEIT | DONNERSDORF | 4.000 € BIS 5.000 € BRUTTO PRO MONAT DAS BIETEN WIR DIR 4.000 € bis 5.000 € brutto monatlich abhängig von Erfahrung und Qualifikation Eine verantwortungsvolle Führungsrolle mit echtem Gestaltungsspielraum Direkte Zusammenarbeit mit der…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tabel-gmbh/projektleiter-teamleiter-donnersdorf-317259",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d2982780e450ba0b",
+      "title": "Projektleiter / Teamleiter (m/w/d)",
+      "company": "Tabel GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Donnersdorf",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "VOLLZEIT | DONNERSDORF | 4.000 € BIS 5.000 € BRUTTO PRO MONAT DAS BIETEN WIR DIR 4.000 € bis 5.000 € brutto monatlich abhängig von Erfahrung und Qualifikation Eine verantwortungsvolle Führungsrolle mit echtem Gestaltungsspielraum Direkte Zusammenarbeit mit der…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tabel-gmbh/projektleiter-teamleiter-donnersdorf-307081",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8316837b736e9a24",
+      "title": "Projektleiter / Teamleiter Architektur (m/w/d) oder Senior Architekt mit Teamverantwortung (m/w/d)",
+      "company": "UNDKRAUSS",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sports",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "WIR UNDKRAUSS UND KRAUSS bietet Design & Build Projekte im Innenausbau (KG300 / KG400) für Neubau und Sanierungen von gewerblichen und wohnungswirtschaftlichen Projekten im gesamten Bundesgebiet an. Für diese Projekte suchen wir einen Teamleiter (m/w/d) der al…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/undkrauss/projektleiter-teamleiter-architektur-oder-senior-architekt-mit-teamverantwortung-berlin-329370",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7399a83efb98621b",
+      "title": "Working Student - Data & Financial Research eCommerce (m/f/d)",
+      "company": "Ecdb Gmbh Latest",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About us ECDB GmbH is an e-commerce market intelligence provider founded in 2022. The company collects and analyzes worldwide e-commerce transaction data, enriched with comprehensive information on online retailers, countries, regions, and markets, to generate…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ecdb-gmbh-latest/working-student-data-financial-research-ecommerce-hamburg-475894",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1aa8ab400f37dd46",
+      "title": "(Senior) Marketing Manager (m/w/d)",
+      "company": "Ecdb Gmbh Latest",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns ECDB – Die Zukunft des eCommerce mit Daten gestalten! ECDB ist weltweit der Anlaufpunkt für eCommerce Market Intelligence. Wir sind überzeugt: Daten entscheiden über Erfolg im eCommerce. Wir liefern Unternehmen wie Amazon, Google und PayPal präziseste…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ecdb-gmbh-latest/senior-marketing-manager-hamburg-228228",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e42445f352113476",
+      "title": "Claims Expert (m/w/d) Medical & Travel (befristet)",
+      "company": "Europ Assistance Services GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sports",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Das erwartet Dich Du möchtest Deine Erfahrung in der Bearbeitung anspruchsvoller Schadenfälle einbringen und gleichzeitig die Qualität im Claims Management aktiv weiterentwickeln? Du analysierst gerne komplexe Sachverhalte, erkennst Verbesserungspotenziale und…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/europ-assistance-services-gmbh/claims-expert-medical-travel-befristet-munchen-255409",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4b258d8d54610266",
+      "title": "Team Lead (m/f/d) Analytics & Forecasting",
+      "company": "Tmh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Why The Mobility House? Take responsibility and join us in building an emission-free world of energy and mobility. Look forward to exciting tasks, plenty of scope to shape your work, and endless opportunities to grow beyond your current limits. Join an open, d…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tmh/team-lead-analytics-forecasting-munchen-391110",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2eb4bf07692fcca0",
+      "title": "(Senior) Business Development Manager (m/w/d)",
+      "company": "Tmh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Warum The Mobility House? Übernimm Verantwortung und arbeite gemeinsam mit uns an einer emissionsfreien Energie- und Mobilitätswelt. Spannende Aufgaben, viel Gestaltungsspielraum und jede Menge Möglichkeiten, über dich hinauszuwachsen. Freu dich auf ein offene…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tmh/senior-business-development-manager-munchen-454990",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e6eb1ac9c45294de",
+      "title": "Full Stack Engineer",
+      "company": "Xyz Reality",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London Office",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Build the technology behind the teams transforming construction At XYZ Reality , we’ve created the world’s first engineering-grade Augmented Reality solution for construction. Our product, The Atom, is used on major projects worldwide to bring designs to life …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/xyz-reality/full-stack-engineer-london-131242",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8f4daa06bc50a7a2",
+      "title": "Broker Development Manager",
+      "company": "Flock",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ABOUT FLOCK Road accidents kill and injure people, damage vehicles, and cost businesses fortunes. But traditional insurance does nothing to prevent them - it just pays out claims when they happen. At Flock, we’re changing that. Using telematics, AI, and real-t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/flock/broker-development-manager-bristol-302999",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "14b2b49783754064",
+      "title": "Broker Development Manager",
+      "company": "Flock",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Leeds",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ABOUT FLOCK Road accidents kill and injure people, damage vehicles, and cost businesses fortunes. But traditional insurance does nothing to prevent them - it just pays out claims when they happen. At Flock, we’re changing that. Using telematics, AI, and real-t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/flock/broker-development-manager-leeds-170650",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3fa823bbff90fbba",
+      "title": "Broker Development Manager",
+      "company": "Flock",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Manchester",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ABOUT FLOCK Road accidents kill and injure people, damage vehicles, and cost businesses fortunes. But traditional insurance does nothing to prevent them - it just pays out claims when they happen. At Flock, we’re changing that. Using telematics, AI, and real-t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/flock/broker-development-manager-manchester-340908",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "64ee5ebba1d523df",
+      "title": "Credit Analyst Intern (Jan 2027)",
+      "company": "Lendable",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Lendable Lendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start: One of the UK’s most exciting unicorns with a team…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/lendable/credit-analyst-intern-jan-2027-london-375032",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "40fe44c563f21fca",
+      "title": "Content Executive (6 month FTC)",
+      "company": "Midnite",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🚀 Why Midnite? Midnite is a next-generation sports betting and gaming platform built for a new wave of players. We combine sharp product thinking, bold brand, and fast execution to create experiences that feel modern, intuitive, and built for how people actual…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/midnite/content-executive-6-month-ftc-united-kingdom-2434",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7daf5aa48da586aa",
+      "title": "Infrastructure Manager",
+      "company": "Olix",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "UK",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About OLIX AI is growing faster than any technology in history and the explosion in demand has created a massive infrastructure gap; we can no longer build chips or power stations fast enough to keep up. The industry is still leaning on a ten-year-old hardware…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/olix/infrastructure-manager-london-167393",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8edc70554c3d8535",
+      "title": "Sales Account Executive",
+      "company": "TransPerfect",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you have exiting sales experience within the Life Sciences or the localisation services industry? Are you looking for a role where you can exhibit the utmost integrity, deliver the highest quality, provide outstanding service, act as if you own it, work wit…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/transperfect/sales-account-executive-paris-407031",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "37d8967bdc013f08",
+      "title": "Chargé de Ressources Humaines en alternance H/F/X",
+      "company": "TopChrono",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Saint Ouen",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Rejoignez notre transformation ! TopChrono , leader historique de la livraison express et du dernier kilomètre, entre dans une nouvelle ère ! Face aux mutations du secteur (explosion du e-commerce, ubérisation, nouvelles technologies), nous avons entrepris un …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/topchrono/charge-de-ressources-humaines-en-alternance-saint-ouen-416558",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d0a0f1bc57393342",
+      "title": "Strategic Partner Account Manager DACH",
+      "company": "Aircall",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Aircall is a unicorn, AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, resolve issues faster, and scale customer-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI to…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/aircall/strategic-partner-account-manager-dach-paris-office-147415",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8d3d06521806e9da",
+      "title": "Regional Marketing Intern, DACH Market",
+      "company": "Aircall",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Aircall is a unicorn, AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, resolve issues faster, and scale customer-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI to…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/aircall/regional-marketing-intern-dach-market-paris-office-81760",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b007576fc6eb8f64",
+      "title": "Senior Financial Accountant (80-100%)",
+      "company": "enovetic ag",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Rotkreuz",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns enovetic entwickelt und betreibt eine führende Plattform, die Arbeit, Gesundheit und Vermögen intelligent verbindet. Damit vereinfachen wir die Administration dieser Bereiche und gestalten zentrale Interaktionen zwischen Menschen, Arbeitgebern und Anb…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/enovetic-ag/senior-financial-accountant-80-100-rotkreuz-196122",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c0224e785f8c6a44",
+      "title": "Junior Sales Development Representative IT Industry",
+      "company": "Huzzle",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-10",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Huzzle At Huzzle, we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include fast-growing startups, digital agencies, SaaS companies, and tech-enabled businesses across …",
+      "applicationUrl": "https://remoteOK.com/remote-jobs/remote-junior-sales-development-representative-it-industry-huzzle-1137480",
+      "source": "Remote OK"
     },
     {
       "id": "0bef98db2f5e5902",
