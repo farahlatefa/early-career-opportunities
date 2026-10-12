@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-12T00:33:42.562236+00:00",
+    "lastUpdated": "2026-10-12T07:22:45.205536+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,896 @@
     ]
   },
   "jobs": [
+    {
+      "id": "a066f1e364ac15a2",
+      "title": "Unsolicited Application: Working Student - Software Engineering (m/f/d)",
+      "company": "TYTAN Technologies GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "TYTAN Technologies At TYTAN , we aim to set a global standard in autonomous air defense with AI-driven, cost-efficient systems that counter unmanned aerial threats at scale. We protect people. We protect critical infrastructure. We protect Europe’s sovereignty…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/unsolicited-application-working-student-software-engineering-munich-322796",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e343b563916374cd",
+      "title": "Field Solutions Engineer (f/m/d)",
+      "company": "TYTAN Technologies GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "TYTAN Technologies The PACE is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We thrive, think big, and hold ourselves to the highest standard. Our mission and values guide everything we do, a…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/field-solutions-engineer-munich-80160",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8becd2688d7d47cc",
+      "title": "Senior Bilanzbuchhalter / Senior Accountant (all genders)",
+      "company": "tink GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Erstellung von Monats, Quartals und Jahresabschlüssen: Eigenverantwortliche Vorbereitung und Erstellung der Abschlüsse nach HGB für die tink GmbH und verbundene Gesellschaften Haupt und Nebenbuchhaltung: Überwachung und Durchführung der Debitore…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tink-gmbh/senior-bilanzbuchhalter-senior-accountant-all-genders-berlin-11479",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e44fae786a772e98",
+      "title": "Praktikant E-Commerce (all genders) - ab sofort, mind. 3 Monate",
+      "company": "tink GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Shop verbessern: Du analysierst unsere Customer Journey und findest Ideen, wie wir Suche, Produktseiten und Checkout noch besser machen können Features mitgestalten: Du entwickelst neue Shop-Features mit – von der ersten Idee über Tests bis zum …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tink-gmbh/praktikant-e-commerce-all-genders-ab-sofort-mind-3-monate-berlin-398762",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "763020d0781fc5de",
+      "title": "Senior Projektmanager Bau (m/w/d)",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein international agierendes Unternehmen, das sich auf Projektsteuerung, Baumanagement und die erfolgreiche Realisierung komplexer Bauvorhaben spezialisiert hat. In vielseitigen Projekten unterschiedlichster Größenordnungen werde…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-projektmanager-bau-dusseldorf-97413",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "756ead7bb7afb3d6",
+      "title": "Senior Projektleiter (m/w/d) Großprojekt",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Stuttgart",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein erfolgreiches und wirtschaftlich stark aufgestelltes Bauunternehmen. Das Unternehmen realisiert anspruchsvolle Großprojekte im Hochbau und überzeugt durch höchste Qualitätsstandards, innovative Bauprozesse und eine langfristi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-projektleiter-grossprojekt-stuttgart-281231",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "976287265d087a91",
+      "title": "Senior Bauleiter (m/w/d) Ingenieurbau in Frankfurt (Main)",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Frankfurt",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein erfolgreiches und etabliertes Bauunternehmen mit langjähriger Erfahrung im Ingenieurbau und realisiert anspruchsvolle Infrastrukturprojekte. Das Unternehmen steht für Qualität, Innovation und nachhaltige Bauweise und überzeug…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-ingenieurbau-in-frankfurt-main-248181",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "224da06532eb0974",
+      "title": "Senior Bauleiter (m/w/d) Ingenieurbau – Stuttgart / Karlsruhe",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Stuttgart",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein erfolgreiches und etabliertes Bauunternehmen mit langjähriger Erfahrung im Ingenieurbau und realisiert anspruchsvolle Infrastrukturprojekte. Das Unternehmen steht für Qualität, Innovation und nachhaltige Bauweise und überzeug…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-ingenieurbau-stuttgart-karlsruhe-317386",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "393724609bd49264",
+      "title": "Senior Bauleiter (m/w/d) Ingenieurbau - Stuttgart / Karlsruhe",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Stuttgart",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein erfolgreiches und etabliertes Bauunternehmen mit langjähriger Erfahrung im Ingenieurbau und realisiert anspruchsvolle Infrastrukturprojekte. Das Unternehmen steht für Qualität, Innovation und nachhaltige Bauweise und überzeug…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-ingenieurbau-stuttgart-karlsruhe-423143",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "76c382b2a5b92448",
+      "title": "Senior Bauleiter (m/w/d) Ingenieurbau - München / Nürnberg",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein erfolgreiches und etabliertes Bauunternehmen mit langjähriger Erfahrung im Ingenieurbau und realisiert anspruchsvolle Infrastrukturprojekte. Das Unternehmen steht für Qualität, Innovation und nachhaltige Bauweise und überzeug…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-ingenieurbau-munchen-nurnberg-40452",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4fc207ad7e845331",
+      "title": "Senior Bauleiter (m/w/d) Ingenieurbau - Mannheim",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Mannheim",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein erfolgreiches und etabliertes Bauunternehmen mit langjähriger Erfahrung im Ingenieurbau und realisiert anspruchsvolle Infrastrukturprojekte. Das Unternehmen steht für Qualität, Innovation und nachhaltige Bauweise und überzeug…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-ingenieurbau-mannheim-159917",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "38971ecf83e26cac",
+      "title": "Senior Bauleiter (m/w/d) Ingenieurbau - Frankfurt (Main)",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Frankfurt",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein erfolgreiches und etabliertes Bauunternehmen mit langjähriger Erfahrung im Ingenieurbau und realisiert anspruchsvolle Infrastrukturprojekte. Das Unternehmen steht für Qualität, Innovation und nachhaltige Bauweise und überzeug…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-ingenieurbau-frankfurt-main-256211",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5337df407a60a94f",
+      "title": "Senior Bauleiter (m/w/d) Ingenieurbau",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein erfolgreiches und etabliertes Bauunternehmen mit langjähriger Erfahrung im Ingenieurbau und realisiert anspruchsvolle Infrastrukturprojekte. Das Unternehmen steht für Qualität, Innovation und nachhaltige Bauweise und überzeug…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-ingenieurbau-munchen-136781",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "802038370ea63cc8",
+      "title": "Senior Asset Manager (m/w/d)",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein erfolgreiches, inhabergeführtes Immobilienunternehmen mit einem breit diversifizierten Gewerbeimmobilienportfolio und langjähriger Marktpräsenz. Im Fokus stehen die nachhaltige Entwicklung, strategische Steuerung und Wertstei…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-asset-manager-koln-322480",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "220e75673ba4bbda",
+      "title": "Projektmanager (m/w/d) Revitalisierung/Hochbau in Frankfurt am Main",
+      "company": "Skalbach GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Frankfurt",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Firmenprofil Unser Mandant ist ein erfolgreiches und wirtschaftlich stark aufgestelltes Unternehmen mit langjähriger Erfahrung in der Entwicklung, Planung und Umsetzung anspruchsvoller Bauprojekte. Der Fokus liegt auf der Revitalisierung, Modernisierung und na…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/projektmanager-revitalisierung-hochbau-in-frankfurt-am-main-325933",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bce98a5c555147a6",
+      "title": "Product Manager (f/m/d)",
+      "company": "Quantum Diamond",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Description We are seeking a product manager to own the \"what\" and \"why\" of our quantum sensing measurement systems. You turn customer and market needs into clear product requirements that engineering can turn into specifications, and you own the roadmap for t…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/quantum-diamond/product-manager-munchen-398459",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1b800eb7215200b0",
+      "title": "Software Engineer (all genders)",
+      "company": "Raysono",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Digital transformation support As part of our agile teams, you set new standards and celebrate real successes with your colleagues. Our projects are as wide-ranging and diverse as the challenges our customers face: from strategic experience design and digital …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/raysono/software-engineer-all-genders-munchen-464503",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7770adacc3600a21",
+      "title": "Senior Systems & Application Engineer",
+      "company": "iwell",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Stellenbezeichnung - Senior Systems & Application Engineer Unternehmen - iwell - Your Partner for Sustainable Energy Solutions Standort - Düsseldorf Über iwell Bei iwell dreht sich alles um die Stärkung der Energiesicherheit. Wir helfen europäischen Unternehme…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/iwell/senior-systems-application-engineer-dusseldorf-425508",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "95148f43975df650",
+      "title": "Werkstudent Group Accounting (m/w/d)",
+      "company": "Aer Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin Boppstr.",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben: Du möchtest neben Deinem Studium praktische Erfahrungen im Finanz- und Rechnungswesen sammeln und hast Freude am Umgang mit Zahlen? Dann unterstütze unser Group-Accounting-Team für ca. 20 Stunden pro Woche und erhalte spannende Einblicke in die…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/aer-group/werkstudent-group-accounting-berlin-boppstr-241357",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9dcfdeb666525735",
+      "title": "Werkstudent Controlling (m/w/d)",
+      "company": "Aer Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin Boppstr.",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben: Für unser Controlling-Team suchen wir Dich als Werkstudent Controlling (m/w/d). In dieser Rolle unterstützt Du uns mit ca. 20 Stunden pro Woche bei der Analyse und Aufbereitung finanzieller Daten und erhältst dabei praxisnahe Einblicke in das C…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/aer-group/werkstudent-controlling-berlin-boppstr-299123",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "152c51fb9af4c1ed",
+      "title": "Senior Consultant Energy Markets & Economics (all genders)",
+      "company": "Meteocontrol",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission: Preparation of market analyses, economic assessments and expert reports for PV, BESS and hybrid projects Analysis of electricity markets, market mechanisms and regulatory frameworks within the European energy sector Evaluation of business models,…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/meteocontrol/senior-consultant-energy-markets-economics-all-genders-berlin-318761",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "733b2d2c607f6e5e",
+      "title": "Senior Consultant Energy Markets & Economics (all genders)",
+      "company": "Meteocontrol",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Augsburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission: Preparation of market analyses, economic assessments and expert reports for PV, BESS and hybrid projects Analysis of electricity markets, market mechanisms and regulatory frameworks within the European energy sector Evaluation of business models,…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/meteocontrol/senior-consultant-energy-markets-economics-all-genders-augsburg-34276",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "849c2bd90595bde7",
+      "title": "Senior Account Manager (all genders)",
+      "company": "Meteocontrol",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Augsburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission: You take strategic responsibility for a defined portfolio of mid-sized national and international B2B customers in the photovoltaic and BESS sectors, with a focus on revenue, margin, growth and long-term customer retention. As a trusted point of …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/meteocontrol/senior-account-manager-all-genders-augsburg-463063",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9bdfc673ee0e0106",
+      "title": "Product Owner (m/w/d) - Customer Domain",
+      "company": "doctari GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns Seit 2008 arbeiten wir mit unseren vier Marken doctari, lichtfeld, Planerio und arztpool an unserer Vision, medizinisches Personal dorthin zu bringen, wo es am dringendsten benötigt wird. doctari pro ist unsere B2B-Buchungsplattform für Personalverant…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/doctari-gmbh/product-owner-customer-domain-munchen-205323",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "eaadfbcfcaf96c48",
+      "title": "(Junior) AI Visual Creator:in - E-Commerce (m/w/d)",
+      "company": "Snocks GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Mannheim Büro",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Du glaubst, dass AI-generierte Bilder nicht nach AI aussehen sollten? Perfekt. Als (Junior) AI Visual Creator:in – E-Commerce (m/w/d) sorgst du dafür, dass unsere Produkte im Online-Shop und auf unseren Marktplätzen so aussehen, dass man sie hab…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/snocks-gmbh/junior-ai-visual-creatorin-e-commerce-mannheim-buro-161452",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4425cd9f81bf6a3b",
+      "title": "Working Student (gn) Purchasing",
+      "company": "Vercore",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Germany - Production Plant Fulda",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Procurement"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your Role at Proemion Do you see our purchasing team as an opportunity to put the knowledge from your studies into practice? You have no hesitation about getting in touch with our suppliers? Then we are looking for you, starting immediately, as a Working Stude…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/vercore/working-student-gn-purchasing-germany-production-plant-fulda-119104",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4643e2727c854a6d",
+      "title": "Senior Data & AI Consultant Qlik",
+      "company": "Informatec",
+      "employmentType": "Internship",
+      "location": {
+        "city": "DE - Freiburg / Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Data Analytics ist unsere Leidenschaft - werde Teil unseres Teams! Wir suchen per sofort oder nach Vereinbarung eine:n Senior Data & AI Consultant im Bereich Qlik. In Deiner künftigen Position als Senior Data & AI Consultant bist Du Teil unseres Teams und arbe…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/informatec/remote-senior-data-ai-consultant-qlik-301301",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5a82737ff292ba30",
+      "title": "Venture Building Consultant Space Sector",
+      "company": "Novaspace",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you a highly-motivated, technically-minded, critical thinker with 1-3 years of experience in management consulting, looking for your next challenge? Join a leading consulting player in the booming space industry! Our consulting service lines span strategy,…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/novaspace/venture-building-consultant-space-sector-munich-germany-199473",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2d371f450837d361",
+      "title": "Research Scientist - 3D Reconstruction (SfM & SLAM)",
+      "company": "Spaitial",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "SpAItial is pioneering the next generation of World Models, pushing the boundaries of generative AI, computer vision, and the simulation of reality. We are moving beyond 2D pixels to build models that natively understand the physics and geometry of our world. …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/spaitial/research-scientist-3d-reconstruction-sfm-slam-london-198479",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2f60a9766e525847",
+      "title": "Senior UI Designer",
+      "company": "Native Design",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission Native designs products that get made. Since 1997 we've worked across the US, Europe and Asia for the companies that take the object seriously: Bowers & Wilkins, Bang & Olufsen, Audi, Coloplast, Baxter, Bentley, HP and others we can't name yet. Al…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/native-design/senior-ui-designer-london-128224",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b82ad92b4e24a84b",
+      "title": "Developer (Graduate)",
+      "company": "Native Design",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Healthcare",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission About Native Native designs products that get made. Since 1997 we've worked across the US, Europe and Asia for the companies that take the object seriously: Bowers & Wilkins, Bang & Olufsen, Audi, Coloplast, Baxter, Bentley, HP and others we can't…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/native-design/developer-graduate-london-297219",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "122c229a0adcfce3",
+      "title": "Product Manager",
+      "company": "Calmlife",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission CALM’s digital products play an important role in helping people find support when they need it. Your job is to make that experience even better. You’ll be at the heart of a collaborative team, leading the development and continuous improvement of…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/calmlife/product-manager-london-378693",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f711aa1a001523cc",
+      "title": "Senior DevOps / Systemintegration Engineer (m/w/d) - Cloud, Automation, Hybrid Infrastructure, Stuttgart",
+      "company": "Asellerate Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hybrid",
+        "region": null,
+        "country": "Stuttgart",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Intro Als SaaS-Unternehmen ist unsere Commerce-Plattform unser Herzstück. Mit ihr ermöglichen wir Herstellern im Automotive Aftermarket den digitalen Handel und vernetzen komplexe Strukturen. Während unsere Plattform wächst und die Anforderungen steigen, wächs…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/asellerate-gmbh/senior-devops-systemintegration-engineer-cloud-automation-hybrid-infrastructure-stuttgart-hybrid-stuttgart-375744",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "50372f1ee1225be2",
+      "title": "Senior SAP Consultant EWM (m/w/d)",
+      "company": "Workidentity",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Einleitung Gestalte die Logistik von morgen Du möchtest Unternehmen dabei unterstützen, ihre Logistikprozesse auf das nächste Level zu heben? Für ein modernes Beratungsunternehmen mit Fokus auf digitale Transformation und SAP-Lösungen suchen wir Persönlichkeit…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/workidentity/remote-senior-sap-consultant-ewm-168215",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9d4d419b01b31b5e",
+      "title": "(Senior) Manager (f/m/d) Finance & Accounting Advisory - US Markets",
+      "company": "Cfgigermany",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Schweiz (Zürich)",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Finance",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Key responsibilities You advise clients on the complex accounting and financial reporting matters that shape their most important decisions, including: Subject matter expertise: Serve as the firm's subject matter expert for US GAAP reporting and US-related tra…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/cfgigermany/senior-manager-finance-accounting-advisory-us-markets-schweiz-zurich-275679",
+      "source": "Arbeitnow"
+    },
     {
       "id": "7b0dadf7350e6041",
       "title": "Server & Infrastructure Engineer - Unannounced project",
