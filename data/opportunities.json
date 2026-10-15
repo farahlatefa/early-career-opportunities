@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-15T09:57:02.724291+00:00",
+    "lastUpdated": "2026-10-15T15:02:46.895228+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -1291,12 +1291,12 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "adbabd9384087946",
+      "id": "c6814b546807c595",
       "title": "Praktikum im Online-Marketing / Marketing / Projektmanagement",
       "company": "SEOMATIK GmbH",
       "employmentType": "Internship",
       "location": {
-        "city": "Bielefeld",
+        "city": "Berlin",
         "region": null,
         "country": null,
         "workMode": "Remote"
@@ -1806,6 +1806,1258 @@
       },
       "summary": "Your Opportunity We are looking for a Machine Learning Platform Engineer to join Mollie's Machine Learning Platform team, sitting within our broader Data Domain. Our ML Platform empowers Machine Learning Scientists to develop and deploy custom ML solutions at …",
       "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/mollie/machine-learning-platform-engineer-i-amsterdam-155514",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "04e014de7c4b172e",
+      "title": "AI & Data Engineer (m/w/d)",
+      "company": "neonto",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bei uns lernst du modernste Technologien rund um Daten und KI kennen , gestaltest von Anfang an mit und wirst Teil eines jungen, dynamischen Teams . Über uns Wir sind neonto , ein junges Startup , das Beratung und Softwareentwicklung im Bereich Daten & KI vere…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/neonto/ai-data-engineer-cologne-293676",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "57fdc23e35aef5f9",
+      "title": "Mainframe Engineer (w/m/d)",
+      "company": "CPU Consulting & Software GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Karlsruhe",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Rolle: Die Bankenwelt läuft im Kern auf Mainframe-Systemen – und du sorgst dafür, dass diese stabil, performant und zukunftssicher bleiben. Als Mainframe Engineer (w/m/d) entwickelst und wartest du zentrale Anwendungen im Host-Umfeld. Mit deinem Know-how…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/mainframe-engineer-karlsruhe-36634",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "55decebb95b93585",
+      "title": "Mainframe Engineer (w/m/d)",
+      "company": "CPU Consulting & Software GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Rolle: Die Bankenwelt läuft im Kern auf Mainframe-Systemen – und du sorgst dafür, dass diese stabil, performant und zukunftssicher bleiben. Als Mainframe Engineer (w/m/d) entwickelst und wartest du zentrale Anwendungen im Host-Umfeld. Mit deinem Know-how…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/mainframe-engineer-munich-119587",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d7052384f78a9070",
+      "title": "Werkstudent (m/w/d) - IT-Security",
+      "company": "ADVITOS GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du willst die digitale Welt von morgen sicherer machen? Werde Teil unseres engagierten Expertenteams, übernimm früh Verantwortung und setze gemeinsam mit uns neue Maßstäbe in der Informationssicherheit! Als Werkstudent (m/w/d) - IT Security sorgst du dafür, da…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/advitos-gmbh/werkstudent-it-security-munich-477690",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "be0cd603959ab263",
+      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Softwareentwickler Automatisierungstechnik SPS (m/w/d) – Vollzeit | Münchner Westen | Direktvermittlung Im Auftrag unseres Partnerunternehmens im Münchner Westen suchen wir Sie zum nächstmöglichen Zeitpunkt als „Softwareentwickler Automatisierungstechnik SPS (…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-330528",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "170f169dc8a83963",
+      "title": "Lohn- und Gehaltsbuchhalter (m/w/d)",
+      "company": "ABG Allgemeine Beratungs- und Treuhandgesellschaft mbH Steuerberatungsgesellschaft",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Dresden",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Teamplayer gesucht: Lohn- & Gehaltsbuchhalter (m/w/d) Dresden | ⏰ Flexible Arbeitszeiten | Moderne, digitale Kanzlei ABG-Partner ist ein modernes Beratungsunternehmen, das sich auf digitale Lösungen und ganzheitliche Beratung seiner Mandanten spezialisiert hat…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/abg-allgemeine-beratungs-und-treuhandgesellschaft-mbh-steuerberatungsgesellschaft/lohn-und-gehaltsbuchhalter-dresden-267694",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7bf13e9ba0f406da",
+      "title": "Platform Engineer - GitLab & Automation (m/w/d)",
+      "company": "CPU Consulting & Software GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Rolle: Gestalte und betreibe eine zentrale GitLab-Plattform, auf die zahlreiche Entwicklungsteams täglich vertrauen. Für unseren Kunden, einen führenden IT-Dienstleister im Bankenumfeld, suchen wir einen erfahrenen Platform Engineer (m/w/d) mit Schwerpun…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/platform-engineer-gitlab-automation-berlin-178094",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b89bf53c0488bf72",
+      "title": "Bilanzbuchhalter (m/w/d) Konzernabschluss",
+      "company": "Jobbusters® GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unseren Auftraggeber, einer Gruppe, die seit Jahrzenten erfolgreich deutschlandweit als Bauträger auftritt und vermehrt Investitionen in Immobilienfonds tätigt, erweitert seinen Einflussbereich und sucht Verstärkung für die eigenen Reihen. Gesucht wird ein Bil…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/jobbusters-gmbh/bilanzbuchhalter-konzernabschluss-cologne-286150",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8f9489239331eeee",
+      "title": "Project Planner (m/w/x) Naval Systems",
+      "company": "K-tronik GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bremen",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Projektbeschreibung: Technologie begeistert Sie? Uns auch! Zur Verstärkung unseres Expertenteams bei unserem Kunden aus der Verteidigungsbranche suchen wir einen Project Planner (m/w/x) Naval Systems in Festanstellung bei K-tronik. Wir freuen uns darauf, Sie p…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/project-planner-naval-systems-bremen-134398",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "25f57c65c137a0bb",
+      "title": "Bilanzbuchhalter (m/w/d) | Home Office",
+      "company": "PRIME HR Agentur®",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Frankfurt am Main",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Für ein etabliertes und wachsendes Unternehmen suchen wir zum nächstmöglichen Zeitpunkt einen Bilanzbuchhalter (m/w/d) in Vollzeit . Die Position bietet die Möglichkeit zum mobilen Arbeiten. Gleichzeitig ist eine regelmäßige Präsenz am Unternehmensstandort vor…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/prime-hr-agentur/bilanzbuchhalter-home-office-frankfurt-am-main-311969",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "adb1f06d3fc252ba",
+      "title": "Senior Software Engineer C# / .NET (m/w/d)",
+      "company": "New Monday GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Mannheim",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About this role For our client, a global leader in metrology and process control for semiconductor manufacturing, we are looking for a Senior Software Engineer C# / .NET (m/w/d) for a permanent position. The team is based in Mannheim and has more than 25 years…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/senior-software-engineer-c-net-mannheim-31827",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "36ceff2b3a720a9a",
+      "title": "Senior Azure Cloud Platform Architect (m/w/d)",
+      "company": "think about IT GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Nuremberg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die thinkGROUP ist eine erfolgreiche Systemhausgruppe, die ständig nach Innovation strebt und großen Wert auf die kontinuierliche Optimierung unserer internen Prozesse legt. Die Nutzung modernster Technologien ist kein Selbstzweck, sondern die Ausprägung unser…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/senior-azure-cloud-platform-architect-nuremberg-170068",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fa63cb2c29188dce",
+      "title": "Senior Microsoft AI & Copilot Engineer (m/w/d)",
+      "company": "think about IT GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Nuremberg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die thinkGROUP ist eine erfolgreiche Systemhausgruppe, die ständig nach Innovation strebt und großen Wert auf die kontinuierliche Optimierung unserer internen Prozesse legt. Die Nutzung modernster Technologien ist kein Selbstzweck, sondern die Ausprägung unser…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/senior-microsoft-ai-copilot-engineer-nuremberg-442864",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "27ee8ede838fb879",
+      "title": "Senior Microsoft Cloud Transformation Architect (m/w/d)",
+      "company": "think about IT GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Nuremberg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die thinkGROUP ist eine erfolgreiche Systemhausgruppe, die ständig nach Innovation strebt und großen Wert auf die kontinuierliche Optimierung unserer internen Prozesse legt. Die Nutzung modernster Technologien ist kein Selbstzweck, sondern die Ausprägung unser…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/senior-microsoft-cloud-transformation-architect-nuremberg-165161",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1e1aafe2b6bd5c28",
+      "title": "Team Lead Accounting (m/w/d)",
+      "company": "think about IT GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bochum",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die thinkGROUP ist eine erfolgreiche Systemhausgruppe, die ständig nach Innovation strebt und großen Wert auf die kontinuierliche Optimierung unserer internen Prozesse legt. Die Nutzung modernster Technologien ist kein Selbstzweck, sondern die Ausprägung unser…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/team-lead-accounting-bochum-270334",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3135e59a255c2c0f",
+      "title": "Senior IT Administrator (m/w/d)",
+      "company": "think about IT GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bochum",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die thinkGROUP ist eine erfolgreiche Systemhausgruppe, die ständig nach Innovation strebt und großen Wert auf die kontinuierliche Optimierung unserer internen Prozesse legt. Die Nutzung modernster Technologien ist kein Selbstzweck, sondern die Ausprägung unser…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/senior-it-administrator-bochum-88993",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3a76d94bcc1e7efb",
+      "title": "IT-System Engineer (m/w/d)",
+      "company": "think about IT GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bochum",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die thinkGROUP ist eine erfolgreiche Systemhausgruppe, die ständig nach Innovation strebt und großen Wert auf die kontinuierliche Optimierung unserer internen Prozesse legt. Die Nutzung modernster Technologien ist kein Selbstzweck, sondern die Ausprägung unser…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/it-system-engineer-bochum-289565",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dacd28bc8603a2c0",
+      "title": "IT-Systemelektroniker (m/w/d)",
+      "company": "think about IT GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bochum",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die thinkGROUP ist eine erfolgreiche Systemhausgruppe, die ständig nach Innovation strebt und großen Wert auf die kontinuierliche Optimierung unserer internen Prozesse legt. Die Nutzung modernster Technologien ist kein Selbstzweck, sondern die Ausprägung unser…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/it-systemelektroniker-bochum-265550",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b5815a341e5eae23",
+      "title": "Initiativbewerbung (m/w/d) – Bregenz, Wien, München, Düsseldorf",
+      "company": "TOWA - the digital growth company",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wofür wir stehen: “We drive digital transformation end-to-end - from strategy to execution. Creating measurable progress and real impact for our clients.” Stillstand? Nicht mit uns. Wir glauben: Alles ist BETA und genau darin liegt die Chance für Fortschritt. …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/towa-the-digital-growth-company/initiativbewerbung-bregenz-wien-munchen-dusseldorf-munich-88756",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c7cd2fbfd9de4980",
+      "title": "(Senior) Sales Manager - Growth & Activation (all genders)",
+      "company": "MAI Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über die MAI Group Dein Platz in der MAI Group Als Sales Manager (all genders) unterstützt Du dabei unser Kundenportfolio in der Business Unit Growth & Activation auszubauen und vertreibst Performance- und CRM-Marketing sowie Media. Dabei lernst Du von unserem…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/mai-group/senior-sales-manager-growth-activation-all-genders-berlin-38930",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b50494defe749628",
+      "title": "Mitarbeiter Kundenservice (w/m/d)",
+      "company": "SIDOUN International GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Freiburg im Breisgau",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "SIDOUN wächst – und mit KIAVA® entwickeln wir unsere Software und neue Arbeitsweisen rund um KI kontinuierlich weiter. Dafür suchen wir Verstärkung für unseren Service: eine Person, die Bauwissen mitbringt, gerne Probleme löst, Software gründlich testet und si…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sidoun-international-gmbh/mitarbeiter-kundenservice-freiburg-im-breisgau-488918",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9cdcf47263c1c92f",
+      "title": "Personalsachbearbeiter Entgeltabrechnung (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Personalsachbearbeiter Entgeltabrechnung (m/w/d) – München | Vollzeit | Festanstellung Im Auftrag unseres Partnerunternehmens im Öffentlichen Dienst suchen wir Sie zum nächstmöglichen Zeitpunkt als „Personalsachbearbeiter Entgeltabrechnung (m/w/d)“. Aufgaben A…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/personalsachbearbeiter-entgeltabrechnung-munich-347445",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4dba2d61dd01d442",
+      "title": "Senior M365 Expert - Teams Governance / Modern Workplace (Nearshore preferred)",
+      "company": "Sidekick Network GmbH & Co. KG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "For one of our clients, we are looking for an experienced Senior M365 Expert / Modern Workplace Specialist (m/f/d) to support the ongoing Microsoft 365 operations as well as broader governance, data protection and cybersecurity topics. The role is planned as a…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-m365-expert-teams-governance-modern-workplace-nearshore-preferred-berlin-491362",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3dfd407dae90aea0",
+      "title": "AI Consultant – Customer Experience (all genders)",
+      "company": "MAI Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Policy / Government",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Dein Platz in der MAI Group Als Business Unit Strategy & Experience an den Standorten Wien, München & Köln entwickeln wir Strategien für die digitale Transformation unserer Kunden und setzen diese nutzerzentriert in herausragende Kundenerlebnisse um. Unsere dr…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/mai-group/ai-consultant-customer-experience-all-genders-berlin-285347",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "375d406480922323",
+      "title": "Disponent Materialwirtschaft (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Disponent Materialwirtschaft (m/w/d) – München | Vollzeit Im Auftrag unseres Partnerunternehmens in München suchen wir Sie zum nächstmöglichen Zeitpunkt als „Disponent Materialwirtschaft (m/w/d)“. Aufgaben Als Materialdisponent (m/w/d) stellen Sie die bedarfsg…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/disponent-materialwirtschaft-munich-717",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ab0c90c863e112f2",
+      "title": "Abrechnungsspezialist (m/w/d) – Buchhaltung in der Hausverwaltung",
+      "company": "Immobilien- & Hausverwaltung Lessmann  GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Leinburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Sie haben ein gutes Gespür für Zahlen, arbeiten sorgfältig und behalten auch bei komplexen Abrechnungen den Überblick? Dann werden Sie Teil der Immobilien- & Hausverwaltung Lessmann GmbH in Leinburg. Über uns Bei der Immobilien- & Hausverwaltung Lessmann GmbH …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/immobilien-hausverwaltung-lessmann-gmbh/abrechnungsspezialist-buchhaltung-in-der-hausverwaltung-leinburg-349877",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3e6f3cc34a666d9d",
+      "title": "Projekt Manager/in B2B SaaS (w/m/d)",
+      "company": "ParkEfficient",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wer wir sind Die ParkEfficient GmbH ist ein wachsendes B2B-Softwareunternehmen, das sich auf die Digitalisierung des Parkraum- und Arbeitsplatzmanagements spezialisiert hat. Mit unseren SaaS-Lösungen ParkEfficient und OfficeEfficient unterstützen wir Unternehm…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/parkefficient/projekt-manager-in-b2b-saas-berlin-398183",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9ac6f0afd6210e49",
+      "title": "Werkstudent Recruiting (m/w/d), Berlin, Germany",
+      "company": "Emagine",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Worum geht´s? Um Unterstützung für unser tolles Team in Berlin. Gut gemischt und alle ziehen an einem Strang. Um Dich und Deine Zukunft. Wir bieten Dir eine Plattform, auf der Du erfolgreich sein kannst und professionelles Recruiting erlernst. Was bieten wir D…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/emagine/werkstudent-recruiting-berlin-germany-486715",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d88e6df88001f811",
+      "title": "SAP FI Berater (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "SAP FI Berater (m/w/d) - Vollzeit | München | Öffentlicher Dienst Im Auftrag unseres Partnerunternehmens in München suchen wir Sie zum nächstmöglichen Zeitpunkt als „SAP FI Berater (m/w/d)“. Aufgaben Als SAP FI Berater (m/w/d) analysieren und optimieren Sie SA…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/sap-fi-berater-munich-220138",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bec96ee5d9bc3a94",
+      "title": "Bilanzbuchhalter (m/w/d) Fonds-Immobiliengesellschaft",
+      "company": "Jobbusters® GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Für ein etabliertes und professionelles Unternehmen am Standort München suchen wir im Rahmen der exklusiven Direktvermittlung einen Bilanzbuchhalter oder Steuerfachangestellten (m/w/d) mit Erfahrung in der Betreuung von Gesellschaften aus dem Fonds- und Immobi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/jobbusters-gmbh/bilanzbuchhalter-fonds-immobiliengesellschaft-munich-107486",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b1ed59a0cb00ad0e",
+      "title": "Senior Fullstack Entwickler - Java, Spring, Angular*",
+      "company": "Accso – Accelerated Solutions GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Darmstadt",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Das erwartet dich bei uns: Du arbeitest in Beratungs- und Softwareentwicklungsprojekten bei Kunden wie AXA, BMW, ZDF und der Deutschen Bahn Du konzipierst, entwickelst und implementierst Softwarelösungen, in dem du AI-Methoden und Tools im gesamten Softwareent…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/senior-fullstack-entwickler-java-spring-angular-darmstadt-138755",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3b9ea8457acb677c",
+      "title": "Senior Fullstack Entwickler - Java, Spring, Angular*",
+      "company": "Accso – Accelerated Solutions GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Das erwartet dich bei uns: Du arbeitest in Beratungs- und Softwareentwicklungsprojekten bei Kunden wie AXA, BMW, ZDF und der Deutschen Bahn Du konzipierst, entwickelst und implementierst Softwarelösungen, in dem du AI-Methoden und Tools im gesamten Softwareent…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/senior-fullstack-entwickler-java-spring-angular-munchen-302825",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "63c8324d576d26ba",
+      "title": "Senior Conversion Design Analyst (f/m/d)",
+      "company": "Good Hood GmbH / nebenan.de",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission We're looking for a Senior Conversion Design Analyst who is genuinely both things: a designer who digs into data, and an analyst who designs. You decide with evidence. You will frame real user problems based on qualitative and quantitative data, d…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/good-hood-gmbh-nebenande/senior-conversion-design-analyst-berlin-140007",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1ed02ef0e5e2e274",
+      "title": "Product Engineer (Growth) // AI Music Video Platform",
+      "company": "neural frames",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Neural Frames is a leading AI music video generator, turning any song into a fully produced music video in minutes. We're bootstrapped, profitable, and generating more than $5M in annualized revenue. Our ambition is to build a category-defining company that he…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/neural-frames/product-engineer-growth-ai-music-video-platform-berlin-213663",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f6eeab9d570f2815",
+      "title": "Tableau Architect (m/f/x)",
+      "company": "Salesfive GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Gegründet in München, in der Cloud zu Hause: Wir sind Salesfive. Als Full-Service Salesforce Partner begleiten wir Top-Brands & Hidden Champions auf ihrer digitalen Reise. Wir leben Veränderung und stehen niemals still. Eines bleibt aber konstant: Unser Fiver …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/salesfive-gmbh/tableau-architect-munich-255500",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cc8c92a014916b2e",
+      "title": "Junior Grafikdesigner / Mediengestalter (m/w/d)",
+      "company": "Smilodox GmbH & Co.KG",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du gehst immer einen Schritt weiter und gibst niemals auf? Du bist zuverlässig und löst Probleme schnell und effektiv? Du gibst auch dann 100 Prozent, wenn es mal stressig wird? Bei uns bist Du richtig! Jetzt bewerben. Smilodox - das ist Mode für Menschen, die…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/smilodox-gmbh-cokg/junior-grafikdesigner-mediengestalter-hamburg-277201",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b4eabba1614e0969",
+      "title": "Information Security Specialist (m/w/d)",
+      "company": "c.cure - Geschäftsbereich der Megamaris GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Dortmund",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du möchtest Informationssicherheit aktiv mitgestalten und in einem internationalen Unternehmensumfeld etwas bewegen? Bei unserem Kunden, einem der führenden Logistikdienstleister mit weltweiter Präsenz, hast du die Möglichkeit, bestehende Strukturen weiterzuen…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ccure-geschaftsbereich-der-megamaris-gmbh/information-security-specialist-dortmund-488529",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1424bcf680efb55f",
+      "title": "Robotics Software Engineer (Junior / Mid-Level)",
+      "company": "RoboService GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About RoboService GmbH RoboService GmbH brings humanoid robots to industrial facilities. We program robotics applications that work on the manufacturing lines of European manufacturing companies. Your first months at RoboService GmbH You will be working hands …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/roboservice-gmbh/robotics-software-engineer-junior-mid-level-berlin-436403",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ef0bfaeb8d428e8f",
+      "title": "SEO/SEA Werkstudent (m/w/d) mit Fokus auf Sichtbarkeit in KI-Suchen (Remote oder Würzburg)",
+      "company": "Mainwebsolutions",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Würzburg",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du studierst, hast erste Erfahrungen in SEO oder SEA gesammelt und suchst eine Werkstudentenstelle, bei der du an echten Kundenprojekten mitarbeitest? Du willst dein Wissen im Google-Universum vertiefen, mit modernen KI- und LLM-Tools im Marketing arbeiten und…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/mainwebsolutions/seo-sea-werkstudent-mit-fokus-auf-sichtbarkeit-in-ki-suchen-remote-oder-wurzburg-166962",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "47a181c414bf968d",
+      "title": "Technical Product Manager, API Integrations (all genders)",
+      "company": "Distribusion Technologies",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Distribusion is the world’s leading ground transportation marketplace and gives travelers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail, and ferry o…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/technical-product-manager-api-integrations-all-genders-berlin-136018",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cb741598fdf6c026",
+      "title": "Senior Chef de Partie - Soho Farmhouse (Blake's Kitchen)",
+      "company": "Sohohouseco",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Soho Farmhouse - Chipping Norton",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Role… At Soho House, a Senior Chef de Partie supports the kitchen brigade in delivering exceptional dining experiences to our members and guests. Y ou will be instrumental in preparing, cooking, and presenting exceptional dishes in line with the club’s foo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/sohohouseco/senior-chef-de-partie-soho-farmhouse-blakes-kitchen-soho-farmhouse-chipping-norton-439837",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d5d40bc346a77251",
+      "title": "Founding Healthcare Lead",
+      "company": "Cosine",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job title: Founding Healthcare Lead Location: London; full in-office working as default Start date: ASAP Reports to: CCO Compensation: Salary and Equity options available for discussion Application deadline: 01/11/26 at 23:59 UK time __________________________…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cosine/founding-healthcare-lead-london-28246",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5eb738833e33bd0b",
+      "title": "Product Manager, UK",
+      "company": "Ema",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "United Kingdom (Remote)",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Ema Ema builds AI Employees for HR, IT and Finance. Our AI Employees take on the busy work across the employee experience, from recruiting, onboarding and benefits to IT support, invoice processing and payroll, so people can spend their time on work that…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ema/product-manager-uk-london-124045",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a2513e78a7fb1261",
+      "title": "Revenue Operations Lead",
+      "company": "Outpost Technologies",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Revenue Operations Lead Global expansion is broken. Without a local company, conversion rates fall, costs rise, and compliance gets messy. Outpost fixes it. Selling internationally is a maze of tax, payments, and operational friction. Most brands avoid it, or …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/outpost-technologies/revenue-operations-lead-london-314618",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e2a14be088b0f7f5",
+      "title": "Customer Success Specialist German and English Speaking",
+      "company": "Laka",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Toulouse",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "👋🏻 Hello, we're Laka For this role you will need to speak English and German and have technical bike knowledge! You might not have heard of us yet - that's OK, you've found us now - come and find out more about our journey... Founded in 2017, Laka set out to t…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/laka/customer-success-specialist-german-and-english-speaking-toulouse-228843",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b960166b18b71f4d",
+      "title": "Production Scientist (Senior)",
+      "company": "Adaptyv",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Lausanne",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Adaptyv is building an automated lab that lets AI agents run biology experiments. We're entering the era of agentic science where AI models can now design novel proteins, propose hypotheses, and iterate on experimental results. But they can't run the experimen…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/adaptyv/production-scientist-senior-lausanne-16629",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4bedff6168e3b3e7",
+      "title": "Laboratory Technician, Lab Operations",
+      "company": "Adaptyv",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Lausanne",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Operations",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Adaptyv is building an automated lab that lets AI agents run biology experiments. We're entering the era of agentic science where AI models can now design novel proteins, propose hypotheses, and iterate on experimental results. But they can't run the experimen…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/adaptyv/laboratory-technician-lab-operations-lausanne-369229",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ef057ec374e920e3",
+      "title": "Project Leider Bouw",
+      "company": "Monumental",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Groningen",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Monumental automatiseert de bouw met robotica en software. Onze missie is om de bouw software-defined en autonoom te maken – een toekomst waarin mooie gebouwen op maat in één dag verrijzen, met minimale inzet van handwerk. We zijn een groeiend team van enginee…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/monumental/project-leider-bouw-groningen-459012",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a2c68a9f120c392b",
+      "title": "AI Solution Consultant (all genders)",
+      "company": "GeneralMind",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About GeneralMind GeneralMind builds AI Systems of Action for complex enterprise workflows. We deploy AI employees that automate messy operational handovers across supply chains - processing orders, validating invoices, coordinating suppliers, and handling exc…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/generalmind/ai-solution-consultant-all-genders-berlin-156634",
       "source": "Arbeitnow"
     },
     {
