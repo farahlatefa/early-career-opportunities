@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-14T23:56:12.561274+00:00",
+    "lastUpdated": "2026-10-15T04:41:59.789337+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,299 @@
     ]
   },
   "jobs": [
+    {
+      "id": "834b43fa8b7e0d48",
+      "title": "Senior Fullstack AI Engineer (w/m/d)",
+      "company": "Stackfuel",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Jobbeschreibung StackFuel ist seit Jahren einer der führenden Anbieter für Daten- und KI-Weiterbildung in Deutschland. Seit Anfang 2026 sind wir Teil von Multiverse, Europas einzigem EdTech-Unicorn und der größten AI-Upskilling-Plattform des Kontinents. Gemein…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/stackfuel/senior-fullstack-ai-engineer-berlin-436754",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f1e060a26f7f4f92",
+      "title": "Senior Forward Deployed Engineer - AI / Fullstack(w/m/d)",
+      "company": "Stackfuel",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Jobbeschreibung StackFuel ist seit Jahren einer der führenden Anbieter für Daten- und KI-Weiterbildung in Deutschland. Seit Anfang 2026 sind wir Teil von Multiverse, Europas einzigem EdTech-Unicorn und der größten AI-Upskilling-Plattform des Kontinents. Gemein…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/stackfuel/senior-forward-deployed-engineer-ai-fullstack-berlin-362292",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a1c68e53ffb404e1",
+      "title": "Working Student / Intern GTM AI Growth Engineering (f/m/d)",
+      "company": "plancraft",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg (hybrid)",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "OUR PURPOSE AT PLANCRAFT Building the backbone of European trades – together, with modern software and smart AI solutions. We don’t just develop software – we’re on a mission to give tradespeople and contractors more room to focus on what matters. We do this b…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/plancraft/working-student-intern-gtm-ai-growth-engineering-hamburg-55336",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e46de3509e126af1",
+      "title": "Senior UX Designer",
+      "company": "Pergolux",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin | Global Team",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "As a Senior UX Designer, you will own the end-to-end UX and product design for our key digital customer journeys on a global scale, from discovery and problem framing through flows, prototypes, UI, validation, and handoff. You will turn e-commerce pages into g…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pergolux/senior-ux-designer-berlin-335971",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8e654002f7eb1358",
+      "title": "Senior Java Engineer - Security - Elasticsearch",
+      "company": "Elastic",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings to…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/elastic/senior-java-engineer-security-elasticsearch-208403",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3a7a22db05ca61ef",
+      "title": "Senior Developer Advocate",
+      "company": "Elastic",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings to…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/elastic/senior-developer-advocate-271074",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "893e625c6d4b43a0",
+      "title": "Senior Deal Desk Analyst",
+      "company": "Redwoodsoftware",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Burnham",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "OUR MISSION At Redwood, we empower our customers with lights-out automation for their mission-critical business processes. ABOUT US Redwood Software is the leader in full stack automation fabric solutions for mission-critical business processes. With the first…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/redwoodsoftware/senior-deal-desk-analyst-burnham-219230",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "072ef19545783e81",
+      "title": "Talent Partner",
+      "company": "Multiverse",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Multiverse is the upskilling platform for AI and Tech adoption. We have partnered with 1,500+ companies to deliver a new kind of learning that's transforming today’s workforce. Our upskilling apprenticeships are designed for people of any age and career stage …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/multiverse/talent-partner-london-93570",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cbc037da679656fb",
+      "title": "Senior Talent Partner",
+      "company": "Multiverse",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Policy / Government"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Multiverse is the upskilling platform for AI and Tech adoption. We have partnered with 1,500+ companies to deliver a new kind of learning that's transforming today’s workforce. Our upskilling apprenticeships are designed for people of any age and career stage …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/multiverse/senior-talent-partner-london-121271",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3103e1a7238a48ef",
+      "title": "Fullstack Engineer, Investigator Tools",
+      "company": "Sardine",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "United Kingdom / Europe",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": "work from wherever helps you do your best work"
+      },
+      "summary": "Who we are: Sardine is the leading agentic risk platform for fighting financial crime. Our integrated solution unifies data across risk teams to help organizations stop fraud in real time, prevent AI-driven attacks, and automate fraud and AML operations. Sardi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/sardine/fullstack-engineer-investigator-tools-united-kingdom-europe-138221",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6f90820ba6e4fb3c",
+      "title": "Senior Backend Engineer - Case Management",
+      "company": "Deliveroo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking n…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-backend-engineer-case-management-london-485389",
+      "source": "Arbeitnow"
+    },
     {
       "id": "ab38f9a8665c69e2",
       "title": "Werkstudent (m/w/d) in der Anwendungsforschung",
@@ -8839,6 +9132,244 @@
       "source": "Arbeitnow"
     },
     {
+      "id": "1c76eff9b22fee0f",
+      "title": "(Senior) Account Manager (m/w/d)",
+      "company": "Superchat",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Berlin",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bei Superchat gestalten wir neu, wie Unternehmen mit ihren Kund:innen kommunizieren. KI wird dabei immer mehr zum Motor dieser Kommunikation. Integrationen sind das, was diesem Motor echte Power gibt: die Daten, Tools und Systeme, die aus einem cleveren AI-Age…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/superchat/senior-account-manager-berlin-berlin-474336",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "acf232440a2fa5ad",
+      "title": "Working Student - LLM Quantization & Inference Performance",
+      "company": "Tensordyne",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Tensordyne (formerly Recogni) AI is transforming our world. It can perform cognitive functions that previously only humans could do, such as perceiving interactions across different modalities and environments - with the ability to quickly learn and then…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tensordyne/working-student-llm-quantization-inference-performance-munich-124483",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d6848614c05cb909",
+      "title": "Senior Software Engineer - Low Level GPU",
+      "company": "sonyinteractiveentertainmentglobal",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Why Sony Interactive Entertainment? Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-software-engineer-low-level-gpu-london-370301",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6194b77e622c1f65",
+      "title": "2027 Graduate Software Engineer - Healthcare (2027 start)",
+      "company": "Cambridgeconsultantslimited",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Data & Analytics",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Introduction We are looking for bright graduates with a passion for software and a curiosity for how things work and how technology can help us solve problems. You will join our embedded software team and contribute to the development of innovative technologie…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/2027-graduate-software-engineer-healthcare-2027-start-477693",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "05d470d631735f36",
+      "title": "Staff Software Engineer",
+      "company": "Liftoff",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across programmatic and direct dem…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/liftoff/staff-software-engineer-london-167389",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e04fbcdc15cc4519",
+      "title": "Senior Account Manager",
+      "company": "Liftoff",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across programmatic and direct dem…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/liftoff/senior-account-manager-london-487450",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "085b75d6e1effb42",
+      "title": "Commercial Legal Counsel (Contractor)",
+      "company": "Liftoff",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across programmatic and direct dem…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/liftoff/commercial-legal-counsel-contractor-391372",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "677055d882f8995c",
+      "title": "Senior Fullstack Java Developer",
+      "company": "adesso Netherlands",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Utrecht",
+        "region": null,
+        "country": "Netherlands",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ben jij een ervaren software engineer die graag werkt aan complete softwareoplossingen; van een robuuste backend in Java tot een moderne frontend? Bij adesso Netherlands staat software engineering centraal. We zoeken Fullstack Java Developers die graag werken …",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/adesso-netherlands/senior-fullstack-java-developer-utrecht-385946",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "283019fe004bfd3d",
+      "title": "Customer Support Specialist",
+      "company": "Ultimate Marketing",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join Our Global Customer Engagement Network Company: Ultimate Marketing LLC Location: Worldwide | Remote Employment Type: Independent Contractor (1099 for eligible U.S. contractors) Compensation: Performance-Based | Payments Every 3 Calendar Days About the Opp…",
+      "applicationUrl": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512",
+      "source": "Remote OK"
+    },
+    {
       "id": "c753bd15a0dfd5fc",
       "title": "Senior Service Designer, Food Systems & Fulfillment (f/m/x)",
       "company": "hellofresh",
@@ -13651,7 +14182,7 @@
         "name": null,
         "title": null
       },
-      "summary": "Explore of detailed JD here: Careers at CynLr | Robotics & Deep-Tech Jobs Find more English Speaking Jobs in Switzerland on Arbeitnow",
+      "summary": "Explore of detailed JD here: Careers at CynLr | Robotics & Deep-Tech Jobs Find Jobs in Switzerland on Arbeitnow",
       "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/cynlr/robotics-engineering-intern-switzerland-491653",
       "source": "Arbeitnow"
     },
