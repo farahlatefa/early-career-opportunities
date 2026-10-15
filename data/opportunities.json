@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-15T15:02:46.895228+00:00",
+    "lastUpdated": "2026-10-15T19:10:07.221927+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -2266,8 +2266,12 @@
         "workMode": "On-site"
       },
       "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
         "Operations",
-        "Policy / Government"
+        "Policy / Government",
+        "Sales / Business Development"
       ],
       "deadline": null,
       "postedDate": "2026-10-15",
@@ -2275,7 +2279,7 @@
         "name": null,
         "title": null
       },
-      "summary": "Wofür wir stehen: “We drive digital transformation end-to-end - from strategy to execution. Creating measurable progress and real impact for our clients.” Stillstand? Nicht mit uns. Wir glauben: Alles ist BETA und genau darin liegt die Chance für Fortschritt. …",
+      "summary": "Wofür wir stehen: Du passt zu uns. Aber die passende Stelle fehlt noch? Dann lass uns trotzdem kennenlernen! Alles ist BETA. Deshalb hinterfragen wir Bestehendes, denken weiter und gestalten Veränderung aktiv mit. Wir unterstützen B2B-Unternehmen dabei, ihre G…",
       "applicationUrl": "https://www.arbeitnow.com/jobs/companies/towa-the-digital-growth-company/initiativbewerbung-bregenz-wien-munchen-dusseldorf-munich-88756",
       "source": "Arbeitnow"
     },
@@ -3031,8 +3035,8 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "a2c68a9f120c392b",
-      "title": "AI Solution Consultant (all genders)",
+      "id": "56f375a47d21eca3",
+      "title": "Deployment Strategist (all genders)",
       "company": "GeneralMind",
       "employmentType": "Internship",
       "location": {
@@ -3058,6 +3062,984 @@
       },
       "summary": "About GeneralMind GeneralMind builds AI Systems of Action for complex enterprise workflows. We deploy AI employees that automate messy operational handovers across supply chains - processing orders, validating invoices, coordinating suppliers, and handling exc…",
       "applicationUrl": "https://www.arbeitnow.com/jobs/companies/generalmind/ai-solution-consultant-all-genders-berlin-156634",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4bb92136bdf884d9",
+      "title": "Software Engineer Internship for HPI Students",
+      "company": "Taktile",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin Office",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the role Banks and fintechs use Taktile to automate critical decisions, like credit, fraud, and compliance, in real time. We're building the infrastructure that makes financial institutions truly AI-native, and we've partnered with the Hasso Plattner Ins…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/taktile/software-engineer-internship-for-hpi-students-berlin-396888",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a6685ec9f2821656",
+      "title": "Visiting Growth Associate (Events)",
+      "company": "Peec AI",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Peec AI Peec AI is a Berlin-based Series A startup building analytics and intelligence tools for modern SEO and growth teams. As search rapidly evolves with AI changing how people discover information online, companies need better ways to understand wher…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/peec-ai/visiting-growth-associate-events-berlin-467174",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "85e9294e4b5069f2",
+      "title": "Entrepreneur in Residence (Intern)",
+      "company": "Melotech",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Melotech is revolutionizing media and entertainment. We create art through technology for humans to enjoy. In just 24 months, our work has been heard, watched and loved for over 4 billion minutes worldwide. Founded by entrepreneur and investor Sohei…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/melotech/entrepreneur-in-residence-intern-berlin-97091",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c11a6ac5f95dfab9",
+      "title": "Founders Associate Intern",
+      "company": "Melotech",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Melotech is revolutionizing media and entertainment. We create art through technology for humans to enjoy. In just 24 months, our work has been heard, watched and loved for over 4 billion minutes worldwide. Founded by entrepreneur and investor Sohei…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/melotech/founders-associate-intern-berlin-24247",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7cdc9ea9d40580f5",
+      "title": "Founders Associate",
+      "company": "Melotech",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Melotech is revolutionizing media and entertainment. We create art through technology for humans to enjoy. In just 24 months, our work has been heard, watched and loved for over 4 billion minutes worldwide. Founded by entrepreneur and investor Sohei…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/melotech/founders-associate-berlin-369087",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4ecb3764a3ce9f82",
+      "title": "Procurement Manager",
+      "company": "Proxima Fusion GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Procurement",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "WHO WE ARE Proxima Fusion is Europe’s fastest-growing fusion company and the continent’s best-funded fusion player, as well as the first spin-out from the Max Planck Institute for Plasma Physics (IPP). Backed by over €650M and powered by a growing team across …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/procurement-manager-munich-95079",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4b923390527516f8",
+      "title": "Purchasing Manager",
+      "company": "Proxima Fusion GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Procurement",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "WHO WE ARE Proxima Fusion is Europe’s fastest-growing fusion company and the continent’s best-funded fusion player, as well as the first spin-out from the Max Planck Institute for Plasma Physics (IPP). Backed by over €650M and powered by a growing team across …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/purchasing-manager-munich-368121",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "671229684256451f",
+      "title": "CEO Office Associate",
+      "company": "Proxima Fusion GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "WHO WE ARE Proxima Fusion is Europe’s fastest-growing fusion company and the continent’s best-funded fusion player, as well as the first spin-out from the Max Planck Institute for Plasma Physics (IPP). Backed by over €650M and powered by a growing team across …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/ceo-office-associate-munich-193100",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a80d65e907562622",
+      "title": "Industrial Controls Engineer",
+      "company": "Proxima Fusion GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "WHO WE ARE Proxima Fusion is Europe’s fastest-growing fusion company and the continent’s best-funded fusion player, as well as the first spin-out from the Max Planck Institute for Plasma Physics (IPP). Backed by over €650M and powered by a growing team across …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/industrial-controls-engineer-munich-85416",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3712909ae0347582",
+      "title": "Working Student Compliance (f/m/x)",
+      "company": "Lemon Markets",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin (Hybrid)",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About lemon.markets 🍋 We enable anyone to be an investor. Our mission is to grow investing opportunities for all European customers and businesses. By empowering FinTechs, banks, and wealth managers to offer investment products, we help create financial well-b…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lemon-markets/working-student-compliance-berlin-242411",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "12e509f6cad4f60f",
+      "title": "Working Student IT Support & Operations (m/f/d)",
+      "company": "Zenjob",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": "Max Schneider, Senior Engineering Manager IT"
+      },
+      "summary": "About Us Zenjob is a Berlin-based job portal with the goal of empowering the workforce of tomorrow with innovative technology. We envision a world where everyone has complete control over their work life. Even today, part-time workers can decide when, where, a…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/zenjob/working-student-it-support-operations-berlin-447839",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "162ddc76deb52321",
+      "title": "Founder Associate (Berlin)",
+      "company": "Prior Labs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Foundation models transformed text and images. Structured data - the largest and most consequential data format in the world - stayed untouched, until now. What LLMs did for language, we're doing for tables. We pioneered tabular foundation models: T…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/prior-labs/founder-associate-berlin-479669",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3f10bd09d53210f6",
+      "title": "Visiting Associate Cohort",
+      "company": "Prior Labs",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Foundation models transformed text and images. Structured data - the largest and most consequential data format in the world - stayed untouched, until now. What LLMs did for language, we're doing for tables. We pioneered tabular foundation models: T…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/prior-labs/visiting-associate-cohort-berlin-168613",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "11db5c6e535cbec2",
+      "title": "Graduate Program (all genders)",
+      "company": "Distribusion Technologies",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Distribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail, and ferry …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/graduate-program-all-genders-berlin-363848",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e6217cecc9b78e9c",
+      "title": "Community Manager (m/w/d)",
+      "company": "Digital Innovation Hub Düsseldorf/Rheinland GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Forme mit uns die Events und Programme, die Gründungen in NRW voranbringen. Der digihub sucht Verstärkung! Du brennst für die Start-up-Szene und willst Events, Formate und Communities aufbauen, die Gründungen voranbringen? Dann werde Teil des digihub Düsseldor…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/digital-innovation-hub-dusseldorfrheinland-gmbh/community-manager-dusseldorf-455384",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f4610cc85aa21aca",
+      "title": "M&A Associate",
+      "company": "Ralph",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über Ralph Ralph ist eine moderne KI-Hausverwaltung aus Berlin. Wir verbinden klassisches Verwalterhandwerk mit eigener Software, um die Immobilienverwaltung, die größte Anlageklasse der Welt, neu zu denken. Mit über 75 Mitarbeitenden betreuen wir bereits über…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ralph/ma-associate-berlin-287600",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7ca1564c73bc1cc4",
+      "title": "Visiting Analyst - Investments & Automation",
+      "company": "YZR Capital",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "YZR Capital is a leading HealthTech investment platform, with rapid AuM growth, backed by top-tier LPs, investing from Seed to Series B Operating out of Munich, our portfolio spans Europe and the US, with investments across 11 countries The team is responsible…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/yzr-capital/visiting-analyst-investments-automation-munich-86638",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "82e90fb60c3ab937",
+      "title": "Junior Projektmanager:in Social & Creator Marketing (w/m/d)",
+      "company": "likeyaa GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Dortmund",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Social Media ist voll von Content. Aber nur ein Teil davon bewegt wirklich etwas. Genau daran arbeiten wir jeden Tag. Mit Strategien, Creator:innen und Ideen, die nicht nur Reichweite bringen, sondern Wirkung. Und genau dafür suchen wir dich! Aufgaben Du unter…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/likeyaa-gmbh/junior-projektmanagerin-social-creator-marketing-dortmund-300567",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b943f6f5f9edbc17",
+      "title": "Experte in der Informationssicherheit - NIS2/ DORA (m/w/d)",
+      "company": "c.cure - Geschäftsbereich der Megamaris GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ein renommiertes Unternehmen aus der Gesundheitsbranche sucht aktuell Verstärkung für das Team der Informationssicherheit in Köln. Setze das ISMS um und entwickle dieses weiter gem. ISO27001 unter der Berücksichtigung der NIS2 und des Cyber Resilience Act. Arb…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ccure-geschaftsbereich-der-megamaris-gmbh/experte-in-der-informationssicherheit-nis2-dora-cologne-181457",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2b491563fd7df343",
+      "title": "Junior Google Performance & Analytics Manager (m/w/d)",
+      "company": "eFLY Marketplace Services GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Stuttgart",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "In dieser Position bist du für die operative Umsetzung unseres Google-Marketings zuständig. Während die Strategie und das technische Setup vorgegeben werden, verantwortest du das fehlerfreie Einbuchen, die tägliche Pflege und das exakte Monitoring unserer Goog…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/junior-google-performance-analytics-manager-stuttgart-485581",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cd45a3baedd5e54f",
+      "title": "Team Lead SDR (m/w/d)",
+      "company": "Jupus",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wer wir sind JUPUS baut die erste KI, die 80 % der Arbeit in Anwaltskanzleien selbstständig erledigt. Series A abgeschlossen. ARR 2025 vervierfacht. Über 2.000 Anwält*innen vertrauen JUPUS täglich ihre Mandate an. In drei Jahren sind wir zu einem der am schnel…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/jupus/team-lead-sdr-berlin-193572",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9d7461e8cbe8fea3",
+      "title": "Mitarbeiter (m/w/d) für Softwaresupport & Kundenbetreuung",
+      "company": "Elisana Digital GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Dorsten",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Working for better teamwork Mit unserer Teamsoftware vereinfachen Unternehmen mit 5-300 Mitarbeitern ihre tägliche Zusammenarbeit, Organisation und Personalplanung. Bereits über 40.000 Mitarbeiter nutzen unsere Software – und täglich kommen neue Kunden hinzu. …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/elisana-digital-gmbh/mitarbeiter-fur-softwaresupport-kundenbetreuung-dorsten-300441",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ab5beedc8b67c59e",
+      "title": "Facility Manager Gebäudetechnik (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Facility Manager Gebäudetechnik (m/w/d) – Vollzeit | München | 39 h/Woche Im Auftrag unseres Partnerunternehmens in München suchen wir Sie zum nächstmöglichen Zeitpunkt als „ Facility Manager Gebäudetechnik (m/w/d)\". Aufgaben Als Facility Manager (m/w/d) überw…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/facility-manager-gebaudetechnik-munich-428192",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "71c367f597340c25",
+      "title": "Social Media & Content Creator (m/w/d)",
+      "company": "Westermann GmbH & Co. KG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Meppen",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Zeig, was unsere Produkte können. Du erkennst gute Motive, drehst gerne Videos und machst aus technischen Themen verständliche Inhalte? Dann gestalte mit uns den Auftritt von zwei Marken: Westermann für Kehrmaschinen und Reinigungstechnik sowie Non Stop Shop f…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/westermann-gmbh-co-kg/social-media-content-creator-meppen-115422",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d330a07e43cc591f",
+      "title": "Marketing Manager (m/w/d)",
+      "company": "Westermann GmbH & Co. KG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Meppen",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Zwei Marken. Dein Gestaltungsspielraum. Westermann steht für Kehrmaschinen und Reinigungstechnik, Non Stop Shop für automatisierte Verkaufssysteme. Wir bauen unser internes Marketingteam auf und suchen jemanden, der die Vermarktung beider Unternehmen mitgestal…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/westermann-gmbh-co-kg/marketing-manager-meppen-245385",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "566c22d8da7fc75a",
+      "title": "Teamführung Stammdatenmanagement im E-Commerce (Data Management & PIM) (m/w/d)",
+      "company": "PERRCON job network",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Tübingen",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du bist Profi für PIM-Systeme und hast Erfahrung im Umgang mit großen Datenmengen im E-Commerce? Dann gestalte bei einem dynamischen, etablierten und stetig wachsenden Onlinehändler aktiv die Zukunft des Produktdatenmanagements. Übernimm Verantwortung in einer…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/perrcon-job-network/teamfuhrung-stammdatenmanagement-im-e-commerce-data-management-pim-tubingen-122787",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "082663848393df25",
+      "title": "Junior Operations Assistant (m/w/d) – HealthTech",
+      "company": "Veni Solutions",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Veni Solutions: Veni Solutions is an early-stage Berlin HealthTech startup developing VeniCare—an ambient, privacy-first sensor and AI ecosystem that helps seniors live safely and independently at home. The Opportunity: Looking to break into tech or disc…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/veni-solutions/junior-operations-assistant-healthtech-berlin-77476",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "deb0a781a425b176",
+      "title": "Senior Consultant/ Kapitalmarkt Spezialist (m/w/d)",
+      "company": "crossconsulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind crossconsulting , eine unabhängige Managementberatung mit Schwerpunkt auf Finanzdienstleister wie Banken und Versicherungen. Als Teil einer Unternehmensgruppe mit Company Builder, Venture Capitalist und Personaldienstleister arbeiten wir mit mehr als …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/crossconsulting-gmbh/senior-consultant-kapitalmarkt-spezialist-cologne-318756",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4a5f5c2853aa23e0",
+      "title": "Senior Scientific Data Engineer",
+      "company": "Tetrascience",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Healthcare",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About TetraScience TetraScience is the Scientific Data and AI Company building Tetra OS, the operating system for scientific intelligence. We help the world’s leading life sciences firms turn fragmented scientific data into AI-native assets and scientific work…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tetrascience/remote-senior-scientific-data-engineer-germany-163831",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "04a06dd1a40309d4",
+      "title": "Sales Development Representative",
+      "company": "Redis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "England",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": "region SDR Manager"
+      },
+      "summary": "Who we are We're Redis. We built the product that runs the fast apps our world runs on. (If you checked the weather, used your credit card, or looked at your flight status online today, you’re welcome.) At Redis, you’ll work with the fastest, simplest technolo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/redis/sales-development-representative-london-133249",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3a917b33e0b0fc6e",
+      "title": "Senior Commercial Finance Business Partner",
+      "company": "SumUp",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Senior Commercial Finance Business Partner About the team The Commercial Planning team sits at the heart of SumUp's commercial engine, turning complex data into the financial insight that shapes how we grow. We partner closely with Sales leaders and commercial…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-commercial-finance-business-partner-london-166576",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2bb1be074dc35af1",
+      "title": "Staff Product Designer (Ventures)",
+      "company": "Deliveroo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking n…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-product-designer-ventures-london-88981",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "70989f8eb5ce2c6a",
+      "title": "IT Operations Systems Assistant",
+      "company": "Radiant",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Procurement",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Reports to: People Manager / Operations team Location: London / UK preferred (hybrid — office access is a bonus, not required) Company Overview: Radiant is redefining how AI infrastructure is built. We design and operate AI-native cloud platforms engineered fo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/radiant/it-operations-systems-assistant-london-104348",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "39c9e67a1ff1183c",
+      "title": "Support Engineer - Last Mile Delivery (f/m/d)",
+      "company": "Decathlontechnology",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Lille",
+        "region": null,
+        "country": "Nord",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Notre équipe Ship & Back recherche un·e Support Engineer (f/m/d) en CDI basé·e à Lille. Au cœur de la Value Chain de Decathlon, l'équipe Last Mile Delivery propulse l'expérience sportive au niveau supérieur en garantissant une livraison fluide, rapide et fiabl…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/support-engineer-last-mile-delivery-lille-upline-nord-4609",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4bd49a98d86c759b",
+      "title": "Stage BI Engineer Workday - People",
+      "company": "Decathlontechnology",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🚀 Stagiaire BI Engineer Workday (F/H) — Decathlon Digital Contrat : stage conventionné de six mois (fin d'études) 🎓 Localisation : Paris 📍 Démarrage : premier trimestre 2027 📅 Niveau d'études : Bac+5 Dans le cadre du développement de nos outils de reporting RH…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/stage-bi-engineer-workday-people-paris-paris-226470",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "198c6f7fe07b3413",
+      "title": "Senior Software Development Engineer SAP Fullstack (f/m/d)",
+      "company": "Decathlontechnology",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Lille",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Notre équipe SAP delivery recherche un·e Senior software engineer basé·e à Lille ou Paris. Chez Decathlon, nous sommes guidés par notre sens qui est \"Move People through the wonders of sports\". Notre mission est d'inspirer et de permettre aux gens d'entreprend…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-software-development-engineer-sap-fullstack-lille-upline-nord-paris-paris-431170",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b2eb8d1c2b1fdf48",
+      "title": "Software Engineer Intern - Ads",
+      "company": "Mirakl - Labs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bordeaux",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Mirakl: Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy. Today, Mirakl's operating system combines an enterprise marketplace solution (Mirakl Platform) that enables…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-ads-bordeaux-410270",
       "source": "Arbeitnow"
     },
     {
@@ -11996,6 +12978,34 @@
       },
       "summary": "Join Our Global Customer Engagement Network Company: Ultimate Marketing LLC Location: Worldwide | Remote Employment Type: Independent Contractor (1099 for eligible U.S. contractors) Compensation: Performance-Based | Payments Every 3 Calendar Days About the Opp…",
       "applicationUrl": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512",
+      "source": "Remote OK"
+    },
+    {
+      "id": "8ffdc35ffe093328",
+      "title": "Payment Operations Specialist",
+      "company": "Utopia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "UtopiaÂ is an ultra-luxury hospitality and lifestyle brand creating a global ecosystem of properties and experiences. We develop private villa retreats in beautiful locations around the world, each with high-end service.Â UtopiaÂ also offers a wider ecosystem …",
+      "applicationUrl": "https://remoteOK.com/remote-jobs/remote-payment-operations-specialist-utopia-1137514",
       "source": "Remote OK"
     },
     {
