@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-16T21:11:11.602909+00:00",
+    "lastUpdated": "2026-10-16T23:37:12.963713+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -3513,6 +3513,7 @@
       "sectors": [
         "Marketing & Communications",
         "Sales / Business Development",
+        "Sports",
         "Technology / IT"
       ],
       "deadline": null,
@@ -6664,6 +6665,345 @@
       },
       "summary": "About this role Want to find out what recruitment really is, from the inside? At Eye, you won't be filing CVs in a corner. You'll help a growing recruitment team build how we hire, and if it clicks, we'd love to grow you into a recruiter. What you will do Help…",
       "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/eye-security/working-student-talent-acquisition-the-hague-29126",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "44912bdee1210e37",
+      "title": "Working Student — AI Engineering & Document Intelligence",
+      "company": "Tracium GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Hamburg, Germany · Part-time alongside your studies About Tracium Tracium builds AI-assisted software that helps technical teams turn complex manuals into structured, traceable information. We combine document intelligence with S1000D authoring, star…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/working-student-ai-engineering-document-intelligence-berlin-357203",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d8cd3888c0a2ac80",
+      "title": "Cybersecurity Intern",
+      "company": "Sereact GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Stuttgart Schockenriedstr. 17",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Cybersecurity Intern Company: Sereact GmbH Location: Stuttgart, Germany About the role Help us improve the security and monitoring of our cloud infrastructure and internal systems. A key project will be building and rolling out our SIEM platform for centralize…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/cybersecurity-intern-stuttgart-351050",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3ccc2c3e2a2f8b9a",
+      "title": "Training Operation Specialist (all gender)",
+      "company": "Stackfuel",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Training Operations Specialist (all genders) Erledigst Du am liebsten Dinge, bevor sie überhaupt zum Problem werden? Behältst Du in unübersichtlichen Prozessen den Überblick , während andere längst den Faden verloren haben, und macht es Dir Freude, aus Daten d…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/stackfuel/training-operation-specialist-all-gender-berlin-275480",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "56f13de33195ba05",
+      "title": "Technical ISMS & Compliance Manager (m/w/d)",
+      "company": "Nexis GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Regensburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über Nexis Die NEXIS Plattform ist eine führende Identity Visibility and Intelligence Platform (IVIP), die eine einheitliche Sicht über IGA-, PAM- und IAM-Systeme hinweg schafft – für menschliche und nicht-menschliche Identitäten sowie AI-Agenten. Sie ermöglic…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/nexis-gmbh/technical-isms-compliance-manager-regensburg-103825",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8b6ed6351e1b7d2e",
+      "title": "Senior Marketing Manager, Brand Integrated Marketing",
+      "company": "Deliveroo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking n…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-marketing-manager-brand-integrated-marketing-london-384974",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3d2b770b2c755eee",
+      "title": "Engineer, Accounting Data and Infrastructure Systems",
+      "company": "Deliveroo",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking n…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/engineer-accounting-data-and-infrastructure-systems-london-151274",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "85364c5d2ce0412a",
+      "title": "Analytics Engineer – BI Platform",
+      "company": "Deliveroo",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking n…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/analytics-engineer-bi-platform-london-467029",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5e3d248bbf1424c0",
+      "title": "Engineering Manager – Server-Driven UI (Codeless)",
+      "company": "Deliveroo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking n…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/engineering-manager-server-driven-ui-codeless-london-65852",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cb370e3b5ed0b6a3",
+      "title": "Talent Acquisition Partner (Temporary 6 month Contract)",
+      "company": "Globalizationpartners",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Our leading SaaS-based Global Employment Platform™ enables clients to expand into over 180 countries quickly and efficiently, without the complexities of establishing local entities. At G-P, we’re dedicated to breaking down barriers to global business…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/globalizationpartners/talent-acquisition-partner-temporary-6-month-contract-485256",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "12a9c7b84c9b7d17",
+      "title": "Senior Application Security Engineer",
+      "company": "Globalizationpartners",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Our leading SaaS-based Global Employment Platform™ enables clients to expand into over 180 countries quickly and efficiently, without the complexities of establishing local entities. At G-P, we’re dedicated to breaking down barriers to global business…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/globalizationpartners/senior-application-security-engineer-129619",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "38d6acd44986555e",
+      "title": "Mobile Engineer - React Native",
+      "company": "Alma31",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": "Gautier Labarre , Engineering Manager"
+      },
+      "summary": "🧡 About Alma At Alma, we believe sustainable commerce depends on fair, well‑balanced trade. Because finance plays a pivotal role in business, our mission is to put it back in its rightful place - serving merchants and consumers. Our installment and deferred pa…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alma31/mobile-engineer-react-native-paris-paris-490024",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9a14c7edbeecdecb",
+      "title": "Accounting intern - Paris",
+      "company": "Artefactjobs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Qui sommes-nous? Artefact est une nouvelle génération de cabinet de conseil spécialisée en Data dont plus de 2500 collaborateurs répartis sur 27 pays ont pour mission d’accompagner la transformation chez nos clients. Nous offrons une large gamme de solutions d…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/accounting-intern-paris-9th-arrondissement-of-paris-75009-paris-231010",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e61ceb9a138c5403",
+      "title": "Research Engineer (m/f/d)",
+      "company": "Sereact GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Research Engineer, Manipulation Data & Teleoperation — Zurich This role owns the data generation layer of Sereact's VLA stack: teleoperation systems and data collection infrastructure that feed Cortex, built from our Zurich research hub. About Sereact Sereact …",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/sereact-gmbh/research-engineer-zurich-327456",
       "source": "Arbeitnow"
     },
     {
@@ -26832,7 +27172,7 @@
         "name": null,
         "title": null
       },
-      "summary": "Explore of detailed JD here: Careers at CynLr | Robotics & Deep-Tech Jobs Find Jobs in Switzerland on Arbeitnow",
+      "summary": "Explore of detailed JD here: Careers at CynLr | Robotics & Deep-Tech Jobs Find more English Speaking Jobs in Switzerland on Arbeitnow",
       "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/cynlr/robotics-engineering-intern-switzerland-491653",
       "source": "Arbeitnow"
     },
