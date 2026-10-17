@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-16T23:37:12.963713+00:00",
+    "lastUpdated": "2026-10-17T04:29:04.817436+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,388 @@
     ]
   },
   "jobs": [
+    {
+      "id": "6b7d47eaea4227e5",
+      "title": "Senior QA Engineer - Berlin",
+      "company": "Resident Advisor",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About RA Resident Advisor has been a home for electronic music culture since 2001. Event discovery, ticketing, news and long-form editorial, artist profiles, original films, and a weekly mix series two decades deep. Around 7 million people use the web platform…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/resident-advisor/senior-qa-engineer-berlin-153034",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "240fe629bf386ed9",
+      "title": "Junior TikTok Shop Manager - all genders",
+      "company": "ADBAKER",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "join the team Du hast erste Erfahrungen im Affiliate-, eCommerce, Creator- oder Social-Media-Umfeld und willst jetzt eigene Verantwortung übernehmen? Als Junior TikTok Shop Manager baust ihre Creator Communities auf und aus. Dein Fokus: Skalierung. TikTok Shop…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/adbaker/junior-tiktok-shop-manager-all-genders-cologne-347955",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f77692866607e8d1",
+      "title": "Trainee TikTok Shop Management (12 Monate) - all genders",
+      "company": "ADBAKER",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "join the team Du willst in den Social Commerce einsteigen und von Tag eins an Verantwortung übernehmen? Als Trainee TikTok Shop Management lernst du bei uns, wie man Creator Communities für unsere Kunden aufbaut und skaliert. Du wirst Schritt für Schritt an ei…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/adbaker/trainee-tiktok-shop-management-12-monate-all-genders-cologne-489360",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9956670b9aa72db7",
+      "title": "Product Designer",
+      "company": "Creativex",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About CreativeX CreativeX is B2B SaaS technology platform that helps global marketing teams make smarter creative decisions and elevate creative expression through the clarity of data. Our technology powers creative decision-making at some of the biggest brand…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/creativex/product-designer-london-105391",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5482160e2a429527",
+      "title": "Enterprise Account Executive, TMT",
+      "company": "Alphasense",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "Greater London",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Finance",
+        "International Development",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About AlphaSense: AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and finance. The platform combines domain-specific AI…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/enterprise-account-executive-tmt-london-greater-london-72855",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3ccdc17dcb9681de",
+      "title": "Enterprise Account Executive",
+      "company": "Alphasense",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "Greater London",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Finance",
+        "International Development",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About AlphaSense: AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and finance. The platform combines domain-specific AI…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/enterprise-account-executive-london-greater-london-226151",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bd042fab5c76e0b3",
+      "title": "Account Executive, Life Sciences",
+      "company": "Alphasense",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "Greater London",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Finance",
+        "International Development",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Procurement",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About AlphaSense: AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and finance. The platform combines domain-specific AI…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/account-executive-life-sciences-london-greater-london-354438",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c60d2dc49279f093",
+      "title": "Account Executive, Corporate Finance",
+      "company": "Alphasense",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "Greater London",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About AlphaSense: AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and finance. The platform combines domain-specific AI…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/account-executive-corporate-finance-london-greater-london-132381",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1b0f0f3323b4226b",
+      "title": "3D Reconstruction Research Scientist/Engineer",
+      "company": "Niantic Spatial",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Niantic Spatial AI has learned from almost everything online, but it still struggles with the physical world, where 99.5% of economic activity happens. It doesn’t know where things are, how spaces fit together, or what changes over time. That’s one of th…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/niantic-spatial/3d-reconstruction-research-scientist-engineer-london-480945",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b60833d3851365e3",
+      "title": "Corporate Development Analyst",
+      "company": "Uforce",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "United Kingdom | Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "UFORCE exists to make aggression unaffordable. Founded in Ukraine and headquartered in London, UFORCE is a defence-technology company with operations across Europe, the United States and Asia. UFORCE builds uncrewed vessels, ground robotics and aircraft, auton…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/uforce/remote-corporate-development-analyst-53138",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ec189f269320d134",
+      "title": "Business Application Support Analyst",
+      "company": "Zilch",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zilch UK",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are: We're one of Europe's fastest-growing fintech companies – on a mission to create the world's most empowering way to pay. We launched the product in 2020 and achieved double unicorn status, valued at $2 billion, and since then have taken on more tha…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/zilch/business-application-support-analyst-london-473176",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cc534992dcd06b12",
+      "title": "Customer Enablement Specialist (12 month FTC)",
+      "company": "Kaluza",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job title: Customer Enablement Specialist (12 Month Fixed-Term) Location: Paris Salary: €42,400 - €53,000 Team: Client Delivery EMEA Reporting To: Operating Model Design Lead This role is based in Paris, France and requires an existing right to work in the EU.…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/kaluza/customer-enablement-specialist-12-month-ftc-paris-paris-279768",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0c1e6cc42a0ebf36",
+      "title": "GTM & Strategy Analyst",
+      "company": "Meetdavis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "TL;DR: We are looking for a gap-year or final-year student to work alongside the leadership team on Davis's go-to-market, strategy and growth . About Davis Davis is an AI-native real estate company accelerating early-stage development and architectural design.…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/meetdavis/gtm-strategy-analyst-paris-347536",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c776543c59ef6b1c",
+      "title": "Junior Product Designer - UI/UX",
+      "company": "Ethon",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "You turn complex manufacturing data into interfaces factory teams rely on every day, working side by side with our engineers. Ethon was built to eliminate the trillion-dollar waste problem in manufacturing. We are the technology leader in Industrial AI, buildi…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/ethon/junior-product-designer-ui-ux-zurich-299042",
+      "source": "Arbeitnow"
+    },
     {
       "id": "0c3b38e86911b05d",
       "title": "Senior Post Producer (m/w/d)",
@@ -7005,6 +7387,652 @@
       "summary": "Research Engineer, Manipulation Data & Teleoperation — Zurich This role owns the data generation layer of Sereact's VLA stack: teleoperation systems and data collection infrastructure that feed Cortex, built from our Zurich research hub. About Sereact Sereact …",
       "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/sereact-gmbh/research-engineer-zurich-327456",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "075b5e1aa5f9b4e8",
+      "title": "Senior Influence Manager (m/w/d)",
+      "company": "Ogilvy",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin; Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Ogilvy Ogilvy has been creating impact for brands through iconic, culture-changing, value-driving ideas since the company was founded by David Ogilvy more than 75 years ago. It builds on that rich legacy through Borderless Creativity—innovating at the in…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ogilvy/senior-influence-manager-berlin-dusseldorf-369304",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "965c91b6921ca232",
+      "title": "Senior Web UX/UI Designer",
+      "company": "jetbrains",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin; Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you care deeply about visual hierarchy, interaction details, and how a webpage feels to use? Do you believe design isn’t decoration, it’s how products communicate, guide, and solve complex problems? If you enjoy refining pixels, building coherent web system…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/jetbrains/senior-web-ux-ui-designer-berlin-munich-316297",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b543acf5b9f8b526",
+      "title": "IT Program Manager (f/m/d)",
+      "company": "Moss",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Procurement",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": "CISO and work closely with our Tech Operations engineers and Information Security team, alongside Le"
+      },
+      "summary": "At Moss, we give finance professionals the power to automate their day-to-day and make forward-thinking decisions. Our culture is what makes that possible: we play to win, we obsess over quality, and we win as One Moss, and it works. Moss closed a €35 million …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/moss/it-program-manager-berlin-71517",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "106476eac3801511",
+      "title": "Projektmanager Photovoltaik (m/w/d)",
+      "company": "GALVANY",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sports",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Projektmanager Photovoltaik (m/w/d) Bei GALVANY ist es unser Ziel, klimaneutrales Wohnen für alle zur Realität zu machen. Wir setzen auf Umsetzung und entwickeln konkrete, smarte Lösungen, indem wir Wärmepumpen, Batteriespeicher und Smart Metering einfach zugä…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/galvany/projektmanager-photovoltaik-berlin-270743",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c2e974ceda67bb89",
+      "title": "Senior Sales Executive, DACH",
+      "company": "Siteminder",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At SiteMinder, we believe our success comes from our people. We build diverse, inclusive teams where different voices, backgrounds and perspectives are valued. Our differences drive innovation for our customers, and our people bring the ideas, expertise and en…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/siteminder/senior-sales-executive-dach-berlin-184651",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5813f62fe34eeb59",
+      "title": "(Senior) Research Manager – Survey Data & Innovation (m/f/d)",
+      "company": "Statista",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Humanitarian / NGO",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Statista , we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions. F…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/statista/senior-research-manager-survey-data-innovation-hamburg-448825",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9ad8bd0b1d09ea0a",
+      "title": "Data Engineer - Data Platform & Ontology (m/f/d)",
+      "company": "Statista",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg or Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Statista , we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions. F…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/statista/data-engineer-data-platform-ontology-hamburg-or-berlin-119444",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1efe6c61c9b72128",
+      "title": "Forward Deployed Engineer - m/f/d",
+      "company": "Langdock",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Help Us Change the Way the World Works Turn AI ambition into production systems that run the business Langdock exists to change the way the world works, bridging the gap between what technology can do and what people actually do with it. We bring all leading A…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/langdock/forward-deployed-engineer-berlin-447106",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e0ecd732f7a57a58",
+      "title": "Senior Growth Manager - EMEA",
+      "company": "Rzr",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": "EMEA Growth lead and collaborate with a lean, senior team that moves fast and holds itself to a high"
+      },
+      "summary": "Who Are We? RZR is an AI-native advertising platform built for the next era of performance marketing. We operate at the intersection of machine learning, programmatic media, and full-funnel mobile growth, powering campaigns for some of the world's most ambitio…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/rzr/senior-growth-manager-emea-london-292982",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9b1a058f4cb478f9",
+      "title": "Senior Scheduler - Bristol",
+      "company": "Cmr.london",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🌟 Position: Senior Scheduler 🌟 📍 Location: Bristol - 2 Days Office / 3 days home 💼 Type: Full-time 📅 Start Date: Immediate 💰 Salary: Competitive We are currently seeking an experienced Senior Scheduler/ Planner to join our dynamic award winning team at Cooper …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cmrlondon/senior-scheduler-bristol-302510",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5a8bb96220e92d5d",
+      "title": "Software Engineer - BYG",
+      "company": "iwoca",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Humanitarian / NGO",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Software Engineer - Customer Operations Platform Hybrid in London, UK We’re looking for a software engineer iwoca’s operational tools and processes are a competitive advantage, allowing us to give great customer service, manage risk, and get money into our cus…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/software-engineer-byg-london-234089",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7db60732d793fa91",
+      "title": "Software Engineer (Fleet) - London",
+      "company": "Teton",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Healthcare",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us At Teton, we are redefining the role of healthcare workers through cutting-edge AI technology. Facing a global nursing shortage, our solutions offer vital support to overburdened health systems. With thousands of patient rooms across 4 countries alrea…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/teton/software-engineer-fleet-london-212156",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8d8f78073bc11969",
+      "title": "Software Engineer (Mobile) - London",
+      "company": "Teton",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Teton is redefining the role of healthcare workers through cutting-edge AI technology and a great product experience. As populations gets older and a shortage in staff, healthcare system is under pressure. Our missions is to decrease the cost of healt…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/teton/software-engineer-mobile-london-81099",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "94cce8a4e6b9cb2e",
+      "title": "Patient Support Coordinator",
+      "company": "Montu Uk",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hybrid Winnersh",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Montu, our Patient Support team plays an important role in ensuring patients feel informed, supported and cared for throughout their treatment journey. We are looking for a Patient Support Coordinator to join our Pharmacy Support team at Winnersh Triangle. …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/patient-support-coordinator-hybrid-winnersh-474304",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "852c9786cbc0d5d7",
+      "title": "Junior Clinical Fellow",
+      "company": "Montu Uk",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Hybrid",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Healthcare",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Be at the forefront of a new era in patient care Are you a doctor who has completed Foundation Training and is looking for a unique clinical opportunity? This is your chance to work at the cutting edge of cannabis based medicines, supporting patients with comp…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/junior-clinical-fellow-winnersh-187316",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "15fb67175030efb3",
+      "title": "CRM Executive",
+      "company": "Montu Uk",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Hybrid Winnersh",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "CRM Executive Montu is a leading cannabis company with operations in Europe and Asia-Pacific. We facilitate access to cannabis through locally integrated ecosystems that streamline the patient experience from end-to-end and set new standards in Cannabis Care. …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/crm-executive-hybrid-winnersh-131932",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6cccb371b4de1086",
+      "title": "Accounting intern - Paris",
+      "company": "Artefact",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Qui sommes-nous? Artefact est une nouvelle génération de cabinet de conseil spécialisée en Data dont plus de 2500 collaborateurs répartis sur 27 pays ont pour mission d’accompagner la transformation chez nos clients. Nous offrons une large gamme de solutions d…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefact/accounting-intern-paris-9th-arrondissement-of-paris-75009-paris-35907",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "983f26c182a04f03",
+      "title": "Accounting intern - Paris",
+      "company": "Artefactlinkedin",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Qui sommes-nous? Artefact est une nouvelle génération de cabinet de conseil spécialisée en Data dont plus de 2500 collaborateurs répartis sur 27 pays ont pour mission d’accompagner la transformation chez nos clients. Nous offrons une large gamme de solutions d…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/accounting-intern-paris-9th-arrondissement-of-paris-75009-paris-481008",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7b1785ec980dc917",
+      "title": "Sales Engineer / Technical Sales Manager",
+      "company": "Phenogyag",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Root",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "PHENOGY AG is a leading innovator of battery energy storage technologies and solutions for the green electrification of the planet. Our team members work on future-proof and sustainable battery systems that are powerful, safe, and robust – with circularity as …",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/phenogyag/sales-engineer-technical-sales-manager-root-419109",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8bd997de6d04b852",
+      "title": "InDomo | AI & Marketing Transformation Internship",
+      "company": "Ogilvy",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "International Development",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Ogilvy Ogilvy has been creating impact for brands through iconic, culture-changing, value-driving ideas since the company was founded by David Ogilvy more than 75 years ago. It builds on that rich legacy through Borderless Creativity—innovating at the in…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/ogilvy/indomo-ai-marketing-transformation-internship-amsterdam-48897",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5554ae907d6ee48e",
+      "title": "Student Placement: Rugby Systems Operator 27/28",
+      "company": "Hawkeyeinnovations",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Basingstoke Based with Travel",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location : Based in Basingstoke Contract : Full-time, Fixed Term - 12 Months Travel : There will be travel domestically, with potential travel across Europe and globally Assessment Date(s): Early to mid-December 2026 Expected Start Date: Summer 2027 Why Hawk-E…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hawkeyeinnovations/student-placement-rugby-systems-operator-27-28-basingstoke-330203",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cda3004528a3067d",
+      "title": "Student Placement: Cricket (iHawk) Systems Operator",
+      "company": "Hawkeyeinnovations",
+      "employmentType": "Internship",
+      "location": {
+        "city": "UK Based with Global Travel",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location : Remote, UK-based. Roughly 80% remote, 10% office (Basingstoke), 10% on-site (global travel) Contract : Full-Time, Fixed-Term - 12 Months Travel : Some global travel to Cricket-playing nations (travel, accommodation and daily living allowance expense…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hawkeyeinnovations/student-placement-cricket-ihawk-systems-operator-london-251089",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "46b3702706e2c367",
+      "title": "Student Placement: Cricket Systems Operator 27/28",
+      "company": "Hawkeyeinnovations",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "UK Based with Global Travel",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location : UK-based (Hybrid role with work to be completed as required from on-site, the Basingstoke office and/or WFH at various times). Travel : Extensive domestic and global travel to Cricket-playing nations (travel, accommodation and daily living allowance…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hawkeyeinnovations/student-placement-cricket-systems-operator-27-28-london-362901",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7f49ee737a0c2260",
+      "title": "Customer Success Associate",
+      "company": "Voltus",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Voltus represents the potential of us to better manage energy through simple, cost and risk-free demand response programs. Our commercial and industrial customers earn cash by letting us maximize the value of their operational flexibility in energy markets. We…",
+      "applicationUrl": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
+      "source": "Remote OK"
     },
     {
       "id": "834b43fa8b7e0d48",
@@ -27172,7 +28200,7 @@
         "name": null,
         "title": null
       },
-      "summary": "Explore of detailed JD here: Careers at CynLr | Robotics & Deep-Tech Jobs Find more English Speaking Jobs in Switzerland on Arbeitnow",
+      "summary": "Explore of detailed JD here: Careers at CynLr | Robotics & Deep-Tech Jobs Find Jobs in Switzerland on Arbeitnow",
       "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/cynlr/robotics-engineering-intern-switzerland-491653",
       "source": "Arbeitnow"
     },
