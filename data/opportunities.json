@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-17T09:23:22.845935+00:00",
+    "lastUpdated": "2026-10-17T13:44:22.346795+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -1137,6 +1137,602 @@
       },
       "summary": "Monumental is automating on-site construction with robotics and software. Our mission is to make construction software-defined and autonomous - a future where beautiful, bespoke buildings go up in a single day, with minimal labour. We're a growing team of engi…",
       "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/monumental/production-engineer-amsterdam-384813",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "44912bdee1210e37",
+      "title": "Working Student — AI Engineering & Document Intelligence",
+      "company": "Tracium GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Hamburg, Germany · Part-time alongside your studies About Tracium https://www.linkedin.com/company/tracium/ Tracium builds AI-assisted software that helps technical teams turn complex manuals into structured, traceable information. We combine documen…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/working-student-ai-engineering-document-intelligence-berlin-357203",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d79a33753dab8374",
+      "title": "Business Development Intern (GTM) (m/f/d)",
+      "company": "Ordio GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Ordio 80% of the world’s workforce doesn’t sit at a desk, yet most software is built for the 20% who do. Ordio is the AI-native workforce management (WFM) system for deskless workforces: shift planning, time tracking and payroll for the people who keep r…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ordio-gmbh/business-development-intern-gtm-cologne-177243",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cc5cd984ccccf53c",
+      "title": "Working student Academics (f/m/d)",
+      "company": "Think Cell",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Humanitarian / NGO",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Story At thinkcell, we create powerful software solutions that help professionals be more efficient and productive. Founded in 2002 and based in Berlin, our tools integrate seamlessly with Microsoft Office to help users create presentations, charts, and di…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/think-cell/working-student-academics-104947",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "00bd96d3e1afe413",
+      "title": "Marketing Associate – Special Projects & Events",
+      "company": "trawa",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin HQ",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Marketing Associate – Special Projects & Events Festanstellung · Vollzeit · Berlin (HQ) Unsere Mission für dich Du baust den Kanal, über den trawa dem industriellen Mittelstand begegnet: mehr als 30 Messen, Kongresse und Roundtables im Jahr, von der fünftägige…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/trawa/marketing-associate-special-projects-events-berlin-497425",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b8e790de0664fa25",
+      "title": "(Senior) Associate – Energy Markets & Business Development (Railway Power & PPAs)",
+      "company": "trawa",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin HQ",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": "our Energy Operations Manager with close collaboration with the COO and Trading Team"
+      },
+      "summary": "(Senior) Associate – Energy Markets & Business Development (Railway Power & PPAs) Our mission for you European energy costs are 2x compared to US and China. Electricity demand is expected to double by 2050. Market price volatility & complexity are here to stay…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/trawa/senior-associate-energy-markets-business-development-railway-power-ppas-berlin-26883",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "10af84049c67bb59",
+      "title": "Executive Assistant - APAC",
+      "company": "ElevenLabs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-executive-assistant-apac-203903",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "494b661457246d8a",
+      "title": "Tech Recruiter (all genders)",
+      "company": "Wemolo",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Talent Acquisition ist für uns mehr als Recruiting. Wir verstehen es als eine echte Disziplin, die sich stetig weiterentwickelt durch neue Technologien, neue Ansätze und vor allem durch die Menschen, die sie gestalten. Dabei zählt für uns nicht nur das Ergebni…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/wemolo/tech-recruiter-all-genders-munchen-498593",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "850652ed0616b525",
+      "title": "Junior Data Scientist",
+      "company": "Almedia",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "This isn’t your regular job. Almedia is a place where those who want to push harder can accelerate their careers faster than anywhere else. We’re aiming to become Germany’s second bootstrapped unicorn. Almedia is already Europe’s #3 fastest-growing company in …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/almedia/junior-data-scientist-berlin-448340",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d20f5073a14ddfc7",
+      "title": "Werkstudent (m/w/d) Sales Operations & Kundenbetreuung",
+      "company": "INCLUSYS",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Heilbronn",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über INCLUSYS Bei INCLUSYS verfolgen wir die Vision, Menschen mit kognitiven Einschränkungen durch innovative Technologien mehr Selbstständigkeit und soziale Teilhabe zu ermöglichen. Unsere Lösungen, von der Smartwatch bis zur Tablet-App, machen Zeit und Tages…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/inclusys/werkstudent-sales-operations-kundenbetreuung-heilbronn-17931",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "120222f5ea8bd757",
+      "title": "Cloud Engineer (m/w/d) mit Karriereambitionen!",
+      "company": "Auralis Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind ein fast zwei Jahre altes IT Unternehmen, aktuell 90 MA, und suchen nun weiterhin Verstärkung, um Cloud-Projekte bei unseren Kunden durchzuführen. Aufgaben Du willst: Deine Arbeitszeiten selbst bestimmen? von zuhause aus arbeiten (remote)? den nächste…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/auralis-group/cloud-engineer-mit-karriereambitionen-berlin-312024",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "44f1d77705965375",
+      "title": "Software Testautomatisierer (m/w/d) mit Karriereambitionen",
+      "company": "Auralis Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Markt Indersdorf",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind ein fast zwei Jahre altes IT-Unternehmen mit aktuell 90 MA und wachsen weiter 🚀 Dafür suchen wir Verstärkung im Bereich Software Testing & Testautomatisierung, um spannende Projekte bei unseren Kunden umzusetzen. Aufgaben Du willst: Deine Arbeitszeite…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/auralis-group/software-testautomatisierer-mit-karriereambitionen-markt-indersdorf-86749",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "68ad7303dd58f93f",
+      "title": "Java Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
+      "company": "Auralis Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind ein fast zwei Jahre altes IT Unternehmen, aktuell 80 MA, und suchen nun weiterhin Verstärkung, um Java-Projekte bei unseren Kunden durchzuführen. Aufgaben Du willst: Deine Arbeitszeiten selbst bestimmen? von zuhause aus arbeiten (remote)? den nächsten…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/auralis-group/java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-458768",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e2c86bb24183a7e9",
+      "title": "Growth Associate (Intern)",
+      "company": "Melotech",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Melotech is revolutionizing media and entertainment. We create art through technology for humans to enjoy. In just 24 months, our work has been heard, watched and loved for over 4 billion minutes worldwide. Founded by entrepreneur and investor Sohei…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/melotech/growth-associate-intern-berlin-16164",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1d7493e735727e7b",
+      "title": "People and Business Operations Specialist",
+      "company": "Mindpeak",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Finance",
+        "Marketing & Communications",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über Mindpeak Mindpeak ist ein KI-Unternehmen aus Hamburg mit einer klaren Mission: Krebsdiagnosen genauer, effizienter und personalisierter zu machen. Wir entwickeln Deep-Learning-Lösungen für die computergestützte Pathologie, die KI direkt in die klinische P…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/mindpeak/people-and-business-operations-specialist-hamburg-148664",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6ab90db668372d10",
+      "title": "Sales Intern (DACH Market)",
+      "company": "Emidat GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "👷🏻‍♀️ What we do 👷🏻‍♀️ At Emidat, we are building the first climate-native product management system for building material manufacturers. We aim to decarbonise building materials, making up 11% of global GHG emissions. We collect data from physical production …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/emidat-gmbh/sales-intern-dach-market-munich-184333",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ff6153e6c818cd21",
+      "title": "AFC Operations Intern (f/m/d)",
+      "company": "Upvest",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Upvest, we are on a mission to make investing as easy as spending money . Upvest empowers businesses to offer a wide range of investment products and the best experience in the field of capital market investment and retirement planning. Upvest’s Investment …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/upvest/afc-operations-intern-berlin-83578",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c5b22219618a06f5",
+      "title": "Corporate Account Executive - Public Sector",
+      "company": "Avepoint",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What will you be doing? As Corporate Account Executive, Public Sector, you will own new-logo acquisition across a defined vertical and account set in the UK, Ireland and South Africa. Your focus will be public sector organisations with 2,000–7,499 employees. T…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/avepoint/corporate-account-executive-public-sector-london-468387",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "08ed90308c947537",
+      "title": "Senior Software Engineer, Fullstack (International)",
+      "company": "Affirm",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The International Accelerator Engineering team is growing, and we're looking for …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/affirm/senior-software-engineer-fullstack-international-79146",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6a76ef93be6a61aa",
+      "title": "Senior NPD Technologist - THG Nutrition | Myprotein",
+      "company": "Thehutgroup",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Manchester",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "International Development",
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Sports",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About THG We are THG, a global ecommerce group on a mission to be the global online leader in beauty and sports nutrition. Our portfolio of leading retailers and brands such as LOOKFANTASTIC, Myprotein, ESPA, Perricone MD, and Cult Beauty form our two core bus…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/senior-npd-technologist-thg-nutrition-myprotein-manchester-81269",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2abeded4b40ff015",
+      "title": "Chief of Staff - UK",
+      "company": "Banyansoftware",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Banyan Software is the best permanent home for software businesses that serve specialized industries, their employees, and their customers. With a buy-grow-and-hold-for-life approach and a permanent capital base, Banyan acquires and grows companies worldwide, …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/banyansoftware/chief-of-staff-uk-london-199214",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2ae66122bce1b8da",
+      "title": "AI Growth Ops",
+      "company": "Kraken",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Building the Future of Open Finance Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure pl…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/kraken/ai-growth-ops-london-321351",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f5f1166d0079919c",
+      "title": "Sales Development Representative - German speaking",
+      "company": "Redis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "England",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-17",
+      "reportsTo": {
+        "name": null,
+        "title": "region SDR Manager"
+      },
+      "summary": "Who we are We're Redis. We built the product that runs the fast apps our world runs on. (If you checked the weather, used your credit card, or looked at your flight status online today, you’re welcome.) At Redis, you’ll work with the fastest, simplest technolo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/redis/sales-development-representative-german-speaking-london-469998",
       "source": "Arbeitnow"
     },
     {
@@ -7796,31 +8392,6 @@
       },
       "summary": "About this role Want to find out what recruitment really is, from the inside? At Eye, you won't be filing CVs in a corner. You'll help a growing recruitment team build how we hire, and if it clicks, we'd love to grow you into a recruiter. What you will do Help…",
       "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/eye-security/working-student-talent-acquisition-the-hague-29126",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "44912bdee1210e37",
-      "title": "Working Student — AI Engineering & Document Intelligence",
-      "company": "Tracium GmbH",
-      "employmentType": "Internship",
-      "location": {
-        "city": "Berlin",
-        "region": null,
-        "country": null,
-        "workMode": "On-site"
-      },
-      "sectors": [
-        "Data & Analytics",
-        "Technology / IT"
-      ],
-      "deadline": null,
-      "postedDate": "2026-10-16",
-      "reportsTo": {
-        "name": null,
-        "title": null
-      },
-      "summary": "Location: Hamburg, Germany · Part-time alongside your studies About Tracium Tracium builds AI-assisted software that helps technical teams turn complex manuals into structured, traceable information. We combine document intelligence with S1000D authoring, star…",
-      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/working-student-ai-engineering-document-intelligence-berlin-357203",
       "source": "Arbeitnow"
     },
     {
@@ -28949,7 +29520,7 @@
         "name": null,
         "title": null
       },
-      "summary": "Explore of detailed JD here: Careers at CynLr | Robotics & Deep-Tech Jobs Find Jobs in Switzerland on Arbeitnow",
+      "summary": "Explore of detailed JD here: Careers at CynLr | Robotics & Deep-Tech Jobs Find more English Speaking Jobs in Switzerland on Arbeitnow",
       "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/cynlr/robotics-engineering-intern-switzerland-491653",
       "source": "Arbeitnow"
     },
