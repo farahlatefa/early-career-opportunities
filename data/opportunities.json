@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-18T01:04:01.418501+00:00",
+    "lastUpdated": "2026-10-18T05:55:48.605383+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,2086 @@
     ]
   },
   "jobs": [
+    {
+      "id": "7a8c31fca33ac03b",
+      "title": "Business Analyst (m/w/d) - auch für Berufseinsteiger",
+      "company": "Fahrrad Xxl De",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Dresden",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben Wir investieren viel in Digitalisierung und erstellen selbst leistungsfähige und sehr individualisierte Softwaretools für mehr als 1000 aktive User:innen. Zur Verstärkung unseres Teams in Dresden suchen wir zum nächstmöglichen Zeitpunkt einen Bu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/fahrrad-xxl-de/business-analyst-auch-fur-berufseinsteiger-dresden-213910",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8ef311de7b0e6933",
+      "title": "Werkstudent*in (w/m/d) Visual Design",
+      "company": "LEONINE Holding GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Vorstellung Unternehmen LEONINE C_ ist die neue Unit von LEONINE Studios für Branded- und Creator-Entertainment. Sie bündelt unternehmensweit Kompetenzen und entwickelt für Marken und Content-Partner maßgeschneiderte Formate, Inhalte und Kooperationen, die in …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/leonine-holding-gmbh/werkstudentin-visual-design-koln-449096",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4887f9c65c4cd806",
+      "title": "Praktikant (w/m/d) HR Digitalisierung & Personio",
+      "company": "Kloepfel Consulting Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was kommt auf Dich zu? Du baust mit uns eigenständig neue Prozesse in Personio auf – von der Konzeption bis zur praktischen Umsetzung Du entwickelst neue Workflows in Bereichen wie Recruiting, Personaladministration und Onboarding und bildest sie in Personio a…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/kloepfel-consulting-gmbh/praktikant-hr-digitalisierung-personio-dusseldorf-307242",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "938b386bc2d1d5e1",
+      "title": "Working Student - Data & Financial Research eCommerce (m/f/d)",
+      "company": "Ecdb Gmbh Latest",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About us ECDB GmbH is an e-commerce market intelligence provider founded in 2022. The company collects and analyzes worldwide e-commerce transaction data, enriched with comprehensive information on online retailers, countries, regions, and markets, to generate…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ecdb-gmbh-latest/working-student-data-financial-research-ecommerce-hamburg-359904",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a3834a08e5d36d75",
+      "title": "(Senior) Marketing Manager (m/w/d)",
+      "company": "Ecdb Gmbh Latest",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns ECDB – Die Zukunft des eCommerce mit Daten gestalten! ECDB ist weltweit der Anlaufpunkt für eCommerce Market Intelligence. Wir sind überzeugt: Daten entscheiden über Erfolg im eCommerce. Wir liefern Unternehmen wie Amazon, Google und PayPal präziseste…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ecdb-gmbh-latest/senior-marketing-manager-hamburg-491694",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a8ad3adbf94e257d",
+      "title": "QA Engineering Intern (w/m/x/d)",
+      "company": "MILES Mobility GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join the ride! As a QA Engineering Intern you learn how we keep our products reliable, from the first test idea to a release in the app stores. You test our consumer mobile app and our business web platform alongside experienced engineers. We build with a lot …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/miles-mobility-gmbh/qa-engineering-intern-d-berlin-458294",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7279bdb4b7d1ecf6",
+      "title": "IT Administrator – Working student (m/f/d) - Frankfurt am Main (hybrid)",
+      "company": "Lissi GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Frankfurt",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission Managing user accounts, access rights and on-/offboarding in tools such as Google Workspace, Slack and Atlassian (Jira, Confluence) Maintaining our inventory of hardware, software and licenses Supporting the implementation of security and complian…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lissi-gmbh/it-administrator-working-student-frankfurt-am-main-hybrid-495748",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "844a522858613dcd",
+      "title": "Software Engineer – Internal Tools & Automation (m/w/d)",
+      "company": "Wattfox",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Freiburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Gemeinsam großartig – werde Teil des Teams Du willst als Software Engineer mit Python , APIs und Automatisierungen an Lösungen arbeiten, die direkt im operativen Alltag eingesetzt werden? In dieser Rolle entwickelst du interne Tools, Services und Schnittstelle…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/wattfox/software-engineer-internal-tools-automation-freiburg-147596",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "05ee8ed53b5e41d3",
+      "title": "Senior Marketing Manager/in – Vollzeit (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind eine der am schnellstwachsenden Digitalagenturen Hamburgs und suchen zum nächstmöglichen Zeitpunkt neue Mitarbeiter/innen für den Bereich Online-Marketing! Gemeinsam mit unserem Team betreust du eigenständig unsere Kundenprojekte und erstellst Online-…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/senior-marketing-manager-in-vollzeit-hamburg-189116",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "40bb46fce2771768",
+      "title": "Senior Recruiter - Vollzeit (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ab sofort suchen wir einen Senior Recruiter - Vollzeit (m/w/d) in Vollzeit an unserem Standort in der Hamburger Innenstadt. In dieser Position führst du strukturierte Qualifizierungsgespräche mit Bewerbern durch, die wir über Social-Media-Kampagnen für unsere …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/senior-recruiter-vollzeit-hamburg-159933",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "011c0dec13cdfb07",
+      "title": "Senior-IT-Projektleiter (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind eine der am schnellstwachsenden Digitalagenturen Hamburgs und suchen zum nächstmöglichen Zeitpunkt neue Mitarbeiter/innen mit Schwerpunkt Wirtschaftsinformatik für den Bereich Business-Development! Was macht die Cordes Consulting GmbH genau? Wir sind …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/senior-it-projektleiter-hamburg-227092",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8658dd8ebee9c453",
+      "title": "Senior IT-Systemintegrator No-Code / Low-Code (m/w/d) – (Zapier, Make.com, n8n, AirTable etc.)",
+      "company": "Cordes Consulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind eine der am schnellstwachsenden Digitalagenturen Hamburgs und suchen zum nächstmöglichen Zeitpunkt neue Mitarbeiter/innen mit Schwerpunkt Wirtschaftsinformatik für den Bereich Business Development Was macht die Cordes Consulting GmbH genau? Wir sind e…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/senior-it-systemintegrator-no-code-low-code-zapier-makecom-n8n-airtable-etc-hamburg-91557",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "105fbad4ba3464e9",
+      "title": "Junior Fachinformatiker/-in (m/w/d) – Vollzeit",
+      "company": "Cordes Consulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind eine der am schnellstwachsenden Digitalagenturen Hamburgs und suchen zum nächstmöglichen Zeitpunkt neue Mitarbeiter/innen mit Schwerpunkt Wirtschaftsinformatik für den Bereich Business Development Was macht die Cordes Consulting GmbH genau? Wir sind e…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/junior-fachinformatiker-in-vollzeit-hamburg-128825",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "14fe055fa960e517",
+      "title": "Junior Wirtschaftsinformatiker/-in - Vollzeit (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind eine der am schnellstwachsenden Digitalagenturen Hamburgs und suchen zum nächstmöglichen Zeitpunkt neue Mitarbeiter/innen mit Schwerpunkt Wirtschaftsinformatik für den Bereich Business-Development! Was macht die Cordes Consulting GmbH genau? Wir sind …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/junior-wirtschaftsinformatiker-in-vollzeit-hamburg-377094",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cc57f9aa18505f0a",
+      "title": "Fullstack Entwickler (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind eine der am schnellstwachsenden Digitalagenturen Hamburgs und suchen zum nächstmöglichen Zeitpunkt neue Mitarbeiter/innen mit Schwerpunkt Fullstack Entwicklung für den Bereich Business Development. Was macht die Cordes Consulting GmbH genau? Wir sind …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/fullstack-entwickler-hamburg-2825",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6ff4e6812ca895bc",
+      "title": "Senior Fullstack Entwickler (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind eine der am schnellstwachsenden Digitalagenturen Hamburgs und suchen zum nächstmöglichen Zeitpunkt neue Mitarbeiter/innen mit Schwerpunkt Fullstack Entwicklung für den Bereich Business Development Was macht die Cordes Consulting GmbH genau? Wir sind e…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/senior-fullstack-entwickler-hamburg-219861",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3cbe0ba7d5aef975",
+      "title": "Wirtschaftsinformatiker/-in - Vollzeit (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind eine der am schnellstwachsenden Digitalagenturen Hamburgs und suchen zum nächstmöglichen Zeitpunkt neue Mitarbeiter/innen mit Schwerpunkt Wirtschaftsinformatik für den Bereich Business-Development! Was macht die Cordes Consulting GmbH genau? Wir sind …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/wirtschaftsinformatiker-in-vollzeit-hamburg-185107",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "04a69d972bb906f4",
+      "title": "Fachinformatiker/-in (m/w/d) – Vollzeit",
+      "company": "Cordes Consulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind eine der am schnellstwachsenden Digitalagenturen Hamburgs und suchen zum nächstmöglichen Zeitpunkt neue Mitarbeiter/innen mit Schwerpunkt Wirtschaftsinformatik für den Bereich Business Development Was macht die Cordes Consulting GmbH genau? Wir sind e…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/fachinformatiker-in-vollzeit-hamburg-196300",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d48d24445ed628c9",
+      "title": "Senior No-Code / Low-Code Automatisierungsexperte (m/w/d) – Vollzeit (Zapier, Make.com, n8n, AirTable etc.)",
+      "company": "Cordes Consulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind eine der am schnellstwachsenden Digitalagenturen Hamburgs und suchen zum nächstmöglichen Zeitpunkt neue Mitarbeiter/innen mit Schwerpunkt Wirtschaftsinformatik für den Bereich Business Development Was macht die Cordes Consulting GmbH genau? Wir sind e…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/senior-no-code-low-code-automatisierungsexperte-vollzeit-zapier-makecom-n8n-airtable-etc-hamburg-286359",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e760919aa9ee3f92",
+      "title": "Senior Fachinformatiker/-in (m/w/d) – Vollzeit",
+      "company": "Cordes Consulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind eine der am schnellstwachsenden Digitalagenturen Hamburgs und suchen zum nächstmöglichen Zeitpunkt neue Mitarbeiter/innen mit Schwerpunkt Wirtschaftsinformatik für den Bereich Business Development Was macht die Cordes Consulting GmbH genau? Wir sind e…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/senior-fachinformatiker-in-vollzeit-hamburg-459029",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c90d2fdc419a1f53",
+      "title": "Senior Automatisierungs- und Integrationsspezialist (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind eine der am schnellstwachsenden Digitalagenturen Hamburgs und suchen zum nächstmöglichen Zeitpunkt neue Mitarbeiter/innen mit Schwerpunkt Wirtschaftsinformatik für den Bereich Business Development Was macht die Cordes Consulting GmbH genau? Wir sind e…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/senior-automatisierungs-und-integrationsspezialist-hamburg-29857",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3baf92499b0f7a08",
+      "title": "Senior Wirtschaftsinformatiker/-in - Vollzeit (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind eine der am schnellstwachsenden Digitalagenturen Hamburgs und suchen zum nächstmöglichen Zeitpunkt neue Mitarbeiter/innen mit Schwerpunkt Wirtschaftsinformatik für den Bereich Business-Development! Was macht die Cordes Consulting GmbH genau? Wir sind …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/senior-wirtschaftsinformatiker-in-vollzeit-hamburg-287835",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7779dcd12bbc5427",
+      "title": "Senior Key-Account-Manager/in - Vollzeit (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind eine der am schnellstwachsenden Digitalagenturen Hamburgs und suchen zum nächstmöglichen Zeitpunkt neue Mitarbeiter/innen für Key-Account-Management in unserem Customer-Success-Team! Was macht die Cordes Consulting GmbH genau? Wir sind eine Werbeagent…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/senior-key-account-manager-in-vollzeit-hamburg-271173",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "56acc30139b75cc4",
+      "title": "Senior Projektmanager - Vollzeit (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind eine der am schnellstwachsenden Digitalagenturen Hamburgs und suchen zum nächstmöglichen Zeitpunkt neue Mitarbeiter/innen für das Projektmanagement. Was macht die Cordes Consulting GmbH genau? Wir sind eine Werbeagentur, welche Handwerksunternehmen du…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/senior-projektmanager-vollzeit-hamburg-288022",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "54c6124bd591112c",
+      "title": "Grafikdesigner/in – Vollzeit (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind eine der am schnellstwachsenden Digitalagenturen Hamburgs und suchen zum nächstmöglichen Zeitpunkt neue Mitarbeiter/innen für den Bereich Grafikdesign und Bildbearbeitung! Gemeinsam mit unserem Team betreust du eigenständig unsere Kundenprojekte und e…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/grafikdesigner-in-vollzeit-hamburg-66965",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2822edf2e25bf1da",
+      "title": "Senior-Performance-Marketer/in – Vollzeit (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind eine der am schnellstwachsenden Digitalagenturen Hamburgs und suchen zum nächstmöglichen Zeitpunkt neue Mitarbeiter/innen für den Bereich Online-Marketing und Media-Buying! Gemeinsam mit unserem Team betreust du eigenständig unsere Kundenprojekte und …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/senior-performance-marketer-in-vollzeit-hamburg-116203",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "62e68b893f10ffbd",
+      "title": "Senior Kundenbetreuer / Customer Success Manager (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind eine der am schnellstwachsenden Digitalagenturen Hamburgs und suchen zum nächstmöglichen Zeitpunkt neue Mitarbeiter/innen für unsere Kundenbetreuung in unserem Customer-Success-Team! Was macht die Cordes Consulting GmbH genau? Wir sind eine Werbeagent…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/senior-kundenbetreuer-customer-success-manager-hamburg-420029",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "57bb8aa5a1452f6e",
+      "title": "Junior Grafikdesigner/in – Vollzeit (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind eine der am schnellstwachsenden Digitalagenturen Hamburgs und suchen zum nächstmöglichen Zeitpunkt neue Mitarbeiter/innen für den Bereich Grafikdesign und Bildbearbeitung! Gemeinsam mit unserem Team betreust du eigenständig unsere Kundenprojekte und e…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/junior-grafikdesigner-in-vollzeit-hamburg-484150",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6f4d4cf348fc4512",
+      "title": "Senior Grafikdesigner/in – Vollzeit (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind eine der am schnellstwachsenden Digitalagenturen Hamburgs und suchen zum nächstmöglichen Zeitpunkt neue Mitarbeiter/innen für den Bereich Grafikdesign und Bildbearbeitung! Gemeinsam mit unserem Team betreust du eigenständig unsere Kundenprojekte und e…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/senior-grafikdesigner-in-vollzeit-hamburg-334386",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "85a0d2162792bf44",
+      "title": "Senior Foto- & Videograph/-in - Vollzeit (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir suchen Foto- und Videografen (m/w/d) für den Bereich Social Media, die uns bei der Erstellung und Gestaltung des täglichen Contents und bei der Umsetzung unserer Kundenprojekte unterstützen. Was macht die Cordes Consulting GmbH? Wir sind eine Werbeagentur,…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/senior-foto-videograph-in-vollzeit-hamburg-325065",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5a5244515d23528b",
+      "title": "Senior Media-Buyer – Vollzeit (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Procurement"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind eine der am schnellstwachsenden Digitalagenturen Hamburgs und suchen zum nächstmöglichen Zeitpunkt neue Mitarbeiter/innen für den Bereich Online-Marketing und Media-Buying! Gemeinsam mit unserem Team betreust du eigenständig unsere Kundenprojekte und …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/senior-media-buyer-vollzeit-hamburg-304332",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "37fdbe7f0c92a8ca",
+      "title": "Werkstudent:in Buchhaltung / Accounting (m/w/d)",
+      "company": "DocCheck AG",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hol' dir den Kick als DocCheck Werkstudent:in Buchhaltung / Accounting (m/w/d) Zahlen im Griff und Neugier im Gepäck? Dann ergänze die Praxis zu deinem Studium und werde Teil des Group Accounting-Teams der DocCheck AG . Bei uns bekommst du einen tiefen Einblic…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/doccheck-ag/werkstudentin-buchhaltung-accounting-koln-396016",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b44087033a1289a1",
+      "title": "Werkstudent (w/m/d) - im Bereich Elektro-, Automations- und Leittechnik",
+      "company": "ARCUS Planung + Beratung Bauplanungsgesellschaft mbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir suchen Si e a ls Werkstudent (w/m/d) im Bereich Elektro-, Automations- und Leittechnik für innovative Projekte / Internationales Team / Coole Location in Berlin-Mitte Über den Arbeitgeber Die ARCUS Planung + Beratung, Bauplanungsgesellschaft mbH ist ein Ge…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/arcus-planung-beratung-bauplanungsgesellschaft-mbh/werkstudent-im-bereich-elektro-automations-und-leittechnik-berlin-440853",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "da35afc497ce8133",
+      "title": "Werkstudent im Bereich Projektakquise und Vertragsmanagement",
+      "company": "ARCUS Planung + Beratung Bauplanungsgesellschaft mbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cottbus",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir suchen Si e a ls Werkstudent (w/m/d) im Bereich Projektakquise und Vertragsmanagement für innovative Projekte / Internationales Team / Coole Location in Berlin-Mitte Über den Arbeitgeber Die ARCUS Planung + Beratung, Bauplanungsgesellschaft mbH ist ein Gen…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/arcus-planung-beratung-bauplanungsgesellschaft-mbh/werkstudent-im-bereich-projektakquise-und-vertragsmanagement-cottbus-59594",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b8eac8eb9891ef13",
+      "title": "Werkstudent (w/m/d) Gebäudetechnik / TGA",
+      "company": "ARCUS Planung + Beratung Bauplanungsgesellschaft mbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cottbus",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir suchen Si e a ls Werkstudent (w/m/d) im Bereich Gebäudetechnik / TGA für innovative Projekte. Internationales Team / Coole Location in Berlin-Mitte Über den Arbeitgeber Die ARCUS Planung + Beratung, Bauplanungsgesellschaft mbH ist ein Generalplanungsuntern…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/arcus-planung-beratung-bauplanungsgesellschaft-mbh/werkstudent-gebaudetechnik-tga-cottbus-4010",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "befd758bbe8b5bbc",
+      "title": "Werkstudent (w/m/d) Software Development",
+      "company": "Holzland Becker",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Offenbach am Main",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unsere eCommerce-Brands HOLZPROFI24 und LEONDO wachsen kontinuierlich – national wie international. Damit wir unsere Plattformen, internen Systeme und Automatisierungsstrecken weiter skalieren, holen wir technologische Verstärkung ins Team. Wenn du Lust hast, …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/holzland-becker/werkstudent-software-development-offenbach-am-main-264973",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "164f1ce0ecd57805",
+      "title": "Senior Projektmanager:in Beiersdorf (Schweiz) - Social Media & Influencer Marketing (gn)",
+      "company": "Intermate Media GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Intermate x SAMY – Shaping the State of Social Intermate gehört zu den größten Social-Media- und Influencer-Agenturen im DACH-Raum. Mit mehr als 250 Mates in Berlin, Hamburg, Köln und Remote entwickeln wir Social-First-Strategien, produzieren Content in eigene…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/senior-projektmanagerin-beiersdorf-schweiz-social-media-influencer-marketing-gn-berlin-412777",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "748c0d11a6994b3e",
+      "title": "Senior Projektmanager:in Beiersdorf (Österreich) - Social Media & Influencer Marketing (gn)",
+      "company": "Intermate Media GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Intermate x SAMY – Shaping the State of Social Intermate gehört zu den größten Social-Media- und Influencer-Agenturen im DACH-Raum. Mit mehr als 250 Mates in Berlin, Hamburg, Köln und Remote entwickeln wir Social-First-Strategien, produzieren Content in eigene…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/senior-projektmanagerin-beiersdorf-osterreich-social-media-influencer-marketing-gn-berlin-351657",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1cc5a6305f62dff4",
+      "title": "Senior Customer Success Manager (all genders)",
+      "company": "Foodji GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Als VC-backed Foodtech-Startup schaffen wir den Spagat zwischen gesunder Ernährung, Verfügbarkeit und Nachhaltigkeit. Mit unseren Foodjis bringen wir ultrafrische, leckere Gerichte genau dorthin, wo du die meiste Zeit verbringst – denn wir haben uns zum Ziel g…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-customer-success-manager-all-genders-munchen-206756",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9bbdf6cf830b7e15",
+      "title": "Graduate Program (all genders)",
+      "company": "Distribusion Technologies",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Distribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail, and ferry …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-graduate-program-all-genders-berlin-426568",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7d30f0797efaffb0",
+      "title": "Senior Buchhalter (m/w/x)",
+      "company": "Rotzinger Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Waiblingen",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Zur Verstärkung unseres Finanzbereichs suchen wir Dich als erfahrenen Senior Buchhalter (m/w/d) , der nicht nur fachlich sicher im Rechnungswesen ist, sondern auch mit einer ausgeprägten Hands-on-Mentalität aktiv im Tagesgeschäft mitarbeitet. Du übernimmst von…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/rotzinger-group/senior-buchhalter-waiblingen-241154",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "636871c3f9d74790",
+      "title": "Senior Revenue Manager",
+      "company": "Odyssey Hotel Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Offenbach am Main",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "JOIN THE STORY. BECOME A SENIOR REVENUE MANAGER (M/W/D) HQ FRANKFURT Would you like to be part of a fast-growing organisation and take ownership of revenue performance in a dynamic hotel environment? Then this is your opportunity! ODYSSEY HOTEL GROUP REGIONAL …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/odyssey-hotel-group/senior-revenue-manager-offenbach-am-main-468609",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "581fbdc3e1051124",
+      "title": "Senior ABAP Developer / Architect Produktentwicklung  (m/w/d)",
+      "company": "cbs Corporate Business Solutions GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Heidelberg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind die Berater der Weltmarktführer: Hochmotivierte Expertinnen und Experten, die als erfolgreiches Team digitale End-to-End-Geschäftsprozesslösungen vorantreiben. Gemeinsam stärken wir die Zukunft führender Unternehmen aus Maschinen- und Anlagenbau, Auto…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/senior-abap-developer-architect-produktentwicklung-heidelberg-59134",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b70575d948a8c55a",
+      "title": "Werkstudent - Agiles Projektmanagement im Bereich E-Invoicing (m/w/d)",
+      "company": "cbs Corporate Business Solutions GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Dortmund",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind die Berater der Weltmarktführer: Hochmotivierte Expertinnen und Experten, die als erfolgreiches Team digitale End-to-End-Geschäftsprozesslösungen vorantreiben. Gemeinsam stärken wir die Zukunft der beeindruckendsten Unternehmen der Welt aus Maschinen-…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/werkstudent-agiles-projektmanagement-im-bereich-e-invoicing-dortmund-287094",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e21ca69799d7f422",
+      "title": "(Senior) Consultant SAP TECH PMO (m/w/d) Project Management Office",
+      "company": "cbs Corporate Business Solutions GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Heidelberg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind die Berater der Weltmarktführer: Hochmotivierte Expertinnen und Experten, die als erfolgreiches Team digitale End-to-End-Geschäftsprozesslösungen vorantreiben. Gemeinsam stärken wir die Zukunft der beeindruckendsten Unternehmen der Welt aus Maschinen-…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/senior-consultant-sap-tech-pmo-project-management-office-heidelberg-294208",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b32096f920cd640a",
+      "title": "Senior Consultant SAP Ariba (m/w/d)",
+      "company": "cbs Corporate Business Solutions GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Heidelberg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind die Berater der Weltmarktführer: Hochmotivierte Expertinnen und Experten, die als erfolgreiches Team digitale End-to-End-Geschäftsprozesslösungen vorantreiben. Gemeinsam stärken wir die Zukunft der beeindruckendsten Unternehmen der Welt aus Maschinen-…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/senior-consultant-sap-ariba-heidelberg-242",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f512f508d388da57",
+      "title": "Senior Fullstack Entwickler (m/w/d)",
+      "company": "HyPlus Technology GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns: HyPlus ist Dein Wegbegleiter im digitalen Wandel. Gemeinsam mit unseren Kund:innen entwickeln wir strukturiert, partnerschaftlich und mit klarem Fokus auf nachhaltigen Mehrwert, deren digitale DNA. Wir begleiten Unternehmen von der Anforderungsanalys…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/remote-senior-fullstack-entwickler-ratingen-428615",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f9f5234da6a7f240",
+      "title": "Senior Java Backend Entwickler (m/w/d)",
+      "company": "HyPlus Technology GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Ratingen",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns: HyPlus ist Dein Wegbegleiter im digitalen Wandel. Gemeinsam mit unseren Kund:innen entwickeln wir strukturiert, partnerschaftlich und mit klarem Fokus auf nachhaltigen Mehrwert, deren digitale DNA. Wir begleiten Unternehmen von der Anforderungsanalys…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/senior-java-backend-entwickler-ratingen-327085",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b0a11c0f2cad4b94",
+      "title": "Kioskleitung (all genders)",
+      "company": "Supreme Sports Hospitality GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Dresden",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir bei Supreme Sports Hospitality lieben echte Stadion-Atmosphäre: Egal ob Fußballspiele oder Konzerte – wir lieben gute Stimmung! Perfekte Lebensläufe stehen bei uns nicht im Vordergrund, wir legen viel mehr Wert auf individuelle Persönlichkeiten & Leidensch…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/supreme-sports-hospitality-gmbh/kioskleitung-all-genders-dresden-235199",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0fd0375a01de9430",
+      "title": "Senior IT Infrastructure & Network Engineer (f/m/d)",
+      "company": "eleQtron GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Operations",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "eleQtron develops and operates full-stack quantum computers based on trapped-ion technology. Quantum computing is a new computing paradigm rapidly approaching commercial viability. Our unique approach combines laser-cooled trapped ions with microwave control a…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/eleqtron-gmbh/senior-it-infrastructure-network-engineer-hamburg-466602",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3df1829ed99bbfa1",
+      "title": "Werkstudent Oberhausen Centro (m/w/d)",
+      "company": "My Jewellery",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Oberhausen",
+        "region": null,
+        "country": "Duitsland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Als Werkstudent/-in in unserer Boutique in Oberhausen Centro bist du das Gesicht von My Jewellery. Du begrüßt Kund/-innen mit viel Begeisterung, gibst individuelle Styling-Tipps und sorgst dafür, dass jede Person die Boutique mit einem Lächeln verlässt. Gemein…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/my-jewellery/werkstudent-oberhausen-centro-367615",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a2bb1a7f76e2c1df",
+      "title": "Ausbildung zum Fachinformatiker (m/w/d) für Systemintegration ab Herbst 2027",
+      "company": "One Mobility",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Reutlingen",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Gestalte mit uns die Zukunft der Vernetzung! Bei One Mobility Group schlagen wir Brücken: Wir vereinen fast ein Jahrhundert deutscher Ingenieurskunst im Automobilbereich mit der Innovationskraft des weltweit größten Elektronik- und ICT-Herstellers. Diese einzi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/one-mobility/ausbildung-zum-fachinformatiker-fur-systemintegration-ab-herbst-2027-reutlingen-84388",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d9b2e60bf03fa3fd",
+      "title": "Duales Studium Data Science & Künstliche Intelligenz (B.A.) (m/w/d) ab Oktober 2027",
+      "company": "One Mobility",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Reutlingen",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Gestalte mit uns die Zukunft der Vernetzung! Bei One Mobility Group schlagen wir Brücken: Wir vereinen fast ein Jahrhundert deutscher Ingenieurskunst im Automobilbereich mit der Innovationskraft des weltweit größten Elektronik- und ICT-Herstellers. Diese einzi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/one-mobility/duales-studium-data-science-kunstliche-intelligenz-ba-ab-oktober-2027-reutlingen-162964",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ae82a45fe856f976",
+      "title": "Senior Digital Marketing Specialist - fixed term 12m contract",
+      "company": "Torchbox",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Humanitarian / NGO",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": "our clients using Google Analytics as your primary measurement tool"
+      },
+      "summary": "Job Description Base salary: £33,990 - £43,775 per annum* All salaries listed on our roles are based on UK salary bands, however, if you’d like more information on the bands for your country give us a shout. Senior Digital Marketing Specialist - fixed term 12m…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/torchbox/senior-digital-marketing-specialist-fixed-term-12m-contract-united-kingdom-290826",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2ae5effd7acdeac0",
+      "title": "Client Partner: Torchbox Public Sector",
+      "company": "Torchbox",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Humanitarian / NGO",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job Description Base salary: from £54,669 - £75,000 + per annum* All salaries listed on our roles are based on UK salary bands, however if you’d like more information on the bands for your country give us a shout. We are looking for a Client Partner to join ou…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/torchbox/client-partner-torchbox-public-sector-united-kingdom-288431",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1e87abd0be8db341",
+      "title": "Senior QA Associate",
+      "company": "Meiragtx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission Provide experienced QA support and oversight to MeiraGTx operations. Ensure QA regulatory compliance and product quality requirements are met at all times, as well as facilitating product release in a timely manner. Coach and train the QA team and…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/meiragtx/senior-qa-associate-london-85769",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2256f65ef6e63a12",
+      "title": "Enterprise Account Executive - UKI",
+      "company": "Boomilp",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Boomi and What Makes Us Special Are you ready to work at a fast-growing company where you can make a difference? Boomi, the data activation company for AI, powers the agentic enterprise by bringing data to life across the business. The award-winning Boom…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/boomilp/enterprise-account-executive-uki-355161",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "759b2752a488c7da",
+      "title": "SQL Developer – AI Prompting & Context Engineering",
+      "company": "Bromcom Computers Plc",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": "Software Manager, combining practical AI skills with strong SQL expertise to deliver reliable, effic"
+      },
+      "summary": "This is a dual role, split between approximately 60% AI-assisted development and agent orchestration, and 40% SQL Server development supporting large-scale data migration. You’ll work within the development team and report to the Software Manager, combining pr…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-sql-developer-ai-prompting-context-engineering-bromley-374742",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "45728bc4a97e931b",
+      "title": "CISO",
+      "company": "Pennylane SAS",
+      "employmentType": "Internship",
+      "location": {
+        "city": "All France (remote)",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Vous cherchez un environnement professionnel stimulant basé sur l'autonomie et la confiance ? Pennylane vous offre l'opportunité de grandir au sein d'une entreprise en pleine croissance. Ici, votre expertise contribuera directement à aider les entrepreneurs à …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/ciso-paris-281818",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "16c617977a3ff12d",
+      "title": "Développeur Nouveaux Projets (F/H/X)",
+      "company": "Novar Nederland BV",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Lyon",
+        "region": null,
+        "country": "Frankrijk",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Localisation Poste basé à Lyon ou Dijon. Vous êtes passionné(e) par le développement des énergies renouvelables et vous connaissez bien le tissu économique et territorial de l’Est de la France ? Rejoignez Novar et devenez un acteur clé de la transition énergét…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/novar-nederland-bv/developpeur-nouveaux-projets-lyon-65197",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "07a86c00387653d4",
+      "title": "Stage – Développement de projets de stockage d’energie par batteries (BESS) (F/H/X)",
+      "company": "Novar Nederland BV",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Avignon",
+        "region": null,
+        "country": "Frankrijk",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Localisation Poste basé à Avignon (84). Vous souhaitez découvrir concrètement comment se développent les projets de stockage par batteries et contribuer à la transition énergétique ? Au sein de l’équipe Novar en France, vous serez accompagné·e par les équipes …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/novar-nederland-bv/stage-developpement-de-projets-de-stockage-denergie-par-batteries-bess-avignon-477990",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "13ea2b7979f2b136",
+      "title": "Talent acquisition - Stage",
+      "company": "Joivy",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Lyon",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Rejoignez l’aventure Joivy : L’art de vivre (et de travailler) à l’européenne ! Joivy est bien plus qu’une plateforme immobilière : c’est le premier écosystème résidentiel d’Europe conçu pour accompagner chaque étape de la vie. Du coliving au design soigné aux…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/joivy/talent-acquisition-stage-lyon-289029",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "307a8dfdb9a093f7",
+      "title": "Senior Regional Account Manager Schweiz (m/w/d) Westschweiz Genf, Jura, Freiburg, Bern und Wallis",
+      "company": "Formmed 1",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote Schweiz",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Healthcare"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns Die FormMed HealthCare GmbH entwickelt Mikronährstoff-Präparate für Therapeuten und Ärzte aller Fachrichtungen. Mit über 400 Präparaten bieten wir das größte Mikronährstoff-Konzept Deutschlands. Über 7.000 Ärzte, medizinische Institute und Heilpraktik…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/formmed-1/remote-senior-regional-account-manager-schweiz-westschweiz-genf-jura-freiburg-bern-und-wallis-416165",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "085d0f8bd772f3fb",
+      "title": "Daimler Buses – Teamleiter Ersatzteile (m/w) – Granges-Paccot (Fribourg)",
+      "company": "Edl Consulting",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Fribourg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über unseren Mandanten Daimler Buses ist ein Tochterunternehmen der Daimler Truck AG und gehört zu den weltweit führenden Busherstellern. Mit den Marken Mercedes-Benz, Setra, OMNIplus und BusStore verkauft das Unternehmen nicht nur Busse, sondern bietet auch d…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/edl-consulting/daimler-buses-teamleiter-ersatzteile-m-w-granges-paccot-fribourg-194410",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6185b8331fb83f4b",
+      "title": "Filtration Module Product Owner (80-100%)",
+      "company": "Climeworks",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Product Development Ownership: You take ownership of developing innovative sorbent modules from approximately TRL3 to TRL6, optimizing trade-offs between product requirements, performance, manufacturability, and scalability. Lifecycle Management: You lead the …",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/climeworks/filtration-module-product-owner-80-100-zurich-440760",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ca448dc2795aabbc",
+      "title": "Field Engineer (m/w/x)",
+      "company": "Rotzinger Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Altendorf",
+        "region": null,
+        "country": "Schweiz",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Rotzinger Transver mit Standorten in Kaiseraugst und Altendorf in der Schweiz ist ein führender Anbieter von Lösungen für Produktflusssteuerung, Pufferung, Verteilung und Fördertechnik für die Lebensmittel-, Süsswaren- und Verpackungsindustrie. Unser Portfolio…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/rotzinger-group/field-engineer-altendorf-266720",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7dfce65ef0aaf05e",
+      "title": "Cyber Security Engineer/ Analyst (all genders) CH",
+      "company": "BSI Software",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Baar",
+        "region": null,
+        "country": "Schweiz",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen bei der Digitalisierun…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/bsi-software/cyber-security-engineer-analyst-all-genders-ch-baar-145758",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dc1de526aaa439ae",
+      "title": "Senior Content Manager (all genders)",
+      "company": "BSI Software",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": "Schweiz",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen bei der Digitalisierun…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/bsi-software/senior-content-manager-all-genders-zurich-442878",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "89a8bea34e266808",
+      "title": "Projectmanager (Senior)",
+      "company": "Intus Workforce Solutions B.V.",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Driebergen-Rijsenburg",
+        "region": null,
+        "country": "Netherlands",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ben jij een ervaren projectmanager die impact wil maken binnen een snelgroeiend softwarebedrijf? Wil jij het verschil maken bij klanten op het gebied van personeelsplanning en personeelskrapte? Heb jij de kennis en vaardigheden om projecten efficiënt te manage…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/intus-workforce-solutions-bv/projectmanager-senior-driebergen-rijsenburg-475401",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c298c1eeb1071d6f",
+      "title": "Senior Quality Engineer - Tellent Intelligence (AI)",
+      "company": "Tellent",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Note: The listed salary range is based on the salary range for the Netherlands. Salary ranges may vary by location. About the Role As a Senior Quality Engineer – Tellent Intelligence (AI) , you'll own and grow the quality of the AI-powered experiences built by…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/tellent/remote-senior-quality-engineer-tellent-intelligence-ai-amsterdam-295070",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3f3f320272de9fca",
+      "title": "DevOps Engineer IAM (Ping AM/DS/IDM)",
+      "company": "Swisscom",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Rotterdam",
+        "region": null,
+        "country": "Netherlands",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "DevOps Engineer IAM (Ping AM/DS/IDM) You'll shape our IAM for the future with Ping Identity platforms. With deep technical expertise and a sense of architecture, you'll shape Swisscom's security promise to our customers. You'll also contribute hands-on to engi…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/swisscom/devops-engineer-iam-ping-am-ds-idm-rotterdam-227024",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ba295542f38729a4",
+      "title": "Afstudeerstage IT",
+      "company": "BAS Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Veghel",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bij BAS, Europa’s grootste dealer in commerciële voertuigen én officieel Volvo en Renault Trucks dealer, krijg jij de kans om je te ontwikkelen binnen IT in de automotive branche. Ben jij op zoek naar een afstudeerstage vanaf januari/ februari 2027? Dan is dit…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/bas-group/afstudeerstage-it-veghel-307290",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "33ef14ad14eec86f",
+      "title": "Meewerkstage HR",
+      "company": "BAS Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Veghel",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ben jij op zoek naar een uitdagende stage vanaf januari/ februari 2027 waarin je echt impact maakt? Bij BAS kun je kiezen voor een stage met een organisatiebreed verbeterproject, een stage in recruitment, of een combinatie van beide. Zo stem je de stage af op …",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/bas-group/meewerkstage-hr-veghel-94784",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "28a00d95d1e5ec0c",
+      "title": "Senior Revenue Manager",
+      "company": "Odyssey Hotel Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Utrecht",
+        "region": null,
+        "country": "Netherlands",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "DO YOU WANT TO BE PART OF FAST GROWING ORGANIZATION? JOIN US AS SENIOR REVENUE MANAGER ABOUT ODYSSEY We are The Odyssey Hotel Group, Europe’s most ambitious hotel operator and the team behind many famous global hospitality names. We partner with Marriott, IHG,…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/odyssey-hotel-group/senior-revenue-manager-utrecht-385750",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9060d6066e69a057",
+      "title": "Backend Developer Golang",
+      "company": "Payter B.V.",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Rotterdam",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Payter, we build the technology behind millions of secure, unattended payment transactions. As a Backend Developer, you will play a key role in designing and developing the services that power our payment platform. Working with Golang, you will build scalab…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/payter-bv/backend-developer-golang-rotterdam-326051",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4d99cba1f21a863b",
+      "title": "Product Owner",
+      "company": "Payter B.V.",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Rotterdam",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Functieomschrijving Als Product Owner Interne Automatisering & IT ben jij de onmisbare brug tussen de business en ons IT-landschap. Je haalt de wensen en requirements op bij verschillende afdelingen en het Management Team, en vertaalt deze naar slimme, efficië…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/payter-bv/product-owner-rotterdam-432962",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1f96f2d3d9de1b6e",
+      "title": "Front-end Developer",
+      "company": "Payter B.V.",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Rotterdam",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We are growing rapidly and constantly expanding our global contactless payment ecosystem. To support this momentum, we are looking for a passionate Front-end Developer to take ownership of designing, developing, and implementing applications for our cutting-ed…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/payter-bv/front-end-developer-rotterdam-139918",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "038831ec3a2d123b",
+      "title": "Embedded Software Engineer",
+      "company": "Payter B.V.",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Rotterdam",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We are growing rapidly and constantly expanding our global contactless payment ecosystem. To support this momentum, we are looking for a proactive Embedded Software Engineer to take ownership of designing, developing, and implementing software for our state-of…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/payter-bv/embedded-software-engineer-rotterdam-166992",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "65ef5cebaba42463",
+      "title": "Junior Data Consultant",
+      "company": "LOGEX",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": "Netherlands",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Onze Missie LOGEX is koploper in data-analyse in de gezondheidzorg. Wij zetten complexe zorgdata om in heldere inzichten waarmee zorgorganisaties grip krijgen op kosten, betere behandelresultaten realiseren en sturen op waardegedreven zorg. Onze oplossingen wo…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/logex/junior-data-consultant-amsterdam-182496",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1e7e0fc36df84abf",
+      "title": "Medior Web & Mobile Full Stack Developer",
+      "company": "Learned",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Utrecht",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The mission Help build fair, engaged and high-performing teams. We believe everyone deserves a fair opportunity to develop and be rewarded for the value they bring. That’s why we build software that helps organizations set clear expectations, define what a rol…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/learned/medior-web-mobile-full-stack-developer-utrecht-375740",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0e3fb6586843b16d",
+      "title": "AI Solution Architect (m/w/d)",
+      "company": "virtual7 GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Homeoffice",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-38768",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "48cdcad88276d92a",
+      "title": "Finance & Administration Manager (m/w/d)",
+      "company": "OBJECTS Manufacturing",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Finanzen, Buchhaltung & kaufmännische Organisation Berlin-Oberschöneweide | Vor Ort Unbefristet | 35 Std./Woche oder Teilzeit 32.000–38.000 € brutto/Jahr (bei 35 Std./Woche) Über uns OBJECTS Presswerk ist ein unabhängiges Vinyl-Presswerk in Berlin-Oberschönewe…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/objects-manufacturing/finance-administration-manager-berlin-114920",
+      "source": "Arbeitnow"
+    },
     {
       "id": "6b7d47eaea4227e5",
       "title": "Senior QA Engineer - Berlin",
