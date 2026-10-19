@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-18T23:14:08.035013+00:00",
+    "lastUpdated": "2026-10-19T01:20:09.120056+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -10954,6 +10954,451 @@
       },
       "summary": "Business Development Partner (Commission-Based) ProcJet Ltd | United Kingdom | Remote | Flexible Contract: Self-Employed / Independent Contractor Remuneration: Commission Only, No Fixed Salary About ProcJet ProcJet Ltd is a UK-based industrial procurement and …",
       "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/procjet/business-development-partner-london-344562",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b55825226f7700b0",
+      "title": "Full-Stack Software Engineer (React, TypeScript, Python/Django)",
+      "company": "Mindpeak",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Overview Mindpeak is a Hamburg-based AI company dedicated to democratizing cancer diagnostics. Our software supports pathologists in detecting cancer faster and more accurately by applying state-of-the-art deep learning to medical images. Our AI soluti…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/mindpeak/full-stack-software-engineer-react-typescript-python-django-hamburg-388907",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7b5a034c8b778c1c",
+      "title": "Forward Deployed Engineer Intern (all genders)",
+      "company": "Lio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Procurement",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "You’re not just writing code, you’re owning enterprise-scale implementations. You ensure Lio runs flawlessly in complex environments while building scalable, high-quality solutions. What You'll Do In this role, you will: Build and extend enterprise integration…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lio/forward-deployed-engineer-intern-all-genders-munich-452184",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4d315ae12c07152d",
+      "title": "Founders Associate (IT & Automation)",
+      "company": "Lio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your Role at Lio At Lio, we’re building a fast-growing AI company and we want our internal operations to reflect the technology we build. As a Founder’s Associate Intern/ Working Student focused on IT & Automation, you’ll own our day-to-day IT operations and b…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lio/founders-associate-it-automation-munich-356060",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b84a04a5c008714c",
+      "title": "2027 Internship (6 Months) - Data Science & Marketing Effectiveness, London",
+      "company": "Ekimetrics",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "London – Data Science, Marketing Effectiveness 6 Month Internship Job Description Role : Data Science & Marketing Effectiveness Start date: Jan - June 2027 Location : London, UK (Hybrid – Minimum 2 days in office per week) About Ekimetrics Ekimetrics is a lead…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ekimetrics/2027-internship-6-months-data-science-marketing-effectiveness-london-376777",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3cc5ca34d4948b34",
+      "title": "Solutions Engineer - UK (Italian Speaking)",
+      "company": "Quantummetric",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "England",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "😎 Our Culture Quantum Metric's number one objective is happy people, diverse and inclusive culture. We’re passionate about empowering our people to become the best version of themselves, offering coaching and training programs designed to accelerate their care…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/quantummetric/solutions-engineer-uk-italian-speaking-london-england-292005",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dde325e9659527e5",
+      "title": "Solutions Engineer - UK (German Speaking)",
+      "company": "Quantummetric",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "England",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "😎 Our Culture Quantum Metric's number one objective is happy people, diverse and inclusive culture. We’re passionate about empowering our people to become the best version of themselves, offering coaching and training programs designed to accelerate their care…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/quantummetric/solutions-engineer-uk-german-speaking-london-england-280293",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7694826cad9fea04",
+      "title": "Data Programmer (UK - Hybrid)",
+      "company": "Celerion",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Belfast",
+        "region": null,
+        "country": "Northern Ireland",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Healthcare"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join a team that's going places! Every member of Celerion is involved in making a distinctive contribution to the health and well-being of people around the world. That's the sense of purpose shared by our employees. We are a performance-driven drug research c…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/celerion/data-programmer-uk-hybrid-belfast-northern-ireland-429087",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6da63108a36f2b0b",
+      "title": "Biostatistician",
+      "company": "Celerion",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote - UK",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Healthcare"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Celerion is committed to swift, exceptional clinical research through translational medicine. Every day, we use our experience, agility, and innovative research strategies to help get drugs to market faster. We are seeking a full-time Biostatistician for our D…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/celerion/remote-biostatistician-497763",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f8c95ec43fa9a524",
+      "title": "Software Engineer - B2B Lending & Payments",
+      "company": "Infinit",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job Title: Software Engineer - B2B Lending & Payments Type: Full-time Location: Paris What about us? Launched in 2023, INFINIT is a fast-growing fintech scale-up operating in multiple countries across Europe and Americas. At INFINIT we are on a mission to resh…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/infinit/software-engineer-b2b-lending-payments-paris-426881",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8a66fb58a1a26261",
+      "title": "Strategic Partner Account Manager DACH",
+      "company": "Aircall",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Aircall is a unicorn, AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, resolve issues faster, and scale customer-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI to…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/aircall/strategic-partner-account-manager-dach-paris-office-121495",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ece812d3c2e0620b",
+      "title": "Regional Marketing Intern, DACH Market",
+      "company": "Aircall",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Aircall is a unicorn, AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, resolve issues faster, and scale customer-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI to…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/aircall/regional-marketing-intern-dach-market-paris-office-51356",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "03b3bec43d0de55a",
+      "title": "Product Manager Intern",
+      "company": "Aircall",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": "support ongoing performance evaluation and decision-making"
+      },
+      "summary": "Aircall is a unicorn, AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, resolve issues faster, and scale customer-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI to…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/aircall/product-manager-intern-paris-office-310965",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6b248169d5b38ff8",
+      "title": "Stage Finance | Amsterdam hbo/wo",
+      "company": "Flagship Amsterdam",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wat ga je doen? Als stagiair(e) Finance werk je mee binnen het financiële team van Flagship Amsterdam en krijg je een mooie mix van operationele en controlerende werkzaamheden. Jij ondersteunt bij zowel de crediteurenadministratie als bij financial control-act…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/flagship-amsterdam/stage-finance-amsterdam-hbo-wo-332790",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "60c73ec2048d151f",
+      "title": "Stage Talentontwikkeling | Learning & Development",
+      "company": "Centric",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Gouda",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hoe zorg je ervoor dat jong talent succesvol instroomt, zich ontwikkelt én doorgroeit binnen een organisatie? Tijdens deze afstudeerstage combineer je Learning & Development met strategisch onderzoek naar talentontwikkeling binnen de divisie Retail & Logistiek…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/centric/stage-talentontwikkeling-learning-development-gouda-37765",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e720464fd1d00b8a",
+      "title": "Data Engineer",
+      "company": "Prijsvrij Vakanties",
+      "employmentType": "Internship",
+      "location": {
+        "city": "'s-Hertogenbosch",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Krijg jij energie van data die gewoon klopt, processen die soepel draaien en code die je zelf schrijft? Als Data Engineer zorg je dat de datastromen achter Prijsvrij Vakanties en D-reizen elke dag betrouwbaar hun werk doen. Je beheert en verbetert onze databas…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/prijsvrij-vakanties/data-engineer-s-hertogenbosch-132377",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0bfbba372d6f67fa",
+      "title": "Senior Programmamanager Organisatieontwikkeling en Transformatie | UHT",
+      "company": "Berenschot Groep B.V.",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Utrecht",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Omschrijving Wij zijn op zoek naar een ervaren Programmamanager voor de Uitvoeringsorganisatie Herstel Toeslagen (UHT) . In deze strategische interim opdracht werk je aan een complexe maatschappelijke veranderopgave met grote bestuurlijke, organisatorische en …",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/berenschot-groep-bv/senior-programmamanager-organisatieontwikkeling-en-transformatie-uht-utrecht-353349",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "71175dd003d2538e",
+      "title": "Senior Controls Engineer",
+      "company": "AMF Bakery Systems B.V.",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Gorinchem",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Voor onze afdeling Controls Engineering in Gorinchem zijn we per direct op zoek naar een ervaren Senior Controls Engineer voor het programmeren van de aansturing van onze nieuwste voedselproductie lijnen voor onze klanten van het merk Tromp uit Gorinchem. Dit …",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-488892",
       "source": "Arbeitnow"
     },
     {
