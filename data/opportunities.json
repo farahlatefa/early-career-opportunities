@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-19T01:20:09.120056+00:00",
+    "lastUpdated": "2026-10-19T07:48:39.979650+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,516 @@
     ]
   },
   "jobs": [
+    {
+      "id": "5ffd25ca4551698c",
+      "title": "Responsable commercial B2C & marketing — Voyages à pied et à vélo (H/F)",
+      "company": "Nature Occitane",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Alénya",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🌿 D'abord, quelques mots sur nous Chez Nature Occitane, nous avons une conviction : les plus beaux voyages ne sont pas forcément ceux qui nous emmènent le plus loin. Ce sont ceux qui nous invitent à découvrir un territoire autrement, à prendre le temps, à renc…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/nature-occitane/responsable-commercial-b2c-marketing-voyages-a-pied-et-a-velo-h-f-alenya-8917",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "946c814e279bdb6a",
+      "title": "Bilanzbuchhalter (m/w/d) Fonds-Immobiliengesellschaft",
+      "company": "Jobbusters® GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Für ein etabliertes und professionelles Unternehmen am Standort München suchen wir im Rahmen der exklusiven Direktvermittlung einen Bilanzbuchhalter oder Steuerfachangestellten (m/w/d) mit Erfahrung in der Betreuung von Gesellschaften aus dem Fonds- und Immobi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/jobbusters-gmbh/bilanzbuchhalter-fonds-immobiliengesellschaft-munich-64790",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2918d1101235c503",
+      "title": "Bauleiter SHK / TGA (m/w/d)",
+      "company": "Wagenpfeil GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Ingolstadt",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ihre Aufgaben Sie steuern und überwachen als Bauleiter im Bereich SHK und TGA die reibungslose Ausführung unserer Projekte direkt vor Ort in Ingolstadt. Dabei koordinieren Sie die beteiligten Gewerke, behalten den Termin- und Kostenrahmen fest im Blick und ste…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/wagenpfeil-gmbh/bauleiter-shk-tga-ingolstadt-105611",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f82ffc378a99fcad",
+      "title": "Data Scientist (m/w/d) – Anomalieerkennung für Recyclinganlagen",
+      "company": "Eggersmann - Gruppe",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Aachen",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Digitalisierung ist deine Leidenschaft und du brennst für Nachhaltigkeit? Dann gestalte mit uns die digitale Transformation der Recyclingbranche! Die Eggersmann Gruppe ist ein international tätiger Verbund von Unternehmen mit über 50 Jahren Erfahrung in Umwelt…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/eggersmann-gruppe/data-scientist-anomalieerkennung-fur-recyclinganlagen-aachen-119911",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "72d68d8257475b64",
+      "title": "IT Deployment & Automation Engineer (m/w/d) – Refurbishment / Windows / Treiber",
+      "company": "Hanitel GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir suchen ab sofort einen technisch versierten Mitarbeiter (m/w/d) in Vollzeit zur Verstärkung unseres Teams am Standort Berlin. Bei Hanitel arbeiten Sie mit gebrauchter und neuer IT-Hardware und sorgen dafür, dass Computer, Notebooks und weitere IT-Geräte fa…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/hanitel-gmbh/it-deployment-automation-engineer-refurbishment-windows-treiber-berlin-306239",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d7b080898c6763d1",
+      "title": "Junior Artist Manager / Influencer Manager (m/w/d)",
+      "company": "Lionflence",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Mülheim",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was wir Dir bieten: Eine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer Marketing und den dazugehörigen Technologien (Software Systeme) Perfekt abgestimmte selbst entwickel…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-459228",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "51defb04358f7702",
+      "title": "Senior Artist Manager / Influencer Manager (m/w/d)",
+      "company": "Lionflence",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Mülheim",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was wir Dir bieten: Eine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer Marketing und den dazugehörigen Technologien (Software Systeme) Perfekt abgestimmte selbst entwickel…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lionflence/senior-artist-manager-influencer-manager-mulheim-239797",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "df29dfd41b4eec1a",
+      "title": "Junior Artist Manager / Influencer Manager (m/w/d)",
+      "company": "Lionflence",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was wir Dir bieten: Eine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer Marketing und den dazugehörigen Technologien (Software Systeme) Perfekt abgestimmte selbst entwickel…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-berlin-102850",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2021b0ea02b4bbe4",
+      "title": "Senior Artist Manager / Influencer Manager (m/w/d)",
+      "company": "Lionflence",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was wir Dir bieten: Eine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer Marketing und den dazugehörigen Technologien (Software Systeme) Perfekt abgestimmte selbst entwickel…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lionflence/senior-artist-manager-influencer-manager-berlin-185259",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d746a2f7c6b8b520",
+      "title": "Softwaretester (m/w/d)",
+      "company": "Hallo Welt! GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Regensburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Sie lieben qualitativ hochwertige Software und haben ein Auge für Usability? Sie beschäftigen sich gerne mit Software und IT-Themen? Zur Sicherstellung der Usability und Qualität unserer Wiki-Software BlueSpice suchen wir eine:n Softwaretester:in zur Unterstüt…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/hallo-welt-gmbh/softwaretester-regensburg-169472",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c29a1e5d112c3f1c",
+      "title": "Mentor:in Product Design UX/UI Bootcamp (m/w/d)",
+      "company": "Digitale Leute School",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Gestalte Karrieren in der Tech-Welt – mit uns! Du begeisterst dich für Product Design, digitale Produkte und neue Technologien? Du teilst dein Wissen gerne und möchtest Menschen dabei unterstützen, ihren Einstieg in die Tech-Branche zu meistern? Dann werde Tei…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/mentorin-product-design-ux-ui-bootcamp-cologne-18890",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fab40293d89be891",
+      "title": "Praktikant:in - CFO Office (m/w/d)",
+      "company": "1KOMMA5˚",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "1KOMMA5° Bei 1KOMMA5° verfolgen wir eine Vision: Living on wind and sunlight forever for free . Dafür bauen wir mit Heartbeat AI das Energiesystem der Zukunft. Bist du dabei? Wir bringen regionales Handwerk und skalierbare Software zusammen: Solar, Speicher, W…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/1komma50/praktikantin-cfo-office-hamburg-453608",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4a07fb18b52b2222",
+      "title": "Homeoffice Kundensupport (m/w/d) in Vollzeit",
+      "company": "Simplyright GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Monheim am Rhein",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über Simplyright Wir bei Simplyright helfen unseren Kunden dabei, ihr Recht schnell und unkompliziert durchzusetzen. Unser Fokus liegt unter anderem darauf, unzulässige Kontogebühren von Banken zurückzufordern oder zu viel gezahlte Beiträge während des Lockdow…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/simplyright-gmbh/homeoffice-kundensupport-in-vollzeit-monheim-am-rhein-126436",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b4cb6b83f2b9ecf8",
+      "title": "ERP-Consultant Sage b7 (w/m/d)",
+      "company": "Specific-Group Germany GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über Specific-Group Germany GmbH Du hast in den letzten Jahren mehrere Sage-b7-Einführungen begleitet. Du weißt, welche Fragen im ersten Workshop mit Einkauf, Lager und Buchhaltung auf den Tisch kommen, wo es bei der Datenübernahme hakt und was zwei Wochen vor…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/specific-group-germany-gmbh/erp-consultant-sage-b7-munich-345903",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "80745b94af1657e5",
+      "title": "Transformation Architect (m/w/d)",
+      "company": "Natuvion GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir suchen ab sofort, bundesweit und standortungebunden, einen Transformation Architect (m/w/d) zur Erweiterung der Kompetenzen unseres bestehenden Expertenteams: Deine Aufgaben: Du übernimmst die Projekt- und Budgetverantwortung für technische Datenmigratione…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-transformation-architect-walldorf-458634",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e4fa0ccc373e87d4",
+      "title": "Senior Software Engineer",
+      "company": "Faculty",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Why Faculty? We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our r…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/faculty/senior-software-engineer-london-142611",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c8c9df1249f53f62",
+      "title": "Graduate Analyst - £50,000 + Share Options",
+      "company": "Lendable",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Lendable Lendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start: One of the UK’s most exciting unicorns with a team…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/lendable/graduate-analyst-ps50000-share-options-london-383984",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f2c19a4ca4f79e2b",
+      "title": "Summer Intern 2027",
+      "company": "Lendable",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Lendable Lendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start: One of the UK’s most exciting unicorns with a team…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/lendable/summer-intern-2027-london-219381",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6f3d902200f7fd91",
+      "title": "Credit Analyst Intern (June 2027)",
+      "company": "Lendable",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Lendable Lendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start: One of the UK’s most exciting unicorns with a team…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/lendable/credit-analyst-intern-june-2027-london-65410",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6689a8435284ac2c",
+      "title": "Customer Experience Consultant",
+      "company": "Coopers Group AG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "................ For our client from the Insurance sector in Zurich, we are looking for an experienced, motivated and open-minded Customer Experience Consultant . Our client is looking for a motivated professional to help translate customer needs into meaningf…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/customer-experience-consultant-zurich-239508",
+      "source": "Arbeitnow"
+    },
     {
       "id": "7a8c31fca33ac03b",
       "title": "Business Analyst (m/w/d) - auch für Berufseinsteiger",
@@ -8344,30 +8854,6 @@
       },
       "summary": "Nutrisens est un groupe français en forte croissance, spécialiste de la nutrition santé , avec pour ambition d'améliorer la qualité de vie des personnes fragilisées par l’âge, la maladie ou des troubles de l’alimentation. Grâce à une offre large et innovante d…",
       "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/nutrisens/responsable-rh-carentan-les-marais-451959",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "5ffd25ca4551698c",
-      "title": "Responsable commercial B2C & marketing — Voyages à pied et à vélo (H/F)",
-      "company": "Nature Occitane",
-      "employmentType": "Internship",
-      "location": {
-        "city": "Alénya",
-        "region": null,
-        "country": null,
-        "workMode": "On-site"
-      },
-      "sectors": [
-        "Marketing & Communications"
-      ],
-      "deadline": null,
-      "postedDate": "2026-10-18",
-      "reportsTo": {
-        "name": null,
-        "title": null
-      },
-      "summary": "🌿 Faites grandir une agence de voyages dont vous aimez les produits Vous aimez vendre, comprendre ce qui déclenche une réservation et faire progresser une équipe ? Vous avez le goût du résultat, une sensibilité au marketing digital et l'envie de jouer un rôle …",
-      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/nature-occitane/responsable-commercial-b2c-marketing-voyages-a-pied-et-a-velo-h-f-alenya-8917",
       "source": "Arbeitnow"
     },
     {
