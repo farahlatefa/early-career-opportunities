@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-20T00:21:57.677666+00:00",
+    "lastUpdated": "2026-10-20T06:03:02.932636+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,430 @@
     ]
   },
   "jobs": [
+    {
+      "id": "15d7e560b178dac0",
+      "title": "Staff Product Designer - Growth | Deel",
+      "company": "Hirehire",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Role: Staff Product Designer, Growth Company: Deel Location: Fully remote Job type: Full-time About Deel Deel is an all-in-one payroll and HR platform for global teams. It covers HRIS, payroll, compliance, benefits and equipment for every type of worker in 150…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-staff-product-designer-growth-deel-327661",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a86b3075d30d09de",
+      "title": "Working Student - Hardware Engineering (f/m/d)",
+      "company": "TYTAN Technologies GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At TYTAN , we aim to set a global standard in autonomous air defense with AI-driven, cost-efficient systems that counter unmanned aerial threats at scale. We protect people. We protect critical infrastructure. We protect Europe’s sovereignty. Interested in a W…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/working-student-hardware-engineering-munich-450348",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f9f5515c77edb7a3",
+      "title": "Embedded Software Engineer (m/f/d)",
+      "company": "TYTAN Technologies GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "TYTAN Technologies The PACE is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We push boundaries, think big, and hold ourselves to the highest standard. Our mission and values guide everything…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/embedded-software-engineer-munich-202034",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "813007071a8fb6fd",
+      "title": "Engineering Manager, Search Engine (all genders)",
+      "company": "Distribusion Technologies",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About us Distribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail an…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-engineering-manager-search-engine-all-genders-berlin-201029",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8ed02d04cfed789f",
+      "title": "Senior Marketing Manager, Integrated Marketing",
+      "company": "Deliveroo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking n…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-marketing-manager-integrated-marketing-london-426115",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c166dbb2709d45e5",
+      "title": "Senior Integrated Marketing Manager (Global Campaigns)",
+      "company": "Deliveroo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking n…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-integrated-marketing-manager-global-campaigns-london-261619",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "961a8a0729c7ae9d",
+      "title": "Banking & Markets Consultant/Senior Consultant",
+      "company": "Baringa",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Baringa Baringa is a global consulting firm that partners with leaders to drive change and create value. With deep industry expertise, and enabled by advanced technology, the firm helps clients to deliver with greater confidence and certainty. With over …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/baringa/banking-markets-consultant-senior-consultant-london-457843",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7f2d3b1f7aec889b",
+      "title": "Junior Account Executive - UK market",
+      "company": "Mollie",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Build with us Businesses deserve better from finance. Less friction, more freedom. Since 2004, Mollie has been on a mission to make payments and money management effortless for every business in Europe. Today, more than 250,000 companies trust our all-in-one p…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/mollie/junior-account-executive-uk-market-london-425232",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "06c0d1ab90151eca",
+      "title": "Customer Care Team Lead",
+      "company": "Lucis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Making preventive health the default for every human in Europe The mission At Lucis , we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more ab…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/customer-care-team-lead-paris-73355",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "120ca3a48c030c65",
+      "title": "Customer Care Specialist",
+      "company": "Lucis",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Making preventive health the default for every human in Europe The mission At Lucis , we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more ab…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/customer-care-specialist-paris-196475",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e5dd9160c8544207",
+      "title": "Workplace & Security Engineer - Final Year Intern",
+      "company": "MakiPeople",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "As a Workplace & Security Engineer Intern, you’ll design, automate, and secure the internal systems Maki runs on every day, from laptop provisioning and access management to the controls and processes that keep our people, devices, and data safe. What you’ll b…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/makipeople/workplace-security-engineer-final-year-intern-paris-86956",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f473503fe70bae8d",
+      "title": "Solution Engineer I",
+      "company": "Mollie",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Build with us Since 2004, we've had one clear goal: to make payments and money management effortless for every business in Europe. Today, more than 250,000 companies use Mollie to get paid, manage money and grow – with products designed to be simple, scalable,…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/mollie/solution-engineer-i-amsterdam-134478",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "af4be20cb99f365f",
+      "title": "Systeembeheerder Linux - High Performance Clusters (m/v/x)",
+      "company": "Koninklijk Nederlands Lucht- en Ruimtevaartcentrum",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wat ga je doen? In een team van systeembeheerders ben je verantwoordelijk voor de ontwikkeling en het beheer van de Linux omgeving, inclusief High Performance clusters. Deze infrastructuur is nodig voor het uitvoeren van de dagelijkse werkzaamheden door de NLR…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/koninklijk-nederlands-lucht-en-ruimtevaartcentrum/systeembeheerder-linux-high-performance-clusters-amsterdam-54071",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "36f315da1254225e",
+      "title": "(Junior) System Engineer",
+      "company": "Interstellar",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Amersfoort",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "“Your next step in IT starts where people and technology connect.” Ben jij graag zichtbaar bij klanten, krijg je energie van Microsoft 365, Intune en werkplekbeheer en vind je het leuk om gebruikers écht verder te helpen? Als Junior System Engineer ben jij het…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/interstellar/junior-system-engineer-amersfoort-105882",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7c4ba0e86c91e14f",
+      "title": "Project manager (Senior)",
+      "company": "Intus Workforce Solutions B.V.",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Driebergen-Rijsenburg",
+        "region": null,
+        "country": "Netherlands",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ben jij een ervaren project manager die impact wil maken binnen een snelgroeiend softwarebedrijf? Wil jij het verschil maken bij klanten op het gebied van personeelsplanning en personeelskrapte? Heb jij de kennis en vaardigheden om projecten efficiënt te manag…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/intus-workforce-solutions-bv/project-manager-senior-driebergen-rijsenburg-327173",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7f635ce139392ca8",
+      "title": "DevOps Engineer - SIP Core (Voice Platform)",
+      "company": "Swisscom",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Rotterdam",
+        "region": null,
+        "country": "Netherlands",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "DevOps Engineer - SIP Core (Voice Platform) Help us run and evolve a mission-critical SIP platform used by business customers every day. In this role, you ensure stability and availability while actively driving automation and modernization of our voice servic…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/swisscom/devops-engineer-sip-core-voice-platform-rotterdam-370181",
+      "source": "Arbeitnow"
+    },
     {
       "id": "5ffd25ca4551698c",
       "title": "Responsable commercial B2C & marketing — Voyages à pied et à vélo (H/F)",
@@ -3968,6 +4392,383 @@
       },
       "summary": "Informatica-, AI- of bedrijfskundestudenten opgelet: AI & Automation stage beschikbaar! Ben jij een sportgek? Wil je graag in een dynamische en sportieve werkomgeving AI & Automation stage-ervaring op doen? En zoek je per februari 2027 een AI & Automation stag…",
       "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/p1-travel/stage-ai-automation-leiden-141316",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2bba655c1175eb55",
+      "title": "Sales & Account Manager (m/w/d)",
+      "company": "Everfield",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany - Regensburg - Hybrid",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Sales & Account Manager (m/w/d) Regensburg oder Dormagen, Deutschland · Festanstellung, Vollzeit Über Everfield Everfield erwirbt, entwickelt und stärkt europäische Unternehmen für vertikale Branchen- und Spezialsoftware und gibt ihnen die Werkzeuge an die Han…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/everfield/sales-account-manager-regensburg-303872",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ae3d14f832617ee6",
+      "title": "Senior Carrier and Product Management",
+      "company": "Eye Security",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die Position Du verbindest Cyberversicherung, Produktentwicklung und Carrier-Steuerung. In dieser Schlüsselrolle verantwortest du das Versicherungsportfolio und die MGA-Partnerschaften von Eye Security und entwickelst skalierbare Lösungen für unsere europäisch…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/eye-security/senior-carrier-and-product-management-berlin-183446",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "04eae146016292d4",
+      "title": "Senior Carrier and Product Management",
+      "company": "Eye Security",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The role You’ll bring together cyber insurance, product development and carrier management. In this pivotal role, you’ll oversee Eye Security’s insurance portfolio and MGA partnerships, developing scalable solutions for our European markets. What you’ll do Pro…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/eye-security/senior-carrier-and-product-management-berlin-466220",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "be9d1814d753aefe",
+      "title": "Langfuse - Senior Software Engineer, SDK",
+      "company": "Clickhouse",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Healthcare",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Why SDK Engineering at Langfuse Your work will have an outsized impact. Our SDKs are downloaded 26M+ times per month. When you ship a new integration or improve SDK performance, thousands of developers benefit the same day — and they'll tell you about it in Gi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/clickhouse/langfuse-senior-software-engineer-sdk-germany-15922",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "346004fd4fbf4efa",
+      "title": "2027 NextGen Technology Programme",
+      "company": "Checkout.com",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/2027-nextgen-technology-programme-london-390540",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a5080690eebc666a",
+      "title": "2027 NextGen Talent Operations Programme",
+      "company": "Checkout.com",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/2027-nextgen-talent-operations-programme-london-410647",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c6d09e0e3daf7e70",
+      "title": "Coordinator, Front of House & Workplace Experience",
+      "company": "Checkout.com",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/coordinator-front-of-house-workplace-experience-london-487735",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "86013003989dc395",
+      "title": "2027 NextGen Commercial Operations Programme",
+      "company": "Checkout.com",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/2027-nextgen-commercial-operations-programme-london-401808",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "411a042dd29104fb",
+      "title": "2027 NextGen Marketing Programme",
+      "company": "Checkout.com",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/2027-nextgen-marketing-programme-london-276815",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7c53612d68862d3f",
+      "title": "Solutions Engineer – Enterprise Compute",
+      "company": "Pragmatike",
+      "employmentType": "Internship",
+      "location": {
+        "city": "FR | Lyon",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Lieu : Remote Type de contrat : Freelance Date de début : Dès que possible Expérience : 5 ans + Langues : Anglais courant requis et Français Secteur : Infrastructure cloud / Calcul GPU / Infrastructure IA À propos de l’opportunité Pragmatike recrute pour le co…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/pragmatike/solutions-engineer-enterprise-compute-lyon-466720",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5c50fd6998e647b0",
+      "title": "Applied Science - Research Engineer (Robotics)",
+      "company": "Mistral.ai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-science-research-engineer-robotics-paris-137835",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e8a0e74d53006ab0",
+      "title": "International mobility expert",
+      "company": "Mistral.ai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/mistralai/international-mobility-expert-paris-267367",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "67ec8854df9a3a48",
+      "title": "Evaluation Engineer, Applied AI",
+      "company": "Mistral.ai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/mistralai/evaluation-engineer-applied-ai-paris-96814",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ed53bcc3632c2eb6",
+      "title": "Software Engineer I",
+      "company": "Checkout.com",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-19",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/checkoutcom/software-engineer-i-paris-182149",
       "source": "Arbeitnow"
     },
     {
