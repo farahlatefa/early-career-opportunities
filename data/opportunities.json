@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-20T23:54:14.703835+00:00",
+    "lastUpdated": "2026-10-21T04:50:55.845571+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,310 @@
     ]
   },
   "jobs": [
+    {
+      "id": "8fcee5041828da5c",
+      "title": "Junior Marketplace Manager (E-Commerce) (m/w/d)| Flexible Remote-Option",
+      "company": "Nordmut GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Moin, wir sind Nordmut – die Outdoor Brand mit Herz und Vision. Wir entwickeln hochwertiges Outdoor-Equipment für Abenteurer, Camper und Freiheitsliebende. Du hast Bock auf E-Commerce, digitale Marktplätze und nachhaltiges Wachstum? Du denkst unternehmerisch, …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/nordmut-gmbh/junior-marketplace-manager-e-commerce-flexible-remote-option-hamburg-52362",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "727bce8508678a9b",
+      "title": "Senior Sales Manager - Media (m/w/d)",
+      "company": "Verve",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who We Are Verve has created a more efficient and privacy-focused way to buy and monetize advertising. Verve is an ecosystem of demand and supply technologies fusing data, media, and technology together to deliver results and growth to both advertisers and pub…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/verve/senior-sales-manager-media-349774",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9a7a17b0a655d5bc",
+      "title": "Platform Engineer (f/m/d)",
+      "company": "Spread Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who We Are Spread Group is a renowned global provider of customized apparel and lifestyle products, distinguished by our commitment to made-to-order technology. Our core business model revolves around producing precisely what our customers desire, precisely wh…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/spread-group/remote-platform-engineer-berlin-8213",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c27042c78f1279b8",
+      "title": "Werkstudent (w/m/d) Einkauf / Procurement",
+      "company": "Holzland Becker",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Offenbach am Main",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Procurement",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Mit den Marken Holzprofi24 und Leondo betreiben wir führende E-Commerce-Plattformen für Haus & Garten in Europa. Zur Unterstützung unseres Teams im Bereich Einkauf und Category Management suchen wir einen Werkstudenten (w/m/d) Einkauf / Business Development. I…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/holzland-becker/werkstudent-einkauf-procurement-offenbach-am-main-79566",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ec653d84fbf9f523",
+      "title": "Senior Customer Success Manager, EMEA",
+      "company": "6Sense",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Mission: 6sense's mission is to multiply what matters: growth, retention, and efficiency. We envision a future where companies, teams and people reach their full potential. Our People: People are the heart and soul of 6sense. We serve with passion and purp…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/6sense/senior-customer-success-manager-emea-london-75171",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1e6d8130af3c9234",
+      "title": "Senior Product Manager, Programmatic Exchange",
+      "company": "Verve",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who We Are Verve has created a more efficient and privacy-focused way to buy and monetize advertising. Verve is an ecosystem of demand and supply technologies fusing data, media, and technology together to deliver results and growth to both advertisers and pub…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/verve/senior-product-manager-programmatic-exchange-london-394693",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dd3ca0dba65a38ca",
+      "title": "Senior Product Manager, Data Insights & Analytics",
+      "company": "Verve",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who We Are Verve has created a more efficient and privacy-focused way to buy and monetize advertising. Verve is an ecosystem of demand and supply technologies fusing data, media, and technology together to deliver results and growth to both advertisers and pub…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/verve/senior-product-manager-data-insights-analytics-london-12236",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "41bba143fce95d0a",
+      "title": "Graduate Product Manager",
+      "company": "Trading212",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our mission is to enable everyone to build wealth. We're reinventing how trading and investing work by building exceptional products people love. We move fast, set a high bar, and expect excellence from everyone on the team. The role We're looking for exceptio…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/trading212/graduate-product-manager-london-452916",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "414c0f803c7a8436",
+      "title": "Orbital Analyst",
+      "company": "Foundational",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Orbital Analyst About us Foundational is building the most precise picture of Earth and orbit, using lasers fired from the ground. We call it ground truth for orbit. We design and run low-cost, autonomous satellite laser ranging stations. They measure the dist…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/foundational/orbital-analyst-london-478374",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cbe550d70124c954",
+      "title": "Security Engineer Junior - GRC",
+      "company": "Alan",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Anywhere in France",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alan/security-engineer-junior-grc-anywhere-in-france-76041",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7b76bec3f5720bdb",
+      "title": "Growth Marketer",
+      "company": "Alan",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Anywhere in France",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alan/growth-marketer-anywhere-in-france-286526",
+      "source": "Arbeitnow"
+    },
     {
       "id": "15d7e560b178dac0",
       "title": "Staff Product Designer - Growth | Deel",
@@ -6434,6 +6738,2283 @@
       },
       "summary": "PIX4D is seeking a talented Business Data Analyst to bridge Finance, Product Management and Commercial Operations (Sales and Marketing), develop complex analytical tools to drive strategic decisions and optimize processes. You will be a member of PIX4D’s dynam…",
       "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/pix4d/junior-business-data-analyst-lausanne-187365",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dfdb9a91f58fc23f",
+      "title": "(Junior) Project Communication Manager:in (w/m/d)",
+      "company": "Enpal",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamtlösung für dezentrale Energie – von Solaranlage und Batteriespeicher über Wallbox, Smart Meter bis z…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/enpal/junior-project-communication-managerin-berlin-389957",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f6219ad9cba684a9",
+      "title": "(Junior) Litigation Manager:in (w/m/d)",
+      "company": "Enpal",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamtlösung für dezentrale Energie – von Solaranlage und Batteriespeicher über Wallbox, Smart Meter bis z…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/enpal/junior-litigation-managerin-berlin-171931",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e9b4df1fb75ce41d",
+      "title": "Intern Strategic Projects (w/m/d)",
+      "company": "Enpal",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamtlösung für dezentrale Energie – von Solaranlage und Batteriespeicher über Wallbox, Smart Meter bis z…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/enpal/intern-strategic-projects-berlin-285997",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fc033b65fe37c46f",
+      "title": "Business Analytics Internship (f/m/x)",
+      "company": "Enpal",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Policy / Government",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our goal is to have a solar system on every roof, a storage unit in every house, and an electric car in every garage. Enpal makes this possible with an integrated total solution for decentralized energy—from solar systems and battery storage to wall boxes, sma…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/enpal/business-analytics-internship-berlin-468956",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ae4f45df0c22f506",
+      "title": "Product Consultant (m/w/d) Healthcare Analytics",
+      "company": "LOGEX",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Healthcare",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Gestalte die Zukunft des Gesundheitswesens mit Daten Seit dem Zusammenschluss mit LOGEX verantwortet Tiplu den gesamten DACH-Markt. Hier kommen zwei Welten zusammen: die analytische Tiefe von LOGEX in Kostenstrukturen im Krankenhaus, Portfoliosteuerung und Kos…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/logex/remote-product-consultant-healthcare-analytics-hamburg-432000",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "628798c28fcdf852",
+      "title": "Informationssicherheitsbeauftragter (ISB) (m/w/d) | Kritische Infrastruktur | Ruhrgebiet",
+      "company": "Valpeo.com",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "DAS UNTERNEHMEN Unser Mandant ist eine etablierte Organisation der kritischen Infrastruktur im Ruhrgebiet. Das Unternehmen steht für hohe Versorgungsrelevanz, komplexe Betriebsstrukturen und einen starken gesellschaftlichen Auftrag. Mehrere tausend Mitarbeiten…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/valpeocom/informationssicherheitsbeauftragter-isb-kritische-infrastruktur-ruhrgebiet-germany-183896",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "84757eaea5db0a43",
+      "title": "Senior Growth Analyst, User Acquisition",
+      "company": "Justwatch",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": "guide planning, budgets and growth targets, working with BI to keep KPI definitions consistent and d"
+      },
+      "summary": "Who we are JustWatch delivers data-driven digital marketing for the global entertainment business, from the biggest blockbusters to award-winning shows, major sporting events and best-selling console games. We also own the world's largest streaming guide, givi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/justwatch/senior-growth-analyst-user-acquisition-berlin-443901",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c5397a9dd8255c6e",
+      "title": "(Senior) Sales Development Representative (d/w/m) - Packa",
+      "company": "Packmatic",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Procurement",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir digitalisieren eine der größten und am stärksten regulierten Branchen Europas. Die Verpackungsindustrie hat ein Marktvolumen von mehreren hundert Milliarden Euro und steht aufgrund neuer Vorschriften wie PPWR, EUDR, EPR und CSRD unter enormem Handlungsdruc…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/packmatic/senior-sales-development-representative-packa-berlin-442626",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e5ed6e024d6a5def",
+      "title": "(Senior) Account Executive (w/m/d) - B2B Saas I Berlin (hybrid)",
+      "company": "Packmatic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir digitalisieren eine der größten und am stärksten regulierten Industriebranchen Europas. Die Verpackungsindustrie bewegt ein Marktvolumen von mehreren hundert Milliarden Euro und steht durch neue Regulierungen wie PPWR, EUDR, EPR und CSRD unter massivem Han…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/packmatic/senior-account-executive-b2b-saas-i-berlin-hybrid-493248",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6cc3b836f55c8d25",
+      "title": "Senior Data Insights Consultant - EMEA",
+      "company": "Map",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who We Are MAP | WPP Enterprise Solutions designs, builds, and operates the growth systems that competitive businesses rely on. In a world where Al is reshaping how companies drive growth, we lead clients in business transformation and marketing modernization,…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/map/senior-data-insights-consultant-emea-london-196123",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "46d5099c7e9e9df3",
+      "title": "Staff Software Engineer (ML QA)",
+      "company": "Graphcore",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Cambridge",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the job Build the software that validates Graphcore’s machine learning stack, from frameworks to AI accelerator hardware. You’ll design production-quality test infrastructure that engineers can extend, maintain and rely on as Graphcore’s ML software grow…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-software-engineer-ml-qa-cambridge-26304",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b5be185f80502cf0",
+      "title": "Staff Software Engineer (ML QA)",
+      "company": "Graphcore",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the job Build the software that validates Graphcore’s machine learning stack, from frameworks to AI accelerator hardware. You’ll design production-quality test infrastructure that engineers can extend, maintain and rely on as Graphcore’s ML software grow…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-software-engineer-ml-qa-london-162637",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "de3b4b8ce6689192",
+      "title": "Staff Software Engineer (ML QA)",
+      "company": "Graphcore",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the job Build the software that validates Graphcore’s machine learning stack, from frameworks to AI accelerator hardware. You’ll design production-quality test infrastructure that engineers can extend, maintain and rely on as Graphcore’s ML software grow…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-software-engineer-ml-qa-bristol-2224",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "821b85890bac4fb3",
+      "title": "Software Engineer Summer Intern, AI Compute Libraries & Performance 2027",
+      "company": "Graphcore",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Bristol, UK Salary: £2500 per month Start date: June 2027 Application deadline : Midnight, 29th November 2026 We encourage you to apply early, as we may close applications before the advertised deadline. The Internship Programme at Graphcore Explore …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/software-engineer-summer-intern-ai-compute-libraries-performance-2027-bristol-155946",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5099cf886b7c8512",
+      "title": "Software Engineering Summer Intern, Drivers and Utilities 2027",
+      "company": "Graphcore",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Bristol, UK Duration: 12 weeks Salary: £2500 per month Start date: June 2027 Application deadline: Midnight 29th November We encourage you to apply early, as we may close applications before the advertised deadline. The Internship Programme at Graphc…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/software-engineering-summer-intern-drivers-and-utilities-2027-bristol-117203",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b402f2af3fc22c44",
+      "title": "Senior Software Engineer (ML QA)",
+      "company": "Graphcore",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the job Build the software that validates Graphcore’s machine learning stack, from frameworks to AI accelerator hardware. You’ll design production-quality test infrastructure that engineers can extend, maintain and rely on as Graphcore’s ML software grow…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-ml-qa-london-13966",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "488fe5202391e555",
+      "title": "Senior Software Engineer (ML QA)",
+      "company": "Graphcore",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the job Build the software that validates Graphcore’s machine learning stack, from frameworks to AI accelerator hardware. You’ll design production-quality test infrastructure that engineers can extend, maintain and rely on as Graphcore’s ML software grow…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-ml-qa-bristol-222946",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cc5a70053b8228bc",
+      "title": "Senior Software Engineer (ML QA)",
+      "company": "Graphcore",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Cambridge",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the job Build the software that validates Graphcore’s machine learning stack, from frameworks to AI accelerator hardware. You’ll design production-quality test infrastructure that engineers can extend, maintain and rely on as Graphcore’s ML software grow…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-ml-qa-cambridge-298682",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9eb80d01bb02a1c1",
+      "title": "Graduate UX Engineer 2027",
+      "company": "Graphcore",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Bristol, UK Start date: September 2027 Application deadline : Midnight, 29th November 2026 We encourage you to apply early, as we may close applications before the advertised deadline. The Graduate Programme at Graphcore Join Graphcore in a permanent…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/graduate-ux-engineer-2027-bristol-457489",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "39b161595e761755",
+      "title": "Graduate Software Engineer, System Software QA 2027",
+      "company": "Graphcore",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bristol; Cambridge",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Bristol or Cambridge, UK Start date: September 2027 Application deadline : Midnight, 29th November 2026 We encourage you to apply early, as we may close applications before the advertised deadline. The Graduate Programme at Graphcore Join Graphcore i…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/graduate-software-engineer-system-software-qa-2027-bristol-cambridge-37181",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dd343ad2e9f58414",
+      "title": "Graduate Software Engineer, Frameworks 2027",
+      "company": "Graphcore",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Bristol, UK Start date: September 2027 Application deadline : Midnight, 29th November 2026 We encourage you to apply early, as we may close applications before the advertised deadline. The Graduate Programme at Graphcore Join Graphcore in a permanent…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/graduate-software-engineer-frameworks-2027-bristol-421777",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0d7818e463bb5e30",
+      "title": "Graduate Software Engineer, Drivers and Utilities 2027",
+      "company": "Graphcore",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Bristol, UK Start date: September 2027 Application deadline : Midnight, 29th November 2026 We encourage you to apply early, as we may close applications before the advertised deadline. The Graduate Programme at Graphcore Join Graphcore in a permanent…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/graduate-software-engineer-drivers-and-utilities-2027-bristol-88017",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2ca77b6826414d58",
+      "title": "Graduate Software Engineer, DevOps 2027",
+      "company": "Graphcore",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Bristol, UK Start date: September 2027 Application deadline : Midnight, 29th November 2026 We encourage you to apply early, as we may close applications before the advertised deadline. The Graduate Programme at Graphcore Join Graphcore in a permanent…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/graduate-software-engineer-devops-2027-bristol-293736",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "84cd5892d8394f30",
+      "title": "Graduate Software Engineer, Analysis Tools 2027",
+      "company": "Graphcore",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Bristol, UK Start date: September 2027 Application deadline : Midnight, 29th November 2026 We encourage you to apply early, as we may close applications before the advertised deadline. The Graduate Programme at Graphcore Join Graphcore in a permanent…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/graduate-software-engineer-analysis-tools-2027-bristol-366244",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9b765c3b2787e5f6",
+      "title": "Graduate Software Engineer, AI/ ML Test Systems 2027",
+      "company": "Graphcore",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Bristol, UK Start date: September 2027 Application deadline : Midnight, 29th November 2026 We encourage you to apply early, as we may close applications before the advertised deadline. The Graduate Programme at Graphcore Join Graphcore in a permanent…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/graduate-software-engineer-ai-ml-test-systems-2027-bristol-357737",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2402360e4313ba54",
+      "title": "Graduate Software Engineer, AI Compute Libraries & Performance 2027",
+      "company": "Graphcore",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Bristol, UK Start date: September 2027 Application deadline : Midnight, 29th November 2026 We encourage you to apply early, as we may close applications before the advertised deadline. The Graduate Programme at Graphcore Join Graphcore in a permanent…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/graduate-software-engineer-ai-compute-libraries-performance-2027-bristol-43781",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "873265eb9493321b",
+      "title": "Graduate Software Engineer, Accelerator Modelling 2027",
+      "company": "Graphcore",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Bristol, UK Start date: September 2027 Application deadline : Midnight, 29th November 2026 We encourage you to apply early, as we may close applications before the advertised deadline. The Graduate Programme at Graphcore Join Graphcore in a permanent…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/graduate-software-engineer-accelerator-modelling-2027-bristol-172762",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6fb31e47ef91cb19",
+      "title": "Graduate SoC Architecture Engineer 2027",
+      "company": "Graphcore",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Bristol, UK Start date: September 2027 Application deadline : Midnight, 29th November 2026 We encourage you to apply early, as we may close applications before the advertised deadline. The Graduate Programme at Graphcore Join Graphcore in a permanent…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/graduate-soc-architecture-engineer-2027-bristol-244111",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "92ce36480ba9c19f",
+      "title": "Graduate Silicon Engineer 2027",
+      "company": "Graphcore",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bristol; Cambridge",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Bristol or Cambridge Start date: September 2027 Application deadline: Midnight 29 th November We encourage you to apply early, as we may close applications before the advertised deadline. The Graduate Programme at Graphcore Join Graphcore in a perman…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/graduate-silicon-engineer-2027-bristol-cambridge-221221",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "799fbf2e272f157f",
+      "title": "Graduate, Manufacturing Operations (Product Test) 2027",
+      "company": "Graphcore",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Procurement",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Bristol, UK Start date: September 2027 Applications deadline : Midnight, 29th November 2026 We encourage you to apply early, as we may close applications before the advertised deadline. The Graduate Programme at Graphcore Join Graphcore in a permanen…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/graduate-manufacturing-operations-product-test-2027-bristol-264219",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e663928ad71609da",
+      "title": "Graduate, Manufacturing Operations 2027",
+      "company": "Graphcore",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Finance",
+        "Operations",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Bristol, UK Start date: September 2027 Application deadline: Midnight 29 th November We encourage you to apply early, as we may close applications before the advertised deadline. The Graduate Programme at Graphcore Join Graphcore in a permanent role …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/graduate-manufacturing-operations-2027-bristol-202793",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d744eb39f1c34bac",
+      "title": "Graduate Machine Learning Engineer 2027",
+      "company": "Graphcore",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Bristol, UK Start date: September 2027 Application deadline: Midnight, 29th November 2026 We encourage you to apply early, as we may close applications before the advertised deadline. The Graduate Programme at Graphcore Join Graphcore in a permanent …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/graduate-machine-learning-engineer-2027-bristol-468419",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1a9211368d009204",
+      "title": "Graduate Infrastructure Solutions Engineer 2027",
+      "company": "Graphcore",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Bristol, UK Start date: September 2027 Application deadline : Midnight, 29th November 2026 We encourage you to apply early, as we may close applications before the advertised deadline. The Graduate Programme at Graphcore Join Graphcore in a permanent…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/graduate-infrastructure-solutions-engineer-2027-bristol-415545",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "023e651aecdeca9f",
+      "title": "Graduate Hardware Engineer 2027",
+      "company": "Graphcore",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Bristol, UK Start date: September 2027 Applications deadline : Midnight, 29th November 2026 We encourage you to apply early, as we may close applications before the advertised deadline. The Graduate Programme at Graphcore Join Graphcore in a permanen…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/graduate-hardware-engineer-2027-bristol-228209",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5af2c3e8e339a825",
+      "title": "Graduate Firmware Engineer 2027",
+      "company": "Graphcore",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Bristol, UK Start date: September 2027 Application deadline : Midnight, 29th November 2026 We encourage you to apply early, as we may close applications before the advertised deadline. The Graduate Programme at Graphcore Join Graphcore in a permanent…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/graduate-firmware-engineer-2027-bristol-115004",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e82abdb5b7f7eaa9",
+      "title": "Graduate Cloud Platform Engineer 2027",
+      "company": "Graphcore",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Bristol, UK Start date: September 2027 Application deadline : Midnight, 29th November 2026 We encourage you to apply early, as we may close applications before the advertised deadline. The Graduate Programme at Graphcore Join Graphcore in a permanent…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/graduate-cloud-platform-engineer-2027-bristol-200426",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e8a8a29f53cd7de4",
+      "title": "Product Manager - Device Data Management (Fluent French & English)",
+      "company": "Kaluza",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job title: Product Manager - Device Data Management (Fluent French & English) Location: Paris — Hybrid (3 days in office) Salary: €57,600 - €72,000 Team: Product Management - Data Device Management Reporting to: Group Product Manager This role is based in Pari…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/product-manager-device-data-management-fluent-french-english-london-221463",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "aacd4c2e3e7c460c",
+      "title": "Senior Strategic Finance Analyst",
+      "company": "Alma31",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": "CFO"
+      },
+      "summary": "About Alma At Alma, we believe sustainable commerce depends on fair, well‑balanced trade. Because finance plays a pivotal role in business, our mission is to put it back in its rightful place - serving merchants and consumers. Our installment and deferred paym…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alma31/senior-strategic-finance-analyst-paris-paris-367657",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d5312e08137b53c1",
+      "title": "Ingénieur Projet Pré-FEED (H/F)",
+      "company": "EXOCETH CONSULTING",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Mazamet",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ingénieur Projet Pré-FEED (H/F) Informations clés Référence : 262403S Démarrage : Janvier 2027 Durée : Mission longue durée Type de contrat : Freelance ou CDIC Zone géographique : Occitanie (81) Langue : Anglais courant indispensable Contexte de la mission Dan…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/exoceth-consulting/ingenieur-projet-pre-feed-h-f-mazamet-222278",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e59ab3934dc7cff0",
+      "title": "Senior Analytics Engineer",
+      "company": "Vestiairecollective",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Vestiaire Collective is the leading global platform for desirable pre-loved fashion and a pioneer in transforming how people consume fashion. Our mission is simple: make circular fashion the norm, not the exception. Through technology, expertise, and a highly …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/vestiairecollective/senior-analytics-engineer-paris-422361",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a21b103959b8b1d9",
+      "title": "Performance Marketing Intern - January 2027",
+      "company": "Vestiairecollective",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Vestiaire Collective is the leading global platform for desirable pre-loved fashion and a pioneer in transforming how people consume fashion. Our mission is simple: make circular fashion the norm, not the exception. Through technology, expertise, and a highly …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/vestiairecollective/performance-marketing-intern-january-2027-paris-346879",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d129d38017c0d97b",
+      "title": "Senior consultant Space sector - Government",
+      "company": "Novaspace",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you a highly-motivated, technically-minded, critical thinker looking for your next challenge? Join a leading consulting player in the booming space industry! Our consulting service lines span strategy, market development and innovation advisory. We are see…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/novaspace/senior-consultant-space-sector-government-paris-france-228162",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "29378e4e7504f860",
+      "title": "Graduate FPGA Engineer (2027 Start)",
+      "company": "Optiverus",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "As an FPGA Engineer, you’ll work side-by-side with teammates to build real-world applications that power a global trading firm. You’ll create solutions with nanosecond response times, highly parallelized algorithms, and customized low-level networking that sol…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/optiverus/graduate-fpga-engineer-2027-start-amsterdam-296913",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e5782d565d2e3bd6",
+      "title": "Senior Compliance Officer – Institutional Sales & Trading Advisory",
+      "company": "Optiverus",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking for a role where your expertise and judgement can make a real impact ? Do you enjoy working close ly with the business, taking ownership and translating complex regulatory requirements into practical solutions? Join Optiver's Compliance team in…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/senior-compliance-officer-institutional-sales-trading-advisory-london-396099",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "112c3db2f95b0a81",
+      "title": "Business Development Representative",
+      "company": "Legora",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Legora is redefining how legal work gets done. Not built for lawyers, built with them. We work alongside the world’s best legal teams, who expect excellence, precision, and speed, and we hold ourselves to the same bar. Our AI-native workspace lets leg…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/legora/business-development-representative-london-272756",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "32fae384a91eacdc",
+      "title": "Member of Scientific Staff, Cell Culture and Functional Assays",
+      "company": "Substrate Bio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": "its lead"
+      },
+      "summary": "LOCATION: King's Cross, London · PATTERN: Lab-based, full-time The opportunity We're a stealth startup in AI and bio, building infrastructure for data generation. The team is small and elite, the problems are hard, and the foundations are being laid right now.…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/substrate-bio/member-of-scientific-staff-cell-culture-and-functional-assays-london-68194",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fbaa48635cf1dd5c",
+      "title": "Member of Scientific Staff, Protein Production",
+      "company": "Substrate Bio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": "a senior member of its scientific staff"
+      },
+      "summary": "LOCATION: King's Cross, London · PATTERN: Lab-based, full-time The opportunity We're a stealth startup in AI and bio, building infrastructure for data generation. The team is small and elite, the problems are hard, and the foundations are being laid right now.…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/substrate-bio/member-of-scientific-staff-protein-production-london-335248",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bf637a07d04f0071",
+      "title": "Warehouse Associate - Cambridge",
+      "company": "Deliveroo",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Cambridge - Clifton Road (Hop)",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Warehouse Associate Location: Cambridge (CB1) Working pattern: Onsite | Part-time | Shift-based (15 hours per week) Pay: £13.25 per hour Join us in our mission to transform the way people shop and eat, where impact, innovation, and growth drives everything we …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/warehouse-associate-cambridge-237630",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8884b2609f507b9e",
+      "title": "Forward Deployed Engineer",
+      "company": "True Talent Solutions Partners",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the Role Join a customer-facing engineering team at a venture-backed enterprise AI software company. You will work directly with enterprise customers to understand complex operational challenges and build practical software solutions that make a measurab…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-london-283445",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6f2fccb3152eb384",
+      "title": "Sales Development Representative (New Graduates)",
+      "company": "Patsnap",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Farringdon",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Sales Development Representative (SDR) ➡️ Ready to kick-start your career in sales, selling a best-in-class AI product you can genuinely be proud of? ➡️ Want to learn how to open doors, engage senior decision-makers and create opportunities with some of the wo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/patsnap/sales-development-representative-new-graduates-farringdon-442186",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2656f86968a3aeff",
+      "title": "Graduate Software Developer",
+      "company": "City Science",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Humanitarian / NGO",
+        "Sales / Business Development",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Salary: £30,000 - £40,000 depending on experience and qualifications Location: Remote (all UK locations considered) with flexible working arrangements. Our flexible office collaboration spaces, for those wishing to use them, are in London, Bristol and Exeter. …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/city-science/remote-graduate-software-developer-london-477356",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b7090bf698d1900e",
+      "title": "Senior Group Procurement Buyer",
+      "company": "Storiogroup",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "UK",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Procurement",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": "our Procurement Lead, you will operate with significant autonomy to shape sourcing strategies, manag"
+      },
+      "summary": "Make Your Mark as a Procurement Specialist at Storio group About the role. We are looking for a Procurement Specialist at P40 level to take ownership of assigned spend categories across our platform. Storio Group produces millions of personalized photo product…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/storiogroup/senior-group-procurement-buyer-london-uk-394001",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a06767d6db8682b3",
+      "title": "Business Solutions Architect",
+      "company": "Endpointclinical",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote UK",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Operations",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us: Endpoint is an interactive response technology (IRT®) systems and solutions provider that supports the life sciences industry. Since 2009, we have been working with a single vision in mind, to help sponsors and pharmaceutical companies achieve clinic…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/endpointclinical/remote-business-solutions-architect-190509",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c34ab571ea6ebf56",
+      "title": "Sales Solutions Engineer - EMEA",
+      "company": "Sonarsource",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who is Sonar? Sonar is driving the future of agent-centric software development. As the leader in AI code review and verification, we solve a critical problem: ensuring that software generated by AI-assisted developers or autonomous agents is reliable, secure,…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/sonarsource/sales-solutions-engineer-emea-london-98401",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b99275e4e459e91d",
+      "title": "Marketing AI Engineer",
+      "company": "Sonarsource",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who is Sonar? Sonar is driving the future of agent-centric software development. As the leader in AI code review and verification, we solve a critical problem: ensuring that software generated by AI-assisted developers or autonomous agents is reliable, secure,…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/sonarsource/marketing-ai-engineer-london-325542",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0642cf2c3dafb024",
+      "title": "Java Software Engineer",
+      "company": "Bounteous",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bounteous is a global AI Services firm where agentic engineering and human experience converge to deliver transformative business outcomes for the enterprise. We help organizations design, build, and scale AI-driven products, platforms, and processes. With mor…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/bounteous/java-software-engineer-london-393514",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1451843c76018d2b",
+      "title": "Senior Financial Analyst",
+      "company": "Farfetch",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "UK London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Farfetch is a leading global marketplace for the luxury fashion industry. The Farfetch Marketplace connects customers in over 190 countries and territories with items from more than 50 countries and over 1,400 of the world’s best brands, boutiques, and departm…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/farfetch/senior-financial-analyst-uk-london-united-kingdom-255841",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "48bbe0808acfce91",
+      "title": "Software Engineer, Internship",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/software-engineer-internship-london-united-kingdom-4823",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e077c6b1713e7cfb",
+      "title": "Software Engineer – Query Engines",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/software-engineer-query-engines-london-united-kingdom-116121",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "47a1d7f1cdc5b36c",
+      "title": "Software Engineer - Apollo Platform",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/software-engineer-apollo-platform-london-united-kingdom-97513",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2332bfb4bf0fe40a",
+      "title": "Senior Software Engineer, Substrate",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/senior-software-engineer-substrate-london-united-kingdom-68020",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "df65312ffd7442b2",
+      "title": "Senior Revenue Accountant",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/senior-revenue-accountant-london-united-kingdom-454817",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fc1f34b6ea8f0a9e",
+      "title": "Senior Front End Software Engineer - Application Development",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/senior-front-end-software-engineer-application-development-london-united-kingdom-298661",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "42284be82251a22c",
+      "title": "Product Designer, New Grad",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/product-designer-new-grad-london-united-kingdom-215834",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7e08f0f3aa373cc7",
+      "title": "Product Designer, Internship",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/product-designer-internship-london-united-kingdom-451689",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b0e32ff246eb47cb",
+      "title": "Product Designer",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/product-designer-london-united-kingdom-200588",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "35695a6672834d1f",
+      "title": "Full Stack Software Engineer - Application Development",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/full-stack-software-engineer-application-development-london-united-kingdom-405999",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "68a36e1baad86fb2",
+      "title": "Forward Deployed Software Engineer, New Grad - UK Government",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/forward-deployed-software-engineer-new-grad-uk-government-london-united-kingdom-328343",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c8eb57932d793b63",
+      "title": "Forward Deployed Software Engineer, New Grad - Commercial",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/forward-deployed-software-engineer-new-grad-commercial-london-united-kingdom-70903",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9340e9a21cec7e1e",
+      "title": "Forward Deployed Software Engineer, Internship - UK Government",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/forward-deployed-software-engineer-internship-uk-government-london-united-kingdom-357383",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0bd7b8333eba5f73",
+      "title": "Forward Deployed Software Engineer, Internship - Commercial",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/forward-deployed-software-engineer-internship-commercial-london-united-kingdom-297932",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "48f8791a9842db37",
+      "title": "Forward Deployed Software Engineer - UK Government",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/forward-deployed-software-engineer-uk-government-london-united-kingdom-364240",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ab0f7695928c7b43",
+      "title": "Forward Deployed Software Engineer - NATO",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/forward-deployed-software-engineer-nato-london-united-kingdom-262052",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6c3e7989d0884ce5",
+      "title": "Forward Deployed Software Engineer",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/forward-deployed-software-engineer-london-united-kingdom-455053",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7d72706994ac1dd7",
+      "title": "Forward Deployed Reliability Engineer",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/forward-deployed-reliability-engineer-london-united-kingdom-204958",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ca0256cc1f2f7ea8",
+      "title": "Forward Deployed Infrastructure Engineer, New Grad - UK Government",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/forward-deployed-infrastructure-engineer-new-grad-uk-government-london-united-kingdom-132813",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1aa2715c0d517101",
+      "title": "Forward Deployed Infrastructure Engineer - UK Government",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/forward-deployed-infrastructure-engineer-uk-government-london-united-kingdom-292234",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e15b147c098a515b",
+      "title": "Forward Deployed Enablement Engineer - Customer Success",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/forward-deployed-enablement-engineer-customer-success-london-united-kingdom-398059",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8f872474e8aaf8f3",
+      "title": "Forward Deployed AI Engineer",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/forward-deployed-ai-engineer-london-united-kingdom-476988",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ddb5934e40143480",
+      "title": "Backend Software Engineer - Infrastructure, Foundations",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/backend-software-engineer-infrastructure-foundations-london-united-kingdom-349132",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6a5b6e6edce2c3d0",
+      "title": "Backend Software Engineer - Infrastructure",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/backend-software-engineer-infrastructure-london-united-kingdom-198837",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1d9ab00d9e84dcaf",
+      "title": "Backend Software Engineer - Application Development",
+      "company": "Palantir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disrupti…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/palantir/backend-software-engineer-application-development-london-united-kingdom-129743",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d24c6629c7d4ec3d",
+      "title": "Senior Creative Development Specialist",
+      "company": "Gettyimages",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": "regional creative lead, you will lead and manage your projects and collaborate with Creative Insight"
+      },
+      "summary": "The Creative team provides customers with original, relevant, and contemporary visuals. Through an industry-unique combination of consumer research, proprietary data, and three decades of trend reporting experience, the team delivers actionable insights that g…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/gettyimages/senior-creative-development-specialist-london-36536",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a4755de13bbf0c5a",
+      "title": "Senior Project Manager (French Speaking - Early Access)",
+      "company": "Wepclinical",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": "UK",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Healthcare",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking for an exciting and fulfilling new position? Join our dynamic team at WEP Clinical, where your contributions will play a key role in driving impactful solutions and improving outcomes for clients and patients. We encourage innovation and collab…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/wepclinical/remote-senior-project-manager-french-speaking-early-access-450751",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "925f9478bdb3b1bf",
+      "title": "Finance Data & Systems Analyst (FP&A)",
+      "company": "Lovehoney Group",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Bath",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Lovehoney Group is the world’s leading sexual wellbeing company, with the mission to elevate pleasure through innovative technologies, a data-driven approach, and foster creative and fresh perspectives on intimacy. We offer exciting brands with innovative, hig…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/lovehoney-group/finance-data-systems-analyst-fpa-bath-258412",
       "source": "Arbeitnow"
     },
     {
