@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-21T19:21:54.820357+00:00",
+    "lastUpdated": "2026-10-21T23:21:40.255662+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -4869,6 +4869,677 @@
       },
       "summary": "Brief info about Vinted Our mission is to make second-hand the first choice, and we're looking for people who want to help us get there. Every day, we work together to help our members buy and sell pre-loved clothing and lifestyle items, giving each piece a se…",
       "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/vinteden/senior-outsourced-sales-manager-vinted-go-acquisition-159757",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c2971f8f4601882b",
+      "title": "Projektmanager:in Social & Creator Marketing (w/m/d)",
+      "company": "likeyaa GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Dortmund",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Social Media ist voll von Content. Aber nur ein Teil davon bewegt wirklich etwas. Genau daran arbeiten wir jeden Tag. Mit Strategien, Creator:innen und Ideen, die nicht nur Reichweite bringen, sondern Wirkung. Und genau dafür suchen wir dich! Aufgaben Eigenver…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/likeyaa-gmbh/projektmanagerin-social-creator-marketing-intermediate-dortmund-383496",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "691812c6d4b9ec90",
+      "title": "Staff Machine Learning Engineer, LLM Inference Optimization",
+      "company": "Nebius",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/nebius/staff-machine-learning-engineer-llm-inference-optimization-berlin-249546",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "941aba903151e17b",
+      "title": "Senior Machine Learning Engineer, LLM Inference Optimization",
+      "company": "Nebius",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/nebius/senior-machine-learning-engineer-llm-inference-optimization-berlin-249817",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e44b58737469c51a",
+      "title": "Senior Backend Engineer (Java/Kotlin)- (m/f/x)",
+      "company": "Doctolib",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Berlin",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Set a new pulse for healthcare! We are looking for a Senior Back End Software Engineer to join the Business Performance team at Doctolib. Your mission will be to help reinforce Doctolib's position as a leading healthcare technology platform by building high-qu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/doctolib/senior-backend-engineer-java-kotlin-berlin-berlin-63211",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b5890e1c4e02935d",
+      "title": "Customer Service Specialist (m/w/d) Telefonservice",
+      "company": "GALVANY",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bei GALVANY ist es unser Ziel, klimaneutrales Wohnen für alle zur Realität zu machen. Wir setzen auf Umsetzung und entwickeln konkrete, smarte Lösungen, indem wir Wärmepumpen, Batteriespeicher und Smart Metering einfach zugänglich, zuverlässig und bezahlbar ma…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/galvany/customer-service-specialist-telefonservice-berlin-450197",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3cd09c56e4a63d04",
+      "title": "Internship - Machine Learning Research Engineer",
+      "company": "Perplexity",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Internship Program Berlin Internship program: 12 - 24 weeks, full-time, in-person in the Berlin office. Responsibilities Relentlessly push search quality forward — through models, data, tools, or any other leverage available. Train, and optimize large-scale de…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/perplexity/internship-machine-learning-research-engineer-berlin-71199",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8b1aba12f4f2ac8d",
+      "title": "AI & Engineering Lehrkraft/Coach (all genders)",
+      "company": "Stackfuel",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Remote - Germany",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Jobbeschreibung Wir launchen aktuell ein neues, spannendes Trainingsprogramm: AI for Project Engineering – Teil einer umfassenden AI Academy , mit der wir Engineering-Teams fit für die KI-Ära machen, und suchen aktuell Verstärkung für unser Team. Als KI & Engi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/stackfuel/ai-engineering-lehrkraft-coach-all-genders-berlin-152788",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9bc82ad366beab8c",
+      "title": "Information Security Expert (all genders)",
+      "company": "Kertos",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kertos is the fastest-growing compliance startup in Europe. Following our €14M Series A , backed by leading VCs and business angels, we are building the compliance engine for Europe – faster, smarter, and more automated than ever. With customers like Enpal, Fl…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/kertos/information-security-expert-all-genders-munich-37649",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "29e59aa3b21878b9",
+      "title": "(Senior) Social Media Manager:in (m/w/d)",
+      "company": "likeyaa GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Dortmund",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Social Media ist voll von Content. Aber nur ein Teil davon bewegt wirklich etwas. Genau daran arbeiten wir jeden Tag. Mit Strategien, Creator:innen und Ideen, die nicht nur Reichweite bringen, sondern Wirkung. Und genau dafür suchen wir dich! Aufgaben Du veran…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/likeyaa-gmbh/senior-social-media-managerin-dortmund-394349",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0e1dde641592a536",
+      "title": "Graduate Insights Analyst",
+      "company": "LiveScore Group",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Soho, London Hybrid working: 3 days in the office Tues - Thurs The Role The Marketing Insights team is an integral department within LiveScore Group and the Casino Marketing Insights team is looking to expand to support the growth of the Casino vertical. As a …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/livescore-group/graduate-insights-analyst-london-493008",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e9a29ead72438339",
+      "title": "Senior Data Engineer",
+      "company": "LiveScore Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Marketing & Communications",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Soho, London Hybrid working: 3 days in the office Tues - Thurs The Role We are seeking a Senior Data Engineer to join our Data Team, taking a leading role in building the complex, scalable systems that power our data strategy. You will lead architectural discu…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/livescore-group/senior-data-engineer-london-423630",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bf4633ce36efede0",
+      "title": "Staff Machine Learning Engineer, LLM Inference Optimization",
+      "company": "Nebius",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/nebius/staff-machine-learning-engineer-llm-inference-optimization-london-213464",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5b70b6aeeddf78bc",
+      "title": "VP, Finance",
+      "company": "Bjak",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, asses…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/bjak/vp-finance-london-480283",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "feda9d0e808bae84",
+      "title": "VP, Marketing",
+      "company": "Bjak",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, asses…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/bjak/vp-marketing-london-239548",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c76dd142bda78656",
+      "title": "Finance Manager / Financial Controller",
+      "company": "Cmr.london",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Procurement",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🌟 Position: Finance Manager / Financial Controller 📍 Location: Hybrid – London office and home working 💼 Type: Part-time 📅 Start Date: Immediate 💰 Salary: £50k to 85K DOE About Cooper Moss Rutland Cooper Moss Rutland (CMR) is an independent, award-winning Proj…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cmrlondon/finance-manager-financial-controller-london-265392",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0bb4f7d172cdd813",
+      "title": "Montu Pharmacy Assessment Centre",
+      "company": "Montu Uk",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Winnersh",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ready to start or take the next step in your pharmacy career? At Montu, we are doing things differently, and that includes how we recruit. We are growing, and we are looking for enthusiastic, hardworking and patient-focused individuals to join our pharmacy tea…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/montu-pharmacy-assessment-centre-winnersh-288794",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "db72b5f2d80d8fb7",
+      "title": "Prescriptions Coordinator",
+      "company": "Montu Uk",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Winnersh",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Montu, every department plays an important role in delivering exceptional patient care. From our clinical and pharmacy teams to the people working behind the scenes, we all share the same goal of ensuring our patients receive the care, treatment and support…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/prescriptions-coordinator-winnersh-210179",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c168506bd10ea75d",
+      "title": "Senior BI Analytics Engineer",
+      "company": "Carwow",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "OUR MISSION To become the car-changing destination of choice. By combining technology, media and deep automotive expertise, we've turned how people buy, sell, advertise and lease cars on its head. What started as a simple reviews site is now one of the largest…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/carwow/senior-bi-analytics-engineer-london-440862",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3344584f2bec4dd5",
+      "title": "Data Scientist - iwocaPay Credit Risk Modelling",
+      "company": "iwoca",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Data Scientist - iwocaPay Credit Risk Modelling Hybrid in London, United Kingdom (one day per week in office requirement) We're looking for a Data Scientist to join the iwocaPay Risk Squad. You'll own credit models that decide who iwocaPay can safely fund, on …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/data-scientist-iwocapay-credit-risk-modelling-london-446934",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "98e6aa073a6d81e8",
+      "title": "Risk Analyst - Portfolio Team (UK)",
+      "company": "iwoca",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The company Small businesses move fast. Opportunities often don’t wait, and cash flow pressures can appear overnight. To keep going, and growing, SMEs need finance that’s as flexible and responsive as they are. That's why we built iwoca. Our smart technology, …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/risk-analyst-portfolio-team-uk-london-251774",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "18d699ffc223cae7",
+      "title": "AI Implementation Intern",
+      "company": "MakiPeople",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About MakiPeople Maki builds AI agents that help large companies hire faster and better, from screening to assessment to candidate engagement. Global enterprises use Maki to run hiring at scale, giving recruiters time back and candidates a smoother experience.…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/makipeople/ai-implementation-intern-paris-305790",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7b42905711fbacd3",
+      "title": "Staff Machine Learning Engineer, LLM Inference Optimization",
+      "company": "Nebius",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/nebius/staff-machine-learning-engineer-llm-inference-optimization-zurich-406082",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a6916be56dba7a4b",
+      "title": "Entrepreneur Intern",
+      "company": "SeeSicht Gmbh",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About SeeSicht Gmbh SeeSicht is a small family office of AI-first companies. We build companies that are profitable today and keep them for the long term — not a venture builder chasing funding rounds. Every project is funded 100% by me or by me and my network…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/seesicht-gmbh/entrepreneur-intern-zurich-153410",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "074ff10a21fceb13",
+      "title": "Staff Machine Learning Engineer, LLM Inference Optimization",
+      "company": "Nebius",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/nebius/staff-machine-learning-engineer-llm-inference-optimization-amsterdam-403133",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "810cbb56dcad451d",
+      "title": "Senior Machine Learning Engineer, LLM Inference Optimization",
+      "company": "Nebius",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/nebius/senior-machine-learning-engineer-llm-inference-optimization-amsterdam-253701",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5d4666e60ddfeb72",
+      "title": "Product Data Analyst",
+      "company": "Nebius",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/nebius/product-data-analyst-amsterdam-428402",
       "source": "Arbeitnow"
     },
     {
@@ -9991,30 +10662,6 @@
       },
       "summary": "„Jeden Tag einen Menschen in eine sinnstiftende Tätigkeit bringen.“ Eine Stadt. Ein leeres Blatt. Dein Name drunter. Berlin hat rund 3,9 Millionen Menschen, zwölf Bezirke, zwölf Jobcenter, eine Agentur für Arbeit mit mehreren Standorten – und einen Arbeitsmark…",
       "applicationUrl": "https://www.arbeitnow.com/jobs/companies/eubia/standortentwickler-berlin-223147",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "e7a38b2c13d80445",
-      "title": "Projektmanager:in Social & Creator Marketing (Intermediate) (w/m/d)",
-      "company": "likeyaa GmbH",
-      "employmentType": "Internship",
-      "location": {
-        "city": "Dortmund",
-        "region": null,
-        "country": null,
-        "workMode": "Remote"
-      },
-      "sectors": [
-        "Marketing & Communications"
-      ],
-      "deadline": null,
-      "postedDate": "2026-10-20",
-      "reportsTo": {
-        "name": null,
-        "title": null
-      },
-      "summary": "Social Media ist voll von Content. Aber nur ein Teil davon bewegt wirklich etwas. Genau daran arbeiten wir jeden Tag. Mit Strategien, Creator:innen und Ideen, die nicht nur Reichweite bringen, sondern Wirkung. Und genau dafür suchen wir dich! Aufgaben Eigenver…",
-      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/likeyaa-gmbh/projektmanagerin-social-creator-marketing-intermediate-dortmund-383496",
       "source": "Arbeitnow"
     },
     {
