@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-21T23:21:40.255662+00:00",
+    "lastUpdated": "2026-10-22T04:49:59.475828+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,349 @@
     ]
   },
   "jobs": [
+    {
+      "id": "cfab3767c743d22b",
+      "title": "Initiative Application",
+      "company": "Certa",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Certa is the AI-first third-party operating system. Enterprises, from the Fortune 500 to fast-growing startups, use our no-code platform to onboard, assess, and monitor their vendors, suppliers, and partners across risk, compliance, and ESG. We have processed …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/certa/remote-initiative-application-387420",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9c1f0029771e6177",
+      "title": "Technical Business Development Intern (Emerging Verticals) (f/m/d)",
+      "company": "Quantumdiamonds",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich HQ",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Description QuantumDiamonds is building the world's first commercial quantum sensing tools for chip failure analysis. Our Quantum Diamond Microscope (QDm) images magnetic fields with micrometer resolution, and that capability could matter far beyond semiconduc…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/quantumdiamonds/technical-business-development-intern-emerging-verticals-munich-5336",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2b1c6eb417aaa6dd",
+      "title": "Electromagnetic Simulation Intern (f/m/d)",
+      "company": "Quantumdiamonds",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich HQ",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Description QuantumDiamonds is building the world's first commercial quantum sensing tools for chip failure analysis. As our Electromagnetic Simulation Intern in the Data Science & Machine Learning team in Pre-Development, you simulate how our Quantum Diamond …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/quantumdiamonds/electromagnetic-simulation-intern-munich-108911",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3eaa0b6360d66673",
+      "title": "Data Science Intern (f/m/d)",
+      "company": "Quantumdiamonds",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich HQ",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Description QuantumDiamonds is building the world's first commercial quantum sensing tools for chip failure analysis. As our Data Science Intern in the Data Science & Machine Learning team in Pre-Development, you work on new ways to analyze and process the dat…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/quantumdiamonds/data-science-intern-munich-336382",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e50a24424f689057",
+      "title": "Graduate Developer - Test-Management - Core Data Services (SAP BTP) (f/d/m)",
+      "company": "Fioneer",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Potsdam",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Welcome future financial experts! At SAP Fioneer we believe in building the future of financial services. Join us on a transformative journey as a part of our Graduate Program L.I.F.T = Level up in Fioneer Technology! You will embark on a journey to kickstart …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/fioneer/graduate-developer-test-management-core-data-services-sap-btp-potsdam-131346",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c21768569b044a0d",
+      "title": "Graduate Developer - Test-Management - Core Data Services (SAP BTP) (f/d/m)",
+      "company": "Fioneer",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Welcome future financial experts! At SAP Fioneer we believe in building the future of financial services. Join us on a transformative journey as a part of our Graduate Program L.I.F.T = Level up in Fioneer Technology! You will embark on a journey to kickstart …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/fioneer/graduate-developer-test-management-core-data-services-sap-btp-berlin-71249",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c859db4aec4bdeb5",
+      "title": "Graduate Developer - Test-Management - Core Data Services (SAP BTP) (f/d/m)",
+      "company": "Fioneer",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Welcome future financial experts! At SAP Fioneer we believe in building the future of financial services. Join us on a transformative journey as a part of our Graduate Program L.I.F.T = Level up in Fioneer Technology! You will embark on a journey to kickstart …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/fioneer/graduate-developer-test-management-core-data-services-sap-btp-munich-17516",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0f0829271faaf8d4",
+      "title": "Graduate Developer - Test-Management - Core Data Services (SAP BTP) (f/d/m)",
+      "company": "Fioneer",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Walldorf",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Welcome future financial experts! At SAP Fioneer we believe in building the future of financial services. Join us on a transformative journey as a part of our Graduate Program L.I.F.T = Level up in Fioneer Technology! You will embark on a journey to kickstart …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/fioneer/graduate-developer-test-management-core-data-services-sap-btp-walldorf-466976",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5bdcd9d0dafe3eb4",
+      "title": "Graduate Developer - Core Data Services (SAP BTP) (f/d/m)",
+      "company": "Fioneer",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Potsdam",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Welcome future financial experts! At SAP Fioneer we believe in building the future of financial services. Join us on a transformative journey as a part of our Graduate Program L.I.F.T = Level up in Fioneer Technology! You will embark on a journey to kickstart …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/fioneer/graduate-developer-core-data-services-sap-btp-potsdam-336879",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9554d93323533bbd",
+      "title": "Graduate Developer - Core Data Services (SAP BTP) (f/d/m)",
+      "company": "Fioneer",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Welcome future financial experts! At SAP Fioneer we believe in building the future of financial services. Join us on a transformative journey as a part of our Graduate Program L.I.F.T = Level up in Fioneer Technology! You will embark on a journey to kickstart …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/fioneer/graduate-developer-core-data-services-sap-btp-berlin-302474",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "942f9c72aba0235a",
+      "title": "Graduate Developer - Core Data Services (SAP BTP) (f/d/m)",
+      "company": "Fioneer",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Welcome future financial experts! At SAP Fioneer we believe in building the future of financial services. Join us on a transformative journey as a part of our Graduate Program L.I.F.T = Level up in Fioneer Technology! You will embark on a journey to kickstart …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/fioneer/graduate-developer-core-data-services-sap-btp-munich-19323",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e2199f493b747a6a",
+      "title": "Graduate Developer - Core Data Services (SAP BTP) (f/d/m)",
+      "company": "Fioneer",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Walldorf",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Welcome future financial experts! At SAP Fioneer we believe in building the future of financial services. Join us on a transformative journey as a part of our Graduate Program L.I.F.T = Level up in Fioneer Technology! You will embark on a journey to kickstart …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/fioneer/graduate-developer-core-data-services-sap-btp-walldorf-341601",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5ce11b8d584a30bd",
+      "title": "SEO & Digital Marketing Specialist",
+      "company": "Pavago",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Switzerland",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "SEO & Digital Marketing Specialist – Technical SEO, Google Ads & Lead Generation | Remote Position Type: Full-Time, Remote Working Hours: U.S. Business Hours Experience Level: Mid-Level to Senior Department: Digital Marketing / Growth Marketing About the Role …",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/pavago/remote-seo-digital-marketing-specialist-switzerland-427846",
+      "source": "Arbeitnow"
+    },
     {
       "id": "8fcee5041828da5c",
       "title": "Junior Marketplace Manager (E-Commerce) (m/w/d)| Flexible Remote-Option",
@@ -5540,6 +5883,317 @@
       },
       "summary": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost…",
       "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/nebius/product-data-analyst-amsterdam-428402",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0df171a7d979e9f1",
+      "title": "Deployment Strategist - German Speaking",
+      "company": "Happyrobot.ai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bonn",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Healthcare",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About HappyRobot HappyRobot is the infrastructure for enterprises to build and orchestrate AI workforces. Our AI workers don't just communicate through voice and email - they make decisions, take action, and run operations autonomously across entire enterprise…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/happyrobotai/deployment-strategist-german-speaking-bonn-242435",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f457b5c10a7b85f3",
+      "title": "Pricing & Deal Desk Manager (m/f/d)",
+      "company": "Moss",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Moss, we give finance professionals the power to automate their day-to-day and make forward-thinking decisions. Our culture is what makes that possible: we play to win, we obsess over quality, and we win as One Moss, and it works. Moss closed a €35 million …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/moss/pricing-deal-desk-manager-berlin-128928",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "869b9a1c24f10ab4",
+      "title": "(Senior) Quality Assurance Engineer (f/m/d)",
+      "company": "Zeal Network",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ZEAL Network SE is a dynamic, international group of companies that has been creating exciting and innovative lottery experiences for over 20 years. As Germany’s largest provider of online lotteries through our brands LOTTO24 and Tipp24, and a trusted partner …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/zeal-network/senior-quality-assurance-engineer-hamburg-378874",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "52d64e29d6c01328",
+      "title": "Senior Consultant - Cost Transformation and Margin Improvement",
+      "company": "Baringa",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Baringa Baringa is a global consulting firm that partners with leaders to drive change and create value. With deep industry expertise, and enabled by advanced technology, the firm helps clients to deliver with greater confidence and certainty. With over …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/baringa/senior-consultant-cost-transformation-and-margin-improvement-london-115090",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c33524e7a1bcad88",
+      "title": "Senior Electrical Engineer",
+      "company": "Andurilindustries",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Sydney",
+        "region": null,
+        "country": "Australia",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defe…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-electrical-engineer-sydney-australia-59514",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3fd50cc92dac3883",
+      "title": "CRM & Revenue Operations Analyst",
+      "company": "Emagine",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the Role We're looking for a curious, commercially sharp CRM & Revenue Operations Analyst to join our growing RevOps function. This is a dual-natured role: on one side, hands-on CRM administration and data stewardship within a collaborative team; on the …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/emagine/crm-revenue-operations-analyst-london-485429",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c4650fe84d50d5ed",
+      "title": "Content Writer",
+      "company": "Paddle",
+      "employmentType": "Internship",
+      "location": {
+        "city": "UK",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. T…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/paddle/content-writer-uk-54292",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c90053e0c23ea3df",
+      "title": "Business Development Representative",
+      "company": "Paddle",
+      "employmentType": "Internship",
+      "location": {
+        "city": "UK",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. T…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/paddle/business-development-representative-uk-345403",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7ae5badc77dd6553",
+      "title": "IT Support Specialist (f/m/d)",
+      "company": "Zeal Network",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Norwich",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ZEAL Network SE is a leading international provider of online lottery and prize draw products, operating for over 20 years with brands like LOTTO24 and Tipp24. As Germany’s largest digital lottery operator and a trusted partner of Spain’s ONCE, we are passiona…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/zeal-network/it-support-specialist-norwich-476721",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "22cead043b0100a1",
+      "title": "Senior Consultant / Manager – Power Market Advisory",
+      "company": "Baringa",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Baringa Baringa is a global consulting firm that partners with leaders to drive change and create value. With deep industry expertise, and enabled by advanced technology, the firm helps clients to deliver with greater confidence and certainty. With over …",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/baringa/senior-consultant-manager-power-market-advisory-amsterdam-39101",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4f3691d677085e79",
+      "title": "Business Development Representative",
+      "company": "Paddle",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Netherlands",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. T…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/paddle/business-development-representative-netherlands-47333",
       "source": "Arbeitnow"
     },
     {
