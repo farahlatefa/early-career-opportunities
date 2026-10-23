@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-22T23:23:57.979909+00:00",
+    "lastUpdated": "2026-10-23T04:52:21.427847+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,453 @@
     ]
   },
   "jobs": [
+    {
+      "id": "1859fa1f32303adf",
+      "title": "Founder's Associate",
+      "company": "Comena",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Comena Comena builds AI agents for industrial distributors and manufacturers to automate their order processing from e-mail inbox to ERP. At distributors across the US and Germany alone, there are 4 million sales and procurement people stuck in manual wo…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/comena/founders-associate-munich-82869",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3511929e32f1a89a",
+      "title": "Founder's Associate Intern",
+      "company": "Comena",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Comena Comena builds AI agents for industrial distributors and manufacturers to automate their order processing from e-mail inbox to ERP. At distributors across the US and Germany alone, there are 4 million sales and procurement people stuck in manual wo…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/comena/founders-associate-intern-munich-19764",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "82e540d1fdddb674",
+      "title": "(Senior) Frontend Engineer (F/M/*)",
+      "company": "Amber",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Aachen",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Aus Europa, für Europa – wir entwickeln Europas Business-KI. Wir sind das größte KI-Start-up in Aachen. Mittelständische Unternehmen profitieren davon, wenn internes Wissen sofort nutzbar wird und intelligente Agenten darauf reagieren können. Wir glauben an ei…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/amber/senior-frontend-engineer-f-m-aachen-162692",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "34f6e2f6a85b607b",
+      "title": "Marketing & Communications Lead (f/d/m)",
+      "company": "Ceezer",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Procurement",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A definitive shift is currently happening. Corporates across the globe are no longer just reporting on sustainability; they are actively investing in it as a core financial and strategic asset. At CEEZER, we are architecting the infrastructure for enterprise-g…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ceezer/marketing-communications-lead-berlin-114320",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "91234ddd5c435520",
+      "title": "Sales Manager Cybersecurity (m/w/d)",
+      "company": "Nomios",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Frankfurt am Main",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die Nomios Germany GmbH befindet sich in einer spannenden Aufbauphase. Als Unternehmen der internationalen Nomios Group gestalten wir zukunftssichere Cybersecurity- und Netzwerklösungen aus einer Hand – von der strategischen Beratung und dem Setup über die Imp…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/nomios/sales-manager-cybersecurity-frankfurt-am-main-52161",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "48340d86ac1813db",
+      "title": "Website Growth & CRO Manager",
+      "company": "Rapid Pioneers",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Berlin, Deutschland · Vollzeit Wichtig: Verhandlungssicheres Deutsch (C1 oder C2) ist für diese Position zwingend erforderlich , da die Optimierung von Website-Texten ein zentraler Teil der Aufgabe ist. Bewerbungen mit einem niedrigeren Deutschniveau können le…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/rapid-pioneers/website-growth-cro-manager-berlin-263242",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3bd255cdf2f1020c",
+      "title": "Apprentice BI Data Analyst",
+      "company": "Brunswickgroup",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Humanitarian / NGO",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-23",
+      "reportsTo": {
+        "name": null,
+        "title": "BI Technical Support Analyst"
+      },
+      "summary": "Opportunity Brunswick Group is seeking an enthusiastic and analytical Apprentice BI Data Analyst to join its Group Business Intelligence (BI) team. The Group BI team plays a key role in supporting the business globally by delivering meaningful data, reporting …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/brunswickgroup/apprentice-bi-data-analyst-london-199573",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5d48ce1d800bb2af",
+      "title": "Application Scientist",
+      "company": "Cuspai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "UK",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About CuspAI CuspAI is the frontier AI company on a mission to solve the breakthrough materials needed to power human progress. While nature took billions of years to perfect molecules, we are harnessing AI to unlock trillion-dollar materials breakthroughs in …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cuspai/application-scientist-london-376231",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5371ad5f3c35f944",
+      "title": "Payments Risk Analyst",
+      "company": "Lightspeedhq",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Belfast",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-23",
+      "reportsTo": {
+        "name": null,
+        "title": "Risk Operations Lead, you will be responsible for daily monitoring within multiple risk queues along"
+      },
+      "summary": "Hi there! Thanks for stopping by 👋 Are you actively looking for a new opportunity? Or just checking the market? Well… you might just be in the right place! We’re looking for an experienced Payments Risk Analyst based in Belfast to join our Global Risk team. In…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/lightspeedhq/payments-risk-analyst-belfast-400554",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "05cbc33c0e5bcef4",
+      "title": "Cyber Security Consultant (UK) - Dionach by Nomios",
+      "company": "Nomios",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location This role offers flexibility to work remotely, with regular visits to client sites. Alternatively, you can choose a hybrid arrangement and work from our offices in Oxford or Glasgow, if preferred and UK based. Why join Dionach by Nomios? Since being a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/nomios/remote-cyber-security-consultant-uk-dionach-by-nomios-scotland-274544",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "39cfd11a66956edf",
+      "title": "Lead Cyber Security Consultant (CHECK) (UK) - Dionach by Nomios",
+      "company": "Nomios",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location This role offers flexibility to work remotely from your own home, or as a hybrid arrangement and work from our offices in Oxford or Glasgow, if preferred. There is also a requirement for flexibility from employees to visit client sites across the UK a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/nomios/remote-lead-cyber-security-consultant-check-uk-dionach-by-nomios-england-228849",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "51267d8fa41776f1",
+      "title": "Backend Developer .Net - Remote from EU - Deadline 27/10/26",
+      "company": "AlmavivA de Belgique",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "• Write and support backend code in .Net 8.0+ using some of the most common libraries (Newtonsoft.Json, OpenTelemetry, Swagger, Bogus, AutoBogus, Moq); • Participate in the .NET implementation of a micro-services solution, being able to write backend code in a…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-434774",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "13cafd1294fb6980",
+      "title": "Senior business analyst - deadline 03/11/2026",
+      "company": "AlmavivA de Belgique",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": "Netherlands",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job description : We are looking for an experienced Business Analyst to work closely with Product Owners, business stakeholders, Subject Matter Experts (SMEs), and technical teams to analyze business needs, define requirements, and ensure successful delivery o…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/senior-business-analyst-deadline-03-11-2026-amsterdam-490409",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "48bcaf782ee56cc9",
+      "title": "Meewerkstage: Communicatie",
+      "company": "Voortman Steel Machinery",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Rijssen",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wat ga je doen? Hoe zorg je ervoor dat 800+ collega’s wereldwijd weten wat er binnen Voortman speelt én zich betrokken voelen bij de organisatie? Met verschillende vestigingen, landen, afdelingen en groepen collega’s is dat een mooie communicatie-uitdaging. Wa…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/voortman-steel-machinery/meewerkstage-communicatie-rijssen-214846",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f5f560b6b8864c39",
+      "title": "Stage: Optimalisatie van planningsrapportages",
+      "company": "Voortman Steel Machinery",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Rijssen",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wat ga je doen? Binnen onze organisatie speelt planning een belangrijke rol in het realiseren van projecten, het optimaal benutten van capaciteit en het bewaken van voortgang. Tijdens deze stage onderzoek je hoe de rapportagefunctionaliteiten van ons huidige p…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/voortman-steel-machinery/stage-optimalisatie-van-planningsrapportages-rijssen-38568",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0a9df3b77de3e1ef",
+      "title": "Senior Implementatie Consultant SaaS, €4.250 – €6.000 | Breda",
+      "company": "Whitevision B.V.",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Breda",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Procurement",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wil jij als Senior Implementatie Consultant meer end to end verantwoordelijkheden krijgen? Bij Whitevision geven we je meer autonomie en ruimte om processen bij de klant en binnen het team te verbeteren. Kortom, wil je meer strategisch adviseren, collega’s coa…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/whitevision-bv/senior-implementatie-consultant-saas-eur4250-eur6000-breda-408432",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9c27dacde3616cd3",
+      "title": "Senior Implementatie Consultant SaaS, €4.250 – €6.000 | Zoetermeer",
+      "company": "Whitevision B.V.",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zoetermeer",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Procurement",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wil jij als Senior Implementatie Consultant meer end to end verantwoordelijkheden krijgen? Bij Whitevision geven we je meer autonomie en ruimte om processen bij de klant en binnen het team te verbeteren. Kortom, wil je meer strategisch adviseren, collega’s coa…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/whitevision-bv/senior-implementatie-consultant-saas-eur4250-eur6000-zoetermeer-271006",
+      "source": "Arbeitnow"
+    },
     {
       "id": "cfab3767c743d22b",
       "title": "Initiative Application",
@@ -8248,6 +8695,357 @@
       },
       "summary": "Ben jij er klaar voor om impact te hebben op een van de belangrijkste sectoren in de wereld? Bij IXON connecten wij machines met hun makers. Door machinebouwers wereldwijd toegang te geven tot hun machines en data zorgen wij voor een revolutie in industrial au…",
       "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/ixon-cloud/stagiair-business-control-beugen-268509",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a302e17d1137ac7c",
+      "title": "Senior Mechanical Engineer I",
+      "company": "Axon",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Kassel",
+        "region": null,
+        "country": "Hesse",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join Axon and be a Force for Good. At Axon, we’re on a mission to Protect Life. We’re explorers, pursuing society’s most critical safety and justice issues with our ecosystem of devices and cloud software. Like our products, we work better together. We connect…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/axon/senior-mechanical-engineer-i-kassel-hesse-108626",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "25539d4e0657cdd7",
+      "title": "Project Manager - Software Implementation (m/f/x)",
+      "company": "Makersite GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job Title: Project Manager - Software Implementation (m/f/x) Location: EU (Remote) Who You’ll Work For: At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle manageme…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-project-manager-software-implementation-berlin-396785",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "55715a837cbffcc0",
+      "title": "Videograph/in – Social Media & Content - Vollzeit (m/w/d)",
+      "company": "ESH StB-Examensvorbereitung GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hamburg-Altona · Vollzeit · vor Ort · 4.000–4.300 € brutto/Monat Du hast ein gutes Gespür für starke Bilder, kannst Ideen schnell in hochwertigen Content übersetzen und arbeitest gleichzeitig gerne mit klaren Briefings und festen Abläufen? Als Videograph/in be…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/esh-stb-examensvorbereitung-gmbh/videograph-in-social-media-content-vollzeit-hamburg-277203",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1e112ccde7a52334",
+      "title": "Wirtschaftsinformatiker/in – Digitalisierung & Automatisierung - Vollzeit (m/w/d)",
+      "company": "ESH StB-Examensvorbereitung GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du denkst gerne in Systemen, erkennst ineffiziente Abläufe schnell und hast Freude daran, aus manuellen Prozessen saubere digitale Lösungen zu machen? Als Wirtschaftsinformatiker/in bei ESH arbeitest du an der Schnittstelle zwischen Geschäftsprozessen, Softwar…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/esh-stb-examensvorbereitung-gmbh/wirtschaftsinformatiker-in-digitalisierung-automatisierung-vollzeit-hamburg-246654",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3078200268019fc6",
+      "title": "Senior Adobe Application Consultant",
+      "company": "Map",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who We Are MAP | WPP Enterprise Solutions designs, builds, and operates the growth systems that competitive businesses rely on. In a world where Al is reshaping how companies drive growth, we lead clients in business transformation and marketing modernization,…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/map/senior-adobe-application-consultant-london-242806",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f09a9baecf4d5d3b",
+      "title": "Global Trade Compliance Senior Specialist",
+      "company": "84674Th44Metrea9999",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Overview Metrea delivers effects-as-a-service to national security partners across five domains and more than a dozen mission areas. These include airborne ISR, electronic warfare, secure communications, aerial refueling, special air missions, aerial f…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/84674th44metrea9999/global-trade-compliance-senior-specialist-london-6071",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3c2f057e6b622e1f",
+      "title": "Senior Technical Program Manager, International Security & Privacy Compliance",
+      "company": "Coreweaveu",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence. Trusted by leading AI labs, startups, and global enterprises,…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/senior-technical-program-manager-international-security-privacy-compliance-london-185710",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e47901e537ed2a05",
+      "title": "Senior Account Performance Manager",
+      "company": "Alma31",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🧡 About Alma At Alma, we believe sustainable commerce depends on fair, well-balanced trade. Because finance plays a pivotal role in business, our mission is to put it back in its rightful place: serving merchants and consumers. Our installment and deferred pay…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alma31/senior-account-performance-manager-paris-paris-375710",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b8e5c132b2da5add",
+      "title": "Experimentation & Tracking engineer",
+      "company": "Alma31",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🧡 About Alma At Alma, we believe sustainable commerce depends on fair, well-balanced trade. Because finance plays a pivotal role in business, our mission is to put it back in its rightful place: serving merchants and consumers. Our installment and deferred pay…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alma31/experimentation-tracking-engineer-paris-paris-32209",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ada0d73dc746544b",
+      "title": "Senior Software Engineer - Alerting Platform Automation",
+      "company": "Datadog",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Nantes; Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Datadog, we process millions of monitors every minute, alerting our customers when configured thresholds are crossed. Engineers across the world trust us to alert them when necessary, so our Alerting stack needs to be reliable and scalable. The Alerting Pla…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-alerting-platform-automation-nantes-paris-99101",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e6b587946dfd0c3b",
+      "title": "DevSecOps Engineer - Final year Internship - Stage PFE",
+      "company": "Escape",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "DevSecOps Engineer Intern - Final-Year Internship 2027 📍 Paris, France | 6-month internship | Start date: 2027 Join Escape Technologies’ DevSecOps team and help shape the infrastructure behind our AI cybersecurity platform. As an intern, you’ll collaborate wit…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/escape/devsecops-engineer-final-year-internship-stage-pfe-paris-157315",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f4ee21368055c517",
+      "title": "Senior Deal Desk Analyst - Dublin",
+      "company": "Datadog",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "As a Senior Deal Desk Analyst, you will work cross-functionally with our Sales Operations, Billing, Contracts and Legal teams to provide quoting and deal structuring support to the Global Sales Team. This will be a growth position as Datadog’s business continu…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/datadog/senior-deal-desk-analyst-dublin-amsterdam-239270",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a911695cc4d9aa2e",
+      "title": "Senior Product Owner Clinical Registries",
+      "company": "LOGEX",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": "Netherlands",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our mission We turn data into better healthcare. With our insights, we make healthcare more affordable and better, and we improve the patients’ and clinicians’ experience. Our mission We turn data into better healthcare. With our insights, we make healthcare m…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/logex/senior-product-owner-clinical-registries-amsterdam-21389",
       "source": "Arbeitnow"
     },
     {
