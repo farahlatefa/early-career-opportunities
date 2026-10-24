@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-24T18:10:33.402432+00:00",
+    "lastUpdated": "2026-10-24T20:51:52.759051+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -2708,6 +2708,350 @@
       },
       "summary": "ParetoLabs is looking for a motivated and passionate Frontend Developer Intern with a love for building great user interfaces to join our growing team. As part of our dynamic team, you will build the interfaces people use to work with our AI-driven application…",
       "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/paretolabs/frontend-developer-intern-zurich-262783",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "475f2b2341d865fc",
+      "title": "Product Owner/Business Analyst (m/f/d)",
+      "company": "Trafineo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bochum",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Product Owner/Business Analyst (m/f/d) -Bochum- Shape the Future of Mobility with Us! Trafineo – Your Path to an Innovative Mobility World As a leading provider of On-Road-Services and mobility solutions in Europe, we combine the strengths of BP Europa SE (Ara…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/trafineo/product-owner-business-analyst-bochum-84748",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ee096f9e3529960b",
+      "title": "Senior Growth Manager (m/w/d)",
+      "company": "Liqid Lig",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Rolle Als Senior Growth Manager bei LIQID entwickelst du Kampagnenkonzepte, die messbares Wachstum entlang des gesamten Funnels erzeugen – von der Akquisition affluenter Privatkunden bis zu ihrer Aktivierung im Bestand. Du verantwortest Konzept, Kanalpla…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/liqid-lig/senior-growth-manager-berlin-174326",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4f6b29e209594a4a",
+      "title": "Executive Assistant (w/m/d)",
+      "company": "Liqid Lig",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "DEINE ROLLE Als Executive Assistant unterstützt du unsere Geschäftsführung bzw. Den CEO direkt im operativen Alltag. Du steuerst seinen Kalender, bereitest Meetings vor und nach und bist eine zentrale Drehscheibe für die interne Kommunikation und Koordination.…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/liqid-lig/executive-assistant-berlin-385335",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b30f4de41c17588d",
+      "title": "Growth Marketing Lead",
+      "company": "Liqid Lig",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth Marketing Lead (f/m/d) Deine Rolle Als Growth Marketing Lead (f/m/d) bist du der operative Taktgeber unserer Wachstumsmaschine: Du implementierst, steuerst und optimierst unsere wachstumsorientierten Marketingmaßnahmen kanalübergreifend und arbeitest Ma…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/liqid-lig/growth-marketing-lead-berlin-209227",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4ab9c733980141e8",
+      "title": "Senior Account Executive",
+      "company": "Ogilvy UK",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the Role Ogilvy Health is looking for a highly organised and proactive Senior Account Executive to join our Medical Communications team. This role will sit within a high-profile global neurology and immunology account, supporting the delivery of scientif…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ogilvy-uk/senior-account-executive-london-110121",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9712abaa576f0d50",
+      "title": "Security Engineer",
+      "company": "Cuspai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cambridge",
+        "region": null,
+        "country": "UK",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About CuspAI CuspAI is the frontier AI company on a mission to solve the breakthrough materials needed to power human progress. While nature took billions of years to perfect molecules, we are harnessing AI to unlock trillion-dollar materials breakthroughs in …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cuspai/security-engineer-london-326971",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d0ce2ddffb3b8f1a",
+      "title": "Performance Engineer",
+      "company": "Cuspai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cambridge",
+        "region": null,
+        "country": "UK",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About CuspAI CuspAI is the frontier AI company on a mission to solve the breakthrough materials needed to power human progress. While nature took billions of years to perfect molecules, we are harnessing AI to unlock trillion-dollar materials breakthroughs in …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cuspai/performance-engineer-london-237596",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "264f9fb69b2d3571",
+      "title": "Materials Knowledge Architect",
+      "company": "Cuspai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cambridge",
+        "region": null,
+        "country": "UK",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About CuspAI CuspAI is the frontier AI company on a mission to solve the breakthrough materials needed to power human progress. While nature took billions of years to perfect molecules, we are harnessing AI to unlock trillion-dollar materials breakthroughs in …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cuspai/materials-knowledge-architect-london-340951",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c233e07ed0ef6f98",
+      "title": "Go-to-Market Associate (Enterprise AI)",
+      "company": "Spaitial",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "SpAItial is pioneering Physically-grounded World Models, a new AI paradigm designed to generate and reason about the appearance and physics of real and imagined environments. We are moving beyond 2D pixels to build models that natively understand the geometry …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/spaitial/go-to-market-associate-enterprise-ai-london-3280",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b7346f5cefdfba88",
+      "title": "Data Governance Project Manager",
+      "company": "Decathlontechnology",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Nord",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Notre équipe Data Governance recherche un·e Data Governance Project Manager basé·e à Lille Chez Decathlon, nous croyons au pouvoir du sport pour unir et inspirer. Notre mission : rendre le sport accessible au plus grand nombre, partout dans le monde. Pour y pa…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/data-governance-project-manager-paris-paris-villeneuve-dascq-nord-186679",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f6d5c3729c90fc9d",
+      "title": "Ingénieur.e de recherche (H/F) - CDD 12 mois",
+      "company": "Institut Mines-Télécom",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Albi",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sports",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ENVIRONNEMENT DU POSTE : École du ministère en charge de l'industrie, IMT Mines Albi est une école de l’Institut Mines- Télécom, 1er groupe d’écoles d’ingénieurs et de management de France. À l'avant-garde des enjeux industriels et académiques sur la scène int…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/ingenieure-de-recherche-h-f-cdd-12-mois-albi-428913",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b8ff0548712a194a",
+      "title": "Senior Android Engineer",
+      "company": "Talk360",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": "Netherlands",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Challenge More than 75% of Talk360's users are on Android. Every release you ship reaches hundreds of thousands of people across more than 190 countries - migrants calling home, travellers managing emergencies, families staying connected across borders. Fo…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/talk360/senior-android-engineer-amsterdam-1452",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d322464ddb233661",
+      "title": "Senior Finance Administrator",
+      "company": "Dyflexis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "The Hague",
+        "region": null,
+        "country": "Netherlands",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-24",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bij Dyflexis helpen we wereldwijd miljoenen medewerkers met onze workforce management software. Van de bakker om de hoek tot internationale hotel- en retailketens. De software is krachtig, de vragen van klanten zijn divers, en geen dag is hetzelfde. Je leert h…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/dyflexis/senior-finance-administrator-the-hague-403368",
       "source": "Arbeitnow"
     },
     {
