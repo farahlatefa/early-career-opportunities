@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-26T01:12:21.571419+00:00",
+    "lastUpdated": "2026-10-26T06:16:26.799903+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,822 @@
     ]
   },
   "jobs": [
+    {
+      "id": "82d27b40ce259a62",
+      "title": "Game Data Analyst (f/m/d)",
+      "company": "Kolibrigames",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We are Kolibri Games - a mobile games developer from Berlin. We believe that with the best people, we can make games that players will enjoy for years to come. Our games have defined the idle genre, and bring enjoyment to hundreds of millions of players all ar…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/kolibrigames/game-data-analyst-berlin-germany-278007",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "87deaec918823e51",
+      "title": "Junior Data Scientist & Marketing Effectiveness - Jan-March 2027 Start date",
+      "company": "Ekimetrics",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "London – Junior Consultant, Data Science & Marketing Effectiveness Multiple Start Dates available for Jan-March 2027 Start date £40,500 + Bonus + benefits. Ekimetrics is a leader in Marketing Effectiveness, Data Science and AI-powered solutions. We are one of …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ekimetrics/junior-data-scientist-marketing-effectiveness-jan-march-2027-start-date-london-325997",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3ebb78caff901764",
+      "title": "Senior Business Analyst (contractor), London",
+      "company": "ION Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What are we trying to do? Lab49 was founded in 2002 with a deep pool of business and technology talent and a global reach. We specialize in helping clients realize rapid transformational change at an industrial scale and operate historically towards the upper …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ion-group/senior-business-analyst-contractor-london-203217",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d0bae31cd9977f5f",
+      "title": "Forward Deployed Engineer - EMEA",
+      "company": "gitlab",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million re…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-forward-deployed-engineer-emea-133259",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "aea30901f2843e1d",
+      "title": "AI Architect",
+      "company": "shifttechnology",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Shift delivers AI agents that transform insurers' most critical work. By combining deep industry expertise and unmatched data resources, Shift provides proven results that have earned the trust of hundreds of the world's leading insurers. Our insurance-grade A…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/ai-architect-260070",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cc6dc4150b464d71",
+      "title": "Manager, Sales Development, SME & Growth",
+      "company": "Airwallex",
+      "employmentType": "Internship",
+      "location": {
+        "city": "FR - Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Procurement",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Airwallex Airwallex is the AI-native financial operating system for a real-time, intelligent economy. More than 675,000 businesses, including McLaren Racing, Qantas, SHEIN, and TikTok, use us, directly or through our platform partners, to run their finan…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/airwallex/manager-sales-development-sme-growth-paris-51929",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c539c8926a18745e",
+      "title": "Corporate Paralegal",
+      "company": "Alan",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Anywhere in France",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alan/corporate-paralegal-anywhere-in-france-249451",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "171231fb1cb5b4d6",
+      "title": "Brand Event Manager",
+      "company": "Alan",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alan/brand-event-manager-paris-france-343369",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "36e69bf81e3e3089",
+      "title": "🌐 Security & Legal Specialist - Customer Care",
+      "company": "Alan",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Anywhere in France",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alan/security-legal-specialist-customer-care-anywhere-in-france-255516",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e797ec175618ab40",
+      "title": "Risk & Internal Control",
+      "company": "Alan",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alan/risk-internal-control-paris-france-329054",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "860e0e94e24d4d8c",
+      "title": "Insurance Legal Counsel",
+      "company": "Alan",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Anywhere in France",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": "internal bodies and regulators"
+      },
+      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alan/insurance-legal-counsel-anywhere-in-france-81635",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e157e986b7d4157f",
+      "title": "CTO Founder Associate - internship",
+      "company": "Alan",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alan/cto-founder-associate-internship-paris-france-374798",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5c5e2e9998b8e22c",
+      "title": "Talent Acquisition Manager",
+      "company": "Doctrine",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Notre mission ⚖️ Chez Doctrine, nous construisons le leader de l’IA juridique en Europe. Notre conviction ? Le droit ne doit pas être ralenti par des tâches répétitives. Il doit être augmenté par une IA spécialisée, conçue pour comprendre, analyser et produire…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctrine/talent-acquisition-manager-paris-64118",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a7388e18e2c3fd96",
+      "title": "Experienced/Senior Machine Learning Engineer - Squad Distribute",
+      "company": "Doctrine",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Mission ⚖️ At Doctrine, we're building Europe's leading legal AI platform. Our belief? Law shouldn't be slowed down by repetitive tasks. It should be augmented by a specialised AI, designed to understand, analyse and produce legal reasoning at the highest …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctrine/experienced-senior-machine-learning-engineer-squad-distribute-paris-471843",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0571c6cf72dfb079",
+      "title": "Experienced/Senior Fullstack Engineer - Squad Scribe",
+      "company": "Doctrine",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Mission ⚖️ At Doctrine, we're building Europe's leading legal AI platform. Our belief? Law shouldn't be slowed down by repetitive tasks. It should be augmented by a specialised AI, designed to understand, analyse and produce legal reasoning at the highest …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctrine/experienced-senior-fullstack-engineer-squad-scribe-paris-127612",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "84fb1f03f87905de",
+      "title": "Experienced / senior Fullstack Engineer (Platform squad)",
+      "company": "Doctrine",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Notre mission ⚖️ Chez Doctrine, nous construisons le leader de l’IA juridique en Europe. Notre conviction ? Le droit ne doit pas être ralenti par des tâches répétitives. Il doit être augmenté par une IA spécialisée, conçue pour comprendre, analyser et produire…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctrine/experienced-senior-fullstack-engineer-platform-squad-paris-354815",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a354372a9cd17720",
+      "title": "Engineering Manager - Productivity",
+      "company": "Doctrine",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Notre mission ⚖️ Chez Doctrine, nous construisons le leader de l’IA juridique en Europe. Notre conviction ? Le droit ne doit pas être ralenti par des tâches répétitives. Il doit être augmenté par une IA spécialisée, conçue pour comprendre, analyser et produire…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctrine/engineering-manager-productivity-paris-106100",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dfadf63f9a495b63",
+      "title": "Confirmed Machine Learning Engineer (Productivity)",
+      "company": "Doctrine",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Notre mission ⚖️ Chez Doctrine, nous construisons le leader de l’IA juridique en Europe. Notre conviction ? Le droit ne doit pas être ralenti par des tâches répétitives. Il doit être augmenté par une IA spécialisée, conçue pour comprendre, analyser et produire…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctrine/confirmed-machine-learning-engineer-productivity-paris-282873",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7440ba84c69187de",
+      "title": "Confirmed Fullstack Engineer (Platform squad)",
+      "company": "Doctrine",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Notre mission ⚖️ Chez Doctrine, nous construisons le leader de l’IA juridique en Europe. Notre conviction ? Le droit ne doit pas être ralenti par des tâches répétitives. Il doit être augmenté par une IA spécialisée, conçue pour comprendre, analyser et produire…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctrine/confirmed-fullstack-engineer-platform-squad-paris-432475",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a5ade05caa386301",
+      "title": "Account Executive Italy",
+      "company": "Doctrine",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Notre mission ⚖️ Chez Doctrine, nous construisons le leader de l’IA juridique en Europe. Notre conviction ? Le droit ne doit pas être ralenti par des tâches répétitives. Il doit être augmenté par une IA spécialisée, conçue pour comprendre, analyser et produire…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctrine/account-executive-italy-paris-442664",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "821dc39202696661",
+      "title": "Account Executive - Avocats individuels",
+      "company": "Doctrine",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Notre mission ⚖️ Chez Doctrine, nous construisons le leader de l’IA juridique en Europe. Notre conviction ? Le droit ne doit pas être ralenti par des tâches répétitives. Il doit être augmenté par une IA spécialisée, conçue pour comprendre, analyser et produire…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctrine/account-executive-avocats-individuels-paris-386249",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4fbb262dbc640594",
+      "title": "Product Manager",
+      "company": "360Learning",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Remote",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Product team comprises Group Product Managers and Product Managers. Within a Product Squad, the Product Manager works with a Product Designer and 4 to 6 Software Engineers on an ambitious roadmap. Product Managers are committed to maintaining our lead in C…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-product-manager-140298",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c89d031210b45e7d",
+      "title": "Stage IA/ML Engineer 100% R&D - agentic AI",
+      "company": "Ekimetrics",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "INTERNSHIP Agentic AI for Semi-Automating the Data Science Workflow Ekimetrics is the European leader in data science, with over 500 data scientists and 1,000+ projects since 2006. With offices in Paris, London, New York, and Hong Kong, we conduct projects in …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/ekimetrics/stage-ia-ml-engineer-100-rd-agentic-ai-paris-36354",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d87c378364cfb11b",
+      "title": "Stage de 6 mois UX/UI Designer (H/F/N) – PARIS",
+      "company": "Ekimetrics",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Les entreprises qui performent décident mieux. Depuis 2006, Ekimetrics aide les organisations à transformer leurs décisions en avantage concurrentiel durable grâce à des solutions d’IA. Notre double ambition est d’allier performance et durabilité, pour constru…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/ekimetrics/stage-de-6-mois-ux-ui-designer-paris-295393",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "00eef137701733c2",
+      "title": "Stage 2027 AI/ML Engineer 100% R&D - Tabular foundation models",
+      "company": "Ekimetrics",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Latent Reasoning for Tabular Foundation Models: Performance Enhancement and Interpretability Ekimetrics is the European leader in data science, with over 500 data scientists and 1,000+ projects since 2006. With offices in Paris, London, New York, and Hong Kong…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/ekimetrics/stage-2027-ai-ml-engineer-100-rd-tabular-foundation-models-paris-30536",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "06a35d301d3a6b0e",
+      "title": "Senior Operations Manager (H/F)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Moissy-Cramayel",
+        "region": null,
+        "country": "Seine-et-Marne",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "En bref En tant qu'Operations Manager chez Picnic, tu es le lien entre nos opérations et notre stratégie. Grâce à tes compétences de leader et à ton esprit analytique, tu amènes notre modèle logistique innovant au niveau supérieur ! Avec un statut Cadre et rat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/teampicnic/senior-operations-manager-h-f-moissy-cramayel-seine-et-marne-92260",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "30ad7a6b5d7280f8",
+      "title": "Senior QA Engineer (f/m/d)",
+      "company": "idnow",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Rennes",
+        "region": null,
+        "country": "Ille-et-Vilaine",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "IDnow is a leader in digital identity and fraud prevention in Europe with a mission to transform trust into the most powerful asset in the digital world, empowering enterprises with AI-driven, SaaS-based identity solutions that deliver scalable security, adapt…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/idnow/senior-qa-engineer-rennes-ille-et-vilaine-449682",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "af2adaa1eab39bb0",
+      "title": "Product ML Engineer",
+      "company": "Photoroom",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About us Founded in 2019 and part of Y Combinator's 2020 cohort, Photoroom is the leading visual solution for e-commerce. We've raised Series B funding and reached 300+ million users worldwide, processing over 5 billion images annually and serving both small b…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/photoroom/product-ml-engineer-paris-429492",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1d62407abf541700",
+      "title": "Product Manager, Editing Foundations",
+      "company": "Photoroom",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About us Founded in 2019 and part of Y Combinator's 2020 cohort, Photoroom is the leading visual solution for e-commerce. We've raised Series B funding and reached 300+ million users worldwide, processing over 5 billion images annually and serving both small b…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/photoroom/product-manager-editing-foundations-paris-361319",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7d528fd25f900606",
+      "title": "Senior Product Analyst",
+      "company": "Photoroom",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-26",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About us Founded in 2019 and part of Y Combinator's 2020 cohort, Photoroom is the leading visual solution for e-commerce. We've raised Series B funding and reached 300+ million users worldwide, processing over 5 billion images annually and serving both small b…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/photoroom/senior-product-analyst-paris-313933",
+      "source": "Arbeitnow"
+    },
     {
       "id": "b25f20dd0c9d824a",
       "title": "Intern/ Working Student Influencer & Performance Marketing – Dutch Market (m/f/d)",
