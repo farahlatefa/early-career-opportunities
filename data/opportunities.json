@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-26T23:55:00.517859+00:00",
+    "lastUpdated": "2026-10-27T05:08:14.675335+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,888 @@
     ]
   },
   "jobs": [
+    {
+      "id": "1b4a0abf20b5e9c6",
+      "title": "Leitung Physiotherapie (m/w/d)",
+      "company": "PraxisEins",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany | Migräne- und Kopfschmerzklinik Königstein",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Leitung Physiotherapie | Schmerztherapie (m/w/d) Mehr als ein Job. Eine Aufgabe mit Sinn – und mit Verantwortung. Die Migräne- und Kopfschmerzklinik Königstein ist Deutschlands älteste spezialisierte Klinik für Migräne und Kopfschmerzen. Seit 1977 behandeln wi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/praxiseins/leitung-physiotherapie-germany-migrane-und-kopfschmerzklinik-konigstein-26625",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cdc362f2dbea55c5",
+      "title": "Physiotherapeut (m/w/d)",
+      "company": "PraxisEins",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany | Migräne- und Kopfschmerzklinik Königstein",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Physiotherapeut (m/w/d) Mehr als ein Job. Eine Aufgabe mit Sinn. Die Migräne- und Kopfschmerzklinik Königstein ist Deutschlands älteste spezialisierte Klinik für Migräne und Kopfschmerzen. Seit 1977 behandeln wir Patientinnen und Patienten interdisziplinär – a…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/praxiseins/physiotherapeut-germany-migrane-und-kopfschmerzklinik-konigstein-155057",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0c752002f528114f",
+      "title": "Research Software Engineering Intern (f/m/d)",
+      "company": "Quantumdiamonds",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich HQ",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Description QuantumDiamonds is building the world’s first commercial quantum sensing tools for chip failure analysis. As our Research Software Engineering Intern in Pre-Development, you bring our measurement software together. A measurement protocol is the rec…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/quantumdiamonds/research-software-engineering-intern-munich-222265",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b238f4ef548f914a",
+      "title": "Lab Technican (f/m/d)",
+      "company": "Quantumdiamonds",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich HQ",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Description QuantumDiamonds is building the world's first commercial quantum sensing tools for chip failure analysis. Our labs are where new ideas are turned into working quantum sensing systems — and you are the person who keeps those systems running. As our …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/quantumdiamonds/lab-technican-munich-266312",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "853e209f9bf08f8c",
+      "title": "Test Engineer (f/m/d)",
+      "company": "Think Cell",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About us thinkcell provides graphics software that performs most of the painstaking work of creating data-driven slides for professional Excel and PowerPoint users. The testing department makes sure that new features are technically sound and work reliably for…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/think-cell/test-engineer-70162",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f2863837fee2ac85",
+      "title": "Sales Manager DACH Region (m/f/d)",
+      "company": "Cornelsen Umwelttechnologie GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Essen",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Sales Manager DACH Region (m/f/d) Location: Remote / Essen Start: ASAP The Company For more than 20 years, the Cornelsen Group has stood for advanced solutions in water treatment and environmental remediation. Headquartered in Essen, Germany, and operating int…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cornelsen-umwelttechnologie-gmbh/sales-manager-dach-region-essen-175620",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "421b12eb17172a7c",
+      "title": "Senior Financial Crime Investigator, Out of hours, Business Banking",
+      "company": "Monzo",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🚀 We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-financial-crime-investigator-out-of-hours-business-banking-179422",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f70cf4451a0b295f",
+      "title": "Senior Financial Crime Investigator, Business Banking",
+      "company": "Monzo",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🚀 We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-financial-crime-investigator-business-banking-216863",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "03bbda08ef460f64",
+      "title": "Talent Sourcer",
+      "company": "Kraken",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Building the Future of Open Finance Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure pl…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/kraken/talent-sourcer-london-232533",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d9d102d983dc4c1c",
+      "title": "Social Media & Content Manager",
+      "company": "Zilch",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zilch UK",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are: We're one of Europe's fastest-growing fintech companies – on a mission to create the world's most empowering way to pay. We launched the product in 2020 and achieved double unicorn status, valued at $2 billion, and since then have taken on more tha…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/zilch/social-media-content-manager-london-100707",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1ebf68d97b2204ff",
+      "title": "Production Support Engineer II - UK",
+      "company": "Marqeta Inc",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London Office",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": "see that dedication in action"
+      },
+      "summary": "As a Production Support Engineer II at Marqeta, you will play a pivotal role in our commitment to customer satisfaction and the seamless operation of our products and services. You will serve as the first line of contact for our customers, adeptly handling and…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/marqeta-inc/production-support-engineer-ii-uk-london-60427",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5bb044decf5958ba",
+      "title": "Sales Operations Analyst",
+      "company": "Metaview",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Metaview is an AI company focused on recruiting. We build AI agents that help world-class companies hire with radically more speed and precision. We automate the toil, and augment the human for companies like Brex, Affirm, Deel, and Navan. Founded by Siadhal a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/metaview/sales-operations-analyst-london-114581",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "46354a9b32f09753",
+      "title": "General Application",
+      "company": "Skin Analytics",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London hybrid (3 days in office)",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Want to join a team of passionate people who want to build a future where no one dies from skin cancer? 👋 About us Skin Analytics is an award-winning, health tech company that deploys world-leading skin cancer pathways using AI as a medical device, DERM. Follo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/skin-analytics/general-application-london-104561",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ecfaf71c4e12317f",
+      "title": "Site Reliability Engineer - Storage",
+      "company": "Proton",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Geneva",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join Proton and build a better internet where privacy is the default Proton was founded in 2014 by scientists from CERN on a simple truth: privacy is a fundamental human right . Since then, we've built the world's largest encrypted email service (Proton Mail) …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/proton/site-reliability-engineer-storage-geneva-switzerland-paris-348402",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f6e52d7ba5b50465",
+      "title": "Senior Engineering Manager",
+      "company": "Proton",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Geneva",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join Proton and build a better internet where privacy is the default Proton was founded in 2014 by scientists from CERN on a simple truth: privacy is a fundamental human right . Since then, we’ve built the world’s largest encrypted email service (Proton Mail) …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/proton/senior-engineering-manager-geneva-switzerland-paris-112049",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f40e9c79bc5c2426",
+      "title": "Customer Care Team Lead",
+      "company": "Lucis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Making preventive health the default for every human in Europe The mission At Lucis , we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more ab…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/customer-care-team-lead-paris-18732",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3fb6dc2ecbbcd5a3",
+      "title": "Customer Care Specialist",
+      "company": "Lucis",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Making preventive health the default for every human in Europe The mission At Lucis , we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more ab…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/customer-care-specialist-paris-241319",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f3829e4f78422a8c",
+      "title": "Data Manager",
+      "company": "DeepHealth",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": "work regularly as scheduled"
+      },
+      "summary": "Company Overview DeepHealth, a RadNet company, is focused on delivering AI-powered solutions that improve population health, optimize radiology workflows, and drive earlier detection of disease. Our portfolio spans breast, lung, brain, prostate, and thyroid im…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/deephealth/data-manager-paris-352177",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c5cf739d1ac50acb",
+      "title": "Customs AI Integration & Automation Engineer (France)",
+      "company": "Customs Support Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Customs Support Group Customs Support Group (CSG) is the European market leader in customs services, operating across 15 countries. CSG is owned by private equity and a fast-growing, dynamic, data-driven company, dedicated to expanding its presence throu…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/customs-support-group/remote-customs-ai-integration-automation-engineer-france-lyon-474730",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dc92f961eb18ea80",
+      "title": "Instruments Manufacturing Engineer",
+      "company": "Distalmotion",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Épalinges",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "As an Instruments Manufacturing Engineer, you will play a key role across the full product lifecycle of surgical instruments, from setting up new assembly lines to driving continuous improvement once production is up and running. You will make sure every produ…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/distalmotion/instruments-manufacturing-engineer-epalinges-334379",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "010c8cf0aad5233a",
+      "title": "Medior Software Engineer",
+      "company": "BAS Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Veghel",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Procurement",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ben jij een Software Engineer die graag zelfstandig bouwt aan slimme, schaalbare software? Wil je technische uitdagingen oplossen, meedenken over nieuwe functionaliteiten en jezelf blijven ontwikkelen binnen een ervaren productteam? Dan is deze functie bij BAS…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/bas-group/medior-software-engineer-veghel-165934",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2dfcd83439271183",
+      "title": "Meewerkstage Marketing Foto & Video Editor",
+      "company": "BAS Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Veghel",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wil jij je verder ontwikkelen als editor en fotograaf, met echte opdrachten en een eigen rol in het team? Zoek jij een stage vanaf januari/ februari 2027 ? Dan is deze stage iets voor jou. Binnen BAS Group komen verschillende gespecialiseerde bedrijven samen, …",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/bas-group/meewerkstage-marketing-foto-video-editor-veghel-192598",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e64d8bff786d4424",
+      "title": "Senior Software Engineer",
+      "company": "BAS Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Veghel",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Procurement",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ben jij een ervaren Software Engineer die graag complexe technische uitdagingen oplost en collega’s helpt om beter te worden? Wil je meebouwen aan schaalbare software, technische keuzes maken en direct invloed hebben op de ontwikkeling van digitale producten? …",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/bas-group/senior-software-engineer-veghel-94378",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d167ff09e621ec7b",
+      "title": "Meewerkstage HR",
+      "company": "BAS Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Veghel",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ben jij op zoek naar een uitdagende stage vanaf januari/ februari 2027 waarin je echt impact maakt? Bij BAS kun je kiezen voor een stage met een organisatiebreed verbeterproject, een stage in recruitment, of een combinatie van beide. Zo stem je de stage af op …",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/bas-group/meewerkstage-hr-veghel-296925",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c86d85c22d4f1907",
+      "title": "Meewerk- en Afstudeerstage International Business",
+      "company": "BAS Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Veghel",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bij BAS, Europa’s grootste dealer in commerciële voertuigen én officieel Volvo en Renault Trucks dealer, krijg jij de kans om je te ontwikkelen binnen een écht internationale handelsomgeving. Ben jij op zoek naar een stage voor januari/ februari 2027 ? Dan is …",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/bas-group/meewerk-en-afstudeerstage-international-business-veghel-116036",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "33108685ff01b69d",
+      "title": "Meewerk- en Afstudeerstage Commerciële Economie",
+      "company": "BAS Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Veghel",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bij BAS, Europa’s grootste dealer in commerciële voertuigen én officieel Volvo en Renault Trucks dealer, heb jij de kans om je te ontwikkelen in de wereld van de Automotive branche. Ben jij op zoek naar een stage voor januari/ februari 2027 ? Dan is dit iets v…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/bas-group/meewerk-en-afstudeerstage-commerciele-economie-veghel-120048",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0fe8a0e0faeebcd5",
+      "title": "Meewerk- en Afstudeerstage Finance",
+      "company": "BAS Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Veghel",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ben jij goed met cijfers en ben jij op zoek naar een stage vanaf januari/ februari 2027 ? Kies dan voor een meewerk- of afstudeerstage Finance bij BAS! Neem een kijkje achter de schermen en ervaar hoe het er dagelijks aan toe gaat bij een internationaal, maar …",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/bas-group/meewerk-en-afstudeerstage-finance-veghel-78692",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7ea47272900c2292",
+      "title": "Meewerkstage Marketing",
+      "company": "BAS Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Veghel",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ben jij creatief met woorden en goed met Social Media? En ben jij op zoek naar een stage vanaf januari/ februari 2027 ? Dan is een meewerkstage op de Marketing afdeling bij BAS iets voor jou! Neem een kijkje achter de schermen en ervaar hoe het er dagelijks aa…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/bas-group/meewerkstage-marketing-veghel-48949",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ec1d53bd7fe5a3db",
+      "title": "Meewerkstage E-Commerce",
+      "company": "BAS Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Veghel",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Heb jij een passie voor online marketing? Wil jij dé expert worden in het behalen van betere resultaten met SEO en SEA en zoek je een stage vanaf januari/ februari 2027 ? Dan is een meewerkstage op de BAS World E-commerce afdeling bij BAS iets voor jou! Neem e…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/bas-group/meewerkstage-e-commerce-veghel-290077",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "767c35dba90cf169",
+      "title": "Meewerk- en Afstudeerstage Bedrijfskunde",
+      "company": "BAS Group",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Veghel",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bij BAS, Europa’s grootste dealer in commerciële voertuigen én officieel Volvo en Renault Trucks dealer, heb jij de kans om je te ontwikkelen in de bedrijfskundige én Automotive branche. Ben jij op zoek naar een stage voor januari/ februari 2027 ? Dan is dit i…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/bas-group/meewerk-en-afstudeerstage-bedrijfskunde-veghel-449063",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2f71f2228e3d0cf6",
+      "title": "Web & Mobile Full Stack Developer",
+      "company": "Learned",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Utrecht",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The mission Help build fair, engaged and high-performing teams. We believe everyone deserves a fair opportunity to develop and be rewarded for the value they bring. That’s why we build software that helps organizations set clear expectations, define what a rol…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/learned/web-mobile-full-stack-developer-utrecht-168136",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6e9a5efbe93c03ee",
+      "title": "Full Stack Developer",
+      "company": "Learned",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Utrecht",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The mission Help build fair, engaged and high-performing teams. We believe everyone deserves a fair opportunity to develop and be rewarded for the value they bring. That's why we build software that helps organizations set clear expectations, define what a rol…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/learned/full-stack-developer-utrecht-236079",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "02cf599a2c614572",
+      "title": "Mission Critical Security Engineer – Threat Hunting",
+      "company": "Schubergphilis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Schiphol-Rijk",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Help protect what truly matters in our customers' most critical environments by proactively identifying threats and improving how they are detected and addressed. As a Mission Critical Security Engineer with a focus on Threat Hunting, you will be part of a ded…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/schubergphilis/mission-critical-security-engineer-threat-hunting-schiphol-rijk-484413",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e0ba9432bbf147bc",
+      "title": "Junior Product Manager – IT Fulfillment",
+      "company": "Suitsupply",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Every order a Suitsupply customer places, online, in a store, or through customer service, has to be captured, understood and carried all the way through to delivery or return. As Junior Product Manager for IT Fulfillment, you will help build and improve the s…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/suitsupply/junior-product-manager-it-fulfillment-amsterdam-209861",
+      "source": "Arbeitnow"
+    },
     {
       "id": "82d27b40ce259a62",
       "title": "Game Data Analyst (f/m/d)",
