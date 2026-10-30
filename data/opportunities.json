@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-30T01:01:40.969937+00:00",
+    "lastUpdated": "2026-10-30T07:08:30.885615+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,1231 @@
     ]
   },
   "jobs": [
+    {
+      "id": "c4f98a178ba3e9d2",
+      "title": "Career Coach (all genders)",
+      "company": "Stackfuel",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote - Germany",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Jobbeschreibung Als Career Coach begleitest Du unsere Lernenden auf dem entscheidendsten Abschnitt ihres Weges: dem Sprung in den neuen Job. Mit gezieltem Bewerbungscoaching, individueller Karriereberatung und einer klaren Portion Motivation machst Du aus Unsi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/stackfuel/career-coach-all-genders-berlin-470508",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c45904229511e250",
+      "title": "Forward Deployed Engineer",
+      "company": "Sanovio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Healthcare",
+        "Procurement",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About SANOVIO SANOVIO makes buying and selling medical supplies easier. On our AI platform, hospitals, purchasing groups and suppliers work together in one place instead of juggling emails, Excel lists and disconnected systems. Hospitals can buy together, and …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sanovio/forward-deployed-engineer-munich-229410",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "831aab738b553596",
+      "title": "Working student SAP CoC  (m/f/d)",
+      "company": "SGB-SMIT Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Regensburg",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Supply Chain",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Transform with us the future of energy ⚡ The SGB‑SMIT Group is an international transformer manufacturer with locations in Europe, Asia and America. With reliable transformer technology, the company actively supports the global energy transition in areas such …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sgb-smit-group/working-student-sap-coc-regensburg-170877",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "db4e1d179a09ee2a",
+      "title": "Mitarbeiter / Leiter (w|m|d) interne Qualitätssicherung Wirtschaftsprüfung – Vollzeit oder Teilzeit",
+      "company": "DOMUS Consult Wirtschaftsberatungsgesellschaft mbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Dresden",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Der Verband Sächsischer Wohnungsgenossenschaften e. V. (VSWG) ist gesetzlicher Prüfungsverband sowie Fach- und Interessenverband der sächsischen Wohnungsgenossenschaften. In den Bereichen Prüfung, Beratung, Weiterbildung und Interessenvertretung begleitet der …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/domus-consult-wirtschaftsberatungsgesellschaft-mbh/mitarbeiter-leiter-wmd-interne-qualitatssicherung-wirtschaftsprufung-vollzeit-oder-teilzeit-dresden-5711",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "96ef32e38d757f17",
+      "title": "UAV Engineer Working Student (All Genders)",
+      "company": "Skdse",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Ohrdruf",
+        "region": null,
+        "country": "Thuringia",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Stark, we forge the future of European and national security through cutting-edge, AI-driven technology and unmatched engineering precision. As a premier defence technology company, our mission is clear: to equip NATO Allies and their partners with next-gen…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skdse/uav-engineer-working-student-all-genders-ohrdruf-thuringia-160341",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "de57d09a8914c71f",
+      "title": "Solutions Architect - Digital Natives and Startups",
+      "company": "databricks",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin; Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "FEQ128R103 Look at all the apps you have on your mobile. Many of these are built by customers that are within our Digital Natives and Startup patch and are using Databricks to support their business. We aim to inspire our customers to make informed decisions t…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/databricks/solutions-architect-digital-natives-and-startups-berlin-munich-191510",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "67f49ff06d87d7f9",
+      "title": "Senior IT Engineer",
+      "company": "typeform",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Procurement",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/typeform/senior-it-engineer-195018",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3e424e6401a5b388",
+      "title": "Recruitment Partner",
+      "company": "Hirehire",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are hirehire agency is built around deep product and design expertise. Our expert network is made up of senior designers and PMs who have worked at companies like Intercom, Stripe, Revolut, and others. They interview and evaluate like practitioners – be…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-recruitment-partner-467351",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "38da1c2d06210aaa",
+      "title": "Brand Designer",
+      "company": "Black Forest Labs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Freiburg (Germany)",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "This role can be office-based in Freiburg (Germany) / San Francisco (USA) or hybrid with a requirement to be in one of the offices one full week per month. About Black Forest Labs We’re the team building the foundational layer for visual intelligence: multimod…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/black-forest-labs/brand-designer-freiburg-48693",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "14e787db66cae95b",
+      "title": "AIT Electrical/Harness Technician",
+      "company": "The Exploration Company",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. We are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that can eventually be refueled in orbit, and which carries cargo - and potentially humans …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/ait-electrical-harness-technician-munich-103398",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "72317e3a5ca535f8",
+      "title": "Contract manager",
+      "company": "The Exploration Company",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Policy / Government",
+        "Procurement",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. The Exploration Company builds complex space systems under contracts with government and institutional customers. Programs of this kind evolve: requirements change, design maturity impr…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/contract-manager-munich-315493",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "accb17b6cae61ed2",
+      "title": "Nyx PMO",
+      "company": "The Exploration Company",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Italy",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. As we continue to develop the Nyx vehicle and prepare its future missions, strong program coordination is essential. We are looking for a motivated and structured Nyx PMO to support the…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/nyx-pmo-munich-germany-bordeaux-france-or-turin-italy-181718",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8bbb94ccdebd63d5",
+      "title": "Growth Account Executive, EMEA",
+      "company": "Telnyx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Telnyx Telnyx is an industry leader that's not just imagining the future of global connectivity—we're building it. From architecting and amplifying the reach of a private, global, multi-cloud IP network , to bringing hyperlocal edge technology right to y…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/telnyx/growth-account-executive-emea-london-225137",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "53f15717f548f7c5",
+      "title": "Senior Backend Engineer - Introducer Tech",
+      "company": "iwoca",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Humanitarian / NGO",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Senior Backend Engineer - Introducer Tech - DE Hybrid in London / Remote within the UK We’re looking for a Senior Backend Engineer You'll own the Lending API in Germany, which banks, fintechs, brokers, and comparison sites build on to offer iwoca's finance to …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/senior-backend-engineer-introducer-tech-london-99893",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "00fad7d5e538651a",
+      "title": "Senior Full-Stack Engineer - Credit Cards",
+      "company": "iwoca",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Senior Full-Stack Engineer - Credit Cards Hybrid in London, United Kingdom We’re looking for a Senior Full-Stack Engineer. You’ll build features on iwoca’s business credit card and own each one from the first line of code to the moment a customer makes their f…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/senior-full-stack-engineer-credit-cards-london-454522",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fdbbca8cb9d8846c",
+      "title": "Senior Planner - Suffolk - Bury St Edmunds",
+      "company": "Cmr.london",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Suffolk",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🌟 Position: Senior Planner🌟 📍 Location: Bury St Edmunds, Suffolk - 2 days/week, 3 days home 💼 Type: Full-time 📅 Start Date: Immediate 💰 Salary: Competitive We are currently seeking an experienced Senior Planner to join our dynamic award winning team . The succ…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cmrlondon/senior-planner-suffolk-bury-st-edmunds-158514",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3241f4a6b289edef",
+      "title": "Senior IT Engineer",
+      "company": "typeform",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Procurement",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/typeform/senior-it-engineer-197482",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c7300168af5c0425",
+      "title": "Senior BI Analytics Engineer",
+      "company": "Carwow",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "OUR MISSION To become the car-changing destination of choice. By combining technology, media and deep automotive expertise, we've turned how people buy, sell, advertise and lease cars on its head. What started as a simple reviews site is now one of the largest…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/carwow/senior-bi-analytics-engineer-london-297437",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a90c1747720b6998",
+      "title": "Sales Engineer (EMEA)",
+      "company": "Constructor",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Constructor.io powers product search and discovery for some of the largest retailers in the world. We serve billions of requests every week, and you've probably seen our results somewhere and used our product without knowing it. We differentiate ourse…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-sales-engineer-emea-473220",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fe33d570d86e2ef7",
+      "title": "Marketing & Events Coordinator",
+      "company": "Handshake",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "UK",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Handshake Handshake was founded on a simple belief that everyone deserves a path to a great career, regardless of where they went to school or who they know. Today, we power 25 million job seekers, 1 million+ employers, and 1,600 educational institutions…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/handshake/marketing-events-coordinator-london-121049",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1119a341f12d650f",
+      "title": "SQL Developer – AI Prompting & Context Engineering",
+      "company": "Bromcom Computers Plc",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": "Software Manager, combining practical AI skills with strong SQL expertise to deliver reliable, effic"
+      },
+      "summary": "This is a dual role, split between approximately 60% AI-assisted development and agent orchestration, and 40% SQL Server development supporting large-scale data migration. You’ll work within the development team and report to the Software Manager, combining pr…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-sql-developer-ai-prompting-context-engineering-bromley-268635",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a4169520bfdb4985",
+      "title": "Research Engineer Intern (Multimodal LLM)",
+      "company": "Tether Operations Limited",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamless…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-research-engineer-intern-multimodal-llm-united-kindom-376995",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7cab0c0812d036a8",
+      "title": "AI Research Engineer (Model Compression & Quantization)",
+      "company": "Tether Operations Limited",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamless…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-ai-research-engineer-model-compression-quantization-united-kindom-225892",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1b036598fe95641d",
+      "title": "AI Research Engineer (Model Compression & Quantization)",
+      "company": "Tether Operations Limited",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamless…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-ai-research-engineer-model-compression-quantization-london-40920",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "671ca71735d176ca",
+      "title": "CDI -  Consultant(e) Senior SEO H/F",
+      "company": "PIXALIONE",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Pixalione est une agence digitale spécialisée en SEO et marketing digital, accompagnant des clients de tous secteurs, de PME aux groupes du CAC40, en France et à l’international. Nous misons sur l’expertise, l’innovation et le travail collaboratif pour booster…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/pixalione/cdi-consultante-senior-seo-h-f-paris-104887",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "71d4bad7651387fe",
+      "title": "Chef de projet Activation B2B (H/F/X) - France (Paris)",
+      "company": "Sunday Natural",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Healthcare",
+        "International Development",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Votre Rôle Au sein de l'équipe B2B France, vous contribuez au développement et à l’engagement de notre réseau de professionnels de santé en construisant et pilotant des activations B2B adaptées aux besoins du marché français. Vous travaillez en étroite collabo…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/sunday-natural/chef-de-projet-activation-b2b-france-paris-379279",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ccea74576d828a83",
+      "title": "Post-doctorat en métasurfaces et optique visuelle",
+      "company": "Institut Mines-Télécom",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Brest",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Grande école d’ingénieur généraliste de l’IMT-Institut Mines-Télécom, premier groupe d’écoles d’ingénieurs de France, IMT Atlantique a pour ambition d’accompagner les transitions, de former des ingénieurs responsables et mettre l'excellence scientifique et tec…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorat-en-metasurfaces-et-optique-visuelle-brest-402809",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "12c3f84e38972b64",
+      "title": "Research Engineer, Content Understanding",
+      "company": "Exa",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Exa is an applied AI lab building a search engine unlike the world has ever seen. We build massive-scale infra to crawl the entire web, train state-of-the-art embedding models to process it, and design super high performant vector databases to retrieve over it…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/exa/research-engineer-content-understanding-zurich-338885",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "079b2c5d4be6a489",
+      "title": "Software Engineer, Knowledge Engine – Query Engine",
+      "company": "Exa",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Exa is an applied AI lab building a search engine unlike the world has ever seen. We build massive-scale infra to crawl the entire web, train state-of-the-art embedding models to process it, and design super high performant vector databases to retrieve over it…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/exa/software-engineer-knowledge-engine-query-engine-zurich-49685",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "670dfa2284d64a37",
+      "title": "Supervisor Customer Service Team for Japan",
+      "company": "Kuoni Tumlare",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Kuoni Tumlare At Kuoni Tumlare, we deliver truly inspiring and innovative solutions and experiences that create value both for our Partners and Society at large. Our wide portfolio of products and solutions is built on 100+ years of destination managemen…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/kuoni-tumlare/supervisor-customer-service-team-for-japan-zurich-457989",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2632cf8d67a167c5",
+      "title": "ERP Product Owner",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bern",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir suchen eine erfahrene und praxisorientierte Persönlichkeit als ERP Application Owner, die die Verantwortung für eine geschäftskritische Microsoft Dynamics 365 Landschaft (FSCM & Business Central) in einem internationalen Industrieumfeld übernimmt. Diese Ro…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/erp-product-owner-bern-86828",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "859aeab48f194106",
+      "title": "IoT Embedded Systems Engineer",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bern",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Take ownership of the development of IoT systems, with a focus on embedded software, system architecture, and hardware and firmware integration Design and develop robust, efficient, and scalable embedded software for IoT products based on microcontroller platf…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/iot-embedded-systems-engineer-bern-438797",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5cac907b1c25dc28",
+      "title": "Dynamics 365 CRM Solution Architect",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our client is an international IT consulting company with a strong focus on Microsoft technologies. As a Microsoft implementation partner, the company delivers CRM projects based on Microsoft Dynamics 365 for well known clients across various industries. It co…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/dynamics-365-crm-solution-architect-zurich-494371",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f26ec74f84f56dc6",
+      "title": "IT Solution Architect",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bern",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you an IT architect who is equally comfortable designing a cloud architecture and getting hands-on to implement it? This might be for you. We are looking for an IT System Architect on behalf of our client, a leading Swiss manufacturing company based in Can…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/it-solution-architect-bern-237238",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f1134b057891a5c6",
+      "title": "Senior Business Analyst – Digital Pension Solutions",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Contract Duration: 1 October 2026 – 31 December 2027 Project Our client is looking for an experienced Senior Business Analyst / Business Engineer to support the further development of its digital pension portfolio, including solutions related to: Pillar 3a, Ve…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-business-analyst-digital-pension-solutions-zurich-77269",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d26840da946e5c1d",
+      "title": "ServiceNow AI Architect",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow AI Architects, Senior Consultants and professionals with experience in AI agents and customer-focused AI solutions to join their growing international team. Our c…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-ai-architect-zurich-341724",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d9e0373137271450",
+      "title": "ServiceNow CRM Architect",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow CRM Architects, Senior Consultants and CRM Specialists to join their growing international team. Our client is very well positioned within the ServiceNow ecosyste…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-crm-architect-zurich-281720",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "12d1d064fc9fedb4",
+      "title": "Senior Network Engineer",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our client is an established, family-owned industrial technology company headquartered near Zurich. Its systems run at customer sites in more than 60 countries. To keep them reachable and secure, it needs someone who can build and run the networks behind them,…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-network-engineer-zurich-381155",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6b3710ebc7898a1b",
+      "title": "Senior Java/Angular Engineer",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "For a renowned Swiss bank in Zurich, we are looking for an experienced Java/Angular engineer. In a newly built DevOps team you help develop the new platform for digital onboarding and product opening and run its services. Your tasks Build, develop and operate …",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-java-angular-engineer-zurich-267548",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2afb5529ff9a8ebd",
+      "title": "Business Engineer Banking Processes",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "For a renowned Swiss bank in Zurich, we are looking for an experienced business engineer in accounts and cards, trade finance or anti-money-laundering. You translate business requirements into specifications, support implementation and test the results. Your t…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/business-engineer-banking-processes-zurich-493698",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "406b4f609f557a88",
+      "title": "Business Analyst Processes and Data",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "For a renowned Swiss bank in Zurich, we are looking for an experienced business analyst. You analyse processes, data flows and systems in customer and contract management or in real estate management, and derive target pictures and decision bases from them. Yo…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/business-analyst-processes-and-data-zurich-44235",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "00f28d3689a9b57d",
+      "title": "Solution Architect",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "For a renowned Swiss bank in Zurich, we are looking for an experienced solution architect for new platforms in digital onboarding, sales and core banking. You ensure scalability, security and performance, and advise the business, product owners, development an…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/solution-architect-zurich-178775",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b2dfeaab89d2ff0b",
+      "title": "Senior Business Analyst – Pricing & Billing",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Senior Business Analyst – Pricing & Billing Contract Duration: 1 December 2026 – 31 December 2027 Project Our client is looking for an experienced Senior Business Analyst / Business Engineer to join its Business Engineering Pricing Services team. The focus of …",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-business-analyst-pricing-billing-zurich-253481",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2f2737dc644febdd",
+      "title": "Forward Deployed Engineer",
+      "company": "databricks",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "CSQ327R45 As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data & AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/databricks/forward-deployed-engineer-amsterdam-144415",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "719ecf3c155031cc",
+      "title": "Senior IT Engineer",
+      "company": "typeform",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Procurement",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million …",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/typeform/senior-it-engineer-391043",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1fc2287d586a17e8",
+      "title": "Service Desk Technician",
+      "company": "Mollie",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Build with us Since 2004, we've had one clear goal: to make payments and money management effortless for every business in Europe. Today, more than 250,000 companies use Mollie to get paid, manage money and grow – with products designed to be simple, scalable,…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/mollie/service-desk-technician-amsterdam-470017",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "487603405d0ff52b",
+      "title": "DevOps Engineer (100% remote)",
+      "company": "Tether Operations Limited",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-30",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamless…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/devops-engineer-100-remote-united-kindom-394367",
+      "source": "Arbeitnow"
+    },
     {
       "id": "95c1fdf6b7dcd91a",
       "title": "Junior Operations Specialist (w/m/d)",
