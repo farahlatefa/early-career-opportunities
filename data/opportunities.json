@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-29T20:19:24.366009+00:00",
+    "lastUpdated": "2026-10-30T01:01:40.969937+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -4904,8 +4904,8 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "afbb529d1ae15143",
-      "title": "HR Manager (m/w/d)",
+      "id": "6f5289b831b88b3e",
+      "title": "HR Business Partner (m/w/d)",
       "company": "PRIME HR Agentur®",
       "employmentType": "Internship",
       "location": {
@@ -5028,12 +5028,12 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "75261462ff90d11c",
+      "id": "ebceb1717f57791a",
       "title": "Fullstack Entwickler mit PHP-Backend – Symfony, RabbitMQ (m/w/d)",
       "company": "Rockstardevelopers GmbH",
       "employmentType": "Internship",
       "location": {
-        "city": "Stuttgart",
+        "city": "Berlin",
         "region": null,
         "country": null,
         "workMode": "Remote"
@@ -6349,6 +6349,1397 @@
       },
       "summary": "About Fractile Fractile was founded in 2022 on the bet that, eventually, the world’s most capable AI systems would be limited in their impact by the time taken to produce useful outputs. We bet everything on the logical conclusion: that the only way to truly u…",
       "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/fractile/product-yield-engineer-data-focused-london-jj-mack-294282",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0d4bc7d87dfae58a",
+      "title": "Senior Product Manager",
+      "company": "Shopfully",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We are the platform turning browsing into shopping . We connect 200 million shoppers with deals they love while boosting local sales for hundreds of top retailers and brands. We help consumers save time and money while making smart shopping decisions, and we s…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/shopfully/senior-product-manager-berlin-241845",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f77eb694ede9b1c3",
+      "title": "Product Owner - Pricing & Billing Engine (x/f/m)",
+      "company": "dkbcodefactory",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Welcome to DKB AG…. You are responsible for a backend product that translates business pricing and billing rules into reliable, traceable transactions and customer payouts . The Price & Billing Engine processes the data required to enable internal transactions…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/dkbcodefactory/product-owner-pricing-billing-engine-berlin-45362",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4c1e55baecb05779",
+      "title": "Senior IP Manager/ IP Professional (m/f/d)",
+      "company": "Agilerobotsse",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Bavaria",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": "General Counsel of Agile Robots Group"
+      },
+      "summary": "You will be responsible for managing the Agile Robots Group’s patent, trademark and design portfolio. Based in Munich, you will work across a group with production sites in Europe, the Americas and Asia. The portfolio comprises more than 1,700 files. You will …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-ip-manager-ip-professional-munich-bavaria-477163",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c88e309ee6a7408c",
+      "title": "Robotics Test Automation Engineer (m/f/d)",
+      "company": "Agilerobotsse",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Bavaria",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the Role You will develop software for system and regression testing of our robots, including test scripts, test tools, and automation solutions. Your core output will be high-quality, reusable test software that helps the team improve the efficiency, co…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/robotics-test-automation-engineer-munich-bavaria-152983",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e93cc564169a2873",
+      "title": "Product Engineer",
+      "company": "intercom",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Fin , now part of Salesforce, is on a mission to help businesses provide perfect customer experiences. Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support acros…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/intercom/product-engineer-berlin-196661",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d960f5eda1f7fda5",
+      "title": "Working Student Product Operations (m/f/d)",
+      "company": "appinio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Hamburg",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Allow us to introduce ourselves Hello there! We’re Appinio, a global market research company that combines an AI-powered insights platform with expert consultancy. On a mission to make the world a little more fact-based, we help companies understand how consum…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/appinio/working-student-product-operations-hamburg-hamburg-374820",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c9424e995f67baeb",
+      "title": "Working Student, SpaceOps",
+      "company": "planetlabs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Welcome to Planet. We believe in using space to help life on Earth. Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutiona…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/planetlabs/working-student-spaceops-berlin-364417",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "494b3747f8ddfe88",
+      "title": "Senior General Ledger Accountant / Bilanzbuchhalter (m/w/f)",
+      "company": "planetlabs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Welcome to Planet. We believe in using space to help life on Earth. Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutiona…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/planetlabs/senior-general-ledger-accountant-bilanzbuchhalter-berlin-332945",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2c4f3420dfa74459",
+      "title": "Senior Group Accountant & Consolidation Specialist (m/w/d)",
+      "company": "Sitsgroup",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Halle",
+        "region": null,
+        "country": "Hesse",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Mit über 600 Mitarbeitenden, 14 Gruppengesellschafen und Präsenz in fünf europäischen Ländern gestaltet die SITS Group eine sichere digitale Zukunft. Dafür bündeln wir europaweit unsere Expertise und unterstützen unsere Kunden umfassend rund um IT-Sicherheit u…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sitsgroup/senior-group-accountant-consolidation-specialist-halle-saxony-anhalt-koln-north-rhine-westphalia-wiesbaden-hesse-120999",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "277c580aca6de66f",
+      "title": "Associate Deployment Engineer - Galaxy Graduate Program",
+      "company": "celonis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning A…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/celonis/associate-deployment-engineer-galaxy-graduate-program-munich-148107",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a59523dd16059ebc",
+      "title": "Senior Consultant - Financial Services / Data & AI (m/f/d)",
+      "company": "Alaika",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": "Bavaria",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Advise. Invest. Build. Meet ALAIKA — a new kind of Financial Services firm — globally scaling, headquartered in Munich. The work is hard. The bar is high. Partner in 5-6 years possible , for the ones who can keep up a n d actually build a business themselves o…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/alaika/senior-consultant-financial-services-data-ai-munchen-bavaria-128337",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e39d8a7a58433094",
+      "title": "Consultant - Financial Services / Data & AI (m/f/d)",
+      "company": "Alaika",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": "Bavaria",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Advise. Invest. Build. Meet ALAIKA — a new kind of Financial Services firm — globally scaling, headquartered in Munich. The work is hard. The bar is high. Partner in 6-7 years possible , for the ones who can keep up a n d actually build a business themselves o…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/alaika/consultant-financial-services-data-ai-munchen-bavaria-363966",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c908409e17e15885",
+      "title": "Associate Partner - Financial Services / Data & AI (m/f/d)",
+      "company": "Alaika",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": "Bavaria",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Advise. Invest. Build. Meet ALAIKA — a new kind of Financial Services firm — globally scaling, headquartered in Munich. The work is hard. The bar is high. Partner promotion possible , for the ones who can keep up and actually build a business themselves on our…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/alaika/associate-partner-financial-services-data-ai-munchen-bavaria-402228",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5496e90cea0499f3",
+      "title": "Associate Consultant - Financial Services / Data & AI (m/f/d)",
+      "company": "Alaika",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": "Bavaria",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Advise. Invest. Build. Meet ALAIKA — a new kind of Financial Services firm — globally scaling, headquartered in Munich. The work is hard. The bar is high. Partner in 7-9 years possible , for the ones who can keep up a n d actually build a business themselves o…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/alaika/associate-consultant-financial-services-data-ai-munchen-bavaria-131498",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "778bf4695cd33a13",
+      "title": "(Senior) Power Platform Architect (m/w/d) - bundesweit",
+      "company": "Hsogroupbv",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Gestalte mit uns, wie Technologie Unternehmen verändert – und deine Karriere gleich mit. HSO gehört seit über 21 Jahren zum Microsoft Inner Circle – der exklusiven Top 1 % aller Partner weltweit – und wurde 26-mal als Microsoft Partner of the Year ausgezeichne…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/hsogroupbv/senior-power-platform-architect-bundesweit-332135",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4076203d24bd530b",
+      "title": "Senior IT Consultant Power Platform (m/w/d) - bundesweit",
+      "company": "Hsogroupbv",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Gestalte mit uns, wie Technologie Unternehmen verändert – und deine Karriere gleich mit. HSO gehört seit über 21 Jahren zum Microsoft Inner Circle – der exklusiven Top 1 % aller Partner weltweit – und wurde 26-mal als Microsoft Partner of the Year ausgezeichne…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/hsogroupbv/senior-it-consultant-power-platform-bundesweit-225901",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "381ceaf301b33038",
+      "title": "Support Engineer (EMEA)",
+      "company": "N8N",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin Office",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/n8n/support-engineer-emea-berlin-248246",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "27f707cfb670d1c4",
+      "title": "Senior ERP Specialist",
+      "company": "Stealthrocketrystartup",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We are looking for a Senior ERP Specialist to lead the integration of Microsoft Dynamics 365 Finance and Operations (F&O) across the company and build the ERP team. You will own the target process design, the implementation roadmap and the integration with pro…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/senior-erp-specialist-germany-227698",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "91bb95a72830fca4",
+      "title": "Senior Verkaufsberater Showroom (m/w/d)",
+      "company": "Pergolux",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany | Leipzig | Showroom",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Als Senior Verkaufsberater:in Showroom machst du unsere Pergolen für Kund:innen auf dem deutschen Markt erlebbar und führst sie sicher vom ersten Gespräch bis zum Kaufabschluss, auch bei größeren und anspruchsvolleren Projekten. Du bist erste Ansprechperson im…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pergolux/senior-verkaufsberater-showroom-leipzig-466949",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c77946cf454536c9",
+      "title": "Werkstudent Marketing (m/w/d)  · Remote",
+      "company": "Evolve Digital GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Homeoffice",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du studierst Marketing oder etwas Ähnliches, hast schon erste Social-Media-Erfahrung und behältst auch bei vielen Themen gleichzeitig den Überblick? Bei uns übernimmst du Verantwortung für unsere LinkedIn- und Instagram-Auftritte und hältst bei Content- und Le…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/werkstudent-marketing-remote-118440",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "47d698081c67936e",
+      "title": "Founder's Associate (Werkstudent*in, m/w/d)",
+      "company": "Earthbound GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns Wir bei earthbound denken Baustoffe neu. Aus dem, was die Bauindustrie bisher als Abfall betrachtet, schaffen wir hochwertige, zirkuläre Baustoffe für die Gebäude von morgen. Damit zeigen wir, dass ressourcenschonendes Bauen nicht nur möglich, sondern…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/earthbound-gmbh/founders-associate-werkstudentin-berlin-47287",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7e35e169f734e32f",
+      "title": "Senior Software Engineer (Fullstack) - Merchant EMEA",
+      "company": "Deliveroo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking n…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-fullstack-merchant-emea-london-279117",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4a04a322f779a818",
+      "title": "Applied Value Engineer - AI and Value Transformation Consultant",
+      "company": "celonis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning A…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/celonis/applied-value-engineer-ai-and-value-transformation-consultant-london-382632",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1b7456e72a9ad401",
+      "title": "Cloud Solution Architect",
+      "company": "Hsogroupbv",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Cloud Solution Architect - Data & AI Location: UK (Hybrid) Practice: Data & AI About HSO HSO is a Business Transformation Partner with deep industry expertise and global reach. As one of Microsoft's leading partners, we help organisations unlock the full poten…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hsogroupbv/cloud-solution-architect-262871",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c02886bd7deea84a",
+      "title": "Join the tem data talent pool",
+      "company": "tem",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "📈 Who We Are: We are rebuilding the energy transaction, making it transparent and fair. Our goal is to put power back where it belongs, in the hands of customers and to take on one of the most critical problems of our century, access to low cost electricity. t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/tem/join-the-tem-data-talent-pool-united-kingdom-450279",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ff685cbbd1aea535",
+      "title": "Senior Vascular Sonographer",
+      "company": "Neko Health",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Mission Neko is redefining what prevention means, from treating illness when it arrives, to sustaining health before it's ever at risk. Our mission: make data-driven, preventative care accessible to more people, before symptoms appear. In a single, non-invasiv…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/neko-health/senior-vascular-sonographer-london-130201",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5c4c77d488118649",
+      "title": "Financial Crime Oversight & Remediation Manager",
+      "company": "Checkout.com",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/financial-crime-oversight-remediation-manager-london-125366",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d92f8997f425f3f1",
+      "title": "Process Architect",
+      "company": "Checkout.com",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/process-architect-london-495928",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2bc5b1b1df3d28eb",
+      "title": "Senior Specialist, Technical Account Manager",
+      "company": "Checkout.com",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-specialist-technical-account-manager-london-203554",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9c7abff3edb8a884",
+      "title": "Senior Analyst, Process Architect",
+      "company": "Checkout.com",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-analyst-process-architect-london-191913",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fd47b297fe3abeeb",
+      "title": "Enterprise Account Executive",
+      "company": "Commvault",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Recruitment Fraud Alert We’ve learned that scammers are impersonating Commvault team members—including HR and leadership—via email or text. These bad actors may conduct fake interviews and ask for personal information, such as your social security number. What…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/commvault/enterprise-account-executive-paris-129525",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1f80d9967a9e0cea",
+      "title": "Sales Account Executive",
+      "company": "Everfield",
+      "employmentType": "Internship",
+      "location": {
+        "city": "France - Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "À propos d’Everfield Everfield acquiert, développe et accompagne la croissance d’éditeurs européens de logiciels métiers et spécialisés, en leur donnant les clés pour franchir un cap. Notre mission : nourrir l’ambition, alimenter la croissance et révéler le po…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/everfield/sales-account-executive-paris-12483",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8a8b3ba933436240",
+      "title": "Pyrotechnics Engineer H/F",
+      "company": "Alta Ares",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Alta Ares Alta Ares is an air defense Neoprime. We build AI-guided interceptors to counter drones and cruise missiles, along with the software platform that powers them. Our customers are NATO-aligned militaries and defense institutions, and our systems …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alta-ares/pyrotechnics-engineer-h-f-paris-298507",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f0fd192447d5a265",
+      "title": "Flight Test Engineer",
+      "company": "Alta Ares",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Toulouse",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Alta Ares Alta Ares is an air defense Neoprime. We build AI-guided interceptors to counter drones and cruise missiles, along with the software platform that powers them. Our customers are NATO-aligned militaries and defense institutions, and our systems …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alta-ares/flight-test-engineer-blagnac-104749",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "482dd651cbaac0cc",
+      "title": "Avionics Electronics Engineer",
+      "company": "Alta Ares",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Toulouse",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Alta Ares Alta Ares is an air defense Neoprime. We build AI-guided interceptors to counter drones and cruise missiles, along with the software platform that powers them. Our customers are NATO-aligned militaries and defense institutions, and our systems …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alta-ares/avionics-electronics-engineer-blagnac-300496",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fb39405f07ae71b4",
+      "title": "Field Operations Specialist",
+      "company": "Alta Ares",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Alta Ares Alta Ares is an air defense Neoprime. We build AI-guided interceptors to counter drones and cruise missiles, along with the software platform that powers them. Our customers are NATO-aligned militaries and defense institutions, and our systems …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alta-ares/field-operations-specialist-paris-259938",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2552cc3018dd3d7f",
+      "title": "Applied Science - Time Series",
+      "company": "Mistral.ai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-science-time-series-paris-16552",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "75c171513d7fc702",
+      "title": "Account Executive, Enterprise, Swiss Romande",
+      "company": "Mistral.ai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/mistralai/account-executive-enterprise-swiss-romande-zurich-192657",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "96111a5664817623",
+      "title": "IAM Software Engineer",
+      "company": "Sitsgroup",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Waardenburg",
+        "region": null,
+        "country": "Gelderland",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Humanitarian / NGO",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "As an IAM Software Engineer , you’ll focus on Identity Governance and Administration (IGA) solutions. Your work combines technical analysis, platform configuration, low-code implementation, integration, testing, and troubleshooting, with custom coding where ne…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/sitsgroup/iam-software-engineer-waardenburg-gelderland-358802",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "62f0e02b95ed7b12",
+      "title": "Associate Account Executive (Top Talent Sales Program - Lunar) BENELUX",
+      "company": "celonis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Finance",
+        "International Development",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning A…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/celonis/associate-account-executive-top-talent-sales-program-lunar-benelux-amsterdam-2789",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3e7d4996098e7719",
+      "title": "Technical Lead Consultant",
+      "company": "Hsogroupbv",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Veenendaal",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Adviseer en begeleid klanten naar optimale bedrijfsprocessen Combineer strategie, technologie en leiderschap in één rol Stap aan boord als Technical Lead Consultant en help onze klanten het maximale uit hun Microsoft-omgeving te halen. Jij bent de strategische…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/hsogroupbv/technical-lead-consultant-veenendaal-473383",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5feedd0796b849d8",
+      "title": "Technical Architect Power Platform CE",
+      "company": "Hsogroupbv",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Veenendaal",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Als Technical Architect ben je eindverantwoordelijk voor de technische architectuur op de korte en lange termijn in projecten en salestrajecten. Je beschrijft en ontwikkelt de technische architectuur inclusief bijkomende integraties. Naast het ontwerpen van mi…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/hsogroupbv/technical-architect-power-platform-ce-veenendaal-422778",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "af22ddb1357c9110",
+      "title": "Team Lead & Technical Architect – Power Platform CE",
+      "company": "Hsogroupbv",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Veenendaal",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Als Team Lead & Technical Architect – Power Platform CE ben je verantwoordelijk voor het CE Architecten domein. Je combineert leiderschap met inhoudelijke technische verantwoordelijkheid en geeft leiding aan een team van Power Platform-specialisten, waaronder …",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/hsogroupbv/team-lead-technical-architect-power-platform-ce-veenendaal-205274",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4a2fef374e9dd2c4",
+      "title": "Talent Acquisition Specialist (Dutch required)",
+      "company": "Hsogroupbv",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Veenendaal",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Krijg jij energie van recruitment en wil je impact maken op onze teams en groei? Dan pas jij bij deze rol! Je brengt mensen en organisatiebehoeften samen: je spot talent, maakt verbinding en begeleidt kandidaten van eerste contact tot onboarding. Door jouw ste…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/hsogroupbv/talent-acquisition-specialist-dutch-required-veenendaal-162723",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e5572dfd25b849fb",
+      "title": "Senior Project Manager D365 CRM",
+      "company": "Hsogroupbv",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Veenendaal",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Digitale transformatie is pas echt succesvol wanneer strategie, technologie en mensen samenkomen. Als Senior Projectmanager bij HSO leid jij CRM-implementaties die organisaties helpen beter met hun klanten te werken. Je werkt met de nieuwste Microsoft Cloud-te…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/hsogroupbv/senior-project-manager-d365-crm-veenendaal-168991",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "874bf9798bf682c6",
+      "title": "Senior Dynamics 365 Power Platform Developer",
+      "company": "Hsogroupbv",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Veenendaal",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join us as a Senior Dynamics 365 Power Platform Developer! As a Senior Dynamics 365 Power Platform Developer, you'll chart your own career and personal growth path with the backing of our organization. Collaborating closely with clients, you'll make a tangible…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/hsogroupbv/senior-dynamics-365-power-platform-developer-veenendaal-118955",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "57f749e7f0b89f64",
+      "title": "Senior Consultant Logistiek",
+      "company": "Hsogroupbv",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Veenendaal",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wat ga je doen? Wil je samen bouwen aan leuke projecten? Krijg je energie van het uitwerken van complexe vraagstukken en het adviseren van klanten in hun bedrijfsprocessen? Als senior consultant manufacturing sleutel je in wisselende projectteams aan het ontwe…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/hsogroupbv/senior-consultant-logistiek-veenendaal-77049",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8536753878753df9",
+      "title": "(Senior) Consultant Customer Engagement D365",
+      "company": "Hsogroupbv",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Veenendaal",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ben jij als Senior Consultant D365 CE klaar om jouw carrière naar het volgende niveau te tillen bij HSO, één van de grootste Microsoft Gold Partners ter wereld? Sluit je aan bij ons CE team en maak het verschil! Join the journey Wat ga je doen? Als D365 CE Sen…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/hsogroupbv/senior-consultant-customer-engagement-d365-veenendaal-422897",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "64fd7f7990d2e635",
+      "title": "Azure Integration Architect - NL",
+      "company": "Hsogroupbv",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Veenendaal",
+        "region": null,
+        "country": "Rotterdam",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ben je klaar voor de stap naar Enterprise Level Solution Architectuur? Kom dan kennismaken bij HSO! Join the Journey! Wat ga je doen? Als Azure Integration Architect begeleid jij klanten inhoudelijk in hun reis naar de Microsoft Cloud of bij het professionalis…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/hsogroupbv/azure-integration-architect-nl-veenendaal-utrecht-rotterdam-40607",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a4797c6db5df684e",
+      "title": "AI Platform engineer",
+      "company": "Hsogroupbv",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Veenendaal",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ben jij de engineer die organisaties naar het volgende niveau tilt met de kracht van Microsoft Power Platform én AI? Join the journey! Wat ga je doen? Als AI Platform Engineer speel je een sleutelrol binnen het Microsoft Power Platform team van HSO: een snelgr…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/hsogroupbv/ai-platform-engineer-veenendaal-211691",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3aee8b0677b36192",
+      "title": "Technical Account Manager - Benelux",
+      "company": "Camunda",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Netherlands",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-10-29",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/camunda/technical-account-manager-benelux-netherlands-105423",
       "source": "Arbeitnow"
     },
     {
