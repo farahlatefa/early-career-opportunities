@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-01T01:12:12.206631+00:00",
+    "lastUpdated": "2026-11-01T07:34:31.186167+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,1257 @@
     ]
   },
   "jobs": [
+    {
+      "id": "3bf2eeeb801701ea",
+      "title": "Senior Sales Support Technician",
+      "company": "CesiumAstro",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At CesiumAstro , we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne platforms. We take pride in our dynamic and cross-functional work environment, which allows us to learn,…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cesiumastro/senior-sales-support-technician-munich-germany-348636",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5d41ea9f0c6878c9",
+      "title": "Senior RF Engineer",
+      "company": "CesiumAstro",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Operations",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At CesiumAstro , we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne platforms. We take pride in our dynamic and cross-functional work environment, which allows us to learn,…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cesiumastro/senior-rf-engineer-munich-germany-39157",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6e0036a4aa625244",
+      "title": "Senior Embedded Software Engineer",
+      "company": "CesiumAstro",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At CesiumAstro , we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne platforms. We take pride in our dynamic and cross-functional work environment, which allows us to learn,…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cesiumastro/senior-embedded-software-engineer-munich-germany-160122",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6da191746ae08237",
+      "title": "Product Manager",
+      "company": "CesiumAstro",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At CesiumAstro , we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne platforms. We take pride in our dynamic and cross-functional work environment, which allows us to learn,…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cesiumastro/product-manager-munich-germany-84400",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "911163ece1f4598d",
+      "title": "Lead Communications Architect",
+      "company": "CesiumAstro",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At CesiumAstro , we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne platforms. We take pride in our dynamic and cross-functional work environment, which allows us to learn,…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cesiumastro/lead-communications-architect-munich-germany-233517",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "712095b9948a30de",
+      "title": "Senior Talent Acquisition Partner (m/w/d)",
+      "company": "Superchat",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Berlin",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bei Superchat gestalten wir neu, wie Unternehmen mit ihren Kund:innen kommunizieren. KI wird dabei immer mehr zum Motor dieser Kommunikation. Integrationen sind das, was diesem Motor echte Power gibt: die Daten, Tools und Systeme, die aus einem cleveren AI-Age…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/superchat/senior-talent-acquisition-partner-berlin-berlin-149920",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f2e572c1184f9066",
+      "title": "(Senior) Account Executive SMB | DACH Market (m/w/d)",
+      "company": "Superchat",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Berlin",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bei Superchat gestalten wir neu, wie Unternehmen mit ihren Kund:innen kommunizieren. KI wird dabei immer mehr zum Motor dieser Kommunikation. Integrationen sind das, was diesem Motor echte Power gibt: die Daten, Tools und Systeme, die aus einem cleveren AI-Age…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/superchat/senior-account-executive-smb-dach-market-berlin-berlin-213385",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d0b01146c8f455c7",
+      "title": "Revenue Operations Engineer | AI & Automation (m/f/d)",
+      "company": "Superchat",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Berlin",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Superchat, we're rebuilding how businesses talk to their customers. The phone call, the contact form, the support ticket: all of it is being replaced by messaging and AI. We're building the platform that runs underneath. Founded in 2020, Superchat has becom…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/superchat/revenue-operations-engineer-ai-automation-berlin-berlin-413012",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ef68fd7b6a5feec9",
+      "title": "Associate Product Manager (m/f/d)",
+      "company": "Superchat",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Berlin",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Superchat, we're rebuilding how businesses talk to their customers. AI is becoming the engine of that communication. Integrations are what give that engine teeth: the data, the tools, the systems that turn a clever agent into one that actually closes loops.…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/superchat/associate-product-manager-berlin-berlin-32005",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ffbac132697e0d4f",
+      "title": "Associate Medical Project Manager:in für Online-Fortbildungen",
+      "company": "AMBOSS",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du bist Arzt/Ärztin, kreativ, kommunikationsstark und behältst gerne den Überblick? Du bringst gerne Projekte pragmatisch voran und hast ein Talent für Organisation? Du willst tausenden Ärzt:innen ermöglichen, sich neben dem Klinik- und Praxisalltag mit AMBOSS…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/amboss/associate-medical-project-managerin-fur-online-fortbildungen-berlin-242253",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dda2b2a848716533",
+      "title": "Ärztin / Arzt in Weiterbildung für Allgemeinmedizin (m/w/d)",
+      "company": "PraxisEins",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Frechen",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "IHR START BEI PRAXISEINS Sie suchen eine strukturierte Weiterbildung mit persönlichem Mentoring, tiefgehenden Patientenbeziehungen und der ganzen Breite der Allgemeinmedizin zu geregelten Arbeitszeiten? Bei PraxisEins ist das möglich. Bei uns absolvieren Sie I…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/praxiseins/arztin-arzt-in-weiterbildung-fur-allgemeinmedizin-frechen-37128",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7d36324c03fc7101",
+      "title": "Senior Sales Development Representative  - German Speaking (Remote)",
+      "company": "Vendavo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": "DE",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We’re a growing team, and as we scale, so does our need to focus on expanding our sales development team. You’ll join a people-focused business that is putting AI at the center of how manufacturers and distributors price, quote and manage incentives, with a re…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/vendavo/senior-sales-development-representative-german-speaking-remote-dusseldorf-de-296397",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "efaac6d13fadf503",
+      "title": "Data Operations & Labeling Specialist (All Genders)",
+      "company": "Skdse",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Stark, we forge the future of European and national security through cutting-edge, AI-driven technology and unmatched engineering precision. As a premier defence technology company, our mission is clear: to equip NATO Allies and their partners with next-gen…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skdse/data-operations-labeling-specialist-all-genders-133669",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "931c0b1cbe8d5127",
+      "title": "AI Solution Architect (m/w/d)",
+      "company": "virtual7 GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Homeoffice",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-430823",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3bb46975bf0bf112",
+      "title": "Compliance Specialist - Informationssicherheit in Voll- oder Teilzeit (m/w/d)",
+      "company": "cbs Corporate Business Solutions GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Heidelberg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Finance",
+        "Sports",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind die Berater der Weltmarktführer: Hochmotivierte Expertinnen und Experten, die als erfolgreiches Team digitale End-to-End-Geschäftsprozesslösungen vorantreiben. Gemeinsam stärken wir die Zukunft der beeindruckendsten Unternehmen der Welt aus Maschinen-…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/compliance-specialist-informationssicherheit-in-voll-oder-teilzeit-heidelberg-89426",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ace291840ba7c9fd",
+      "title": "Senior Veterinary Surgeon - Small Animal",
+      "company": "Ivcevidensia",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Cheltenham",
+        "region": null,
+        "country": "England",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Senior Vet Surgeon Salary up to £75,000 DOE Relocation Allowance up to £5,000 plus a Welcome Bonus of up to £5000 Dragon Vets, part of inspiring vet care, are seeking an enthusiastic Veterinary Surgeon to join our Rissington site as a Senior Vet, The role will…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/senior-veterinary-surgeon-small-animal-cheltenham-gloucestershire-england-199392",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0f8e8a6fb7ba3b26",
+      "title": "Senior Veterinary Referral Clinician - ECC",
+      "company": "Ivcevidensia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Derby",
+        "region": null,
+        "country": "England",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "An opportunity has arisen for a Senior Emergency and Critical Care (ECC) Specialist to join Pride Veterinary Referrals and support the continued development of our specialist-led ECC service. Your role will involve managing a diverse and challenging emergency …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/senior-veterinary-referral-clinician-ecc-derby-derbyshire-england-358946",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cdc1fd7aa2be532a",
+      "title": "Senior Branch Nurse",
+      "company": "Ivcevidensia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Tadley",
+        "region": null,
+        "country": "England",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Humanitarian / NGO"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At inspiring vet care, our people are at the heart of everything we do. As the UK’s number one vet care provider, we're trusted with the care of over 2 million animals, delivering our purpose of healthier animals and happier owners. We are looking for an enthu…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/senior-branch-nurse-tadley-hampshire-england-208700",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "97ec8c364a7a834d",
+      "title": "Senior DevSecOps Engineer Contract",
+      "company": "Xdesign",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Working at CreateFuture CreateFuture is an AI-native consulting partner where people do work that matters and are supported to do it well. We work alongside organisations such as PayPal, adidas, NatWest, FanDuel and Money Saving Expert, building digital produc…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/xdesign/senior-devsecops-engineer-contract-418128",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6b3317898f2df630",
+      "title": "Sr. Compliance Associate Lead - Market Surveillance",
+      "company": "Kraken",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Building the Future of Open Finance Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure pl…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/kraken/sr-compliance-associate-lead-market-surveillance-london-239866",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "91b27f6d72131dc3",
+      "title": "Sr. Compliance Associate - Market Surveillance",
+      "company": "Kraken",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Building the Future of Open Finance Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure pl…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/kraken/sr-compliance-associate-market-surveillance-london-310645",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f70f90a8a9fd9854",
+      "title": "Senior Legal Counsel - Privacy",
+      "company": "Leovegasgroup",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Leeds",
+        "region": null,
+        "country": "UK",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ABOUT THE ROLE The LeoVegas Mobile Gaming Group is seeking a highly skilled and motivated Senior Legal Counsel focused on privacy, to join our dynamic and growing Privacy team. This is a pivotal role within the organisation, instrumental in safeguarding the pe…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/senior-legal-counsel-privacy-leeds-452834",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "42338a69c796ce88",
+      "title": "Management Consultant (Public Sector & Defence)",
+      "company": "Efficioconsulting",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations",
+        "Policy / Government",
+        "Procurement",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "How do you build a national vaccine supply chain? Turn complex, novel defence requirements into a workable procurement? Help a council make every pound work harder? In Efficio’s UK Public Sector practice, you’ll combine analytical thinking with hands-on delive…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/efficioconsulting/management-consultant-public-sector-defence-london-184144",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5a87fd7ee52c8b87",
+      "title": "Graduate Engineering Summer Internship 2027",
+      "company": "Zeeco",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Stamford",
+        "region": null,
+        "country": "England",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Zeeco fosters a robust work environment where employees, from engineering teams to support groups, benefit from a strong culture, trained leadership, and opportunities for growth. Zeeco collaborates with the biggest names in the industry, enabling individuals …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/zeeco/graduate-engineering-summer-internship-2027-stamford-england-170268",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "da54e4d13586c7c7",
+      "title": "Senior Sales Development Representative  - German Speaking (Remote)",
+      "company": "Vendavo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "UK",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We’re a growing team, and as we scale, so does our need to focus on expanding our sales development team. You’ll join a people-focused business that is putting AI at the center of how manufacturers and distributors price, quote and manage incentives, with a re…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/vendavo/senior-sales-development-representative-german-speaking-remote-london-uk-314277",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3fca14ef395620bf",
+      "title": "Prescribing Nurse Practitioner or Physician Assistant - 1099 Contractor - Manchester, PA",
+      "company": "Lyra Health",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Manchester",
+        "region": null,
+        "country": "PA",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Lyra Lyra Clinical Associates partners with Lyra Health, a leading provider of evidence-based mental health care, serving more than 20 million people globally in partnership with employers and more than 100 million through health plan and partner relatio…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/lyra-health/prescribing-nurse-practitioner-or-physician-assistant-1099-contractor-manchester-pa-101482",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3c5f34aa8c2b4e56",
+      "title": "Mental Health Therapist - 1099 Contractor - Oxford, MS",
+      "company": "Lyra Health",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Oxford",
+        "region": null,
+        "country": "Mississippi",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Lyra Lyra Clinical Associates partners with Lyra Health, a leading provider of evidence-based mental health care, serving more than 20 million people globally in partnership with employers and more than 100 million through health plan and partner relatio…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/lyra-health/mental-health-therapist-1099-contractor-oxford-ms-oxford-mississippi-450074",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8ac466d0d7d65dd4",
+      "title": "Reporting & Data Analyst (6-Month FTC)",
+      "company": "Form3",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "THE ROLE 📝 We’re looking for a Reporting & Data Analyst to help Form3 develop a more reliable, scalable and accessible reporting capability across the organisation. This is a six-month fixed-term contract with two clear priorities: completing and enhancing the…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/form3/reporting-data-analyst-6-month-ftc-459672",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2dba266ecfa6154b",
+      "title": "Commercial Legal Counsel (Contractor)",
+      "company": "Liftoff",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across programmatic and direct dem…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/liftoff/commercial-legal-counsel-contractor-363711",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ece40442202a6399",
+      "title": "Strategic Partner Account Manager DACH",
+      "company": "Aircall",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Aircall is a unicorn, AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, resolve issues faster, and scale customer-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI to…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/aircall/strategic-partner-account-manager-dach-paris-office-401569",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "63a4ad0a5276db47",
+      "title": "Regional Marketing Intern, DACH Market",
+      "company": "Aircall",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Aircall is a unicorn, AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, resolve issues faster, and scale customer-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI to…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/aircall/regional-marketing-intern-dach-market-paris-office-364008",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "daf2b21c0e39ce29",
+      "title": "Product Manager Intern",
+      "company": "Aircall",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": "support ongoing performance evaluation and decision-making"
+      },
+      "summary": "Aircall is a unicorn, AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, resolve issues faster, and scale customer-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI to…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/aircall/product-manager-intern-paris-office-182428",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5ee2094fffac83a4",
+      "title": "Senior Customer Onboarding Specialist",
+      "company": "Didomi",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Senior Customer Onboarding Specialist supports new customers through the Didomi onboarding cycle, from Kick-Off to deployment and handover to the Customer Success team. The role is the entry point into the Customer Onboarding career path and is performed u…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/didomi/senior-customer-onboarding-specialist-parisfrance-279471",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d6fd58e45df5cc2c",
+      "title": "[ VO2 FORCE ] - Développeur(se) IA / AI Engineer",
+      "company": "VO2 Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🌟 VO2 GROUP : Leader français indépendant en conseil Tech et Digital Entre conseil stratégique et réalisation technologique, nous cultivons un esprit \"boutique\" : de l'excellence, de l'humain et une forte culture de l'innovation. Nous sommes présents à Paris, …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/vo2-group/vo2-force-developpeurse-ia-ai-engineer-paris-france-266086",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7d2a5bd26279f418",
+      "title": "Data Centre Infrastructure Specialist",
+      "company": "Civitta",
+      "employmentType": "Internship",
+      "location": {
+        "city": "France",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Humanitarian / NGO",
+        "Operations",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Data Centre Infrastructure Specialist - Strasbourg, France Do you have hands-on experience keeping critical facilities running, and want to apply it in a mission-critical environment? Then this could be your next opportunity! About the role Our client is an in…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/civitta/data-centre-infrastructure-specialist-france-29868",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e68dda6e5b21edfe",
+      "title": "Lead Data Analyst - Recouvrement & crédit H/F",
+      "company": "Octopus Energy Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris (FR)",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Tu as envie de travailler dans un environnement bienveillant qui avance vite ? 5ème fournisseur français en 10 ans, Octopus Energy est un fournisseur d’énergies renouvelables qui agit comme un véritable fer de lance pour la révolution électro tech. Comment on …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/octopus-energy-group/lead-data-analyst-recouvrement-credit-h-f-paris-fr-166199",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0cb2cba16d906757",
+      "title": "Senior Solutions Consultant",
+      "company": "DiliTrust",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Paris - La Défense",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Want to join a hyper-growth scale-up? 🚀 For over 20 years, DiliTrust has been digitalizing the legal departments of the world's largest companies. No more contracts scattered across folders, litigation tracked on spreadsheets, or general meetings managed by ha…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/dilitrust/senior-solutions-consultant-paris-la-defense-404753",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "10b18f42263d565b",
+      "title": "Senior Security Operations Engineer",
+      "company": "DiliTrust",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris - La Défense",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "As a Security Operations Engineer, you will help protect DiliTrust's SaaS platform, cloud infrastructure, networks and production environments. You will join the Infrastructure & Security team, a 12-person team spread across France, Canada and Spain, and work …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/dilitrust/senior-security-operations-engineer-paris-la-defense-346268",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ce43d8145e13483c",
+      "title": "Warehouse Data Intern",
+      "company": "Bigblue",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": "an Analytics Engineer"
+      },
+      "summary": "🎯 Why This Role Exists We’re hiring a Warehouse Data Intern to strengthen how Fulfillment teams access, understand, and use operational data. Over the next 6 months , this person will improve monitoring and KPI tracking so teams and partners can make faster, b…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/bigblue/warehouse-data-intern-paris-347583",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f43e8cfb3cecf2ba",
+      "title": "Solutions Engineer intern",
+      "company": "Bigblue",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "📍 Paris | 6-month Internship (starting in January or March) | Fluent 🇫🇷 & 🇬🇧 E-commerce is booming — but independent brands still struggle to match the seamless logistics of giants like Amazon. At Bigblue , we're on a mission to change that. We help brands by …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/bigblue/solutions-engineer-intern-paris-286887",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b98097f648ad05bf",
+      "title": "Software Engineer Intern",
+      "company": "Bigblue",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "📍Paris | CDI | Français 🇫🇷 & Anglais 🇬🇧 courants requis Le e-commerce explose — mais les marques indépendantes galèrent encore à offrir une logistique aussi fluide que celle d’Amazon. Chez Bigblue, on veut changer ça. Notre mission : aider les marques à scaler…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/bigblue/software-engineer-intern-paris-405112",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "83a760234533b4b9",
+      "title": "Product Designer",
+      "company": "Bigblue",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "📍 Paris | Full-time | Fluent 🇫🇷 & 🇬🇧 At Bigblue, we're building the logistics backbone for the next generation of commerce. Modern brands sell everywhere: through their own online stores, marketplaces, retail, social commerce, and more. Across every channel, c…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/bigblue/product-designer-paris-75685",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "511d6a59b6371970",
+      "title": "CENTRALE LYON - Post-Doctoral Position Ferroelectric-Based Ternary Computing: From Circuit Design to System-Level Integration Scientific Context",
+      "company": "CENTRALE LYON",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Ecully",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Energy efficiency remains one of the foremost challenges in modern computing, spanning from edge IoT devices to high-performance data centers. Conventional CMOS-based architectures are approaching fundamental physical limits, while the \"memory wall\" — data tra…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/centrale-lyon/centrale-lyon-post-doctoral-position-ferroelectric-based-ternary-computing-from-circuit-design-to-system-level-integration-scientific-context-ecull-308099",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6a67648c2fefcb79",
+      "title": "Systems Engineer  (Excavator Automation)",
+      "company": "Gravis Robotics",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Gravis Robotics is a high-growth Series A start-up backed by SoftBank, bringing Physical AI to the construction industry, turning heavy construction machines into autonomous robots. Gravis began as an ETH Zurich spin-out, and our unique combination of learning…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/gravis-robotics/systems-engineer-excavator-automation-zurich-5810",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "21c7d5b341589a74",
+      "title": "Front-end Developer",
+      "company": "Mendix",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Rotterdam",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you a budding software enthusiast with a passion for innovation and a knack for problem-solving? Do you dream of building applications that truly make a difference, collaborating with a diverse team, and shaping the future of software development? If so, w…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/mendix/front-end-developer-rotterdam-148463",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f7476f9a1f736ebe",
+      "title": "Senior Financial Analyst - Licensing Consumer Products",
+      "company": "Hasbro",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": "aid key decision-making"
+      },
+      "summary": "We take play seriously. We’re looking for curious adventurers ready to find their party, fueled by imagination and drive to build what’s never been built before. At Hasbro and Wizards of the Coast, you’ll collaborate with passionate teams to reimagine our icon…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hasbro/senior-financial-analyst-licensing-consumer-products-london-419963",
+      "source": "Arbeitnow"
+    },
     {
       "id": "5b3a13c112f5689a",
       "title": "Product Owner Hardware (m/f/d)",
