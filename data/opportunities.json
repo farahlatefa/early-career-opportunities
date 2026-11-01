@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-01T15:11:29.448362+00:00",
+    "lastUpdated": "2026-11-01T19:42:07.055786+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -1965,6 +1965,981 @@
       },
       "summary": "Job description : We are looking for an experienced Business Analyst to work closely with Product Owners, business stakeholders, Subject Matter Experts (SMEs), and technical teams to analyze business needs, define requirements, and ensure successful delivery o…",
       "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/senior-business-analyst-deadline-03-11-2026-amsterdam-275939",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e0574cb0774edd0e",
+      "title": "(Senior) Product Engineer – AI (m/f/d) – Remote",
+      "company": "MAIA",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What we do MAIA is an AI platform for companies. With MAIA, teams search their internal data and embed agents deep into their processes. We help companies use AI not just in individual departments, but across the entire organisation. On a technical level, this…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/maia/senior-product-engineer-ai-remote-berlin-51768",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d699f9391cdaae68",
+      "title": "(Senior) Software Engineer – AI (m/f/d) – Remote",
+      "company": "MAIA",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What we do MAIA is an AI platform for companies. With MAIA, teams search their internal data and embed agents deep into their processes. We help companies use AI not just in individual departments, but across the entire organisation. On a technical level, this…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/maia/senior-software-engineer-ai-remote-berlin-132265",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "42e329e16994a636",
+      "title": "(Senior) AI Engineer (m/f/d) – Remote",
+      "company": "MAIA",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What we do MAIA is an AI platform for companies. With MAIA, teams search their internal data and embed agents deep into their processes. We help companies use AI not just in individual departments, but across the entire organisation. On a technical level, this…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/maia/senior-ai-engineer-remote-berlin-24944",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fcae35cc31d7404c",
+      "title": "Senior DevOps / Platform Engineer – AI Infrastructure (m/w/d)",
+      "company": "MAIA",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Leipzig",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Worum es geht MAIA ist eine KI-Plattform für Unternehmen. Mit MAIA durchsuchen Teams ihre internen Daten und verankern Agenten tief in ihren Prozessen. Wir begleiten Unternehmen dabei, KI nicht nur in einzelnen Abteilungen, sondern im ganzen Unternehmen einzus…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/maia/senior-devops-platform-engineer-ai-infrastructure-leipzig-479802",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "38841012818e67fe",
+      "title": "(Senior) Product Engineer – AI (m/w/d)",
+      "company": "MAIA",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Leipzig",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Worum es geht MAIA ist eine KI-Plattform für Unternehmen. Mit MAIA durchsuchen Teams ihre internen Daten und verankern Agenten tief in ihren Prozessen. Wir begleiten Unternehmen dabei, KI nicht nur in einzelnen Abteilungen, sondern im ganzen Unternehmen einzus…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/maia/senior-product-engineer-ai-leipzig-192315",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5ebf353829ac304c",
+      "title": "(Senior) Software Engineer – AI (m/w/d)",
+      "company": "MAIA",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Leipzig",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Worum es geht MAIA ist eine KI-Plattform für Unternehmen. Mit MAIA durchsuchen Teams ihre internen Daten und verankern Agenten tief in ihren Prozessen. Wir begleiten Unternehmen dabei, KI nicht nur in einzelnen Abteilungen, sondern im ganzen Unternehmen einzus…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/maia/senior-software-engineer-ai-leipzig-78273",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2d52b42208f70de9",
+      "title": "(Senior) AI Engineer (m/w/d)",
+      "company": "MAIA",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Leipzig",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Worum es geht MAIA ist eine KI-Plattform für Unternehmen. Mit MAIA durchsuchen Teams ihre internen Daten und verankern Agenten tief in ihren Prozessen. Wir begleiten Unternehmen dabei, KI nicht nur in einzelnen Abteilungen, sondern im ganzen Unternehmen einzus…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/maia/senior-ai-engineer-leipzig-40091",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d2e96d84c4efe27e",
+      "title": "Praktikant:in (w/m/d) - für Integration und Deutschsprachlehre",
+      "company": "Enpal",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamtlösung für dezentrale Energie – von Solaranlage und Batteriespeicher über Wallbox, Smart Meter bis z…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/enpal/praktikantin-fur-integration-und-deutschsprachlehre-berlin-125373",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "41dee2ad16863f38",
+      "title": "Sales & Customer Support Manager",
+      "company": "DRIVAR®",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Magdeburg",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über DRIVAR DRIVAR ist eine der führenden Plattformen für Sport- und Luxuswagenvermietung mit Sitz in Magdeburg und dem Ziel, der weltweit führende Sharing-Marketplace für Sportwagen und Oldtimer zu werden. In unserem agilen Team aus dem Bereich der Internet M…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/drivar/sales-customer-support-manager-magdeburg-319836",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "44385716a2067919",
+      "title": "Lead Data Engineer",
+      "company": "Sahajsoftware",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the role As a Data Engineer, you’ll feel at home if you are hands on, grounded, opinionated and passionate about delivering comprehensive data solutions that align with modern data architecture approaches. Your work will range from building a full data p…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/sahajsoftware/lead-data-engineer-london-302886",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f5b582d1fdd1f504",
+      "title": "Marketing Automation Engineer",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at Private Equity Insights Are you excited about solving real, hard problems? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/marketing-automation-engineer-london-419068",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "59f5284c1eca1c79",
+      "title": "Go-To-Market Specialist",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at Private Equity Insights Are you excited about solving real, hard problems? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/go-to-market-specialist-london-134041",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ac5b6b40d1fe3723",
+      "title": "Go-To-Market Engineer",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at Private Equity Insights Are you excited about solving real, hard problems? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/go-to-market-engineer-london-275304",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1f78f67a815cf552",
+      "title": "Go-To-Market Consultant",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at Private Equity Insights Are you excited about solving real, hard problems? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/go-to-market-consultant-london-331573",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9cfb1d08ca722f94",
+      "title": "Go-To-Market Associate",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at Private Equity Insights Are you excited about solving real, hard problems? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/go-to-market-associate-london-24332",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "198f78379e1e7178",
+      "title": "Go-To-Market Analyst",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at Private Equity Insights Are you excited about solving real, hard problems? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/go-to-market-analyst-london-389893",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b41668259694f94d",
+      "title": "Global Account Executive at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you someone who thrives in a fast-paced environment, where you are given the autonomy and support to handle large amounts of responsibility? Are you looking for the opportunity to accelerate your sales career whilst also being surrounded by an exceptional …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/global-account-executive-at-private-equity-insights-london-373357",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "24946047ddf755ac",
+      "title": "AI Engineer",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at Private Equity Insights Are you excited about solving real, hard problems? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/ai-engineer-london-199709",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "945c26b3cefbd2c5",
+      "title": "AI Automation Engineer",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at Private Equity Insights Are you excited about solving real, hard problems? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/ai-automation-engineer-london-435673",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "88b866b08ad7ba1d",
+      "title": "Agentic Marketing Specialist",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at Private Equity Insights Are you excited about solving real, hard problems? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/agentic-marketing-specialist-london-283644",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "76868d01f224a493",
+      "title": "Agentic Marketing Engineer",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at Private Equity Insights Are you excited about solving real, hard problems? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/agentic-marketing-engineer-london-179381",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d8fb6af94d2fa5d4",
+      "title": "Agentic Marketing Consultant",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at Private Equity Insights Are you excited about solving real, hard problems? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/agentic-marketing-consultant-london-108532",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8aa23d54ffca5343",
+      "title": "Agentic Marketing Associate",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at Private Equity Insights Are you excited about solving real, hard problems? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/agentic-marketing-associate-london-263610",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3cdb75e1307b0c13",
+      "title": "Agentic Marketing Analyst",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at Private Equity Insights Are you excited about solving real, hard problems? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/agentic-marketing-analyst-london-16862",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4a9fcc64ffe68030",
+      "title": "Solution Architect - 8295",
+      "company": "Peregrine",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": "System Design Authority and support architectural governance activities"
+      },
+      "summary": "Solution Architect Permanent | Hybrid | North West, Frimley, Yeovil or Filton | Cloud, Infrastructure & Enterprise Architecture | SC cleared As a Solution Architect, you will be responsible for defining, governing and assuring end-to-end technology solutions t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/peregrine/solution-architect-8295-282189",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7903a89490e0210a",
+      "title": "Information Architects",
+      "company": "Peregrine",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Information Architect Permanent | Hybrid | Data Architecture | Enterprise Architecture The Role: We are seeking an experienced Information Data Architect to design, develop and evolve information architecture across complex enterprise environments. This role w…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/peregrine/information-architects-36114",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1da722d4b20b68e8",
+      "title": "ERP Solutions Architect",
+      "company": "Peregrine",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Humanitarian / NGO",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ERP Solution Architect Permanent | Hybrid | Infor | ERP We are seeking an experienced Infor ERP Solution Architect to lead the design, governance and evolution of enterprise-wide ERP solutions within a complex operational environment. This role will be respons…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/peregrine/erp-solutions-architect-81415",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a4b4f9e2bab23172",
+      "title": "Data Solutions Architect-8293",
+      "company": "Peregrine",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Data Architect Permanent | Hybrid | Data Architecture | ETL The Role: We are seeking an experienced Data Architect to design and govern enterprise-scale data architectures that support complex, data-driven programmes. This role will be responsible for shaping …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/peregrine/data-solutions-architect-8293-357143",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "37158da8a3e8c892",
+      "title": "UK Graduate Leadership Programme - Media Marketing Track (July Start)",
+      "company": "Pmg",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Humanitarian / NGO",
+        "International Development",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We are PMG PMG, a global independent platform company engineered for impact, integrates business strategy, media, creative, and data within a single operating model powered by our proprietary operating system, Alli. With more than 1,000 employees, PMG partners…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/pmg/uk-graduate-leadership-programme-media-marketing-track-july-start-london-445660",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fe3c0853f0e12718",
+      "title": "Senior Analyst — Customer (Beauty)",
+      "company": "Thehutgroup",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Manchester",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "International Development",
+        "Marketing & Communications",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About THG We are THG, a global ecommerce group on a mission to be the global online leader in beauty and sports nutrition. Our portfolio of leading retailers and brands such as LOOKFANTASTIC, Myprotein, ESPA, Perricone MD, and Cult Beauty form our two core bus…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/senior-analyst-customer-beauty-manchester-386818",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0ab1882125833125",
+      "title": "Senior Analyst — Commercial (Beauty)",
+      "company": "Thehutgroup",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Manchester",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "International Development",
+        "Marketing & Communications",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About THG We are THG, a global ecommerce group on a mission to be the global online leader in beauty and sports nutrition. Our portfolio of leading retailers and brands such as LOOKFANTASTIC, Myprotein, ESPA, Perricone MD, and Cult Beauty form our two core bus…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/senior-analyst-commercial-beauty-manchester-407241",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9db3e02b92307a05",
+      "title": "Senior Analyst — Beauty Subscriptions",
+      "company": "Thehutgroup",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Manchester",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "International Development",
+        "Marketing & Communications",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About THG We are THG, a global ecommerce group on a mission to be the global online leader in beauty and sports nutrition. Our portfolio of leading retailers and brands such as LOOKFANTASTIC, Myprotein, ESPA, Perricone MD, and Cult Beauty form our two core bus…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/senior-analyst-beauty-subscriptions-manchester-296243",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8de9c7f2fb4cbb94",
+      "title": "Senior Product Manager",
+      "company": "Shopfully",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We are the platform turning browsing into shopping . We connect 200 million shoppers with deals they love while boosting local sales for hundreds of top retailers and brands. We help consumers save time and money while making smart shopping decisions, and we s…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/shopfully/senior-product-manager-340504",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "08702895c2c2280c",
+      "title": "Développeur Nouveaux Projets (F/H/X)",
+      "company": "Novar Nederland BV",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Lyon",
+        "region": null,
+        "country": "Frankrijk",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Localisation Poste basé à Lyon ou Dijon. Vous êtes passionné(e) par le développement des énergies renouvelables et vous connaissez bien le tissu économique et territorial de l’Est de la France ? Rejoignez Novar et devenez un acteur clé de la transition énergét…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/novar-nederland-bv/developpeur-nouveaux-projets-lyon-400371",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "24b836c3f41ed4bf",
+      "title": "Stage – Développement de projets de stockage d’energie par batteries (BESS) (F/H/X)",
+      "company": "Novar Nederland BV",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Avignon",
+        "region": null,
+        "country": "Frankrijk",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Localisation Poste basé à Avignon (84). Vous souhaitez découvrir concrètement comment se développent les projets de stockage par batteries et contribuer à la transition énergétique ? Au sein de l’équipe Novar en France, vous serez accompagné·e par les équipes …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/novar-nederland-bv/stage-developpement-de-projets-de-stockage-denergie-par-batteries-bess-avignon-122695",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cab102ffa9f55029",
+      "title": "SAP Analytics Consultant",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Lausanne",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We are seeking three experienced French-speaking SAP Analytics professionals to strengthen the internal SAP Finance/Analytics team of a public-sector client in Lausanne . The team supports the client’s financial reporting, budget planning, annual accounts and …",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/sap-analytics-consultant-lausanne-377506",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "62c00d80009dec60",
+      "title": "Software Project Manager (Warehouse Management)",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-01",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Für unseren Kunden, ein international tätiges Schweizer Unternehmen im Bereich Intralogistik und Automation, suchen wir einen Software Project Manager, der die Softwareseite von Kundenprojekten vom Projektstart bis zur Endabnahme verantwortet. Ihre Aufgaben Le…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/software-project-manager-warehouse-management-zurich-421121",
       "source": "Arbeitnow"
     },
     {
