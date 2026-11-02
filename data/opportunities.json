@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-01T23:36:59.941850+00:00",
+    "lastUpdated": "2026-11-02T06:07:45.502034+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,538 @@
     ]
   },
   "jobs": [
+    {
+      "id": "4bde7237b8194336",
+      "title": "Working Student - LLM Inference Performance",
+      "company": "tensordyne",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Tensordyne AI is transforming our world. It can perform cognitive functions that previously only humans could do, such as perceiving interactions across different modalities and environments - with the ability to quickly learn and then solve complex prob…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tensordyne/working-student-llm-inference-performance-munich-161026",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f12606672b25e4a5",
+      "title": "Senior Software Engineer — ML Inference & Numerics",
+      "company": "tensordyne",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Tensordyne AI is transforming our world. It can perform cognitive functions that previously only humans could do, such as perceiving interactions across different modalities and environments - with the ability to quickly learn and then solve complex prob…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tensordyne/senior-software-engineer-ml-inference-numerics-munich-95692",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d9d18fdf36ca0019",
+      "title": "Working Student QA in Mobile App Development (m|f|d)",
+      "company": "idealo internet GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Great shopping experiences start with great quality. Join our Mobile Application Development team as a Working Student in QA and help us deliver reliable, user-friendly Android and iOS apps. From testing new features to identifying bugs and supporting test aut…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/working-student-qa-in-mobile-app-development-mfd-berlin-110910",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a11adc8c213c994a",
+      "title": "Software Engineer — Software Platform & Middleware (Early Career)",
+      "company": "Apex Ai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Build the Software Platform Powering Next-Generation Mobility Apex.AI is developing the software foundation for autonomous systems, intelligent machines, and software-defined vehicles. We are looking for an early-career Software Engineer to help advance our co…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/apex-ai/software-engineer-software-platform-middleware-early-career-munich-211788",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "be37ed41bced2118",
+      "title": "Senior Software Engineer — Software Platform & Middleware",
+      "company": "Apex Ai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Build the Software Platform Powering Next-Generation Mobility Apex.AI is developing the software foundation for autonomous systems, intelligent machines, and software-defined vehicles. We are looking for an experienced Software Engineer to help advance our cor…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/apex-ai/senior-software-engineer-software-platform-middleware-munich-100299",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "65399fd0b1714014",
+      "title": "Partner - Data Science & Marketing Effectiveness, London",
+      "company": "Ekimetrics",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Associate Partner/Partner, MMM & Marketing Effectiveness London, UK About Ekimetrics Ekimetrics transforms how organisations make critical business decisions. We combine our Eki.Decisions platform with embedded experts in marketing, commercial effectiveness an…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ekimetrics/partner-data-science-marketing-effectiveness-london-10669",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9da40935bd939404",
+      "title": "Account Executive",
+      "company": "Deliverect",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Deliverect, our API-first platform is revolutionizing commerce by providing a connected suite of on and off-premise solutions. We empower both the food and retail industries to expand their revenue and simplify their operations, creating seamless experience…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliverect/account-executive-london-247103",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e421d570487d08a8",
+      "title": "Analytics Engineer - Finance",
+      "company": "mewssystems",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Help make the world more hospitable The hospitality industry is uniquely human, and it deserves technology that’s just as inspiring as the people behind it. At Mews, we’re transforming the industry with a platform that helps hotels run smarter, move faster and…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/mewssystems/analytics-engineer-finance-280853",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2bffb031b777482a",
+      "title": "Programmatic Analyst - Alternance (H/F/X)",
+      "company": "Biggie",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Biggie est l’agence globale de stratégie et activation media & marketing de Biggie group, groupe international indépendant de solutions marketing intégrées. Biggie est le fruit du rapprochement de plusieurs entités du groupe : l’expert en activations digitales…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/biggie/programmatic-analyst-alternance-paris-95965",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5d04bc9b8c9e5979",
+      "title": "Digital Account Strategist - Stage (6 mois) (H/F/X)",
+      "company": "Biggie",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Biggie est un groupe de conseil en communication, né de la fusion de l’agence média Repeat , du trading desk Gamned! , du studio de création vidéo Kazam et de l’agence en stratégie d’influence Beastly . Comprenant 300 collaborateurs et des filiales dans de nom…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/biggie/digital-account-strategist-stage-6-mois-paris-291797",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cdbdcceeeb06d33b",
+      "title": "Consultant Senior SEO/GEO - Freelance",
+      "company": "Biggie",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Biggie est l’agence globale de stratégie et activation media & marketing de Biggie group, groupe international indépendant de solutions marketing intégrées. Biggie est le fruit du rapprochement de plusieurs entités du groupe : l’expert en activations digitales…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/biggie/consultant-senior-seo-geo-freelance-paris-486815",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0ca57dc088135da5",
+      "title": "Consultant Plurimedia - Stage (6 mois) (H/F/X)",
+      "company": "Biggie",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Biggie est l’agence globale de stratégie et activation media & marketing de Biggie group, groupe international indépendant de solutions marketing intégrées. Biggie est le fruit du rapprochement de plusieurs entités du groupe : l’expert en activations digitales…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/biggie/consultant-plurimedia-stage-6-mois-paris-408618",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b76ea79936f435c5",
+      "title": "Assistant Chef de Projet Influence - Alternance 12 mois (H/F/X)",
+      "company": "Biggie",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Beastly est une agence de conseil et d’accompagnement stratégique en influence, spécialisée dans la performance faisant partie du groupe international de communication & marketing Biggie . Composée d’une équipe de 40 personnes, Beastly accompagne des marques r…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/biggie/assistant-chef-de-projet-influence-alternance-12-mois-paris-85034",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "368f9632a3902550",
+      "title": "Ground Software Engineer - Core",
+      "company": "Loftorbital",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Toulouse",
+        "region": null,
+        "country": "Occitanie",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wanna join the adventure? Loft Orbital is looking for a Software Engineer to join our Core team within Ground Platform. The team develops the core capabilities that support Loft's ground platform, improve development workflows, and ensure platform reliability.…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/loftorbital/ground-software-engineer-core-toulouse-occitanie-444924",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9e899bb9fb141f92",
+      "title": "Lead Product Manager & Coach Produit H/F",
+      "company": "Thiga",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "En immersion chez nos clients grands comptes (Decathlon, Carrefour, L'Oréal, Chanel...), tu as un double rôle : délivrer un produit à fort impact et faire progresser les équipes qui le porteront après toi. Tu navigues entre faire du produit et faire faire du p…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/thiga/lead-product-manager-coach-produit-h-f-paris-388643",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b4587e04be064a75",
+      "title": "Senior Legal Counsel - Corporate",
+      "company": "Swapcard",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-02",
+      "reportsTo": {
+        "name": null,
+        "title": "Chief Legal Officer, your main tasks will be focused around Corporate law as follows: What you'll be"
+      },
+      "summary": "Our Mission Swapcard is the leading AI-powered event platform designed to drive revenue growth and foster meaningful connections at in-person and hybrid events. We recognize the importance of teamwork in successful events; that's why Swapcard is fueled by a te…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/swapcard/senior-legal-counsel-corporate-paris-467173",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9c36827e309798a0",
+      "title": "Working Student - Business and Office Administrator (40-50%)",
+      "company": "Wingtra 2",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join the Wingtra team and become part of this venture-backed robotics scaleup with a global and international team of 120+ dedicated Wingtranauts who want to see their actions have a positive and lasting impact on the world. Founded more than 9 years ago at ET…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/wingtra-2/working-student-business-and-office-administrator-40-50-zurich-208448",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2b8e36a11a06a5d3",
+      "title": "Mechatronic Design & Test Engineer",
+      "company": "Wingtra 2",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join the Wingtra team and become part of this venture-backed robotics scaleup with a global and international team of 125+ dedicated Wingtranauts who want to see their actions have a positive and lasting impact on the world. Founded more than 8 years ago at ET…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/wingtra-2/mechatronic-design-test-engineer-zurich-385014",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c3a8f473eb01c3c7",
+      "title": "Senior Software Engineer, Autonomy",
+      "company": "Anybotics",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ANYbotics is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 200 people and work on cutting-edge robot technology. The Opportunity We are lookin…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/anybotics/senior-software-engineer-autonomy-zurich-381035",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "647abe667cadd394",
+      "title": "Product Manager – Traffic (Flow, Jams, Speed Profiles & Moderation)",
+      "company": "Tomtom",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": "The Netherlands",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-02",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Introduction Real-time traffic is at the heart of TomTom's mission to engineer the smartest, most useful map on the planet. Our live and historical traffic products — flow, jams, and speed profiles — power navigation, ADAS, and mobility decisions for the world…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/tomtom/product-manager-traffic-flow-jams-speed-profiles-moderation-amsterdam-the-netherlands-216437",
+      "source": "Arbeitnow"
+    },
     {
       "id": "3bf2eeeb801701ea",
       "title": "Senior Sales Support Technician",
