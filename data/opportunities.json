@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-03T21:00:24.218055+00:00",
+    "lastUpdated": "2026-11-04T01:23:37.899732+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8985,6 +8985,998 @@
       "summary": "Lieu : Fontenay-sous-Bois (94) Type de contrat : Contrat d’apprentissage – 24 mois Temps de travail : 35 h/semaine Rémunération : selon l’âge et l’année de contrat (grille légale de l’apprentissage) Début : dès que possible Protégez un système d’information ré…",
       "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/kaischool/alternante-en-cybersecurite-h-f-fontenay-sous-bois-113170",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "40f2b57097248cbd",
+      "title": "UX/UI Designer (m/w/d) – AI-powered",
+      "company": "Digitale Leute School",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Gestalte die digitale Welt von morgen als AI-powered UX/UI Designer! Digitale Produkte, Apps und Web-Projekte sind die Welt, in der du arbeiten möchtest? Dich faszinieren Technologie, Design und das Nutzererlebnis? Und du willst wissen, wie KI die Arbeit von D…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/ux-ui-designer-ai-powered-cologne-30977",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "628869a42627f7ae",
+      "title": "E-Commerce & Marketplace Specialist (m/w/d)",
+      "company": "PIKA fresh GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Eschborn",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "PIKA fresh GmbH steht für Premium-Küchenausstattung und innovative Vakuum-Frischhaltesysteme. Als rasant wachsendes Brand vertreiben wir unsere Produkte nicht nur über unseren eigenen Shopify-Store und große Online-Marktplätze, sondern expandieren mit starken …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pika-fresh-gmbh/e-commerce-marketplace-specialist-eschborn-205874",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2a5f57adb6a6b8bd",
+      "title": "Senior Consultant (m/w/d) Unternehmensberatung",
+      "company": "SK Consult Hannover GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Hanover",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "SK Consult ist eine Unternehmensberatung mitten in Hannover. Wir begleiten mittelständische Unternehmen in ihrer wirtschaftlichen und organisatorischen Entwicklung. Dabei verbinden wir Finance, Digitale Transformation und HR mit dem Anspruch, tragfähige Lösung…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sk-consult-hannover-gmbh/senior-consultant-unternehmensberatung-hanover-342121",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "057ecbe959a37377",
+      "title": "Non-Destructive Testing Technician – Level 2",
+      "company": "The Exploration Company",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. We are developing, producing and operating Nyx, a modular and reusable orbital vehicle designed to carry cargo and, in the longer term, potentially crew. To support the ramp-up of our p…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/non-destructive-testing-technician-level-2-munich-293920",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "26661ea6e87bf44b",
+      "title": "Compliance Officer",
+      "company": "Stealthrocketrystartup",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We are looking for a Compliance Officer to help establish and maintain the regulatory, permitting, licensing, and operational-compliance processes required to support the company’s growth. Working within Operations, you will coordinate compliance activities ac…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/compliance-officer-germany-133489",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ba723a63711d6056",
+      "title": "Senior Projektentwickler Wohnungsbau (m/w/d)",
+      "company": "Hypertrics GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Homeoffice",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Senior Projektentwickler Wohnungsbau (m/w/d) Standort: Berlin | Vollzeit | Unbefristet Für unseren Mandanten, ein etabliertes Unternehmen mit Projektentwicklung und Bauorganisation unter einem Dach und anspruchsvollen Wohnungsbauprojekten im Berliner Raum, suc…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/remote-senior-projektentwickler-wohnungsbau-berlin-247894",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7fbe6f1cfb848f18",
+      "title": "Teamleiter Kalkulation Schlüsselfertiger Hochbau (m/w/d)",
+      "company": "Hypertrics GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Homeoffice",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Teamleiter Kalkulation Schlüsselfertiger Hochbau (m/w/d) Standort: Berlin | Vollzeit | Unbefristet Für unseren Mandanten, ein etabliertes Bauunternehmen im Bereich schlüsselfertiger Hochbau mit anspruchsvollen Projekten ausschließlich im Berliner Raum und mode…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/remote-teamleiter-kalkulation-schlusselfertiger-hochbau-berlin-259402",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0c28e4513b4e2e34",
+      "title": "Senior Social Media & Content Expert (m/w/d)",
+      "company": "EuroEyes Deutschland Holding GmbH & Co. KG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "EuroEyes ist die größte selbstständige Klinikgruppe für refraktive Augenchirurgie in Deutschland. Durch den Einsatz von modernsten Augenlaser- und Linsenverfahren, ermöglichen wir unseren Patienten den Start in ein brillen- und kontaktlinsenfreies Leben. Bei E…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/euroeyes-deutschland-holding-gmbh-co-kg/senior-social-media-content-expert-hamburg-187277",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d65c6e7671fb04ba",
+      "title": "Inside Sales Manager",
+      "company": "docu-fix GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Offenbach",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wer wir sind docu-fix digitalisiert den sozialwirtschaftlichen Mittelstand. Wir automatisieren Prozesse rund um Dokumente: Scan-Dienstleistungen, Dokumentenmanagement (u. a. DocuWare), Workflows und E-Signatur. Unsere Kunden sind unter anderem Träger der Sozia…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/docu-fix-gmbh/inside-sales-manager-offenbach-495772",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e49cb97d9aa36acd",
+      "title": "Manager Vertriebskanäle und Produktmanagement (m/w/d)",
+      "company": "Hello Lemon GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Neuss",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Für unseren Kunden suchen wir zum nächstmöglichen Zeitpunkt einen engagierten Manager Vertriebskanäle und Produktmanagement (m/w/d) in Vollzeit am Standort Neuss. In dieser verantwortungsvollen Position gestalten Sie digitale Vertriebsstrategien, optimieren be…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/hello-lemon-gmbh/manager-vertriebskanale-und-produktmanagement-neuss-427863",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3eafe4281dcc9299",
+      "title": "Software Engineer",
+      "company": "Investa",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Software Engineer Office Location: Temple, London - Hybrid (3 days/week in office) Experience Level: +3 years commercial software engineering experience About Investa Investa is building the UK’s first zero-commission Options and Stocks trading platform. Legac…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/investa/software-engineer-london-155589",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9a0ca89226e20d16",
+      "title": "Commercial Lead",
+      "company": "Griffin",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London or remote within the UK",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Griffin Hi, we’re Griffin. We’re a fully regulated UK bank that powers the accounts and payments offerings of product-led fintechs and platforms like Uber, Yonder, Prosper, and Sidekick. By doing the heavy lifting behind the scenes, our customers can foc…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/griffin/commercial-lead-london-22475",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1812a4fbba4bae10",
+      "title": "Customer Success Manager",
+      "company": "Griffin",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London or remote within the UK",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Griffin Hi, we’re Griffin. We’re a fully regulated UK bank that powers the accounts and payments offerings of product-led fintechs and platforms like Uber, Yonder, Prosper, and Sidekick. By doing the heavy lifting behind the scenes, our customers can foc…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/griffin/customer-success-manager-london-57795",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4dcd8d8c4915afaa",
+      "title": "Sales Development Representative",
+      "company": "Dotfile",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Dotfile Dotfile is building the AI-native Compliance Operating System for financial institutions. Our mission is to make compliance simple, safe and smart, helping financial institutions onboard customers, manage risk and operate globally. Compliance rem…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/dotfile/sales-development-representative-london-222640",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "21c03ea2ee71ac94",
+      "title": "Chief Executive Officer, UK",
+      "company": "bunq",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At bunq, we're not just building a banking app, we're reshaping how people experience their financial lives. As CEO, UK, you own bunq's growth in the United Kingdom end to end: you decide who we win, how we win them, and what we build the UK business on. You'l…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/bunq/chief-executive-officer-uk-london-358369",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bfa9a563911f4fb7",
+      "title": "Senior Statisticien RWE",
+      "company": "Excelya",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Boulogne-Billancourt",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join Excelya , where Audacity, Care and Energy define who we are and how we work. We believe in creating ambitious solutions and fostering an inclusive environment where collaboration and individual growth go hand in hand. This role offers an exciting opportun…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/excelya/senior-statisticien-rwe-boulogne-billancourt-204592",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9d00c2e02e8dc1a0",
+      "title": "Sales Development Representative",
+      "company": "Dotfile",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Dotfile Dotfile is building the AI-native Compliance Operating System for financial institutions. Our mission is to make compliance simple, safe and smart, helping financial institutions onboard customers, manage risk and operate globally. Compliance rem…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/dotfile/sales-development-representative-paris-24505",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9e96ecf015015a3f",
+      "title": "Account Executive - Dutch Speaker",
+      "company": "Huzzle",
+      "employmentType": "Internship",
+      "location": {
+        "city": "France",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Huzzle At Huzzle, we connect high-performing professionals with global companies across the UK, US, Canada, Europe, and Australia. Our clients include startups, digital agencies, and tech platforms in industries like SaaS, MarTech, FinTech, and EdTech. W…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/huzzle/remote-account-executive-dutch-speaker-france-332838",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1a65fd47cb7282bf",
+      "title": "ERP Product Owner",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bern",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir suchen eine erfahrene und praxisorientierte Persönlichkeit als ERP Application Owner, die die Verantwortung für eine geschäftskritische Microsoft Dynamics 365 Landschaft (FSCM & Business Central) in einem internationalen Industrieumfeld übernimmt. Diese Ro…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/erp-product-owner-bern-477614",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9c9b117f1912d14d",
+      "title": "IoT Embedded Systems Engineer",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bern",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Take ownership of the development of IoT systems, with a focus on embedded software, system architecture, and hardware and firmware integration Design and develop robust, efficient, and scalable embedded software for IoT products based on microcontroller platf…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/iot-embedded-systems-engineer-bern-27488",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c0a8331b16287ec0",
+      "title": "Dynamics 365 CRM Solution Architect",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our client is an international IT consulting company with a strong focus on Microsoft technologies. As a Microsoft implementation partner, the company delivers CRM projects based on Microsoft Dynamics 365 for well known clients across various industries. It co…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/dynamics-365-crm-solution-architect-zurich-170966",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0f04acc9ba265b79",
+      "title": "IT Solution Architect",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bern",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you an IT architect who is equally comfortable designing a cloud architecture and getting hands-on to implement it? This might be for you. We are looking for an IT System Architect on behalf of our client, a leading Swiss manufacturing company based in Can…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/it-solution-architect-bern-310582",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7f6e3456d830c1a1",
+      "title": "Senior Business Analyst – Digital Pension Solutions",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Contract Duration: 1 October 2026 – 31 December 2027 Project Our client is looking for an experienced Senior Business Analyst / Business Engineer to support the further development of its digital pension portfolio, including solutions related to: Pillar 3a, Ve…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-business-analyst-digital-pension-solutions-zurich-430227",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c679bdedc5a2a003",
+      "title": "ServiceNow AI Architect",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow AI Architects, Senior Consultants and professionals with experience in AI agents and customer-focused AI solutions to join their growing international team. Our c…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-ai-architect-zurich-237261",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e3d0212c661ae78e",
+      "title": "ServiceNow CRM Architect",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow CRM Architects, Senior Consultants and CRM Specialists to join their growing international team. Our client is very well positioned within the ServiceNow ecosyste…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-crm-architect-zurich-496408",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bffa09540d386a2f",
+      "title": "Senior Network Engineer",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our client is an established, family-owned industrial technology company headquartered near Zurich. Its systems run at customer sites in more than 60 countries. To keep them reachable and secure, it needs someone who can build and run the networks behind them,…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-network-engineer-zurich-461038",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c9bfbaae8485257e",
+      "title": "Senior Java/Angular Engineer",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "For a renowned Swiss bank in Zurich, we are looking for an experienced Java/Angular engineer. In a newly built DevOps team you help develop the new platform for digital onboarding and product opening and run its services. Your tasks Build, develop and operate …",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-java-angular-engineer-zurich-402832",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c2120ace5426ba29",
+      "title": "Business Engineer Banking Processes",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "For a renowned Swiss bank in Zurich, we are looking for an experienced business engineer in accounts and cards, trade finance or anti-money-laundering. You translate business requirements into specifications, support implementation and test the results. Your t…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/business-engineer-banking-processes-zurich-219322",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "30bec20e0027ed74",
+      "title": "Business Analyst Processes and Data",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "For a renowned Swiss bank in Zurich, we are looking for an experienced business analyst. You analyse processes, data flows and systems in customer and contract management or in real estate management, and derive target pictures and decision bases from them. Yo…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/business-analyst-processes-and-data-zurich-120535",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a9d238a16b2162fd",
+      "title": "Solution Architect",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "For a renowned Swiss bank in Zurich, we are looking for an experienced solution architect for new platforms in digital onboarding, sales and core banking. You ensure scalability, security and performance, and advise the business, product owners, development an…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/solution-architect-zurich-272173",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ab03c5df8806c76e",
+      "title": "Senior Business Analyst – Pricing & Billing",
+      "company": "SwissPeak Partners GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Senior Business Analyst – Pricing & Billing Contract Duration: 1 December 2026 – 31 December 2027 Project Our client is looking for an experienced Senior Business Analyst / Business Engineer to join its Business Engineering Pricing Services team. The focus of …",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-business-analyst-pricing-billing-zurich-48220",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ea8e67bca3592e1e",
+      "title": "Stage Public Affairs Burson Nederland",
+      "company": "Bursonglobalcareers",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are: Burson, part of WPP, is the global communications leader built to create value for clients through reputation. With highly specialized teams, industry-leading technologies and breakthrough creative, we help brands and businesses redefine reputation…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/bursonglobalcareers/stage-public-affairs-burson-nederland-92467",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "65219dc5ac2bd155",
+      "title": "Stage Communicatie 2027 Burson Nederland",
+      "company": "Bursonglobalcareers",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are: Burson, part of WPP, is the global communications leader built to create value for clients through reputation. With highly specialized teams, industry-leading technologies and breakthrough creative, we help brands and businesses redefine reputation…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/bursonglobalcareers/stage-communicatie-2027-burson-nederland-89564",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6fb230256191ffb2",
+      "title": "Senior Software Engineer (Frontend)",
+      "company": "IXON Cloud",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Beugen",
+        "region": null,
+        "country": "Netherlands",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Op zoek naar een werkplek waar jouw ideeën het verschil maken en waar je op niveau kan sparren met een team van ambitieuze developers? Als Software Engineer bij IXON werk je aan een modern cloudplatform dat door duizenden machinebouwers wereldwijd wordt gebrui…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/ixon-cloud/senior-software-engineer-frontend-beugen-463088",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "26426db289631f80",
+      "title": "Stage: Afdeling Finance",
+      "company": "Nedlin",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Elsloo",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Over Nedlin Nedlin is een industriële textielverzorger voor Healthcare, Hospitality en Industry, waar veiligheid, kwaliteit, continu verbeteren en verantwoord ondernemen centraal staan. Als groeiend B-Corp familiebedrijf investeren we graag in jong talent en v…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/nedlin/stage-afdeling-finance-elsloo-338922",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "26a0ae20c4a702af",
+      "title": "Stage: Afdeling Commercie",
+      "company": "Nedlin",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Elsloo of Hoensbroek",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Over Nedlin Nedlin is een industriële textielverzorger voor Healthcare, Hospitality en Industry, waar veiligheid, kwaliteit, continu verbeteren en verantwoord ondernemen centraal staan. Als groeiend B-Corp familiebedrijf investeren we graag in jong talent en v…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/nedlin/stage-afdeling-commercie-elsloo-of-hoensbroek-134376",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c6816e8e83a21ebb",
+      "title": "Stage: Afdeling Marketing",
+      "company": "Nedlin",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Elsloo",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Over Nedlin Nedlin is een industriële textielverzorger voor Healthcare, Hospitality en Industry, waar veiligheid, kwaliteit, continu verbeteren en verantwoord ondernemen centraal staan. Als groeiend B-Corp familiebedrijf investeren we graag in jong talent en v…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/nedlin/stage-afdeling-marketing-elsloo-369716",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c2a61fa2a91dbf00",
+      "title": "Stage: Afdeling HR",
+      "company": "Nedlin",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Elsloo",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Over Nedlin Nedlin is een industriële textielverzorger voor Healthcare, Hospitality en Industry, waar veiligheid, kwaliteit, continu verbeteren en verantwoord ondernemen centraal staan. Als groeiend B-Corp familiebedrijf investeren we graag in jong talent en v…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/nedlin/stage-afdeling-hr-elsloo-220410",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "92a9e502680debad",
+      "title": "Tax Manager Private Client",
+      "company": "Aprio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Scotch Plains",
+        "region": null,
+        "country": "NJ",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-03",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Work with a Top 20 CPA and advisory firm that Accounts for Anything. Aprio has 40 U.S. office locations, as well as international office locations and more than 3,200 team members that speak 60+ languages across the globe. By bringing together proven expertise…",
+      "applicationUrl": "https://remoteOK.com/remote-jobs/remote-tax-manager-private-client-aprio-1137622",
+      "source": "Remote OK"
     },
     {
       "id": "4bde7237b8194336",
