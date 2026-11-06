@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-06T10:55:19.632562+00:00",
+    "lastUpdated": "2026-11-06T17:58:33.391440+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -3835,6 +3835,2713 @@
       "source": "Arbeitnow"
     },
     {
+      "id": "f6cc17d7d105c30a",
+      "title": "Private Banker mit einem aufgebauten Kundenbuch",
+      "company": "VIVA HR Consulting",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unsere Mandantin, ist eine internationale, unabhängige Privatbank im Herzen von Zürich, die sich auf die ganzheitliche Vermögensverwaltung und Anlageberatung spezialisiert hat. Dabei legt sie grossen Wert auf Innovation und Unabhängigkeit in Bezug auf Produktp…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/viva-hr-consulting/private-banker-mit-einem-aufgebauten-kundenbuch-zurich-69424",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0fa773ad662f71cf",
+      "title": "Wirtschaftsprüfer (m/w/d) – Auf- und Ausbau einer WPG",
+      "company": "PRIME HR Agentur®",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ihre Chance über die PRIME HR Agentur GmbH Die PRIME HR Agentur GmbH begleitet Sie im Rahmen einer exklusiven Direktvermittlung zu einer etablierten, international beratenden Steuerkanzlei im Raum München. Unser Mandant ist seit Jahrzehnten erfolgreich am Mark…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/prime-hr-agentur/wirtschaftsprufer-auf-und-ausbau-einer-wpg-munich-272712",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6706e362fee749d9",
+      "title": "Senior IT Systems Engineer (Enterprise Storage) (m/w/d)",
+      "company": "noris network AG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die noris network AG bietet Unternehmen Lösungen in den Bereichen IT-Outsourcing, Cloud Services, Network & Security und Datacenter. Technologische Basis dieser Services ist eine leistungsfähige IT-Infrastruktur mit einem eigenen Hochleistungs-Backbone und meh…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/noris-network-ag/senior-it-systems-engineer-enterprise-storage-berlin-249150",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b556ef52b8764a71",
+      "title": "Senior CRO & Funnel Marketing Manager (m/w/d) · Remote",
+      "company": "Evolve Digital GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du hast schon Onlineshops zum Wachsen gebracht und suchst ein Umfeld, in dem du auf höchstem Niveau arbeiten kannst? Dann übernimm bei EVOLVE die Conversionrate-Optimierung und Funnelentwicklung von E-Commerce-Brands, von der ersten Analyse bis zum messbaren E…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-cro-funnel-marketing-manager-remote-357218",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9f989c9861abeb45",
+      "title": "Rollout Manager Europe (gn) – KI-Anwendungen",
+      "company": "WGB GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du weißt, wie Software in vielen Ländern wirklich ankommt? Dann bring jetzt KI in den Alltag einer europäischen Gruppe. Arbeitsort: Metropolregion Rhein-Ruhr, hybrid. Du bist regelmäßig vor Ort im Team, aber nicht jeden Tag. Der Reiseanteil liegt bei rund 10 b…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/wgb-gmbh/rollout-manager-europe-gn-ki-anwendungen-dusseldorf-429061",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1d66da39d45105cf",
+      "title": "Solutions Architect – Digital Sovereignty",
+      "company": "databricks",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Healthcare",
+        "Policy / Government",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "FEQ128R99 Location: Germany (remote or from a Databricks office – anywhere in Germany) Languages: Fluent German and business-level English At Databricks, we build the platform that makes data and AI usable across an entire organization. More and more of our cu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/databricks/solutions-architect-digital-sovereignty-munich-182805",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "513c3024601eee11",
+      "title": "Werkstudent (Mensch) Google",
+      "company": "wppmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Dusseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigat…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/wppmedia/werkstudent-mensch-google-dusseldorf-177985",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "689414f1b3468b95",
+      "title": "Senior Social Media Manager (Mensch)",
+      "company": "wppmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigat…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/wppmedia/senior-social-media-manager-mensch-cologne-269082",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "195a80515e81b32e",
+      "title": "Senior Media Consultant (Mensch) Xiaomi/Continental",
+      "company": "wppmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigat…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/wppmedia/senior-media-consultant-mensch-xiaomi-continental-hamburg-488648",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ce1d0d3611bd3f2f",
+      "title": "Senior Software Engineer, Add-Ons",
+      "company": "mozilla",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Why Mozilla? Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people arou…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/mozilla/senior-software-engineer-add-ons-163775",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cdbe6ebd9fa1d757",
+      "title": "Praktikum Strategische Baubarkeit (w/m/d)",
+      "company": "Enpal",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamtlösung für dezentrale Energie – von Solaranlage und Batteriespeicher über Wallbox, Smart Meter bis z…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/enpal/praktikum-strategische-baubarkeit-berlin-263166",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "195907f271138e04",
+      "title": "GRC Specialist",
+      "company": "Secfix",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote - EMEA",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Remote from the UK, Germany, Austria, Poland, Montenegro or Serbia. At Secfix, we’re at the forefront of automating security compliance in Europe. We help companies get and stay ISO 27001, GDPR, TISAX, and SOC 2 fast and easy and reduce hundreds of hours of ma…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/secfix/grc-specialist-munich-83165",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c0574f68f69d8726",
+      "title": "GRC Specialist (German-speaking)",
+      "company": "Secfix",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote - EMEA",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Remote from the UK, Germany, Austria, Poland, Montenegro or Serbia. C1 German Language is essential At Secfix, we’re at the forefront of automating security compliance in Europe. We help companies get and stay ISO 27001, GDPR, TISAX, and SOC 2 fast and easy an…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/secfix/grc-specialist-german-speaking-munich-66101",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e3c1aab72b2326a6",
+      "title": "Bilanzbuchhalter (m/w/d) mit Schwerpunkt Steuern / Tax & Accounting",
+      "company": "Delticom AG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Sehnde",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du möchtest mehr als klassische Buchhaltung? Du möchtest steuerliche Themen aktiv mitgestalten und Deine Expertise dort einbringen, wo sie echten Mehrwert schafft? Dann werde Teil unseres Finance-Teams in der Delticom AG , dem führenden E-Commerce-Unternehmen …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/delticom-ag/bilanzbuchhalter-mit-schwerpunkt-steuern-tax-accounting-sehnde-152601",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f5a3ea24b64e0344",
+      "title": "Junior Marketing Manager (m/w/d)",
+      "company": "Cookie Bros. Partners GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Für unseren Standort in Köln suchen wir zum nächstmöglichen Zeitpunkt eine*n Junior Marketing Manager (m/w/d) in Vollzeit! Wir sind Cookie Bros. – und wir sind hier, um den sweet Snacking Bereich aufzumischen! Vergiss langweilige Snacks – wir stehen für mehr G…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cookie-bros-partners-gmbh/junior-marketing-manager-cologne-38394",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "469a10b244fa904e",
+      "title": "Quality Assurance Manager as Freelancer (.NET C#) (all genders)",
+      "company": "Vexcash AG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Vexcash AG VEXCASH AG is Germany’s leading online provider of short-term loans. We offer our customers a quick and straightforward solution to tide them over until their next payday. More than 800,000 customers already trust our service. Thanks to our in…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/quality-assurance-manager-as-freelancer-net-c-all-genders-berlin-302572",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "818f5358ea25a769",
+      "title": "Recruiter (IT) - High Volume Recruiting | 100% Remote möglich",
+      "company": "Right People Group GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns Die Right People Group ist eine Europäische Beratungsfirma für die Vermittlung von Freiberuflichen Experten. Wir besetzen Projekte bei namhaften Unternehmen aus Energie, Medizintechnik, Finanzen, Logistik und weiteren Branchen. Mit insgesamt ca. 60 in…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/right-people-group-gmbh/recruiter-it-high-volume-recruiting-100-remote-moglich-berlin-152736",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5082b4f36bd9af0f",
+      "title": "Wirtschaftsinformatiker/-in - Vollzeit (m/w/d)",
+      "company": "Immo-Marketer",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bochum",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir suchen neue Mitarbeiter (m/w/d) für den Bereich IT-Management, Digitalisierung & Prozesse, die uns bei der Planung und Umsetzung der IT-Infrastruktur unterstützen. Unternehmensbeschreibung Mit über 800+ Partnern zählt Immo-Marketer zu den etabliertesten Ma…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/immo-marketer/wirtschaftsinformatiker-in-vollzeit-bochum-124875",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a8716d0cd716729c",
+      "title": "Werkstudent:in Content Marketing - Frankreich (m|w|d)",
+      "company": "idealo internet GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Als Teil unseres Teams erwarten dich viel Gestaltungsspielraum, ein internationales Arbeitsumfeld im Herzen Berlins und der ganz eigene idealo Spirit. Du möchtest praktische Erfahrung im Online-Marketing sammeln, eigene Ideen einbringen und Verantwortung übern…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/werkstudentin-content-marketing-frankreich-mwd-berlin-461780",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d969d6b4ed2333d6",
+      "title": "Senior Software & DevOps Engineer",
+      "company": "Soley GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben KI verändert gerade, wie Software entsteht, wie Menschen mit ihr arbeiten und wie schnell aus Ideen echte Anwendungen werden. Bei Soley trifft das auf ein Produkt, das sich in der Industrie bewährt hat, auf anspruchsvolle Kunden und auf ein Team…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/soley-gmbh/senior-software-devops-engineer-munich-113024",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "668ecb6a7296595b",
+      "title": "Specialist (m/w/d) E-Payment",
+      "company": "Delticom AG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Sehnde",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die Delticom AG ist eines der führenden europäischen E-Commerce-Unternehmen für Reifen in Europa. Wir sind mit unseren Kernmarken ReifenDirekt und Tirendo sowie unseren Plattformen in über 70 Ländern aktiv. Millionen Transaktionen, internationale Zahlungsström…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/delticom-ag/specialist-e-payment-sehnde-445252",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "64fb1386ace655c0",
+      "title": "Werkstudent Marketing (m/w/d)",
+      "company": "GENUINE Beauty GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your mission Your mission GENUINE Beauty is a dynamic, fast-growing social commerce agency based in Cologne. We help international brands succeed on TikTok Shop and grow sustainably through innovative marketing strategies, creator partnerships and data-driven …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/genuine-beauty-gmbh/werkstudent-marketing-cologne-405246",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "367dc6715a13e581",
+      "title": "Praktikum / Abschlussarbeit (m/w/d) – Software Testing Medizinprodukte",
+      "company": "Preventicus GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Jena",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Preventicus: Das sind wir Gesundheitslösungen von morgen machen wir schon heute. Wir schaffen Mobile und Wearable Produkte für den Gesundheitssektor. Deine Mission: Im Rahmen eines Praktikums bei der Preventicus GmbH erhältst Du einen umfassenden Einblick in d…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/preventicus-gmbh/praktikum-abschlussarbeit-software-testing-medizinprodukte-jena-370693",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5e737f2879d58085",
+      "title": "Working Student Platform Engineering & DevOps (m/w/d)",
+      "company": "KnowWay GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über KnowWay Wir bei KnowWay entwickeln KI-Agenten für kritische Infrastruktur – Energie, Telekommunikation und öffentlicher Sektor. Überall dort, wo Compliance, Nachvollziehbarkeit und Datensouveränität keine Kompromisse zulassen, automatisieren wir Geschäfts…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/knowway-gmbh/working-student-platform-engineering-devops-munich-153449",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3a2c5c28a53375f7",
+      "title": "Customer Care Specialist (m/w/d)",
+      "company": "matelso GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Kaiserslautern",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "matelso ist ein inhabergeführtes, mittelständisches MarTech-Unternehmen aus Kaiserslautern in der Pfalz. Unser Team aus rund 40 Mitarbeitern in den Bereichen Product Management, Tech und Marketing arbeitet jeden Tag gerne und voller Leidenschaft daran, für uns…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/matelso-gmbh/customer-care-specialist-kaiserslautern-413997",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "396799467f22363c",
+      "title": "Senior Software Engineer, Containers",
+      "company": "chainguard",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/chainguard/senior-software-engineer-containers-313565",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "134baea1e05a859a",
+      "title": "Electronics Test Engineer (m/f/d)",
+      "company": "Agilerobotsse",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Bavaria",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Mechatronics Teams at Agile Robots are looking for an Electronics Test Engineer (m/f/d) . Join our team at our Munich R&D site, where you will design, implement and validate the electronic circuits and software we use to test robot prototypes and subassemb…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/electronics-test-engineer-munich-bavaria-173460",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e7da594696a9eee5",
+      "title": "Working Student, Professional Services",
+      "company": "planetlabs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Humanitarian / NGO",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Welcome to Planet. We believe in using space to help life on Earth. Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutiona…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/planetlabs/working-student-professional-services-berlin-437941",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b029b251179accca",
+      "title": "Solutions Architect I, Professional Services",
+      "company": "planetlabs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Welcome to Planet. We believe in using space to help life on Earth. Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutiona…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/planetlabs/solutions-architect-i-professional-services-berlin-456243",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "460d8f07b1bde6a5",
+      "title": "Software Engineer",
+      "company": "planetlabs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Welcome to Planet. We believe in using space to help life on Earth. Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutiona…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/planetlabs/software-engineer-berlin-249573",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "23af3e18ef980f6e",
+      "title": "Software Engineer",
+      "company": "planetlabs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Welcome to Planet. We believe in using space to help life on Earth. Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutiona…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/planetlabs/software-engineer-berlin-364417",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f7eff4b98865b43f",
+      "title": "Senior Management & Technology Consultant - Manufacturing/Production",
+      "company": "celonis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning A…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/celonis/senior-management-technology-consultant-manufacturing-production-munich-369585",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "58b2c5b93c34ec6f",
+      "title": "Senior Digital Transformation & Process Optimisation Consultant - Manufacturing/Production",
+      "company": "celonis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning A…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/celonis/senior-digital-transformation-process-optimisation-consultant-manufacturing-production-munich-358214",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "23eb609680a0364f",
+      "title": "Client Enablement & Coaching Lead (f/m/d) - Danish & German speaking",
+      "company": "Kraken",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "International Development",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/kraken/client-enablement-coaching-lead-danish-german-speaking-berlin-439698",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "63832c59c2f9dbde",
+      "title": "Senior Community Manager (m/w/d) für Redakteure & Journalisten",
+      "company": "CipSoft GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Regensburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Tibia begeistert seit 1997 Menschen auf der ganzen Welt und wird 2027 dreißig Jahre alt. Als Community Manager bist Du die Brücke zwischen unserer internationalen Community und dem Entwicklerteam. Du schreibst auf Englisch für Spielerinnen und Spieler aus viel…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cipsoft-gmbh/senior-community-manager-fur-redakteure-journalisten-regensburg-57638",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b045ef31ef24fbb5",
+      "title": "Werkstudent Leipzig (m/w/d)",
+      "company": "My Jewellery",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Leipzig",
+        "region": null,
+        "country": "Duitsland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Als Werkstudent/-in in unserer Boutique in Leipzig bist du das Gesicht von My Jewellery. Du begrüßt Kund/-innen mit viel Begeisterung, gibst individuelle Styling-Tipps und sorgst dafür, dass jede Person die Boutique mit einem Lächeln verlässt. Gemeinsam mit de…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/my-jewellery/werkstudent-leipzig-481754",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "86e20460336aa46e",
+      "title": "QA Engineer - Quantum Computing (m/w/d)",
+      "company": "eleQtron GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Siegen",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "eleQtron develops and operates full-stack quantum computers based on trapped-ion technology. Quantum computing is a new computing paradigm rapidly approaching commercial viability. Our unique approach combines laser-cooled trapped ions with microwave control a…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/eleqtron-gmbh/qa-engineer-quantum-computing-siegen-172005",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5a70eb17d584ec82",
+      "title": "Senior Customer Success Manager (all genders)",
+      "company": "Foodji GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Gestalte das perfekte Foodji-Erlebnis Ein großartiges Produkt allein reicht nicht – echte Kundenzufriedenheit entsteht durch starke Beziehungen und einen klaren Blick auf die Entwicklung des Kundenportfolios. Du machst den konkreten Nutzen und Mehrwert von Foo…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-customer-success-manager-all-genders-munchen-480642",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "86f38b5fbddcecfa",
+      "title": "Kaufmännischer Mitarbeiter Qualitätssicherung (m/w/d)",
+      "company": "Wortmann KG Internationale Schuhproduktionen",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Detmold",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Mode ist unsere Leidenschaft - und das bereits seit über 55 Jahren. Saison für Saison entwickeln wir als familiengeführte Unternehmensgruppe erfolgreiche Kollektionen, die inzwischen in über 70 Ländern und 15.000 Schuhgeschäften zu finden sind. Unsere Maxime l…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/wortmann-kg-internationale-schuhproduktionen/kaufmannischer-mitarbeiter-qualitatssicherung-detmold-322675",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c70cc6219696f8bd",
+      "title": "Customer Service & Auftragssteuerung / Sonderanfertigung (m/w/d)",
+      "company": "Waldemar Link GmbH & Co. KG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Norderstedt",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Das ist Dein Aufgabengebiet Du sorgst dafür, dass patientenbezogene Sonderanfertigungen zuverlässig ihren Weg von der Anfrage bis zur Auslieferung finden. Dabei koordinierst Du Vertrieb, Fertigung und Arbeitsvorbereitung, behältst Termine und Aufträge im Blick…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/waldemar-link-gmbh-co-kg/customer-service-auftragssteuerung-sonderanfertigung-norderstedt-138700",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "32b4a8c386639a14",
+      "title": "Fachbauleiter Leittechnik / Automatisierungstechnik (m/w/d)",
+      "company": "INP Deutschland GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Eschweiler",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Damit aus einer bestehenden Anlage ein eigenständiger Standort wird, müssen viele technische Schnittstellen zusammenpassen. Für die Erweiterung einer Müllverbrennungsanlage in Weisweiler suchen wir Sie zur Verstärkung unseres INP-Projektteams. Als Bauherrenver…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/inp-deutschland-gmbh/fachbauleiter-leittechnik-automatisierungstechnik-eschweiler-105210",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "16e0bbc7b4128e63",
+      "title": "Grafikdesigner – Vollzeit (m/w/d)",
+      "company": "DIGIHEADS GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Dortmund",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir suchen engagierte Mitarbeiter:innen für unser Social-Media bzw. Designteam, die die komplette grafische Umsetzung unserer Recruiting- und Marketingprojekte übernehmen und damit maßgeblich zum Erfolg unserer Kunden beitragen. Wenn du strukturiert arbeitest,…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/digiheads-gmbh/grafikdesigner-vollzeit-dortmund-63017",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9215aa157c8b0078",
+      "title": "Renewal Manager SaaS (m/w/d)",
+      "company": "Noerr Solutions | Digital Recruitment",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Renewal Manager SaaS (m/w/d) / Customer Contract Manager SaaS (m/w/d) gesucht! Unser Kunde ist ein etabliertes Softwareunternehmen , das innovative Lösungen für Technische Dokumentation, After-Sales und Service entwickelt. Mit einem breiten Portfolio aus moder…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/noerr-solutions-digital-recruitment/renewal-manager-saas-berlin-337298",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6a041a4e3b1f75e4",
+      "title": "Senior Cyber Security Engineer (m/w/d)",
+      "company": "Noerr Solutions | Digital Recruitment",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Karlsruhe",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Senior Cyber Security Engineer (m/w/d) – IT-Sicherheit & ISO 27001 gesucht! Unser Auftraggeber zählt zu den führenden Unternehmen für Logistik- und Servicedienstleistungen in Deutschland und entwickelt seit vielen Jahren innovative Lösungen entlang der gesamte…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/noerr-solutions-digital-recruitment/senior-cyber-security-engineer-karlsruhe-33176",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4550829f1721c107",
+      "title": "SAP Application Manager Finance (m/w/d)",
+      "company": "Noerr Solutions | Digital Recruitment",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Karlsruhe",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "SAP Application Manager Finance (m/w/d) | FI/CO, Customizing & S/4HANA gesucht! Unser Auftraggeber zählt zu den führenden Unternehmen für Logistik- und Servicedienstleistungen in Deutschland und überzeugt mit einer modernen, innovativen IT-Landschaft sowie ein…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/noerr-solutions-digital-recruitment/sap-application-manager-finance-karlsruhe-300998",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "40f7a1135a89e867",
+      "title": "iOS Entwickler (m/w/d)",
+      "company": "Noerr Solutions | Digital Recruitment",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Dresden",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "iOS Entwickler (m/w/d) gesucht! Du entwickelst native iOS-Apps mit Swift und SwiftUI und möchtest nicht nur Features umsetzen, sondern ein Produkt langfristig mitgestalten? Dann könnte diese Position genau das Richtige für Dich sein! Für unseren Kunden, ein et…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/noerr-solutions-digital-recruitment/ios-entwickler-dresden-326669",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bc0b496d81d1b86b",
+      "title": "Senior Product Designer, London, UK",
+      "company": "eucalyptus",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We're the world's leading consumer healthcare platform, supporting millions of patients across the US, Australia, the UK, Germany, Japan, Spain and Canada. We're driven by the belief that good health should last a lifetime, and that to get there we need to del…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/eucalyptus/senior-product-designer-london-uk-287117",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bce410ef899cb831",
+      "title": "Project Manager, Media Analytics",
+      "company": "wppmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/project-manager-media-analytics-london-254293",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f7d8563a81fd7fce",
+      "title": "Senior Partner Account Executive, UK - Insurance",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/samsara/senior-partner-account-executive-uk-insurance-london-330827",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0be19705095bfe87",
+      "title": "Senior Software Engineer, Add-Ons",
+      "company": "mozilla",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Why Mozilla? Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people arou…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/mozilla/senior-software-engineer-add-ons-101043",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "049f5d11d746e384",
+      "title": "Country Lead - France",
+      "company": "AnyVan",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": "CMO, you’ll define and execute the French go‑to‑market strategy, working closely with Marketing, Sal"
+      },
+      "summary": "Got Drive? Join AnyVan as we make moving anything, anywhere miles better and build a career that moves just as fast. Back in 2009, our Chairman Angus saw half-empty vans everywhere and knew there had to be a better way! That's how AnyVan began. He set out to c…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/anyvan/country-lead-france-london-275747",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6bfaa6be1e6fae55",
+      "title": "Senior Credit & Commercial Strategy Analyst",
+      "company": "liberis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Some key info for you: 🌱 We were founded in 2007 💰 We have provided over $3bn of funding to small businesses so far 🚀 We have been named in CNBC & Statista Top 150 UK Fintechs for 2025 🌍 We're a global team, with a dynamic presence in 6 key locations around th…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/liberis/senior-credit-commercial-strategy-analyst-london-339695",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2a39bb10308de327",
+      "title": "Senior Software Engineer, Containers",
+      "company": "chainguard",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/senior-software-engineer-containers-88932",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "98e142675ff96dee",
+      "title": "Senior Forward Deployed Engineer (AI Agent) - UK",
+      "company": "cresta",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligen…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cresta/senior-forward-deployed-engineer-ai-agent-uk-214546",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "36912c23846972dd",
+      "title": "Senior Bazel Engineer",
+      "company": "Tweag by Modus Create",
+      "employmentType": "Internship",
+      "location": {
+        "city": "France",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About us Tweag is a software consultancy that helps engineering organizations overcome technical bottlenecks that stand in the way of success. Our work in scalable build systems, primarily through Bazel, helps our clients grow their tech organization without t…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/tweag-by-modus-create/senior-bazel-engineer-france-473759",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a524c88d1b781bd6",
+      "title": "Operations Manager, Offer Operations",
+      "company": "Joko",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": "David Le Pahun , our Offer Operations Lead"
+      },
+      "summary": "At Joko, our mission is to we help consumers save time and money when shopping online or in-store. Founded in Paris, Joko is a tech company and certified B Corp with over 120 talents across Paris, Barcelona, and New York (and beyond). More than 7 million users…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/joko/operations-manager-offer-operations-paris-103618",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ad30d70df15c0432",
+      "title": "Product Manager digital learning",
+      "company": "Compani",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Qui sommes-nous ? Compani accompagne les structures du médico-social (EHPAD, services d’aide et de soins à domicile, structures du handicap) à recruter, diplômer et fidéliser leurs professionnels, via des parcours de formation qui transforment les pratiques à …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/compani/product-manager-digital-learning-paris-241945",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fff6e551a25e7912",
+      "title": "Channel Sales Engineer (France)",
+      "company": "Commvault",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": "Channel Pre-Sales Leader Present and demonstrate the Commvault software suite of products through th"
+      },
+      "summary": "Recruitment Fraud Alert We’ve learned that scammers are impersonating Commvault team members—including HR and leadership—via email or text. These bad actors may conduct fake interviews and ask for personal information, such as your social security number. What…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/commvault/channel-sales-engineer-france-18020",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "87aa773aacf6e992",
+      "title": "Apporteur d'Affaires Indépendant – Plateforme B2B & Prestations Globales H/F",
+      "company": "PROXIMÉDIAS",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Type de contrat : Partenariat / Indépendant (Statut freelance obligatoire) Lieu : Télétravail (100% à distance) Rémunération : Commissions attractives versées directement par les sociétés partenaires À propos de l'opportunité Vous êtes indépendant et recherche…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/proximedias/apporteur-daffaires-independant-plateforme-b2b-prestations-globales-h-f-paris-351984",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a3a76a4d239176cd",
+      "title": "Security Architect",
+      "company": "European Dynamics",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Strasbourg",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We currently have a vacancy for a Security Architect in English, to offer his/her services as an expert who will be based in Strasbourg, France . The work will be carried out either in the company’s premises or on site at customer premises. In the context of t…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/european-dynamics/security-architect-strasbourg-222895",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6ded003d58975816",
+      "title": "Collaborateur Marketing (H/F) - Projet Coaching télétravail",
+      "company": "gaea21",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Geneva",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Vous souhaitez évoluer dans le domaine du Marketing, et êtes à la recherche d’une expérience professionnelle enrichissante, vous désirez mettre en pratique les acquis de votre formation, acquérir de la pratique, et/ou développer votre autonomie pour compléter …",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/gaea21/collaborateur-marketing-h-f-projet-coaching-teletravail-geneva-22213",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0371d384c941728c",
+      "title": "CFO (Mitglied der Geschäftsleitung)",
+      "company": "ProSearch AG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Basel",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Das Universitäre Zentrum für Zahnmedizin Basel (UZB) vereint Patientenbehandlung, akademische Lehre und Forschung unter einem Dach. Mit rund 300 Mitarbeitenden, rund 100'000 Behandlungen pro Jahr und einem Umsatz von ca. CHF 40 Mio. erbringt das UZB seine Leis…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/prosearch-ag/cfo-mitglied-der-geschaftsleitung-basel-293095",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cd5634d5eb5b5951",
+      "title": "Marketing Manager (gn) - More Nutrition Schweiz",
+      "company": "thequalitygroupgmbh1",
+      "employmentType": "Internship",
+      "location": {
+        "city": "remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Start: ab sofort | Level: Intermediate | Location: Schweiz, remote | Arbeitszeit: Vollzeit (40h/Woche) In der Rolle als Marketing Manager ( gn ), übernimmst du die Entwicklung und Umsetzung unserer Markenstrategie für More Nutrition in der Schweiz . More Nutri…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/thequalitygroupgmbh1/remote-marketing-manager-gn-more-nutrition-schweiz-415540",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ff5eaa3d596ad29b",
+      "title": "HR-Generalist 80 - 100% (m/w/d)",
+      "company": "NYDEGGER Personal/Engineering AG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Oberglatt",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Tätigkeiten: Eigenständige Durchführung der monatlichen Lohnverarbeitung Bearbeitung von Fragen zu Löhnen, Sozialversicherungen und zu personalrelevanten Anfragen Abwicklung sämtlicher administrativer Aufgaben im Personalwesen Durchführung der lohnrelevanten J…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/nydegger-personalengineering-ag/hr-generalist-80-100-oberglatt-390994",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ce1d5f4aa3a0dc15",
+      "title": "Expansion Associate (H/F) - 100%",
+      "company": "Room Estate AG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Geneva",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Tu n'abandonnes pas au premier refus, ni au dixième. Tu traites une liste le vendredi après-midi avec le même soin que le lundi matin, et tu mènes à terme ce que tu as commencé, pour que rien ne reste en suspens et que rien ne vieillisse en silence dans un coi…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/room-estate-ag/expansion-associate-h-f-100-geneva-407676",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6a9d5aa1c154ae1c",
+      "title": "Senior RAM Engineer",
+      "company": "Destinusgroup",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Destinus Engineering is looking for a highly motivated and experienced Senior Reliability Engineer to ensure that our defense systems and products perform dependably in demanding operational environments. You’ll lead reliability, availability and maintainabili…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/senior-ram-engineer-zurich-91435",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5a4dddecb7636eb7",
+      "title": "Mechanical Engineer, Jigs & Tools",
+      "company": "Destinusgroup",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Payerne",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the Role The Destinus engineering team is looking for a highly motivated and hands-on mechanical engineer capable of delivering jigs and tooling solutions as part of the research and development in the rocket motor department. In this role, you will desi…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/mechanical-engineer-jigs-tools-payerne-499599",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0b987c92a14380d3",
+      "title": "Mechanical Engineer, Jigs & Tools",
+      "company": "Destinusgroup",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the Role The Destinus engineering team is looking for a highly motivated and hands-on mechanical engineer capable of delivering jigs and tooling solutions as part of the research and development in the rocket motor department. In this role, you will desi…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/mechanical-engineer-jigs-tools-zurich-173900",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "729caf4cfb63d0ec",
+      "title": "Mechanical Engineer, Automation Projects",
+      "company": "Destinusgroup",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Payerne",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the Role The Destinus engineering team is looking for a highly motivated and hands-on mechanical engineer capable of delivering engineering solutions as part of the research and development in the rocket motor department. In this role you will design and…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/mechanical-engineer-automation-projects-payerne-267521",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "99092675e20d7350",
+      "title": "Mechanical Engineer, Automation Projects",
+      "company": "Destinusgroup",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the Role The Destinus engineering team is looking for a highly motivated and hands-on mechanical engineer capable of delivering engineering solutions as part of the research and development in the rocket motor department. In this role you will design and…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/mechanical-engineer-automation-projects-zurich-308242",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e572ed201626573f",
+      "title": "Internationaler Servicetechniker (DJ130)",
+      "company": "Excellent Go4",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Winterthur",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "NEUES JAHR. NEUE HERAUSFORDERUNG. Internationaler Servicetechniker (m/w/d) Weltweite Einsätze · Schweizer Festanstellung · Start ab sofort oder 01.01.2027 STANDORT Region Winterthur / Zürich (Schweiz) 100 % · unbefristete Festanstellung Bis CHF 95’000 brutto/J…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/internationaler-servicetechniker-dj130-winterthur-99159",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "85db01b08726bf9b",
+      "title": "Quality Assurance Associate (m/w/d) for CSL Behring (50%)",
+      "company": "We make it GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Bern",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We make it GmbH is a company operating nationally in Switzerland. Thanks to many years of successful experience, it has a high level of competence in the personnel services sector. Concentration of placement activities on the core areas of industry, technology…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/we-make-it-gmbh/quality-assurance-associate-for-csl-behring-50-bern-425640",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d5d68b79f9b921ee",
+      "title": "Senior Influencer Marketing Project Manager",
+      "company": "wppmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigat…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/wppmedia/senior-influencer-marketing-project-manager-amsterdam-306035",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7b9b11c3adc72a49",
+      "title": "Meewerk- of afstudeerstage HR & Recruitment",
+      "company": "Deerns Groep BV",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Den Haag",
+        "region": null,
+        "country": "Netherlands",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ben jij bezig met een hbo-opleiding en op zoek naar een meewerk- of afstudeerstage binnen HR? Wil je ervaren hoe het eraan toegaat binnen een internationaal en innovatief technisch adviesbureau. Bij Deerns krijg je de kans om je te ontwikkelen binnen zowel HR …",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/deerns-groep-bv/meewerk-of-afstudeerstage-hr-recruitment-den-haag-321219",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c0a508c3affd0f3b",
+      "title": "Senior G&E Executive",
+      "company": "Leonardo Hotels",
+      "employmentType": "Internship",
+      "location": {
+        "city": "The Hague",
+        "region": null,
+        "country": "Netherlands",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "SENIOR G&E EXECUTIVE Is organizing truly your passion, and do you know how to turn a client request into a successful and memorable event? We are looking for a Senior G&E Executive to strengthen our team at the Leonardo Royal Hotel Den Haag Promenade & Leonard…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/leonardo-hotels/senior-ge-executive-the-hague-77909",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ae41250896be725c",
+      "title": "Stage Styling",
+      "company": "Edelman BV",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Reeuwijk",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wij zijn op zoek naar een Stagiair Styling ter versterking van ons creatieve Styling team. Ben jij creatief, zelfstandig en barst je van de ideeën? Dan is dit jouw kans om praktijkervaring op te doen in een omgeving waar creativiteit centraal staat. Bij ons kr…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/edelman-bv/stage-styling-reeuwijk-251267",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "47338bc349b07792",
+      "title": "Stage Grafische Vormgeving",
+      "company": "Edelman BV",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Reeuwijk",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ben jij creatief, heb je oog voor detail en wil je jouw grafische skills in de praktijk verder ontwikkelen? Dan hebben wij een leuke stageplek voor je! Voor onze Marketingafdeling in Reeuwijk zoeken we een enthousiaste Stagiair Grafische Vormgeving die graag n…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/edelman-bv/stage-grafische-vormgeving-reeuwijk-488469",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "41458224058f0396",
+      "title": "Stage Online Marketing",
+      "company": "Edelman BV",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Reeuwijk",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ben jij helemaal thuis in de wereld van social media, barst je van de creatieve ideeën en wil je ontdekken hoe je online marketing écht in de praktijk brengt? Dan hebben wij een leuke stageplek voor je! Voor onze marketingafdeling zoeken we een enthousiaste St…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/edelman-bv/stage-online-marketing-reeuwijk-115937",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0e58f14de8f1755e",
+      "title": "Stage Content Creation & Marketing",
+      "company": "Edelman BV",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Reeuwijk",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ben jij creatief, gek op social media en altijd bezig met het maken van content? Dan zijn wij op zoek naar jou! Voor ons Marketingteam zijn wij op zoek naar een enthousiaste Stagiair Content Creation & Marketing . Tijdens deze meewerkstage krijg je de kans om …",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/edelman-bv/stage-content-creation-marketing-reeuwijk-367509",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d95f5d1b5bbcce6b",
+      "title": "Projektmanager*in (m/w/d) in Vollzeit (100 %) als Elternzeitvertretung",
+      "company": "ChildFund Deutschland e.V.",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über ChildFund Deutschland e.V. ChildFund Deutschland ist eine Kinderschutzorganisation, die sich seit mehr als 40 Jahren weltweit dafür einsetzt, Kindern in Not und deren Familien zu helfen und so die Zukunftschancen ganzer Gemeinschaften zu verbessern. Die P…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/childfund-deutschland-ev/projektmanagerin-in-vollzeit-100-als-elternzeitvertretung-berlin-35729",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e995b3f4bde8fe03",
+      "title": "Zweiradmechatroniker (m/w/d) - Technical Customer Service",
+      "company": "R Raymon Bicycles GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Schweinfurt",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Schreibe mit an der Erfolgsgeschichte von RAYMON und werde Teil unseres agilen Teams! Du glaubst, dass man das Rad jeden Tag neu erfinden kann? Dann bist Du bei uns genau richtig! Denn mit der R Raymon Bicycles GmbH gestalten wir schon heute die Mobilität von …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/r-raymon-bicycles-gmbh/zweiradmechatroniker-technical-customer-service-schweinfurt-305864",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "09ba26f42b7c5fcb",
+      "title": "(Junior) IT-Spezialist E-Commerce & Datenintegration (m/w/d)",
+      "company": "BPW Aftermarket Group Deutschland GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Wuppertal",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Struktur in Daten bringen. Systeme verbinden. Zukunft gestalten. Die BPW Aftermarket Group, als Nutzfahrzeug-Ersatzteilnetzwerk der BPW Gruppe, sorgt für die zuverlässige und schnelle Versorgung mit Ersatzteilen für Lkw und Anhänger in ganz Europa. Mehr als 15…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/bpw-aftermarket-group-deutschland-gmbh/junior-data-integration-engineer-wuppertal-1686",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ee84cf87227edc1f",
+      "title": "Key Account Manager / Country Lead FMCG LEH (m/w/d)",
+      "company": "ooha",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Supply Chain",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du willst nicht der/die fünfte KAM in einer Konzern-Pyramide sein, sondern die kommerzielle Stimme starker Marken im deutschen Handel? Dann lies weiter. Wir sind ooha – die am schnellsten wachsende Impact-Vertriebsagentur Deutschlands, Sitz Hamburg. Wir bringe…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ooha/key-account-manager-country-lead-fmcg-leh-hamburg-103073",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "80e483a08b501e17",
+      "title": "Founders Associate – Praktikum",
+      "company": "STARTPLATZ AI Academy",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Einleitung Bock auf KI und Lust, direkt an der Seite der Gründer:innen zu lernen? Die STARTPLATZ AI Academy macht KI praktisch nutzbar: Wir bilden Privatpersonen und Unternehmen in Köln mit praxisnahen Trainings, Workshops und Coachings im Umgang mit KI-Tools …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/startplatz-ai-academy/founders-associate-praktikum-cologne-487437",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0cda6dc9a65629d4",
+      "title": "Konstruktionsingenieur (m/w/d)",
+      "company": "Delticom AG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hanover",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die Delticom AG ist einer der führenden Online-Reifenhändler in Europa. Mit einem breiten Sortiment an Produkten und Dienstleistungen haben wir uns auf die Bedürfnisse unserer Kunden spezialisiert. Unsere hochmotivierten Teams setzen sich täglich für eine exze…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/delticom-ag/konstruktionsingenieur-hanover-400680",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bba56f0d353740b3",
+      "title": "IT-Systemelektroniker (m/w/d)",
+      "company": "think about IT GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bochum",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die thinkGROUP ist eine erfolgreiche Systemhausgruppe, die ständig nach Innovation strebt und großen Wert auf die kontinuierliche Optimierung unserer internen Prozesse legt. Die Nutzung modernster Technologien ist kein Selbstzweck, sondern die Ausprägung unser…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/it-systemelektroniker-bochum-446475",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6cdeae4d1b78054b",
+      "title": "IT-System Engineer (m/w/d)",
+      "company": "think about IT GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bochum",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die thinkGROUP ist eine erfolgreiche Systemhausgruppe, die ständig nach Innovation strebt und großen Wert auf die kontinuierliche Optimierung unserer internen Prozesse legt. Die Nutzung modernster Technologien ist kein Selbstzweck, sondern die Ausprägung unser…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/it-system-engineer-bochum-250365",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0d804be2190acd0d",
+      "title": "Senior IT Administrator (m/w/d)",
+      "company": "think about IT GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bochum",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die thinkGROUP ist eine erfolgreiche Systemhausgruppe, die ständig nach Innovation strebt und großen Wert auf die kontinuierliche Optimierung unserer internen Prozesse legt. Die Nutzung modernster Technologien ist kein Selbstzweck, sondern die Ausprägung unser…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/senior-it-administrator-bochum-384070",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "430101fc7f23bc46",
+      "title": "Team Lead Accounting (m/w/d)",
+      "company": "think about IT GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bochum",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die thinkGROUP ist eine erfolgreiche Systemhausgruppe, die ständig nach Innovation strebt und großen Wert auf die kontinuierliche Optimierung unserer internen Prozesse legt. Die Nutzung modernster Technologien ist kein Selbstzweck, sondern die Ausprägung unser…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/team-lead-accounting-bochum-418772",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "33d3b2027afd2912",
+      "title": "Senior Frontend-Softwareentwickler (m/w/d)",
+      "company": "TecFox GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns: Du begeisterst Dich für moderne Webanwendungen, durchdachte Softwarearchitekturen und leistungsstarke Single-Page-Applikationen? Du legst Wert auf sauberen Code und innovative Frontend-Lösungen? Dann könnte TecFox genau der richtige nächste Schritt f…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/senior-frontend-softwareentwickler-berlin-92048",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "58e54d72634b353c",
+      "title": "Senior Microsoft Cloud Transformation Architect (m/w/d)",
+      "company": "think about IT GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Nuremberg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die thinkGROUP ist eine erfolgreiche Systemhausgruppe, die ständig nach Innovation strebt und großen Wert auf die kontinuierliche Optimierung unserer internen Prozesse legt. Die Nutzung modernster Technologien ist kein Selbstzweck, sondern die Ausprägung unser…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/senior-microsoft-cloud-transformation-architect-nuremberg-256646",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ed7bacba66c25676",
+      "title": "Senior Microsoft AI & Copilot Engineer (m/w/d)",
+      "company": "think about IT GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Nuremberg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die thinkGROUP ist eine erfolgreiche Systemhausgruppe, die ständig nach Innovation strebt und großen Wert auf die kontinuierliche Optimierung unserer internen Prozesse legt. Die Nutzung modernster Technologien ist kein Selbstzweck, sondern die Ausprägung unser…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/senior-microsoft-ai-copilot-engineer-nuremberg-490506",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4ad0724e1511fd83",
+      "title": "Senior Azure Cloud Platform Architect (m/w/d)",
+      "company": "think about IT GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Nuremberg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die thinkGROUP ist eine erfolgreiche Systemhausgruppe, die ständig nach Innovation strebt und großen Wert auf die kontinuierliche Optimierung unserer internen Prozesse legt. Die Nutzung modernster Technologien ist kein Selbstzweck, sondern die Ausprägung unser…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/senior-azure-cloud-platform-architect-nuremberg-474961",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "04b5eefe69c9eee6",
+      "title": "Senior Projektmanager:in (m/w/d) – Digitalisierung & Insurance Solutions",
+      "company": "red6 enterprise software GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns Die red6 enterprise software GmbH ist ein Unternehmen im HanseMerkur-Konzern und spezialisiert auf die Beratung und Umsetzung von digitale Business- und Insurance-Lösungen. Wir entwickeln innovative, maßgeschneiderte Softwarelösungen und begleiten uns…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/red6-enterprise-software-gmbh/senior-projektmanagerin-digitalisierung-insurance-solutions-hamburg-280186",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dff5c67d86961003",
+      "title": "Oracle Fusion HCM Time & Labor Fast Formula Developer – AI-Assisted Delivery (Freelance, Europe)",
+      "company": "Sidekick Network GmbH & Co. KG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our international client is currently implementing Oracle Fusion HCM Time and Labor across multiple countries. The initial country implementation provides the foundation for subsequent rollouts. A large amount of Fast Formulas and country-specific adaptations …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/oracle-fusion-hcm-time-labor-fast-formula-developer-ai-assisted-delivery-freelance-europe-berlin-199499",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fa2597a4bfc37443",
+      "title": "Senior Fullstack-Softwareentwickler (m/w/d)",
+      "company": "TecFox GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns: Du möchtest moderne Softwarelösungen entwickeln und dabei sowohl im Backend als auch im Frontend aktiv mitwirken? Du interessierst Dich für skalierbare Systemarchitekturen, innovative Technologien und die Zusammenarbeit in agilen Teams? Dann bist Du …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/senior-fullstack-softwareentwickler-berlin-291624",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1eb308828d42596a",
+      "title": "Ausbildung Sport- und Fitneskaufmann/-frau (m/w/d)",
+      "company": "SanoGym GmbH & Co. KG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Stuttgart",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "WER SIND WIR? Mehr als nur Fitnessstudio Du liebst Sport, bist gern unter Menschen und hast ein Händchen fürs Organisieren? Dann lernst du bei uns, wie ein erfolgreiches Fitnessunternehmen wirklich funktioniert: vom Training bis zur Studioleitung. Klasse statt…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sanogym-gmbh-co-kg/ausbildung-sport-und-fitneskaufmann-frau-stuttgart-386061",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "76f3336b76beeaaf",
+      "title": "Mediengestalter (m/w/d) Marketing und Kommunikation",
+      "company": "Helmut Diebold GmbH & Co.",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Jungingen",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du hast ein Gespür für herausragende Inhalte, arbeitest gerne kreativ und behältst auch bei mehreren Projekten den Überblick? Dann bist du bei uns genau richtig! Dich erwartet ein vielseitiger Aufgabenbereich rund um Content, Social Media, Printmedien und Mess…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/helmut-diebold-gmbh-co/mediengestalter-marketing-und-kommunikation-jungingen-352018",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ad465639a82241be",
+      "title": "Engineering Manager, Switchboard",
+      "company": "gitlab",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million re…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-engineering-manager-switchboard-35546",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bb080395a367c513",
+      "title": "Senior Associate, Subscription Performance",
+      "company": "wolt",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Wolt At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we’re building the delivery of (almost) everything and you’ll find us in over 500 citi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/wolt/senior-associate-subscription-performance-london-485324",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "28860c208af36bbe",
+      "title": "Engagement Associate",
+      "company": "Legora",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Legora is redefining how legal work gets done. Not built for lawyers, built with them. We work alongside the world’s best legal teams, who expect excellence, precision, and speed, and we hold ourselves to the same bar. Our AI-native workspace lets leg…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/legora/engagement-associate-london-431650",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "904169e59718b2ab",
+      "title": "Graduate Customer Care Advisor (Kent)",
+      "company": "Lendable",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Chatham",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Lendable Lendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start: One of the UK’s most exciting unicorns with a team…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/lendable/graduate-customer-care-advisor-kent-chatham-462310",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "54f99a6c33512f1e",
+      "title": "FinTech Operations Graduate (Customer Support)",
+      "company": "Lendable",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Chatham",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Lendable Lendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start: One of the UK’s most exciting unicorns with a team…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/lendable/fintech-operations-graduate-customer-support-chatham-392811",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3a828803c4b9e635",
+      "title": "Junior Commercial Insights Analyst",
+      "company": "Quantum",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Company At Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity. Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world’s most used digital comparison serv…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/quantum/junior-commercial-insights-analyst-london-72720",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0fe3a6e50c57b588",
+      "title": "Site Associate - Editions Bermondsey",
+      "company": "Deliveroo",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London - Acton (Editions)",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Title: Site Associate (Part time) Location: Bermondsey Pay: £14.40 per hour Hours: 20 About Deliveroo Editions With a dash of hard-work, a sprinkle of teamwork and a whole dollop of creativity, we created “Editions” which is our ‘dark kitchens’ business. We ha…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/site-associate-editions-bermondsey-london-90259",
+      "source": "Arbeitnow"
+    },
+    {
       "id": "f4cec50f6ce0b517",
       "title": "Full Stack Engineer",
       "company": "Tilla Technologies",
@@ -7503,31 +10210,6 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "f6cc17d7d105c30a",
-      "title": "Private Banker mit einem aufgebauten Kundenbuch",
-      "company": "VIVA HR Consulting",
-      "employmentType": "Internship",
-      "location": {
-        "city": "Zürich",
-        "region": null,
-        "country": null,
-        "workMode": "On-site"
-      },
-      "sectors": [
-        "Consulting",
-        "Marketing & Communications"
-      ],
-      "deadline": null,
-      "postedDate": "2026-11-05",
-      "reportsTo": {
-        "name": null,
-        "title": null
-      },
-      "summary": "Unsere Mandantin, ist eine internationale, unabhängige Privatbank im Herzen von Zürich, die sich auf die ganzheitliche Vermögensverwaltung und Anlageberatung spezialisiert hat. Dabei legt sie grossen Wert auf Innovation und Unabhängigkeit in Bezug auf Produktp…",
-      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/viva-hr-consulting/private-banker-mit-einem-aufgebauten-kundenbuch-zurich-69424",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "25342538e0a742fd",
       "title": "Enterprise Applications Manager",
       "company": "Skynrg",
@@ -10635,6 +13317,30 @@
       "summary": "Job Description: Sr. Project Manager, UK Location: Remote, UK Only About The Company: MustardSeed PMO designs and delivers project management solutions for complex, regulated sectors. We build PMOs, plan, staff, and run projects and programs, and provide seaso…",
       "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/mustardseed/senior-project-manager-uk-united-kingdom-163533",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "7a90132bae6befc5",
+      "title": "ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)",
+      "company": "Toptal",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Anywhere in the World",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Overview We are building a benchmark that tests how well AI agents handle real expert work in a terminal. We are hiring ML inference and serving experts to turn real, paid tasks from their jobs into expert-level Terminal-Bench challenges. Each task includes th…",
+      "applicationUrl": "https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689",
+      "source": "Remote OK"
     },
     {
       "id": "628869a42627f7ae",
@@ -17962,6 +20668,57 @@
       "summary": "ð Build the data layer AI needs to do science Application deadline: 16 Nov 2026 23:59 CET About Claims AI ate the Internet, but it can't digest science yet. A paper is thousands of words of prose written for humans, but an AI agent doing research needs to k…",
       "applicationUrl": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685",
       "source": "Remote OK"
+    },
+    {
+      "id": "5a6edbe9a11d03f7",
+      "title": "Freelance Writer",
+      "company": "IAPWE",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Worldwide",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-04",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). Some topics you may be asked to write about include t…",
+      "applicationUrl": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "source": "Remotive"
+    },
+    {
+      "id": "38f1d77a5dd19aec",
+      "title": "Content Reviewer - United States",
+      "company": "TELUS Digital",
+      "employmentType": "Internship",
+      "location": {
+        "city": "USA",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-04",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We are looking for an independent, flexible, remote opportunity where you can help improve AI-powered search technology from the comfort of your home? If you're curious, internet-savvy, and enjoy evaluating online content, this freelance project could be a gre…",
+      "applicationUrl": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091166",
+      "source": "Remotive"
     },
     {
       "id": "98f398b528b2fc9f",
@@ -231600,32 +234357,6 @@
       "summary": "The Company: When it comes to digital communities, The Alliance is leading the way. Product marketing, sales enablement, product-led growth, AI, customer success, CMOs, you name it, we’re home to thriving communities for them all. With 160,000+ professionals a…",
       "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/pmmalliance/global-sales-executive-london-22411",
       "source": "Arbeitnow"
-    },
-    {
-      "id": "5a6edbe9a11d03f7",
-      "title": "Freelance Writer",
-      "company": "IAPWE",
-      "employmentType": "Internship",
-      "location": {
-        "city": "Worldwide",
-        "region": null,
-        "country": null,
-        "workMode": "On-site"
-      },
-      "sectors": [
-        "Finance",
-        "Marketing & Communications",
-        "Sports"
-      ],
-      "deadline": null,
-      "postedDate": "2026-10-04",
-      "reportsTo": {
-        "name": null,
-        "title": null
-      },
-      "summary": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). Some topics you may be asked to write about include t…",
-      "applicationUrl": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "source": "Remotive"
     },
     {
       "id": "28be11117da597ea",
