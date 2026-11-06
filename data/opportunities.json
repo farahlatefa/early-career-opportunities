@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-05T21:59:58.301786+00:00",
+    "lastUpdated": "2026-11-06T02:28:31.961328+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,549 @@
     ]
   },
   "jobs": [
+    {
+      "id": "46dc6c4235dbe8e9",
+      "title": "Senior Accountant – Finanzbuchhalter:in (m/w/d)",
+      "company": "sonymusicentertainment",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Europe",
+        "region": null,
+        "country": "Hamburg",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Policy / Government",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": "US parent company Act as the central Finance interface between KRM EU, the European management team"
+      },
+      "summary": "Location: Berlin, Hamburg, Wir suchen kurzfristig einen erfahrenen Finanzbuchhalter Die Kings Road Merch GmbH ist ein weltweit etablierter Full-Service Anbieter von Merchandise-Produkten und -Dienstleistungen. Als eigenständige deutsche Tochter eines weltweite…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sonymusicentertainment/senior-accountant-finanzbuchhalterin-europe-berlin-europe-hamburg-318807",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "45456b9c16abd1a9",
+      "title": "Senior Associate/Pricing & Market Access (m/w/d)",
+      "company": "charlesriverassociates",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "International Development",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Charles River Associates Charles River Associates is a leading global consulting firm that provides economic, financial, and business management expertise to major law firms, corporations and governments around the world. CRA advises clients on economic …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/charlesriverassociates/senior-associate-pricing-market-access-munich-358837",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "54741fe099b47451",
+      "title": "Senior Consultant - Digital Commerce (Retail & CPG) | DACH",
+      "company": "Avomind",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Our Client Our client is a global IT consulting and digital engineering company specializing in software development, cloud transformation, data and AI, and digital experience solutions. With an international presence and extensive engineering capabiliti…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/avomind/remote-senior-consultant-digital-commerce-retail-cpg-dach-germany-249922",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a84977d9f6db8c21",
+      "title": "Senior Fraud Operations Coordinator",
+      "company": "Quince",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Procurement"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ABOUT QUINCE Quince is a destination for builders, creators, innovators, and operators who want to come together and challenge the status quo. Our mission is simple: make really high quality essentials for really low prices, fairly and sustainably. We deliver …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/quince/senior-fraud-operations-coordinator-london-245342",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e1e1c403f73eea23",
+      "title": "Senior Copywriter",
+      "company": "phiture2",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hi, we’re Phiture — the mobile growth consultancy working with the teams behind leading apps like Adobe, Headspace, and LEGO® 👋. We’re setting the standard for growth in the brave new digital world, and we need great people to join our global team! WHAT TO EXP…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/phiture2/senior-copywriter-391935",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b1dd3fb8e272d0ca",
+      "title": "Senior Associate/Pricing & Market Access (Life Sciences practice)",
+      "company": "charlesriverassociates",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cambridge",
+        "region": null,
+        "country": "Cambridgeshire; London",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "International Development",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Charles River Associates Charles River Associates is a leading global consulting firm that provides economic, financial, and business management expertise to major law firms, corporations and governments around the world. CRA advises clients on economic …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/charlesriverassociates/senior-associate-pricing-market-access-life-sciences-practice-cambridge-cambridgeshire-london-210729",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9ceaab1c7a76038d",
+      "title": "Human Resources Assistant/Talent Acquisition & Development",
+      "company": "charlesriverassociates",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": "evaluate recruiting investments"
+      },
+      "summary": "About Charles River Associates Charles River Associates (CRA) is a leading global consulting firm specializing in economic, financial, and management consulting services. CRA advises clients on economic and financial matters pertaining to litigation and regula…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/charlesriverassociates/human-resources-assistant-talent-acquisition-development-london-498507",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "12df88b8fcc13302",
+      "title": "Software Engineer Intern (London, United Kingdom) (Summer 2027)",
+      "company": "figma",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/figma/software-engineer-intern-london-united-kingdom-summer-2027-310694",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6c0d4edbecb942aa",
+      "title": "Graduate Venture Operations Associate (12 Month FTC)",
+      "company": "Odin",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Odin helps people to raise and deploy capital seamlessly We envision a world where people can vote with their money on what the future looks like, and participate in creating it. Our first product makes it radically easier for anyone, anywhere, to launch & run…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/odin/graduate-venture-operations-associate-12-month-ftc-united-kingdom-423569",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2191be317e051d4f",
+      "title": "Senior Software Engineer (Quality Engineering)",
+      "company": "Thought Machine",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": "London",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Thought Machine's mission is bold – to properly and permanently rid the world's banks of legacy technology. To achieve this, we have developed the foundations of modern banking through core and payments technology which run natively in the cloud. What we are a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/thought-machine/senior-software-engineer-quality-engineering-london-70715",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1192facb2bf8a902",
+      "title": "Senior Strategic Partner Development Manager (UK)",
+      "company": "Coder",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We’re looking for a Senior Strategic Partner Development Manager to grow Coder’s International partner ecosystem across system integrators, value-added resellers, and distribution partners. You’ll build relationships that expand our reach, create new revenue o…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/coder/senior-strategic-partner-development-manager-uk-united-kingdom-303566",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "611636a0210bf0f2",
+      "title": "Senior Autonomy Integration Engineer",
+      "company": "Shield AI",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/shield-ai/senior-autonomy-integration-engineer-london-26407",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "28be548d2b48a01d",
+      "title": "Quality Inspector Team Lead",
+      "company": "Mulberry",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Willows Factory",
+        "region": null,
+        "country": "Bridgwater",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Born in 1971, the roots of Mulberry are in Somerset, England. For more than fifty years, Mulberry has been a British lifestyle brand, internationally acclaimed for quality and design capturing the Mulberry Spirit. Sustainability has been part of the Mulberry e…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/mulberry/quality-inspector-team-lead-willows-factory-bridgwater-449750",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "242bfec02ce9f68f",
+      "title": "Quality Inspector",
+      "company": "Mulberry",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Willows Factory",
+        "region": null,
+        "country": "Bridgwater",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Born in 1971, the roots of Mulberry are in Somerset, England. For more than fifty years, Mulberry has been a British lifestyle brand, internationally acclaimed for quality and design capturing the Mulberry Spirit. Sustainability has been part of the Mulberry e…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/mulberry/quality-inspector-willows-factory-bridgwater-397668",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "138e20a3bbd39be5",
+      "title": "CDI - Senior Consultant SEO/GEO - Paris",
+      "company": "Artefactjobs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Qui sommes-nous? Artefact est une société de conseil et d'ingénierie française spécialisée en data et IA, et leader en Europe, qui depuis plus de 10 ans est spécialisée dans la conception et le déploiement de technologies d’intelligence artificielle et de solu…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/cdi-senior-consultant-seo-geo-paris-9th-arrondissement-of-paris-75009-paris-374788",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5855f3d1e3386f9d",
+      "title": "Chef.fe de projet stratégie & communication corporate F/H/NB - stage",
+      "company": "sonymusicentertainment",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Europe",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Dans le cadre de votre stage, vous travaillerez conjointement pour le Chief of Staff et la Directrice de la Communication et participerez aux missions suivantes : Soutien sur des projets stratégiques et opérationnels transverses Structurer et préparer les docu…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/sonymusicentertainment/cheffe-de-projet-strategie-communication-corporate-b-stage-europe-paris-215550",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "03ec3914bc4b2eca",
+      "title": "Commercial Counsel Fellowship",
+      "company": "Runway",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hybrid",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We are building AI to simulate the world through merging art and science. We believe that world models are at the frontier of progress in artificial intelligence. Language models alone won’t solve the world’s hardest problems – robotics, disease, scientific di…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/runway/commercial-counsel-fellowship-hybrid-176104",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5d47e3bccdeceed1",
+      "title": "[VO2 Force] - Product Owner Clienteling",
+      "company": "VO2 Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🌟 VO2 GROUP : Leader français indépendant en conseil Tech et Digital Entre conseil stratégique et réalisation technologique, nous cultivons un esprit \"boutique\" : de l'excellence, de l'humain et une forte culture de l'innovation. Nous sommes présents à Paris, …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/vo2-group/vo2-force-product-owner-clienteling-paris-france-378308",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0cc54acde46e4b17",
+      "title": "Senior Software Engineer - Test Infrastructure",
+      "company": "Loftorbital",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Toulouse",
+        "region": null,
+        "country": "Occitanie",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wanna join the adventure? At Loft Orbital, we have just successfully launched multiple satellites that we fly and operate ourselves. With these satellites in orbit and a wave of exciting missions launching soon, we are scaling up quickly as a global company. W…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/loftorbital/senior-software-engineer-test-infrastructure-toulouse-occitanie-187518",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7a4e53ed2d24294f",
+      "title": "Flight Dynamics Software Engineer",
+      "company": "Loftorbital",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Toulouse",
+        "region": null,
+        "country": "Occitanie",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wanna join the adventure? Loft Orbital is looking for a Flight Dynamics Software Engineer to join the Ground Platform organization. You'll work on a small and driven team, developing our flight dynamics software stack so that it can: Scale to fly 50+ satellite…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/loftorbital/flight-dynamics-software-engineer-toulouse-occitanie-245545",
+      "source": "Arbeitnow"
+    },
     {
       "id": "f4cec50f6ce0b517",
       "title": "Full Stack Engineer",
@@ -4720,8 +5263,7 @@
         "workMode": "Hybrid"
       },
       "sectors": [
-        "Marketing & Communications",
-        "Sustainability / ESG"
+        "Marketing & Communications"
       ],
       "deadline": null,
       "postedDate": "2026-11-05",
@@ -4729,7 +5271,7 @@
         "name": null,
         "title": null
       },
-      "summary": "Are you a creative mind who loves shaping stories through video — and wants to do more than just execute editing requests? Then this might be exactly the right role for you. Your role As our Marketing Video Editor, you'll be a key part of our Creative Team in …",
+      "summary": "Bist du ein kreativer Kopf, der Geschichten durch Video zum Leben erweckt – und mehr sein möchte als jemand, der einfach nur Schnittaufträge abarbeitet? Dann könnte das hier genau dein nächster Schritt sein. Deine Rolle Als Marketing Video Editor bist du ein z…",
       "applicationUrl": "https://www.arbeitnow.com/jobs/companies/7nxt-gmbh/junior-marketing-video-editor-berlin-396105",
       "source": "Arbeitnow"
     },
@@ -6352,6 +6894,488 @@
       },
       "summary": "Build with us Since 2004, we've had one clear goal: to make payments and money management effortless for every business in Europe. Today, more than 250,000 companies use Mollie to get paid, manage money and grow, with products designed to be simple, scalable, …",
       "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/mollie/model-risk-officer-amsterdam-406329",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f2ceb950639d8191",
+      "title": "Build Your Own Internship – m/f/d (min. 6 Months)",
+      "company": "Langdock",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Help Us Change the Way the World Works Build something that matters. Langdock exists to change the way the world works, bridging the gap between what technology can do and what people actually do with it. We bring all leading AI models into one secure, model-a…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/langdock/build-your-own-internship-min-6-months-berlin-83800",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "af2ae1ca27c297af",
+      "title": "Build Your Own Role – m/f/d",
+      "company": "Langdock",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Help Us Change the Way the World Works Build something that matters. Langdock exists to change the way the world works, bridging the gap between what technology can do and what people actually do with it. We bring all leading AI models into one secure, model-a…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/langdock/build-your-own-role-berlin-36603",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5176e665c413935e",
+      "title": "Teamleiter Fulfillment (m/w/d)",
+      "company": "Rohlik",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Garching bei München",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bei Knuspr definieren wir den Lebensmitteleinkauf neu. Um täglich Tausende Kunden zuverlässig mit frischen, regionalen Lebensmitteln und Artikeln des täglichen Bedarfs zu beliefern, braucht es ein hocheffizientes operatives Rückgrat. Als Central Flow Lead bist…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/rohlik/teamleiter-fulfillment-garching-bei-munchen-103964",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "318829fb2929aee1",
+      "title": "Area Manager Operations (m/w/d)",
+      "company": "Rohlik",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bischofsheim bei Frankfurt",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du bist eine erfahrene Führungskraft und möchtest bei einem der am schnellsten wachsenden e-Grocery-Unternehmen in Europa arbeiten? Dann werde unser neuer Area Manager! In dieser Rolle verantwortest du die täglichen Abläufe im Outbound, Inbound und der Auslief…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/rohlik/area-manager-operations-bischofsheim-239000",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "06a58a313f646afd",
+      "title": "Security Engineer III",
+      "company": "Anaplan",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market. What unites Anaplanners across teams an…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/security-engineer-iii-london-356528",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "183be7351ad70a16",
+      "title": "SAP Senior Consultant Customer Service (CS)",
+      "company": "Amstad Personal",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wenn Maschinen gewartet, repariert oder wieder einsatzbereit gemacht werden müssen, sollte auch das SAP-System wissen, was zu tun ist. Genau hier kommen Sie ins Spiel! Für unseren Kunden suchen wir einen erfahrenen SAP Senior Consultant mit Schwerpunkt Custome…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/amstad-personal/sap-senior-consultant-customer-service-cs-zurich-320166",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8f2a178f633156ae",
+      "title": "SAP FI/CO Consultant",
+      "company": "Amstad Personal",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Basel",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "SAP FI/CO ist Ihre Welt? Dann haben wir eine Aufgabe, bei der Sie nicht nur Tickets abarbeiten, sondern wirklich etwas bewegen können. Für unseren Kunden suchen wir eine erfahrene Persönlichkeit, die SAP FI/CO versteht, gerne mit Fachbereichen spricht und aus …",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/amstad-personal/sap-fi-co-consultant-basel-490542",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4f4f73bee30a88e9",
+      "title": "SAP Support Consultant EWM",
+      "company": "Amstad Personal",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zug",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unser Kunde baut sein SAP-Team weiter aus und sucht einen erfahrenen SAP-Spezialisten mit fundierten Kenntnissen in EWM und idealerweise TM. Sie erwartet eine vielseitige Aufgabe mit anspruchsvollen Kunden, komplexen Logistikprozessen und viel Eigenverantwortu…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/amstad-personal/sap-support-consultant-ewm-zug-307522",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a8410c4e1f69a887",
+      "title": "Senior Medical Writer (UK Based/US Position)",
+      "company": "Realchemistry",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Real Chemistry, making the world a healthier place isn’t just an aspiration—it’s our everyday reality. Our drive to transform healthcare is informed by our blend of deep scientific expertise, human-centred creativity, and AI-driven insights, fostering a uni…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/realchemistry/senior-medical-writer-uk-based-us-position-327024",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b901aa8691f47d1b",
+      "title": "Founding Business Development Representative",
+      "company": "Lovable",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "TL;DR We're hiring a Founding BDR to build Lovable's business development motion from the ground up. The job is to find, qualify and open the right accounts using a mix of your own outreach and the automation and AI agents you build to run alongside it. You'll…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/lovable/founding-business-development-representative-london-318596",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8da6b1f0723280a5",
+      "title": "HR Operations Executive",
+      "company": "Bjak",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About BJAK The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name. Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible onli…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/bjak/hr-operations-executive-london-15910",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "53401b94f11a08b2",
+      "title": "People Operations Coordinator",
+      "company": "Bjak",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About BJAK The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name. Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible onli…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/bjak/people-operations-coordinator-london-267526",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dfab834694acf122",
+      "title": "People Operations Associate - Regional",
+      "company": "Bjak",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About BJAK The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name. Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible onli…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/bjak/people-operations-associate-regional-london-221789",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b7daf169e23a1afe",
+      "title": "People Operations Specialist - Regional",
+      "company": "Bjak",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About BJAK The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name. Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible onli…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/bjak/people-operations-specialist-regional-london-398676",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4fc8e3e4078a3874",
+      "title": "Mid-Market Account Executive - Southern Europe",
+      "company": "Statista",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Statista , we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions. F…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/statista/mid-market-account-executive-southern-europe-london-393408",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "868bdd810131373f",
+      "title": "Enterprise Account Executive - Southern Europe",
+      "company": "Statista",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Procurement",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Statista , we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions. F…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/statista/enterprise-account-executive-southern-europe-london-275499",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a5260e1aae6823aa",
+      "title": "Mid-Market Account Executive - Northern Europe (m/f/d)",
+      "company": "Statista",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Statista , we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions. F…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/statista/mid-market-account-executive-northern-europe-london-402117",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e1884e378811c4a9",
+      "title": "Enterprise Account Executive - Northern Europe (m/f/d)",
+      "company": "Statista",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Procurement",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Statista , we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions. F…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/statista/enterprise-account-executive-northern-europe-london-341829",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c0a1bf4157883209",
+      "title": "Senior Project Manager, UK",
+      "company": "Mustardseed",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-05",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job Description: Sr. Project Manager, UK Location: Remote, UK Only About The Company: MustardSeed PMO designs and delivers project management solutions for complex, regulated sectors. We build PMOs, plan, staff, and run projects and programs, and provide seaso…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/mustardseed/senior-project-manager-uk-united-kingdom-163533",
       "source": "Arbeitnow"
     },
     {
