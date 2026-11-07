@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-06T23:10:16.356087+00:00",
+    "lastUpdated": "2026-11-07T02:49:29.246122+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,933 @@
     ]
   },
   "jobs": [
+    {
+      "id": "5c9d024262ff6c3d",
+      "title": "Senior Solutions Architect (German speaking)",
+      "company": "Sanity",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote in Germany",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Sanity.io , we’re building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content o…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sanity/remote-senior-solutions-architect-german-speaking-290951",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e33c02daaf5b6c9b",
+      "title": "Enterprise Account Executive, DACH",
+      "company": "Sanity",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote in Germany",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Sanity.io , we’re building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content o…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sanity/remote-enterprise-account-executive-dach-273986",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6ac87896de12610e",
+      "title": "Internship",
+      "company": "Augustus",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Few people get to build a bank from scratch. Even fewer get to build one at a moment when banking itself is being reinvented. The Dollar is the best product in the history of the world - there is infinite global demand. But international fintechs and banks are…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/augustus/internship-berlin-259093",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ee009eab3666be04",
+      "title": "Security Engineer",
+      "company": "Augustus",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": "CISO"
+      },
+      "summary": "Few people get to build a bank from scratch. Even fewer get to build one at a moment when banking itself is being reinvented. The Dollar is the best product in the history of the world - there is infinite global demand. But international fintechs and banks are…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/augustus/security-engineer-berlin-346208",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8a715cb5c4b1d717",
+      "title": "Engineering Fellowship",
+      "company": "Augustus",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Few people get to build a bank from scratch. Even fewer get to build one at a moment when banking itself is being reinvented. The Dollar is the best product in the history of the world - there is infinite global demand. But international fintechs and banks are…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/augustus/engineering-fellowship-berlin-184454",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bb638e505e1c1e7a",
+      "title": "Graduate Partnership Executive",
+      "company": "Fosphamarketing",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About us Fospha is the measurement system enterprise retail and ecommerce brands run their business on. We give marketing teams one clear, daily view of what's actually working — across every channel and everywhere they sell, from their website to Amazon and T…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/fosphamarketing/graduate-partnership-executive-london-278910",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b08aecc71532ed7d",
+      "title": "Junior People Data Analyst",
+      "company": "Thgingenuity",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Manchester",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About THG Ingenuity THG Ingenuity is a proprietary Software-as-a-Service (SaaS) technology, robotics, and operations platform built for global ecommerce. Developed through more than two decades of operating ecommerce and retail services at scale, its software …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/junior-people-data-analyst-manchester-424349",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fd703f2c92709f30",
+      "title": "EMEA Account Executive - Emerging Enterprise - London",
+      "company": "CodeRabbit",
+      "employmentType": "Internship",
+      "location": {
+        "city": "UK",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About CodeRabbit CodeRabbit is the governance and control layer for agentic software development, helping engineering teams trust the code they ship. AI can generate code faster than people can review and understand it. Teams still need to know whether each ch…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/coderabbit/emea-account-executive-emerging-enterprise-london-uk-181696",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "33c85cef8a214785",
+      "title": "Machine Learning Researcher",
+      "company": "Neuphonic",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Neuphonic is building the future of on-device voice AI. We develop ultra-low-latency voice models that enable super-realistic, human-like speech directly on devices. Our focus is on building efficient generative audio models and infrastructure that can…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/neuphonic/machine-learning-researcher-london-439589",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "adc61e2916148393",
+      "title": "Infrastructure / Platform Engineer (London)",
+      "company": "Neuphonic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: London, UK Type: Full-time, in office About Neuphonic Neuphonic is building the next generation of voice AI, making natural, real-time speech accessible across devices, languages, and applications. Our technology enables ultra-low-latency text-to-spe…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/neuphonic/infrastructure-platform-engineer-london-128650",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8abb4974d285a13b",
+      "title": "Enterprise Account Executive (Swedish Speaking)",
+      "company": "Sanity",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "UK",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Sanity.io , we’re building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content o…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/sanity/enterprise-account-executive-swedish-speaking-london-uk-74968",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7900595fed41bded",
+      "title": "Enterprise Account Executive",
+      "company": "Sanity",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "UK",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Sanity.io , we’re building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content o…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/sanity/enterprise-account-executive-london-uk-265804",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5fa4b1eac6e36e23",
+      "title": "Enterprise Account Executive, DACH (German Speaking)",
+      "company": "Sanity",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "UK",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Sanity.io , we’re building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content o…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/sanity/enterprise-account-executive-dach-german-speaking-london-uk-27634",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6aeefbce2a7badaa",
+      "title": "Software Engineer Intern, Trading",
+      "company": "Talos Trading",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Talos: Institutional Fabric for the Digital Asset Market Founded in 2018, Talos provides institutional-grade trading technology for the global digital asset market, powering many of the major players in the crypto ecosystem. Our mission is clear: to advance th…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/talos-trading/software-engineer-intern-trading-london-475763",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "607639d6bb52b7fa",
+      "title": "Software Engineer Intern, Infrastructure",
+      "company": "Talos Trading",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Talos: Institutional Fabric for the Digital Asset Market Founded in 2018, Talos provides institutional-grade trading technology for the global digital asset market, powering many of the major players in the crypto ecosystem. Our mission is clear: to advance th…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/talos-trading/software-engineer-intern-infrastructure-london-357239",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1cc1fb85f16209df",
+      "title": "Key Account Executive - Automotive",
+      "company": "Infinit",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Newcastle upon Tyne",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job Title: Key Account Executive Type: Full-time Experience: 4+ years What about us? Launched in 2023, INFINIT is a fast-growing fintech scale-up operating in multiple countries across Europe and Americas. At INFINIT we are on a mission to reshape the future o…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/infinit/key-account-executive-automotive-newcastle-upon-tyne-363482",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f236021dc9e3b505",
+      "title": "Full Stack Software Engineer",
+      "company": "Infinit",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job Title: Full Stack Software Engineer Type: Full-time Location: London What about us? Launched in 2023, INFINIT is a fast-growing fintech scale-up operating in multiple countries across Europe and Americas. At INFINIT we are on a mission to reshape the futur…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/infinit/full-stack-software-engineer-london-402621",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fb182b48c434790d",
+      "title": "Accounts Payable Specialist",
+      "company": "Ledger",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job title: Accounts Payable Accountant (Comptable Fournisseurs) Location: Paris About Ledger We’re a team of experts pushing the limits of what’s possible, united by our common goal to unlock true freedom through digital ownership, making technology accessible…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/ledger/accounts-payable-specialist-paris-331365",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d93bd18cc6e775f9",
+      "title": "Software Engineer Intern",
+      "company": "Backmarket",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Humanitarian / NGO",
+        "Operations",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hi, we’re Back Market. We’re here to help make tech reliable, affordable, and better than new . We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/backmarket/software-engineer-intern-paris-73703",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bac490d7344d3a1a",
+      "title": "Growth Engineer (Fullstack, Frontend-Focused)",
+      "company": "Pennylane SAS",
+      "employmentType": "Internship",
+      "location": {
+        "city": "All France (remote)",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)? Are you looking for a work environment that values trust, proactivity, and autonomy? Are our Engineering principles aligned with your vision? T…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/growth-engineer-fullstack-frontend-focused-paris-299551",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a7498fbd1b247997",
+      "title": "Full Stack Software Engineer",
+      "company": "Infinit",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job Title: Full Stack Software Engineer Type: Full-time Location: Paris What about us? Launched in 2023, INFINIT is a fast-growing fintech scale-up operating in multiple countries across Europe and Americas. At INFINIT we are on a mission to reshape the future…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/infinit/full-stack-software-engineer-paris-335424",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cc20c79cba4593e2",
+      "title": "Forward Deployed Engineer Intern",
+      "company": "Brevo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Brevo, we’re not just building a CRM. With our technology, we’re helping millions of organizations build lasting relationships with their customers. From emails and SMS to WhatsApp, Chat, and Marketing Automation, our tools are intuitive, powerful, and buil…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/brevo/forward-deployed-engineer-intern-paris-france-144151",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "555bc5091c02ca35",
+      "title": "Programmatic Analyst - Alternance (H/F/X)",
+      "company": "Biggie",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Biggie est l’agence globale de stratégie et activation media & marketing de Biggie group, groupe international indépendant de solutions marketing intégrées. Biggie est le fruit du rapprochement de plusieurs entités du groupe : l’expert en activations digitales…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/biggie/programmatic-analyst-alternance-paris-60311",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a714b14fb21804c6",
+      "title": "Digital Account Strategist - Stage (6 mois) (H/F/X)",
+      "company": "Biggie",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Biggie est un groupe de conseil en communication, né de la fusion de l’agence média Repeat , du trading desk Gamned! , du studio de création vidéo Kazam et de l’agence en stratégie d’influence Beastly . Comprenant 300 collaborateurs et des filiales dans de nom…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/biggie/digital-account-strategist-stage-6-mois-paris-249541",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e54ee3198be7677c",
+      "title": "Consultant Senior SEO/GEO - Freelance",
+      "company": "Biggie",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Biggie est l’agence globale de stratégie et activation media & marketing de Biggie group, groupe international indépendant de solutions marketing intégrées. Biggie est le fruit du rapprochement de plusieurs entités du groupe : l’expert en activations digitales…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/biggie/consultant-senior-seo-geo-freelance-paris-63533",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c1616fb77c7b5dc4",
+      "title": "Consultant Plurimedia - Stage (6 mois) (H/F/X)",
+      "company": "Biggie",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Biggie est l’agence globale de stratégie et activation media & marketing de Biggie group, groupe international indépendant de solutions marketing intégrées. Biggie est le fruit du rapprochement de plusieurs entités du groupe : l’expert en activations digitales…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/biggie/consultant-plurimedia-stage-6-mois-paris-478281",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e203401315cdf167",
+      "title": "Assistant Chef de Projet Influence - Alternance 12 mois (H/F/X)",
+      "company": "Biggie",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Beastly est une agence de conseil et d’accompagnement stratégique en influence, spécialisée dans la performance faisant partie du groupe international de communication & marketing Biggie . Composée d’une équipe de 40 personnes, Beastly accompagne des marques r…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/biggie/assistant-chef-de-projet-influence-alternance-12-mois-paris-472494",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ebb80e7599300709",
+      "title": "Move to New Zealand - Systems Reliability Engineer",
+      "company": "Propellerhead",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Work alongside our innovative team based in Auckland, New Zealand! We are seeking talented individuals excited about the opportunity to learn, expand their skillset and support our company. We welcome applications from individuals located internationally looki…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/propellerhead/move-to-new-zealand-systems-reliability-engineer-paris-106723",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "43ef5ae22d9eb31c",
+      "title": "Senior Payroll Officer",
+      "company": "Match Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Know where you belong! Match Group is a leading provider of dating products across the globe. Our portfolio includes Tinder, Hinge, Match, Meetic, PlentyOfFish, OkCupid, The League, HER, and others, each designed to spark meaningful connections for singles wor…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/match-group/senior-payroll-officer-paris-france-373327",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "df71f92338eb3d22",
+      "title": "Senior Electronics Engineer — PCB Design & Bring-Up",
+      "company": "Fiducial",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Delft",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Opening WE CANNOT PROVIDE VISA SPONSORSHIP Details Preferred starting date: ASAP Weekly availability: full-time (5 days/week) Location: Aerospace Innovation Hub, Delft, the Netherlands About the company Fiducial is a young but fast-growing deep-tech start-up w…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/fiducial/senior-electronics-engineer-pcb-design-bring-up-delft-192235",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "13f3c60a369ff79e",
+      "title": "Internship - Programming & Automation",
+      "company": "Fiducial",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Delft",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "WE CANNOT PROVIDE VISA SPONSORSHIP Details Preferred starting date: ASAP Weekly availability: Full-time (5 days/week) Period: 6 months Location: Aerospace Innovation Hub, Delft, the Netherlands About the company Fiducial is a young but fast-growing deep-tech s…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/fiducial/internship-programming-automation-delft-385463",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4ca000e1334b4b57",
+      "title": "Software Engineering Intern - Internal Developer Platform",
+      "company": "Tomtom",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": "The Netherlands",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We build Frontstage, TomTom's developer portal based on Backstage, and Watchtower, the service that collects data behind it. Together they help engineering teams see what software they own and how it is doing, for example on security, quality and cost. What yo…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-internal-developer-platform-amsterdam-the-netherlands-91789",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f9f1ac1940f55f9e",
+      "title": "Software Engineering Intern - AI Platform Excellence",
+      "company": "Tomtom",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": "The Netherlands",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We look after the AI tools TomTom engineers use every day, such as GitHub Copilot, Claude and Cursor, and the platform that gives teams access to AI models. We help teams use these tools well, keep an eye on usage and cost, and try out new tools as they appear…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-ai-platform-excellence-amsterdam-the-netherlands-231363",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "51b4f476f706b40c",
+      "title": "Senior Applied Scientist",
+      "company": "Tomtom",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": "The Netherlands",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Meet the team You’ll join the Traffic Control Features team within TomTom’s Automated Driving organization . The team builds the technology that turns real-world observations into reliable map information about traffic signs, traffic lights, stop lines and roa…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/tomtom/senior-applied-scientist-amsterdam-the-netherlands-322073",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c4b96fb33312b74f",
+      "title": "Platform Software Engineer",
+      "company": "Tomtom",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": "The Netherlands",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-07",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Developer Enablement & Security (DE&S) team within Platform Engineering owns the tooling that TomTom engineers use to write, build, store and secure code. This covers GitHub platform management, artifact management with JFrog Artifactory, security scanning…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/tomtom/platform-software-engineer-amsterdam-the-netherlands-313114",
+      "source": "Arbeitnow"
+    },
     {
       "id": "46dc6c4235dbe8e9",
       "title": "Senior Accountant – Finanzbuchhalter:in (m/w/d)",
@@ -9899,6 +10826,652 @@
       "summary": "Chez Exotec , nous mettons l’excellence technologique au service de la redéfinition des relations entre humains et robots. A travers le monde, nos solutions révolutionnent la façon dont nos client·e·s délivrent leurs produits aux personnes consommatrices final…",
       "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/exotec/product-owner-wifi-rf-embedded-systems-lille-41062",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "325460dfa40c2563",
+      "title": "Senior Partner Account Executive, UK - Insurance",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Colchester",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/samsara/senior-partner-account-executive-uk-insurance-colchester-364936",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f24517ab191c6cea",
+      "title": "Senior Partner Account Executive, UK - Insurance",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Salford",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/samsara/senior-partner-account-executive-uk-insurance-salford-36931",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b33e1341f31f4d2e",
+      "title": "Senior Partner Account Executive, UK - Insurance",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bolton",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/samsara/senior-partner-account-executive-uk-insurance-bolton-22260",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "52f1297894b3d355",
+      "title": "Senior Partner Account Executive, UK - Insurance",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bradford",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/samsara/senior-partner-account-executive-uk-insurance-bradford-25649",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "702462f43215e3f9",
+      "title": "Senior Partner Account Executive, UK - Insurance",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Leeds",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/samsara/senior-partner-account-executive-uk-insurance-leeds-462798",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f726448f0b181419",
+      "title": "Senior Partner Account Executive, UK - Insurance",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Manchester",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/samsara/senior-partner-account-executive-uk-insurance-manchester-490067",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fc0b6f8b1d778f67",
+      "title": "Senior Partner Account Executive, UK - Insurance",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/samsara/senior-partner-account-executive-uk-insurance-london-465900",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6439f1a0eb7f9a4c",
+      "title": "Customer Success Account Manager, Mid-Market",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Saint-Etienne",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/samsara/customer-success-account-manager-mid-market-saint-etienne-353838",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e52e010b14ac43dd",
+      "title": "Customer Success Account Manager, Mid-Market",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Boulogne-Billancourt",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/samsara/customer-success-account-manager-mid-market-boulogne-billancourt-128131",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "361000a4190a2e1e",
+      "title": "Customer Success Account Manager, Mid-Market",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Villeurbanne",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/samsara/customer-success-account-manager-mid-market-villeurbanne-64536",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "30758357d2f2ba8a",
+      "title": "Customer Success Account Manager, Mid-Market",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Pontoise",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/samsara/customer-success-account-manager-mid-market-pontoise-323034",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "95ddb723fe982c3d",
+      "title": "Customer Success Account Manager, Mid-Market",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Toulouse",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/samsara/customer-success-account-manager-mid-market-toulouse-427290",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9885faa7ba7ecdff",
+      "title": "Customer Success Account Manager, Mid-Market",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Lyon",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/samsara/customer-success-account-manager-mid-market-lyon-140379",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "57fa231c3c016f42",
+      "title": "Customer Success Account Manager, Mid-Market",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/samsara/customer-success-account-manager-mid-market-paris-463281",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "649bcaec7381a823",
+      "title": "Customer Success Account Manager, Digital - French",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Saint-Etienne",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/samsara/customer-success-account-manager-digital-french-saint-etienne-419379",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b7a3735ac8cc4db6",
+      "title": "Customer Success Account Manager, Digital - French",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Boulogne-Billancourt",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/samsara/customer-success-account-manager-digital-french-boulogne-billancourt-76097",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a4b3d1b4f7a47f26",
+      "title": "Customer Success Account Manager, Digital - French",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Villeurbanne",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/samsara/customer-success-account-manager-digital-french-villeurbanne-379442",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "110027e42e8587d3",
+      "title": "Customer Success Account Manager, Digital - French",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Pontoise",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/samsara/customer-success-account-manager-digital-french-pontoise-376088",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bd0e49f1c755a431",
+      "title": "Customer Success Account Manager, Digital - French",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Toulouse",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/samsara/customer-success-account-manager-digital-french-toulouse-327425",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c71046d75b8c58ac",
+      "title": "Customer Success Account Manager, Digital - French",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Lyon",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/samsara/customer-success-account-manager-digital-french-lyon-422462",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3862591e607e24c4",
+      "title": "Customer Success Account Manager, Digital - French",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/samsara/customer-success-account-manager-digital-french-paris-393707",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "853ed368f9839f3d",
+      "title": "Senior Full Stack Engineer People Products",
+      "company": "Thumbtack",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Toronto",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-06",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home â from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S.…",
+      "applicationUrl": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-people-products-thumbtack-1137693",
+      "source": "Remote OK"
     },
     {
       "id": "f4cec50f6ce0b517",
