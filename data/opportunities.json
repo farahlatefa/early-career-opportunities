@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-08T23:44:16.151334+00:00",
+    "lastUpdated": "2026-11-09T06:33:33.659157+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,680 @@
     ]
   },
   "jobs": [
+    {
+      "id": "40d3d3eddde4d268",
+      "title": "Process Engineer (m/f/d)",
+      "company": "Rohlik",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Rohlik Group Rohlik Group is Europe's leading online grocery delivery service. Using technology, we deliver a weekly shop of 25,000 SKUs in under three hours, in 15-minute delivery slots — giving our customers back their time, freedom and flexibility. We…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/rohlik/process-engineer-berlin-281429",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "18ca62564287166c",
+      "title": "Support Engineer, PAYGO",
+      "company": "Exa",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Healthcare",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Exa We raised a $250M Series C to build the search engine for AIs. Led by a16z, with existing investors Benchmark, Lightspeed, and YC doubling down, the round brings Exa's valuation to $2.2 billion. Exa is building a search engine for the AI era. Our Sea…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/exa/remote-support-engineer-paygo-317778",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c326d2e53a59682a",
+      "title": "Schülerpraktikant (m/w/d)",
+      "company": "Wortmann KG Internationale Schuhproduktionen",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Detmold",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Mode ist unsere Leidenschaft - und das bereits seit über 55 Jahren. Saison für Saison entwickeln wir als familiengeführte Unternehmensgruppe erfolgreiche Kollektionen, die inzwischen in über 70 Ländern und 15.000 Schuhgeschäften zu finden sind. Unsere Maxime l…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/wortmann-kg-internationale-schuhproduktionen/schulerpraktikant-detmold-223643",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2a46999f4eda1ca6",
+      "title": "Senior CRM & Lifecycle Analyst (B2C) – Marketing Automation (all genders)",
+      "company": "Foodji GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du gestaltest CRM & Lifecycle Marketing bei Foodji von Grund auf mit – von der Segmentierung über automatisierte Journeys bis zur datenbasierten Optimierung. In dieser neu geschaffenen Rolle gestaltest du CRM & Lifecycle Marketing bei Foodji von Grund auf mit.…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-crm-lifecycle-analyst-b2c-marketing-automation-all-genders-munchen-454955",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9dc24907f7dd4163",
+      "title": "Associate Account Executive - DACH (German Speaking)",
+      "company": "Canarytechnologies",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Think about your last hotel stay. Did you skip the front desk line with mobile check-in? Message the staff for extra pillows? Order a late-night snack with a tap on your phone? Then you’ve likely run into Canary in the wild. Canary Technologies is the…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/canarytechnologies/associate-account-executive-dach-german-speaking-germany-113317",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a04987c606c0d43a",
+      "title": "Praktikant (m/w/d) – Produktentwicklung & Datenaufbereitung",
+      "company": "CERTUSS GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Krefeld",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "CERTUSS beschäftigt über 150 Mitarbeitende in Deutschland, Großbritannien und den USA und ist mit seinen Dampferzeugern in mehr als 90 Branchen weltweit vertreten. Besonders im Gesundheitswesen, der Chemie-, Pharma- und Automobilindustrie sowie der Hotellerie …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/certuss-gmbh/praktikant-produktentwicklung-datenaufbereitung-krefeld-44474",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a539d099addbf020",
+      "title": "Senior Group Quality Expert (m/f/d)",
+      "company": "SGB-SMIT Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Regensburg",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Transform with us the future of energy ⚡ The SGB‑SMIT Group is an international transformer manufacturer with locations in Europe, Asia and America . With reliable transformer technology, the company actively supports the global energy transition in areas such…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sgb-smit-group/senior-group-quality-expert-regensburg-88681",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d5dccbec54908467",
+      "title": "Senior Controller  (m/w/d)",
+      "company": "SCHAEFER GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Sigmaringen",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die SCHAEFER GmbH ist ein weltweit agierendes mittelständisches Unternehmen mit Sitz in Süddeutschland. Seit über 60 Jahren entwickeln, produzieren und vertreiben wir qualitativer hochwertige Komponente und Lösungen für die globale Auszugsindustrie. Für die SC…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/schaefer-gmbh/senior-controller-sigmaringen-489767",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "92052f3d1e8a4dd4",
+      "title": "Account Executive",
+      "company": "Caseware",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Caseware ist die globale KI-Plattform für Audit und Accounting. Gegründet vor über 35 Jahren in Toronto, nutzen heute mehr als 500.000 Anwender:innen in 130 Ländern unsere Lösungen, und über 36.000 Fachleute weltweit führen Caseware als Skill auf LinkedIn. Als…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/caseware/account-executive-dusseldorf-germany-130274",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9768d39dd183f562",
+      "title": "Account Executive (m/w/d)",
+      "company": "FINN",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your Role Als Account Executive übernimmst du eine Schlüsselrolle in der Skalierung von JobAuto, indem du potenzielle Partnerunternehmen für unser Mitarbeiter-Benefit Programm JobAuto gewinnst. Dabei bist du für den gesamten Sales Cycle, von Leadgenerierung bi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/finn/account-executive-munich-410385",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "aeaf32e30417c067",
+      "title": "Backend Engineer - Partner Flow",
+      "company": "iwoca",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Backend Engineer - Partner Flow Team Hybrid in London / Remote within the UK We’re looking for a Backend Engineer to join the Partner Flow team. This role is a chance to shape how thousands of small businesses find their way to iwoca. You'll join the team that…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/backend-engineer-partner-flow-london-201344",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4a38d3248b8cbe26",
+      "title": "Senior Scrum Master",
+      "company": "Hudl",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Hudl, we build great teams. We hire the best of the best to ensure you’re working with people you can constantly learn from. You’re trusted to get your work done your way while testing the limits of what’s possible and what’s next. We work hard to provide a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hudl/senior-scrum-master-london-483654",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cf839bc52ac94945",
+      "title": "Manager I, Engineering - Source Code Integration",
+      "company": "Datadog",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Source Code Integration enables Product teams at Datadog to develop features that leverage our customers’ source code. This brings the platform closer to developers, as it helps them relate their telemetry to code to run automated investigations, debug their s…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/datadog/manager-i-engineering-source-code-integration-paris-54157",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c01185878e4fd437",
+      "title": "Manager I, Engineering - Security Libraries",
+      "company": "Datadog",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Security Libraries team owns the customer-side integrations behind Datadog’s run-time security products — App & API Protection , Workload Protection , and Code Security — shipping and maintaining security capabilities across seven open-source language libr…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/datadog/manager-i-engineering-security-libraries-paris-303597",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d7414ba057aa4f1b",
+      "title": "Manager I, Engineering - Husky",
+      "company": "Datadog",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Husky is what we call the distributed, petabyte-scale columnar event store at the heart of our Event Platform, which powers dozens of Datadog’s most popular products – Logs, RUM, APM , Cloud Network Monitoring, Netflow, and many more. Husky was built from the …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/datadog/manager-i-engineering-husky-paris-75600",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9351e594b39517df",
+      "title": "Stage - Juriste IP/IT",
+      "company": "Brevo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Chez Brevo, nous ne nous contentons pas de construire un CRM. Grâce à notre technologie, nous aidons des millions d'organisations à créer des relations durables avec leurs clients. Des e-mails aux SMS, en passant par WhatsApp, le Chat et le Marketing Automatio…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/brevo/stage-juriste-ip-it-paris-france-4282",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7d978dcb50c2a0fc",
+      "title": "Customer Success Specialist",
+      "company": "Payflows",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "AI is rewriting how enterprises run. Payflows is the platform making it happen. The world’s largest companies are held back by complexity — disconnected systems, slow approvals, and manual workflows across Finance, Procurement, and Operations. Payflows is buil…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/payflows/customer-success-specialist-paris-465972",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "db60456aebcb481d",
+      "title": "Customer Success Manager",
+      "company": "Payflows",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "AI is rewriting how enterprises run. Payflows is the platform making it happen. The world’s largest companies are held back by complexity — disconnected systems, slow approvals, and manual workflows across Finance, Procurement, and Operations. Payflows is buil…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/payflows/customer-success-manager-paris-226954",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9f016990a7c6a8bd",
+      "title": "Area Pre-Sales Engineer France",
+      "company": "Ajax Systems",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Strasbourg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ajax Systems is an international tech company and the largest manufacturer of security systems in Europe, with over 4.5 million end users and 330K PRO users in more than 180 countries worldwide. The company offers end-to-end solutions for protecting homes and …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/ajax-systems/area-pre-sales-engineer-france-strasbourg-461107",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "417b40ffec872685",
+      "title": "Satellite Systems Engineer",
+      "company": "Loftorbital",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Toulouse",
+        "region": null,
+        "country": "Occitanie",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wanna join the adventure? Loft Orbital builds a space infrastructure providing a fast & simple path to orbit. Using different flight proven buses, we design, integrate and operate spacecrafts, to fly physical or virtual customers payloads. We handle entire mis…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/loftorbital/satellite-systems-engineer-toulouse-occitanie-261545",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f1fc1e0b7e1ab04b",
+      "title": "ML Runtime Engineer",
+      "company": "Loftorbital",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Toulouse",
+        "region": null,
+        "country": "Occitanie",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wanna join the adventure? Loft's AI for Space group is building the stack that runs real machine learning in orbit; turning raw sensor data into decisions on the satellite itself, so insight reaches the customer in minutes instead of hours. The AI Engineering …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/loftorbital/ml-runtime-engineer-toulouse-occitanie-67783",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6c7e366ca817aa88",
+      "title": "Customer Delivery Engineer",
+      "company": "Loftorbital",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Toulouse",
+        "region": null,
+        "country": "Occitanie",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wanna join the adventure? Customer Delivery Engineers (CDEs) own the end-to-end deployment and execution of customer satellite missions at Loft. We serve as the primary technical interface to our customers and translate mission objectives into operational real…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/loftorbital/customer-delivery-engineer-toulouse-occitanie-128267",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7b37f2335d4109c9",
+      "title": "Growth Marketing - Germany 🇩🇪",
+      "company": "Doctrine",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Mission ⚖️ At Doctrine, we're building Europe's leading legal AI platform. Our belief? Law shouldn't be slowed down by repetitive tasks. It should be augmented by a specialised AI, designed to understand, analyse and produce legal reasoning at the highest …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctrine/growth-marketing-germany-paris-333288",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8799642c5c7a7dc3",
+      "title": "Account Manager",
+      "company": "Doctrine",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Notre mission ⚖️ Chez Doctrine, nous construisons le leader de l’IA juridique en Europe. Notre conviction ? Le droit ne doit pas être ralenti par des tâches répétitives. Il doit être augmenté par une IA spécialisée, conçue pour comprendre, analyser et produire…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctrine/account-manager-paris-246741",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1f6b6b36131e3c8e",
+      "title": "Product Engineer, Shop",
+      "company": "Insify",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-09",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ABOUT INSIFY We sell a mix of insurance products to small businesses (SME's) in the Netherlands, Germany and France, and we are in the process of scaling into more markets. Insurance infrastructure is brutal to get right. Every carrier has its own spec, every …",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/insify/product-engineer-shop-amsterdam-38824",
+      "source": "Arbeitnow"
+    },
     {
       "id": "ad10413bd2c67cef",
       "title": "Senior / Lead Program Manager",
@@ -4114,6 +4788,31 @@
       "summary": "About SeeSicht Gmbh SeeSicht is a small family office of AI-first companies. We build companies that are profitable today and keep them for the long term — not a venture builder chasing funding rounds. Every project is funded 100% by me or by me and my network…",
       "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/seesicht-gmbh/entrepreneur-intern-zurich-164590",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "1fd92ff6c06f3134",
+      "title": "Account Executive Enterprise",
+      "company": "Harvey",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-08",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Why Harvey At Harvey, weâre transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, weâre reshaping how critical knowledge work gets done for decades to come. This…",
+      "applicationUrl": "https://remoteOK.com/remote-jobs/remote-account-executive-enterprise-harvey-1137703",
+      "source": "Remote OK"
     },
     {
       "id": "5c9d024262ff6c3d",
