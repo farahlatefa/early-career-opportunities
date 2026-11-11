@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-10T23:24:34.127494+00:00",
+    "lastUpdated": "2026-11-11T06:25:09.721127+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,840 @@
     ]
   },
   "jobs": [
+    {
+      "id": "2aac2145962c238c",
+      "title": "Leiter/in IT",
+      "company": "Markus Flühmann AG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Merenschwand",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unsere Unternehmensgruppe mit den drei Firmen Markus Flühmann AG, AVA Verlagsauslieferung AG und Oeschger Verpackungsservice AG mit insgesamt 140 Mitarbeitenden hat in der IT viel vor. Dafür suchen wir eine Persönlichkeit, die Verantwortung übernimmt, Struktur…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/markus-fluhmann-ag/leiter-in-it-merenschwand-54563",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ad0e571f260b5c54",
+      "title": "Growth Strategy Intern (f/m/d)",
+      "company": "Upvest",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Upvest, we are on a mission to make investing as easy as spending money . Upvest empowers businesses to offer a wide range of investment products and the best experience in the field of capital market investment and retirement planning. Upvest’s Investment …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/upvest/growth-strategy-intern-berlin-220227",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "91284c4c32005756",
+      "title": "Legal Analyst / Research Associate (m/f/d) – part-time, fixed-term",
+      "company": "Upvest",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Research",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us: At Upvest, we are on a mission to make investing as easy as spending money . Upvest empowers businesses to offer a wide range of investment products and the best experience in the field of capital market investment and retirement planning. Upvest’s I…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/upvest/legal-analyst-research-associate-part-time-fixed-term-berlin-489671",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "314307f35c7d76ba",
+      "title": "(Associate) Product Manager - Customer Lifecycle (f/m/x)",
+      "company": "Lemon Markets",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany  (Hybrid)",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": "domain's Senior PM, you'll drive complex, multi-stakeholder commitments end-to-end"
+      },
+      "summary": "About lemon.markets 🍋 We enable anyone to be an investor. Our mission is to grow investing opportunities for all European customers and businesses. By empowering FinTechs, banks, and wealth managers to offer investment products, we help create financial well-b…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lemon-markets/associate-product-manager-customer-lifecycle-berlin-75693",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "915cb123f0726135",
+      "title": "GTM Intern (m/f/d)",
+      "company": "Buena",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über Buena Buena (backed by GV) macht alles rund um Immobilien so einfach und transparent wie den Kauf eines ETFs. Ob Suchen, Kaufen oder Finanzieren einer Wohnung. Wir tun das, indem wir Hausverwaltungen in ganz Deutschland übernehmen und in Technologieuntern…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/buena/gtm-intern-berlin-240112",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2598d42b9c2be68d",
+      "title": "GTM (DACH)",
+      "company": "Heidi",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We’re Heidi. We're building the future of healthcare by giving every clinician the earth's finest AI Care Partner. Our platform has absorbed the administrative chaos of 175 million patient visits and supported 67 million clinical hours. Today, we support 2.8 m…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/heidi/gtm-dach-berlin-91613",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0239135a374b0798",
+      "title": "M&A Associate (m/w/d)",
+      "company": "PraxisEins",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Frankfurt am Main",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Wir sind PraxisEins - Deutschlands führender digitalisierter Gesundheitsversorger . Mit unserer Mission, die Primärversorgung durch Digitalisierung zu sichern, konnten wir seit Gründung 2022 bereits auf >300 Mitarbeiter wachsen. Werde auch Du Teil unserer Wach…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/praxiseins/ma-associate-frankfurt-413400",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c1857e68aa06ad82",
+      "title": "C005419 Senior Project Transition Manager (NS) - FRI 13 Nov RELAUNCH",
+      "company": "Emw",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Wiesbaden",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": "NCIA management and customers"
+      },
+      "summary": "Deadline Date: Friday 13 November 2026 Requirement: Senior Project Transition Manager Location: Wiesbaden, DE Full Time On-Site: Yes Time On-Site: 100% Total Scope of the request (hours): 350 Required Start Date: 7 December 2026 End Contract Date: 31 December …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/emw/c005419-senior-project-transition-manager-ns-fri-13-nov-relaunch-wiesbaden-224807",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2346d06c1661c658",
+      "title": "Generalist (Operations)",
+      "company": "Kairos Project",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Take on the business and back-end operations that keep Kairos running: finances, payments, HR, compliance, and systems, plus support for our programs and Pathfinder groups. Note: This role description is a first draft. Scope, salary, and responsibilities may e…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/kairos-project/remote-generalist-operations-195554",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3d116a80fe029182",
+      "title": "Senior Customer Success Manager (all genders)",
+      "company": "Foodji GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Gestalte das perfekte Foodji-Erlebnis Ein großartiges Produkt allein reicht nicht – echte Kundenzufriedenheit entsteht durch starke Beziehungen und einen klaren Blick auf die Entwicklung des Kundenportfolios. Du machst den konkreten Nutzen und Mehrwert von Foo…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-customer-success-manager-all-genders-munchen-405445",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b4ad5ea6a500880c",
+      "title": "1207 Content Writer / SEO Copywriter (Part-Time)",
+      "company": "Intetics 2",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Intetics Inc. , a global technology company providing custom software application development, distributed professional teams, software product quality assessment, and digital transformation solutions, is looking for a German Content Writer / SEO Copywriter to…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1207-content-writer-seo-copywriter-part-time-germany-224077",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9066ae0bdd2e41c7",
+      "title": "Account Executive - Dutch",
+      "company": "Huzzle",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Huzzle At Huzzle, we connect high-performing professionals with global companies across the UK, US, Canada, Europe, and Australia. Our clients include startups, digital agencies, and tech platforms in industries like SaaS, MarTech, FinTech, and EdTech. W…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/huzzle/remote-account-executive-dutch-germany-364152",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bd9ad68171c8243a",
+      "title": "AI Engineer",
+      "company": "Brunswickgroup",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Humanitarian / NGO",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Opportunity Brunswick is on an exciting journey to harness the power of artificial intelligence and data science to enhance the way we work and the advice we provide to clients. As we continue to expand our AI capabilities, we are looking for an AI Engineer to…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/brunswickgroup/ai-engineer-london-464862",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fc0d62597db8fe76",
+      "title": "SIPP Administrator (f/m/d)",
+      "company": "Upvest",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Upvest, we are on a mission to make investing as easy as spending money . Upvest empowers businesses to offer a wide range of investment products and the best experience in the field of capital market investment and retirement planning. Upvest’s Investment …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/upvest/sipp-administrator-london-425580",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "46d7092b997dd266",
+      "title": "Marketing Manager, SG",
+      "company": "Sierra",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About us Sierra is the leading platform for customer-facing AI agents, working with many of the world's biggest brands — including The GAP, Rocket Mortgage, SoFi, Sutter Health, and SoftBank — to transform how they serve customers and grow their businesses. We…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/sierra/marketing-manager-sg-london-311000",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c023802476082c2d",
+      "title": "Senior Staff Machine Learning Engineer - ML Platform",
+      "company": "tem",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "📈 Who We Are: We are rebuilding the energy transaction, making it transparent and fair. We're rebuilding how energy is bought and sold. That means cutting out middlemen, connecting businesses directly with renewable generators, and ensuring every transaction i…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/tem/senior-staff-machine-learning-engineer-ml-platform-united-kingdom-427777",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c3ace9fdfd049246",
+      "title": "Growth Lead - Sell Side",
+      "company": "tem",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "📈 Who We Are: We are rebuilding the energy transaction, making it transparent and fair. We're rebuilding how energy is bought and sold. That means cutting out middlemen, connecting businesses directly with renewable generators, and ensuring every transaction i…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/tem/growth-lead-sell-side-united-kingdom-104978",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "01c58a5c35dbf5b9",
+      "title": "ADR Germany",
+      "company": "Kong",
+      "employmentType": "Internship",
+      "location": {
+        "city": "England",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some int…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/kong/adr-germany-england-199577",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5141156e5221fdf1",
+      "title": "AI Solutions Lead",
+      "company": "Omnea",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Policy / Government",
+        "Procurement",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Mission: Omnea is the agentic operating system for procurement. Procurement touches every pound a business spends, yet requests still stall for weeks and approvals get lost in inboxes. Our AI-first platform changes that: our agents capture requests, route …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/omnea/ai-solutions-lead-london-393210",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4ead3315d0137f7f",
+      "title": "Lead Account Manager",
+      "company": "Omnea",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Mission: Omnea is the agentic operating system for procurement. Procurement touches every pound a business spends, yet requests still stall for weeks and approvals get lost in inboxes. Our AI-first platform changes that: our agents capture requests, route …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/omnea/lead-account-manager-london-187688",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "429aa2aae85f81d1",
+      "title": "C++ Software Engineer",
+      "company": "Reactive Markets",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "C++ Software Engineer Remote (UK-based) | Full-Time About Us Reactive Markets is the 2026 OTC Trading Platform of the Year ( Risk.net ). Our network handles over $75 billion in daily trading volumes across FX, Equities, and Cryptocurrency, connecting 60+ of th…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/c-software-engineer-united-kingdom-398275",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7e5dd6f0cb95b6d8",
+      "title": "FIX Onboarding & Client Services",
+      "company": "Reactive Markets",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hybrid",
+        "region": null,
+        "country": "London",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "FIX Onboarding & Client Services, EMEA Hybrid, London, UK (3+ days per week in-office) | Full-Time About Us Reactive Markets is the 2026 OTC Trading Platform of the Year ( Risk.net ). Our network handles over $75 billion in daily trading volumes across FX, Equ…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/fix-onboarding-client-services-london-408539",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "66d5f27b68d67087",
+      "title": "Global Capability Centre UK Lead",
+      "company": "Radiant",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Radiant Radiant builds and operates AI-native cloud platforms for high-performance GPU workloads. Our infrastructure brings together data centres, compute, networking, storage and software to serve customers with demanding AI requirements. As we grow int…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/radiant/global-capability-centre-uk-lead-london-227910",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ec4789c07b660465",
+      "title": "Operational Service Excellence Manager",
+      "company": "Radiant",
+      "employmentType": "Internship",
+      "location": {
+        "city": "UK",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Radiant Radiant is building AI native cloud infrastructure for the most demanding compute workloads. Our platform combines high density GPU compute, high performance networking, storage, data centre operations and cloud software. We design and operate in…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/radiant/operational-service-excellence-manager-uk-341829",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "913bfe34717d8252",
+      "title": "Infrastructure Tooling & Observability Engineer (UK)",
+      "company": "Radiant",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us We’re a fast-growing GPU-as-a-Service provider, delivering scalable, high-performance compute infrastructure purpose-built for AI and HPC workloads. Operating across global data centres, we run mission-critical environments where uptime, throughput, a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/radiant/infrastructure-tooling-observability-engineer-uk-london-469492",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0d1bbf142b583eac",
+      "title": "Senior Embedded Linux Software Engineer",
+      "company": "Auterion",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Auterion builds a cutting-edge operating system for autonomous robotic systems that empower a diverse range of platforms to perform surveillance, reconnaissance, inspection, mapping and logistics tasks. Our industry-leading software drives the adoption of robo…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/auterion/senior-embedded-linux-software-engineer-zurich-2268",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2da1edd3c4a4ab85",
+      "title": "Product Manager Digital Services (a) 80-100%",
+      "company": "Rychiger AG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Steffisburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Gestalte die digitale Zukunft von Rychiger mit! Du entwickelst und vermarktest digitale Services, die unsere Kunden begeistern und unser Geschäftsmodell transformieren. Mit deinem Gespür für Marktpotenziale und deinem strategischen Denken baust du neue digital…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/rychiger-ag/product-manager-digital-services-a-80-100-steffisburg-390755",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "81d815ad713cdaac",
+      "title": "Teilprojektleiter Elektrotechnik (a) 80%-100%",
+      "company": "Rychiger AG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Frauenfeld",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Für unseren Standort Frauenfeld suchen wir dich als Teilprojektleiter Elektrotechnik. Dein zukünftiges Wirkungsfeld Entwicklung elektrotechnischer Lösungen für anspruchsvolle Sondermaschinen, von der Kundenanforderung über das Konzept bis zur umsetzungsreifen …",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/rychiger-ag/teilprojektleiter-elektrotechnik-a-80-100-frauenfeld-428103",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a9b62521a350d525",
+      "title": "Senior Corporate Recruiter",
+      "company": "Testendouble",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your Role in Our Story: As a Senior Recruiter at ACT, you will attract and hire commercial talent, primarily -and not alone- for our Front Office teams. You will manage the recruitment process from intake to offer, working closely with hiring managers to under…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/testendouble/senior-corporate-recruiter-amsterdam-351670",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cb7d707328527a62",
+      "title": "HR Medewerker Senior (m/v/x)",
+      "company": "Koninklijk Nederlands Lucht- en Ruimtevaartcentrum",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Marknesse",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Een ervaren HR-professional die graag complexe HR-vraagstukken oppakt, kennis deelt, overzicht houdt en bijdraagt aan een goede HR-dienstverlening. Voor onze volop in beweging zijnde HR administratie/HR-support team zoeken we een ervaren HR-professional die go…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/koninklijk-nederlands-lucht-en-ruimtevaartcentrum/hr-medewerker-senior-marknesse-222803",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "64eca0578e9e3a13",
+      "title": "Marketing Communication Intern (Healthcare Analytics)",
+      "company": "LOGEX",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": "Netherlands",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our mission We are LOGEX, a company dedicated to improving healthcare through advanced data analytics. Our tools transform data into actionable insights that help decision-makers in healthcare navigate the sensitive balancing act of affordability, accessibilit…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/logex/marketing-communication-intern-healthcare-analytics-amsterdam-90972",
+      "source": "Arbeitnow"
+    },
     {
       "id": "8ead628e85943657",
       "title": "IT-Systemadministrator (m/w/d)",
@@ -13310,30 +14144,6 @@
       },
       "summary": "Le contexte Notre client est un groupe industriel international spécialisé dans les solutions de sécurité pour les équipements électriques et les sites industriels (énergie, data centers, industrie lourde, ferroviaire). Dans le cadre du renforcement de son bur…",
       "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/enova-consulting/concepteur-dessinateur-projeteur-mecanique-solidworks-h-f-paris-9575",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "2aac2145962c238c",
-      "title": "Leiter/in IT",
-      "company": "Markus Flühmann AG",
-      "employmentType": "Internship",
-      "location": {
-        "city": "Merenschwand",
-        "region": null,
-        "country": null,
-        "workMode": "On-site"
-      },
-      "sectors": [
-        "Sustainability / ESG"
-      ],
-      "deadline": null,
-      "postedDate": "2026-11-09",
-      "reportsTo": {
-        "name": null,
-        "title": null
-      },
-      "summary": "Unsere Unternehmensgruppe mit den drei Firmen Markus Flühmann AG, AVA Verlagsauslieferung AG und Oeschger Verpackungsservice AG mit insgesamt 140 Mitarbeitenden hat in der IT viel vor. Dafür suchen wir eine Persönlichkeit, die Verantwortung übernimmt, Struktur…",
-      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/markus-fluhmann-ag/leiter-in-it-merenschwand-54563",
       "source": "Arbeitnow"
     },
     {
