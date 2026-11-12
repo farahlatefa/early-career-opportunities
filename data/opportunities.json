@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-11T21:59:48.991469+00:00",
+    "lastUpdated": "2026-11-12T03:01:30.346282+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,505 @@
     ]
   },
   "jobs": [
+    {
+      "id": "e8b7a6c79ec94e36",
+      "title": "Digital Guest Service / Customer Support Supervisor (all genders) Hospitality in Berlin",
+      "company": "Homaris Service GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We're building the future of urban stays. One city at a time. Homaris widmet sich einer der drängendsten Herausforderungen moderner Städte: Menschen aus aller Welt brauchen Orte, an denen sie leben, arbeiten und sich zuhause fühlen können. Wir entwickeln und b…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/homaris-service-gmbh/digital-guest-service-customer-support-supervisor-all-genders-hospitality-in-berlin-489246",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "99cf5600bedf2592",
+      "title": "Product Manager (f/m/d)",
+      "company": "idnow",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Bavaria",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "IDnow is a leader in digital identity and fraud prevention in Europe with a mission to transform trust into the most powerful asset in the digital world, empowering enterprises with AI-driven, SaaS-based identity solutions that deliver scalable security, adapt…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/idnow/product-manager-berlin-berlin-munchen-bavaria-351426",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b811bba9cd04002f",
+      "title": "Praktikum Strategy und M&A (m/w/d)",
+      "company": "Flip GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Stuttgart & Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Empowe every Employee KI hat verändert, wie Büroangestellte arbeiten. Bei den 80 % der weltweiten Belegschaft , die nicht am Schreibtisch sitzen, ist sie bisher kaum angekommen. Flip AI ändert das. Flip AI ist das #1 Frontline Agentic Operating System (OS) , m…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/flip-gmbh/praktikum-strategy-und-ma-stuttgart-75284",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b67bf213b0045484",
+      "title": "Mission Operations Manager",
+      "company": "Se3",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join SE3 Labs as Mission Operations Manager Run the field exercises that put SE3's autonomous systems in the hands of military units, and bring back the insight that shapes what we build next. About SE3 SE3 Labs builds spatial intelligence and autonomy softwar…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/se3/mission-operations-manager-munich-425865",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "24c9961a4d2ff52f",
+      "title": "Senior Accountant (w/m/d) - AI-native Steuerkanzlei",
+      "company": "Skalar",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "DEINE ROLLE Als Senior Accountant bei Skalar verantwortest du die Buchhaltung und Abschlüsse unserer Mandanten: schnell wachsende und mittelständische Unternehmen. Die Routine übernehmen unsere Agenten. Du prüfst, was sie liefern, und löst Sonderfälle sauber. …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/skalar/senior-accountant-ai-native-steuerkanzlei-munich-481581",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "97320af3b42a3d27",
+      "title": "Founders Associate Intern - Germany",
+      "company": "Dryft",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "DRYFT Ideas only change the world when you build them at scale. That’s what Dryft is here for. Dryft builds models that automate complex human decisions in manufacturing operations. We capture the knowledge of experienced operators across supply chain, product…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/dryft/founders-associate-intern-germany-munich-286851",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5591358341b1af24",
+      "title": "Talent & Growth Intern - Germany",
+      "company": "Dryft",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "DRYFT Ideas only change the world when you build them at scale. That’s what Dryft is here for. Dryft builds models that automate complex human decisions in manufacturing operations. We capture the knowledge of experienced operators across supply chain, product…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/dryft/talent-growth-intern-germany-munich-493652",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "05349c48030b3eb1",
+      "title": "Account Executive - French Speaking (m/f/x)",
+      "company": "Makersite GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Account Executive (m/f/x) (French Speaking) Location: EU (Remote) Comp: 120k EUR base Territories: France / Benelux / Southern Europe Who You’ll Work For: At Makersite, we're pioneering the future of sustainable product development and digital collaboration. A…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-account-executive-french-speaking-berlin-108723",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e76986633ddfc213",
+      "title": "Account Executive - English Speaking (m/f/x)",
+      "company": "Makersite GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote job",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Account Executive (m/f/x) (English Speaking) Location: EU (Remote) Comp: 120k EUR base Territories: UKI/Nordics Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-account-executive-english-speaking-berlin-182287",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3a6a6c27e8267e9a",
+      "title": "Senior SAP Consultant (m/w/d)",
+      "company": "Belmont Lavan Ltd",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Walldorf",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Belmont Lavan sucht einen Senior SAP Consultant (m/w/d), der Kunden bei der Planung, Einführung und Optimierung von SAP-Lösungen begleitet. Ihr Schwerpunkt liegt auf S/4HANA-Transformationsprojekten – von der Analyse über das Design bis zum Go-live und darüber…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/belmont-lavan-ltd/senior-sap-consultant-walldorf-251878",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9bdb00f1f8dae9a1",
+      "title": "Senior Embedded Software Engineer",
+      "company": "CesiumAstro",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At CesiumAstro , we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne platforms. We take pride in our dynamic and cross-functional work environment, which allows us to learn,…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cesiumastro/senior-embedded-software-engineer-munich-germany-39757",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "140ab105ab489c16",
+      "title": "Senior UX Writer",
+      "company": "tide",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A BOUT TIDE At Tide, we help SMEs save time and money in the running of their businesses by not only offering business accounts and related banking services, but also a comprehensive set of highly usable and connected administrative solutions, from invoicing t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/tide/senior-ux-writer-272103",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3d4bd7236203c574",
+      "title": "Marketing Data Analyst",
+      "company": "oliver",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Established in 2004, OLIVER is the world’s first and only specialist in designing, building, and running bespoke in-house agencies and marketing ecosystems for brands. We partner with over 300 clients in 40+ countries and counting. Our unique model drives crea…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/oliver/marketing-data-analyst-london-42084",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2380eb27244b4750",
+      "title": "E-commerce Data Analyst",
+      "company": "oliver",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Established in 2004, OLIVER is the world’s first and only specialist in designing, building, and running bespoke in-house agencies and marketing ecosystems for brands. We partner with over 300 clients in 40+ countries and counting. Our unique model drives crea…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/oliver/e-commerce-data-analyst-london-242465",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "560ac51fc16468ce",
+      "title": "ClayDR - EMEA",
+      "company": "Clay Labs",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Clay AI is unleashing the biggest wave of company creation in history. Clay's mission is to be the engine those companies use to grow to their full potential. Clay predicts the next best action for your business and then helps you take it. We started by …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/clay-labs/claydr-emea-london-201517",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "237113bdb19eeb8b",
+      "title": "CDI - Senior AI Builder - Paris",
+      "company": "Artefactjobs",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "L’IA ne transforme pas une entreprise parce qu’elle est disponible, mais parce que les collaborateurs s’en emparent pour travailler autrement. Chez Artefact, nous sommes des makers : “We Make AI Work”. Notre métier n’est pas de commenter l’IA, c’est de la fair…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/cdi-senior-ai-builder-paris-9th-arrondissement-of-paris-75009-paris-175910",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d60fe6c2d57fb9f5",
+      "title": "Product Manager (f/m/d)",
+      "company": "idnow",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Ille-et-Vilaine",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "IDnow is a leader in digital identity and fraud prevention in Europe with a mission to transform trust into the most powerful asset in the digital world, empowering enterprises with AI-driven, SaaS-based identity solutions that deliver scalable security, adapt…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/idnow/product-manager-paris-paris-rennes-ille-et-vilaine-448559",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ac66e3bda25b004c",
+      "title": "Customer Journey & App Analytics Apprentice",
+      "company": "Backmarket",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bordeaux",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hi, we’re Back Market. We’re here to help make tech reliable, affordable, and better than new . We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/backmarket/customer-journey-app-analytics-apprentice-bordeaux-212702",
+      "source": "Arbeitnow"
+    },
     {
       "id": "2aac2145962c238c",
       "title": "Leiter/in IT",
@@ -3998,32 +4497,6 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "e8b7a6c79ec94e36",
-      "title": "Digital Guest Service / Customer Support Supervisor (all genders) Hospitality in Berlin",
-      "company": "Homaris Service GmbH",
-      "employmentType": "Internship",
-      "location": {
-        "city": "Berlin",
-        "region": null,
-        "country": null,
-        "workMode": "On-site"
-      },
-      "sectors": [
-        "Healthcare",
-        "Sustainability / ESG",
-        "Technology / IT"
-      ],
-      "deadline": null,
-      "postedDate": "2026-11-11",
-      "reportsTo": {
-        "name": null,
-        "title": null
-      },
-      "summary": "We're building the future of urban stays. One city at a time. Homaris widmet sich einer der drängendsten Herausforderungen moderner Städte: Menschen aus aller Welt brauchen Orte, an denen sie leben, arbeiten und sich zuhause fühlen können. Wir entwickeln und b…",
-      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/homaris-service-gmbh/digital-guest-service-customer-support-supervisor-all-genders-hospitality-in-berlin-489246",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "26de2d70c8454ee1",
       "title": "Bilanzbuchhalter (m/w/d) als kaufm. Leiter (m/w/d)",
       "company": "LEPO Consulting GmbH",
@@ -6928,6 +7401,352 @@
       },
       "summary": "At Acturis, innovation isn’t just part of our culture — it’s in our DNA . Our journey began in 2000 in the garage of our co‑founder, Theo Duchen , who—together with fellow former McKinsey partner David McDonald—set out to reinvent insurance technology. From th…",
       "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/acturis/modern-workplace-engineering-lead-london-79711",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "94ceb5be2aa2c981",
+      "title": "(Senior) Manager Group Accounting (m/f/d)",
+      "company": "autoscout24",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A career driven by you. Join AutoScout24 Group and experience life in the fast lane. We’re not just leading the market; we’re creating it. We’re constantly innovating, evolving, and transforming things for our customers. We’re driven, ambitious, and determined…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/autoscout24/senior-manager-group-accounting-234027",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e48a5fef9ad7633f",
+      "title": "Senior GenAI Data Scientist (m/f/d)",
+      "company": "autoscout24",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "A career driven by you. Join AutoScout24 Group and experience life in the fast lane. We’re not just leading the market; we’re creating it. We’re constantly innovating, evolving, and transforming things for our customers. We’re driven, ambitious, and determined…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/autoscout24/senior-genai-data-scientist-426749",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b79565a340cf4798",
+      "title": "Senior CRM Executive - Lifecycle",
+      "company": "Deliveroo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking n…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-crm-executive-lifecycle-london-74614",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4ad02ce51a0a98f4",
+      "title": "Market Data Specialist, Metadata",
+      "company": "Janestreet",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the Position We’re looking for a Market Data Specialist to join our Metadata team, working on improving and supporting our internal golden copy Security Master and Corporate Action Management systems. You’ll be responsible for configuring our systems to …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/janestreet/market-data-specialist-metadata-london-37264",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4403b4a869973273",
+      "title": "IT Infrastructure Security Engineer",
+      "company": "Janestreet",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the Position We are looking for an Infrastructure Security Engineer with a strong cross platform engineering background and practical exposure to modern platform security controls to help our global team secure Jane Street’s IT platforms. In this role, y…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/janestreet/it-infrastructure-security-engineer-london-469932",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "49a80f0e2e8004c1",
+      "title": "Cybersecurity Engineer",
+      "company": "Janestreet",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the Position We're looking to add a full-time, passionate Cybersecurity Engineer to our London office to help protect our company's people, data, and infrastructure from the wilds of the internet. Our Cybersecurity Engineers work on firm-wide defenses, p…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/janestreet/cybersecurity-engineer-london-460902",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "909e721ce64fede7",
+      "title": "Senior Recruiting Coordinator",
+      "company": "Ripple",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Ripple, we’re building a world where value moves like information does today. It’s big, it’s bold, and we’re already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global finan…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ripple/senior-recruiting-coordinator-london-443611",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "caedac5dfd63a33e",
+      "title": "Compliance Manager - Credit",
+      "company": "LemFi",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": "Compliance Lead and MLRO (SMF16/SMF17)"
+      },
+      "summary": "Ambition has no passport. That belief is why LemFi exists. We're the financial engine for people the world wasn't built to serve, the millions who move countries to build something better and find the financial system hasn't caught up with them yet. We started…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/lemfi/compliance-manager-credit-united-kingdom-37798",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c092f3889427bff7",
+      "title": "Account Executive",
+      "company": "Airwallex",
+      "employmentType": "Internship",
+      "location": {
+        "city": "UK - Manchester",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Airwallex Airwallex is the AI-native financial operating system for a real-time, intelligent economy. More than 675,000 businesses, including McLaren Racing, Qantas, SHEIN, and TikTok, use us, directly or through our platform partners, to run their finan…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/airwallex/account-executive-manchester-444037",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1df37e972837ddcc",
+      "title": "L3 Support Engineer",
+      "company": "Nebius",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Béthune",
+        "region": null,
+        "country": "Pas-de-Calais",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/nebius/l3-support-engineer-bethune-pas-de-calais-48313",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bde74dd55487fea9",
+      "title": "Product Manager PRINCE2",
+      "company": "Peoplecert",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Netherlands",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you interested in working with a leading education technology player, the global leader in the assessment and certification of professional skills industry with presence in more than 200 countries worldwide? If so, this is the chance to apply now! 📥 Shape …",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/peoplecert/remote-product-manager-prince2-netherlands-138530",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b2f9809823c28370",
+      "title": "Founders Associate (m/w/d) - Praktikum/Werkstudium",
+      "company": "ImmoFynn",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Frankfurt am Main",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über ImmoFynn Immobilien sind die größte Anlageklasse der Welt. Trotzdem laufen sie bis heute über Papier, Telefonate und Excel. Das ändern wir. ImmoFynn entwickelt KI-Agenten, die Vermietern schon heute Stunden an Arbeit abnehmen. Unser Ziel: Immobilien so mü…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/immofynn/founders-associate-praktikum-werkstudium-frankfurt-am-main-426384",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "28f786782bc88435",
+      "title": "IT-Teamleiter (m/w/d)",
+      "company": "think about IT GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Krefeld",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-11",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bei der INCAS GmbH , einer Tochtergesellschaft der think about IT GmbH und einem seit fast 30 Jahren führenden Unternehmen in der Technologie-, Informations- und Internetbranche, bieten wir Ihnen die einzigartige Möglichkeit, als IT-Teamleiter (m/w/d) Teil uns…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/it-teamleiter-krefeld-287476",
       "source": "Arbeitnow"
     },
     {
