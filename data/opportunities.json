@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-12T18:58:29.071205+00:00",
+    "lastUpdated": "2026-11-13T00:27:20.680738+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -6607,8 +6607,8 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "f03ad3a3a5c7e5ad",
-      "title": "Werkstudent:in Sachbearbeitung Erneuerbare Energien (m/w/d)",
+      "id": "284cc9af936803c7",
+      "title": "Werkstudent:in Administration Erneuerbare Energien (m/w/d)",
       "company": "KlimaInvest Green Concepts",
       "employmentType": "Internship",
       "location": {
@@ -7260,6 +7260,1418 @@
       },
       "summary": "What we are building Mimica is an AI-powered process intelligence platform enabling enterprises and individuals to reclaim their most precious resource: time. We've all seen repetitive tasks and redundant processes quietly drain productivity and creativity. No…",
       "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/mimica/staff-senior-backend-engineer-nodejs-london-33717",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f159bebc72a9acd2",
+      "title": "Senior Software Engineer, Inference Performance",
+      "company": "Tensordyne",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Tensordyne AI is transforming our world. It can perform cognitive functions that previously only humans could do, such as perceiving interactions across different modalities and environments - with the ability to quickly learn and then solve complex prob…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tensordyne/senior-software-engineer-inference-performance-munich-304375",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f7bdc7ab7b5e77e9",
+      "title": "Teilzeitkraft Küche (f/m/d)",
+      "company": "Munich Electrification",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Munich Electrification Munich Electrification is an innovative company founded with the aim of accelerating the transition to electric and connected mobility. We develop innovative electronic control units for electric vehicles and stationary storage sys…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/munich-electrification/teilzeitkraft-kuche-munich-324175",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b8f6ae21d7970689",
+      "title": "Data Analyst Marketing",
+      "company": "YAZIO",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "HEY THERE! Ready to put our brand in front of millions of people worldwide? We’re looking for a Data Analyst, Marketing to turn raw campaign and engagement data into decisions — telling us which channels, markets, and customers to target next. This isn’t a das…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/yazio/data-analyst-marketing-berlin-169107",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "925346f46d1a6286",
+      "title": "IT Administration & Automation Manager (all genders)",
+      "company": "Lio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "You’re not just managing IT; you’re automating it. As IT Automation & Systems Manager at Lio, you replace manual processes with smart workflows, build internal tools that outperform SaaS solutions, and create a secure, scalable IT foundation for a fast-growing…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lio/it-administration-automation-manager-all-genders-munich-350810",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0c7aa10c1455888d",
+      "title": "Finance & Legal Lead",
+      "company": "Emidat GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "👷🏻‍♀️ What we do 👷🏻‍♀️ At Emidat, we get manufacturers back to manufacturing. Why it matters. Today, only 11% of employees in Germany are engaged at work , and knowledge workers spend 58% of their day on work about work . We want to live in a world where peopl…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/emidat-gmbh/finance-legal-lead-munich-8574",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5c662aa9651f74ad",
+      "title": "Software-Entwickler (m/w/d) C++",
+      "company": "encontec GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Aalen",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Software-Entwickler (m/w/d) C++ Willkommen in der faszinierenden Welt der Optronics! Komm in unser Team und profitiere von unseren zahlreichen Benefits! Dein zukünftiger Tätigkeitsbereich Konzeption, Entwicklung und Pflege einer Softwarelösung mit kundenspezif…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/encontec-gmbh/software-entwickler-c-aalen-19525",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "164e2cb0240988b4",
+      "title": "Senior Supply Chain Manager - Sourcing & Planning (m/w/d)",
+      "company": "Rosental Organics GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du willst Lieferketten nicht nur verwalten, sondern wirklich gestalten? Bei Rosental Organics übernimmst du die volle Ownership über unsere internationale Beschaffung von Verpackungsmaterialien bis zu Produktkomponenten und baust die Prozesse auf, die unser Wa…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/rosental-organics-gmbh/senior-supply-chain-manager-sourcing-planning-berlin-237979",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cfb08c9c519a11bc",
+      "title": "Senior Project Manager:in Event & Promotion",
+      "company": "MXT Holding GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bochum",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "MAKE IT WORK. Manche Projekte beginnen Monate im Voraus. Andere starten morgen. Heute koordinierst du 100 Promoter:innen gleichzeitig überall in Deutschland, organisierst internationale Brand Events oder begleitest Roadshows durch mehrere Städte. Und morgen mü…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/mxt-holding-gmbh/senior-project-managerin-event-promotion-bochum-107478",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f879a4dd3ce0a5f9",
+      "title": "Praktikant (m/w/d) für Konstruktion & Robotik",
+      "company": "TruPhysics GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Stuttgart",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du willst dein Hobby zum Beruf machen? Du hast als Kind schon mit Lego Mindstorms gespielt, schraubst in deiner Freizeit an Autos oder Robotern und willst endlich an Projekten arbeiten, die wirklich die Welt bewegen? Dann bist du bei uns genau richtig! TruPhys…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/truphysics-gmbh/praktikant-fur-konstruktion-robotik-stuttgart-315681",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ad04fc187551ec2e",
+      "title": "Werkstudent (m/w/d) Marketing, Schwerpunkt Social Media",
+      "company": "Greiwing Truck & Trailer GmbH & Co. KG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Greven",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die GTT-Gruppe beschafft mit über 900 Einheiten Logistik-Kunden in sechs Ländern Europas für jeden Transportauftrag das ideale Nutzfahrzeug – und das schon seit über 20 Jahren. Für uns ist ein persönliches und vertrauensvolles Miteinander das Fundament einer f…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/greiwing-truck-trailer-gmbh-co-kg/werkstudent-marketing-schwerpunkt-social-media-greven-14646",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2abfa416dc647dfa",
+      "title": "Junior Media Planner (m/w/d)",
+      "company": "Designerdock München GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die Agentur: Unser Kunde ist eine etablierte, auf den Gesundheitsmarkt spezialisierte inhabergeführte Mediaagentur. Am Standort München verbindet das Unternehmen fundiertes Branchenwissen mit strategischer Beratung, datenbasierter Mediaplanung und digitalen Ko…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/designerdock-munchen-gmbh/junior-media-planner-munich-161718",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8f9c7e84ea32b701",
+      "title": "Business Development Manager – Affiliate Marketing (m/f/d)",
+      "company": "AffiliateLandscape",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Fully Remote – Worldwide Employment Type: Full-time Industry: Affiliate Marketing / Digital Advertising About the Role We are looking for a driven Business Development Manager with experience in affiliate marketing, performance advertising, or digita…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/affiliatelandscape/business-development-manager-affiliate-marketing-berlin-73692",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7585cd79a92043a0",
+      "title": "(Senior) Affiliate Marketing Manager (m/f/d)",
+      "company": "AffiliateLandscape",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Fully Remote – Worldwide Employment Type: Full-time Industry: Affiliate Marketing / Performance Marketing About the Role We are looking for an experienced Senior Affiliate Marketing Manager with a strong understanding of the global affiliate marketin…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/affiliatelandscape/senior-affiliate-marketing-manager-berlin-482248",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5adc23a319ea0acc",
+      "title": "Junior Marketing Manager - DACH",
+      "company": "AMBOSS",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über AMBOSS & den DACH Campus AMBOSS ist ein international etabliertes MedTech-Unternehmen mit Sitz in Berlin, das weltweit mehr als eine Million Nutzer:innen in über 180 Ländern erreicht. Die Plattform liefert medizinisches Wissen und Entscheidungsunterstützu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/amboss/junior-marketing-manager-dach-berlin-5430",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "28bc5b356d365d66",
+      "title": "Chefarzt (m/w/d) Neurologie",
+      "company": "PraxisEins",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Migräne- und Kopfschmerzklinik Königstein",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Chefarzt (m/w/d) Neurologie – Deutschlands älteste Kopfschmerzklinik 50 Jahre Kopfschmerzmedizin – gestalten Sie die nächsten. Deutschlands älteste Kopfschmerzklinik sucht eine ärztliche Führungspersönlichkeit, die medizinische Exzellenz mit unternehmerischem …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/praxiseins/chefarzt-neurologie-konigstein-im-taunus-66618",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6661fb89534971fb",
+      "title": "Founders' Associate (Management Track)",
+      "company": "PraxisEins",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Founders’ Associate (m/w/d) – Management Track | PraxisEins, Düsseldorf In vielen Regionen Deutschlands finden Hausärztinnen und Hausärzte keine Nachfolge mehr. Patientinnen und Patienten stehen dann ohne Versorgung da. Wir ändern das, und suchen jemanden, der…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/praxiseins/founders-associate-management-track-dusseldorf-412195",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8ea2c2d36e7c2b20",
+      "title": "Office Coordinator (m/f/d)",
+      "company": "RobCo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the Role at RobCo RobCo is building the category of Autonomous Industrial Robotics and we're doing it fast. We believe that automating the ordinary frees humans to do the extraordinary, and we're building the end-to-end robotics infrastructure to make th…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/robco/office-coordinator-munich-262882",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5904da8b2defda8e",
+      "title": "Prototyping Engineer (m/f/d)",
+      "company": "RobCo",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the Role at RobCo RobCo is building the category of Autonomous Industrial Robotics and we're doing it fast. We believe that automating the ordinary frees humans to do the extraordinary, and we're building the end-to-end robotics infrastructure to make th…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/robco/prototyping-engineer-munich-353542",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1ab78dc27c494710",
+      "title": "(Junior-) Vertriebsmitarbeiter KI-Lösungen (m/w/d)",
+      "company": "MintCode Solutions GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du findest KI spannend, aber noch spannender, was Unternehmen damit im Alltag wirklich anfangen können? Du redest gern mit Menschen, erkennst schnell, wo in einem Betrieb Zeit liegen bleibt, und willst einen Kunden vom ersten Anruf bis zur Unterschrift selbst …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/mintcode-solutions-gmbh/junior-vertriebsmitarbeiter-ki-losungen-berlin-388113",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ee09bcf413887945",
+      "title": "New Business Account Executive",
+      "company": "Twilio",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/twilio/new-business-account-executive-246588",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d1765cb37cfd0a0e",
+      "title": "Social Content Producer - Inside I35 Contractor",
+      "company": "Legal Counsel - 12 month FTC at Rightmove Greenhouse",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our vision is to give everyone the belief they can make their move. We aim to make moving simpler, by giving everyone the best place to turn to and return to for access to the tools, expertise, trust, and belief to make it happen. We’re home to the UK’s larges…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/social-content-producer-inside-i35-contractor-london-337835",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bb9322fcdb51d355",
+      "title": "Staff Hardware System Test Engineer",
+      "company": "Graphcore",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bristol; Cambridge",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the job Build the test systems that help deliver AI hardware at production scale. As a Staff Hardware System Test Engineer, you'll develop manufacturing test solutions for complex compute systems. Your work will help ensure products reach customers with …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-hardware-system-test-engineer-bristol-cambridge-138439",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7d56e3f7c7e8ee0d",
+      "title": "Staff Cloud Engineer",
+      "company": "Graphcore",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bristol; London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the job Build the cloud platform that turns Graphcore AI systems into usable, scalable services. Graphcore needs a Staff Cloud Engineer to develop and deploy private and public cloud services for AI compute. You will join the Cloud Platform team within S…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-cloud-engineer-bristol-london-313049",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7f80cfe01b2e763a",
+      "title": "Software Engineer in Build Engineering",
+      "company": "Graphcore",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Graphcore Graphcore is one of the world’s leading innovators in Artificial Intelligence compute. It is developing hardware, software and systems infrastructure that will unlock the next generation of AI breakthroughs and power the widespread adoption of …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/software-engineer-in-build-engineering-bristol-174408",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "287eeb25d6fca943",
+      "title": "Software Engineer in Build Engineering",
+      "company": "Graphcore",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cambridge",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Graphcore Graphcore is one of the world’s leading innovators in Artificial Intelligence compute. It is developing hardware, software and systems infrastructure that will unlock the next generation of AI breakthroughs and power the widespread adoption of …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/software-engineer-in-build-engineering-cambridge-421512",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "59c8faa7d64dc162",
+      "title": "Software Engineer in Build Engineering",
+      "company": "Graphcore",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Graphcore Graphcore is one of the world’s leading innovators in Artificial Intelligence compute. It is developing hardware, software and systems infrastructure that will unlock the next generation of AI breakthroughs and power the widespread adoption of …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/software-engineer-in-build-engineering-london-159307",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e1f0b85bd82ebeff",
+      "title": "Senior Software Infrastructure Engineer",
+      "company": "Graphcore",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Cambridge",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Graphcore Graphcore is one of the world’s leading innovators in Artificial Intelligence compute. It is developing hardware, software and systems infrastructure that will unlock the next generation of AI breakthroughs and power the widespread adoption of …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-infrastructure-engineer-cambridge-44591",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5306459c3cfb734d",
+      "title": "Senior Software Infrastructure Engineer",
+      "company": "Graphcore",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Graphcore Graphcore is one of the world’s leading innovators in Artificial Intelligence compute. It is developing hardware, software and systems infrastructure that will unlock the next generation of AI breakthroughs and power the widespread adoption of …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-infrastructure-engineer-london-51152",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b955734c5e1dd644",
+      "title": "Senior Software Infrastructure Engineer",
+      "company": "Graphcore",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Graphcore Graphcore is one of the world’s leading innovators in Artificial Intelligence compute. It is developing hardware, software and systems infrastructure that will unlock the next generation of AI breakthroughs and power the widespread adoption of …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-infrastructure-engineer-bristol-415773",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "42dca8ec11448220",
+      "title": "Senior Board Test Engineer",
+      "company": "Graphcore",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the job Turn board design insight into reliable tests that detect manufacturing defects in Graphcore’s hardware. As a Senior Board Test Engineer in Bristol, you’ll develop manufacturing tests for Graphcore’s advanced electronic products. You’ll focus on …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-board-test-engineer-bristol-271339",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "033dd77d2ce46e15",
+      "title": "AI Research Engineer",
+      "company": "Graphcore",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Finance",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Graphcore At Graphcore, we’re building the future of AI compute.We’re a team of semiconductor, software and AI experts, with deep experience in creating the complete AI compute stack - from silicon and software to infrastructure at datacenter scale.As pa…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/ai-research-engineer-bristol-476883",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "eda143e74d884438",
+      "title": "AI Research Engineer",
+      "company": "Graphcore",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Finance",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Graphcore At Graphcore, we’re building the future of AI compute.We’re a team of semiconductor, software and AI experts, with deep experience in creating the complete AI compute stack - from silicon and software to infrastructure at datacenter scale.As pa…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/ai-research-engineer-london-444626",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9752922d900f8a08",
+      "title": "AI Research Engineer",
+      "company": "Graphcore",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cambridge",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Finance",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Graphcore At Graphcore, we’re building the future of AI compute.We’re a team of semiconductor, software and AI experts, with deep experience in creating the complete AI compute stack - from silicon and software to infrastructure at datacenter scale.As pa…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/ai-research-engineer-cambridge-367714",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9f2f7024f59cef8f",
+      "title": "Sales Development Representative",
+      "company": "Nylon",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Brighton",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job Description: About Us Nylon is rebuilding how professional advice gets made. Not built for accountants and lawyers — built with them. We work alongside firms that cannot afford to be wrong. They expect precision, speed and an answer they can put their name…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/nylon/sales-development-representative-brighton-4415",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b12cae6c5b5411b6",
+      "title": "Marketing Lead",
+      "company": "Nylon",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Own marketing at an AI legal research company that already has 1,900+ firms as customers. Nylon is an AI-native tax and legal research platform used by 1,900+ accountancy and law firms across the UK, Australia and New Zealand. We were the first product accredi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/nylon/marketing-lead-london-387181",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "df6d9a36e5940f56",
+      "title": "Senior Data Scientist",
+      "company": "Bitvavo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Headquarters",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "In 2018, Bitvavo launched the first version of its digital assets trading platform, to bridge the gap between traditional currencies and digital assets. By offering transparent fees, a wide range of assets and an easy to use platform, Bitvavo is making the cur…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/bitvavo/senior-data-scientist-headquarters-496939",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fddd486645003f30",
+      "title": "Graduate Sales Development Representative (Life Sciences)",
+      "company": "Patsnap",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Farringdon",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Graduate Sales Development Representative (Life Sciences) ➡️ Have a degree in Life Sciences and looking for an alternative to the lab where you can still use your scientific knowledge every day? ➡️ Excited by the opportunity to work with leading pharmaceutical…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/patsnap/graduate-sales-development-representative-life-sciences-farringdon-345449",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "80ff8ddcdee09ed4",
+      "title": "Data Engineer III - FMX",
+      "company": "Fanaticsfbg",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Fanatics is building a leading global digital sports platform. We ignite the passions of global sports fans and maximize the presence and reach for our hundreds of sports partners globally by offering products and services across Fanatics Commerce, Fa…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/data-engineer-iii-fmx-london-844",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f018147b6ad8cf0c",
+      "title": "Senior People Business Partner",
+      "company": "Globalwebindex",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": "VP, People and Culture, and partner closely with our Chief Revenue Officer, Chief Marketing Officer"
+      },
+      "summary": "Senior People Business Partner - GTM Location : London Office requirement : Minimum 2 days in the office Employment type : Permanent As our Senior People Business Partner you’ll: Report to the VP, People and Culture, and partner closely with our Chief Revenue …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/globalwebindex/senior-people-business-partner-london-441109",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "eadfa41b44761b68",
+      "title": "Associate Data Scientist - Operations Research",
+      "company": "Wheely",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Wheely Wheely is redefining premium transportation across major cities in Europe, the US, and the Middle East. We blend cutting-edge technology with the craft of five-star chauffeuring to deliver an experience trusted by more than 100,000 active riders a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/wheely/associate-data-scientist-operations-research-london-447521",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d846364a2671aa1a",
+      "title": "Software Engineer - Digital Assets",
+      "company": "Optiverus",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Optiver is looking for a Software Engineer to join our Digital Assets Team in London. In this role, you’ll build and evolve trading systems for cryptocurrency markets, working closely with traders and researchers to deliver solutions in a fast-moving and const…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/software-engineer-digital-assets-london-89261",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0f6be59b6ff34546",
+      "title": "Senior Software Engineer - Core Video & Data",
+      "company": "Hudl",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Humanitarian / NGO",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Hudl, we build great teams. We hire the best of the best to ensure you’re working with people you can constantly learn from. You’re trusted to get your work done your way while testing the limits of what’s possible and what’s next. We work hard to provide a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hudl/senior-software-engineer-core-video-data-london-251464",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "58d3696cfd5da45e",
+      "title": "Senior Engineer - Athlete Performance",
+      "company": "Hudl",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Hudl, we build great teams. We hire the best of the best to ensure you’re working with people you can constantly learn from. You’re trusted to get your work done your way while testing the limits of what’s possible and what’s next. We work hard to provide a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hudl/senior-engineer-athlete-performance-london-21922",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7bf68ead8c2825b1",
+      "title": "Strategic Account Manager",
+      "company": "Omnea",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Procurement",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Mission: Omnea is the agentic operating system for procurement. Procurement touches every pound a business spends, yet requests still stall for weeks and approvals get lost in inboxes. Our AI-first platform changes that: our agents capture requests, route …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/omnea/strategic-account-manager-london-447908",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7922039050b94cf3",
+      "title": "Senior IT Projektleiter - Einführung einer Enterprise ITSM Plattform",
+      "company": "PROSTAFF Schweiz GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Für einen Kunden im Schweizer Finanzsektor sucht PROSTAFF eine erfahrene IT-Projektleitung für die Ablösung der bestehenden ITSM-Plattform. Das Vorhaben ist Teil des Aufbaus eines modernen IT Control Centers. Die neue Plattform soll ITSM-Prozesse standardisier…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/senior-it-projektleiter-einfuhrung-einer-enterprise-itsm-plattform-zurich-3262",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "22748a333d3f24d5",
+      "title": "Controller (m/w/d) – Industrie | 80–100 %",
+      "company": "Höll Select",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Solothurn",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Für ein etabliertes, international tätiges Industrieunternehmen suchen wir eine analytisch starke und engagierte Persönlichkeit, die das Controlling mit ihrem Fachwissen und eigenen Ideen aktiv mitgestalten möchte. In dieser vielseitigen Funktion übernimmst du…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/holl-select/controller-industrie-80-100-solothurn-185468",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "396d6d00998e45e0",
+      "title": "Senior Controls Engineer",
+      "company": "AMF Bakery Systems B.V.",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Gorinchem",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Voor onze afdeling Controls Engineering in Gorinchem zijn we per direct op zoek naar een ervaren Senior Controls Engineer voor het programmeren van de aansturing van onze nieuwste voedselproductie lijnen voor onze klanten van het merk Tromp uit Gorinchem. Dit …",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-93018",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "00bf9070830f486b",
+      "title": "Data Officer",
+      "company": "Keune Haircosmetics Manufacturing B.V.",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Soest",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Als Data Officer speel je een belangrijke rol in het ondersteunen van het productontwikkelingsproces door technische gegevens over grondstoffen en verpakkingscomponenten te verzamelen en in te voeren in het Product Lifecycle Management (PLM) en Enterprise Reso…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/keune-haircosmetics-manufacturing-bv/data-officer-soest-101790",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dd2ad546cbe4a3ef",
+      "title": "Senior Business Consultant",
+      "company": "Ockto",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Naarden",
+        "region": null,
+        "country": "Netherlands",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Over Ockto Ockto is een Nederlandse SaaS-scale-up die organisaties helpt om complexe financiële en administratieve processen slimmer, sneller en volledig digitaal te maken. Met ons platform kunnen consumenten veilig en eenvoudig hun persoonlijke en financiële …",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/ockto/senior-business-consultant-naarden-386118",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "728d5a4ed6ce0e57",
+      "title": "GTM Associate",
+      "company": "Condukt",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Condukt is the next-generation compliance platform for financial services, offering an agentic solution powered by real-time data for business identity. Always-on and policy-aware, Condukt enables financial institutions and fintechs to gain actionable…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/condukt/gtm-associate-london-467091",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a0b4f24e532f5f4b",
+      "title": "Partner Solutions Engineer",
+      "company": "Phrase",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": "VP, Solutions Engineering, and work exclusively on partner-led deals, helping to shape how the role"
+      },
+      "summary": "Partner Solutions Engineer At Phrase, we help open the door to global business by providing the world's leading Language Intelligence Platform. The Phrase Platform combines AI, agentic orchestration, and a headless, API-first architecture in one composable sys…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/phrase/partner-solutions-engineer-united-kingdom-119438",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0dc8a973260dfb7a",
+      "title": "Global Payroll & Benefits Manager",
+      "company": "Radiant",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job Title: Global Payroll & Benefits Manager Location: Hybrid About Radiant Radiant is redefining how AI infrastructure is built. We design and operate AI-native cloud platforms engineered for sovereignty, performance, and scale. Our infrastructure powers GPU-…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/radiant/global-payroll-benefits-manager-london-432739",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ea744ad129a3a28c",
+      "title": "Senior Onboarding consultant",
+      "company": "Planday From Xero",
+      "employmentType": "Internship",
+      "location": {
+        "city": "UK: London (7 Devonshire Square)",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Purpose Scheduling isn’t simply filling shifts. It’s finding the sweet spot that enables businesses to grow and team members to enjoy the perfect work/life balance. At Planday from Xero, we aim to use Agentic AI to build a future where managers seamlessly …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/planday-from-xero/senior-onboarding-consultant-london-95586",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "80630c17ef78360e",
+      "title": "AI Product Engineer",
+      "company": "Magentic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Procurement",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-12",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Role We're looking for an AI Engineer to build the agentic core of our product. You'll work closely with our CTO and own LLM-based features and agentic workflows end to end, from the agent framework through to the tooling that connects it to a customer's E…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/magentic/ai-product-engineer-london-107344",
       "source": "Arbeitnow"
     },
     {
