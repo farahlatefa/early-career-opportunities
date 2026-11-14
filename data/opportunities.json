@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-13T22:39:39.358227+00:00",
+    "lastUpdated": "2026-11-14T03:18:25.585279+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,1295 @@
     ]
   },
   "jobs": [
+    {
+      "id": "6b5384f03de7f401",
+      "title": "Working Student Legal Operations and Technology",
+      "company": "celonis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": "measure control effectiveness and compliance"
+      },
+      "summary": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning A…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/celonis/working-student-legal-operations-and-technology-munich-482669",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "31263af26a44dc53",
+      "title": "Data analyst - AML",
+      "company": "sumup",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the team: At SumUp, keeping our platform safe and compliant is critical to the trust of the millions of small businesses we serve around the world. You’ll join our Global AML team at an exciting point in its growth. We’re expanding into new markets, evol…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sumup/data-analyst-aml-berlin-3972",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0af76b00b3634c60",
+      "title": "Teamleiter Logistik (m/w/d)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Heidelberg",
+        "region": null,
+        "country": "Baden-Württemberg",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurz und knapp Suchst du eine Führungsrolle, in der deine positive Energie und dein Teamgeist den Unterschied machen? Bei Picnic suchen wir nicht nur jemanden, der Prozesse steuert, sondern eine Führungskraft, die ihr Team inspiriert und jeden Tag zu einem Erf…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-logistik-heidelberg-baden-wurttemberg-291118",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ecaa83a69c036f41",
+      "title": "Teamleiter Logistik (m/w/d)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Viernheim",
+        "region": null,
+        "country": "Hesse",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurz und knapp Suchst du eine Führungsrolle, in der deine positive Energie und dein Teamgeist den Unterschied machen? Bei Picnic suchen wir nicht nur jemanden, der Prozesse steuert, sondern eine Führungskraft, die ihr Team inspiriert und jeden Tag zu einem Erf…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-logistik-viernheim-hesse-419830",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "87b28a61af0c02c8",
+      "title": "Teamleiter Logistik (m/w/d)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Mannheim",
+        "region": null,
+        "country": "Baden-Württemberg",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurz und knapp Suchst du eine Führungsrolle, in der deine positive Energie und dein Teamgeist den Unterschied machen? Bei Picnic suchen wir nicht nur jemanden, der Prozesse steuert, sondern eine Führungskraft, die ihr Team inspiriert und jeden Tag zu einem Erf…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-logistik-mannheim-baden-wurttemberg-382326",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b102db8b50a4358e",
+      "title": "Teamleiter Logistik (m/w/d)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bergkamen",
+        "region": null,
+        "country": "North Rhine-Westphalia",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurz und knapp Suchst du eine Führungsrolle, in der deine positive Energie und dein Teamgeist den Unterschied machen? Bei Picnic suchen wir nicht nur jemanden, der Prozesse steuert, sondern eine Führungskraft, die ihr Team inspiriert und jeden Tag zu einem Erf…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-logistik-bergkamen-north-rhine-westphalia-170449",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9d9aa5f388d4b37e",
+      "title": "Teamleiter Logistik (m/w/d)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Nürnberg",
+        "region": null,
+        "country": "Bavaria",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurz und knapp Suchst du eine Führungsrolle, in der deine positive Energie und dein Teamgeist den Unterschied machen? Bei Picnic suchen wir nicht nur jemanden, der Prozesse steuert, sondern eine Führungskraft, die ihr Team inspiriert und jeden Tag zu einem Erf…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-logistik-nurnberg-bavaria-449741",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "eede832b6430fa6b",
+      "title": "Teamleiter Logistik (m/w/d)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamm",
+        "region": null,
+        "country": "North Rhine-Westphalia",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurz und knapp Suchst du eine Führungsrolle, in der deine positive Energie und dein Teamgeist den Unterschied machen? Bei Picnic suchen wir nicht nur jemanden, der Prozesse steuert, sondern eine Führungskraft, die ihr Team inspiriert und jeden Tag zu einem Erf…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-logistik-hamm-north-rhine-westphalia-311546",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f547b6485b2753e3",
+      "title": "Teamleiter Logistik (m/w/d)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Ahlen",
+        "region": null,
+        "country": "North Rhine-Westphalia",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurz und knapp Suchst du eine Führungsrolle, in der deine positive Energie und dein Teamgeist den Unterschied machen? Bei Picnic suchen wir nicht nur jemanden, der Prozesse steuert, sondern eine Führungskraft, die ihr Team inspiriert und jeden Tag zu einem Erf…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-logistik-ahlen-north-rhine-westphalia-134525",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7c13cdffda625ff0",
+      "title": "Teamleiter Logistik (m/w/d)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Fürth",
+        "region": null,
+        "country": "Bavaria",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurz und knapp Suchst du eine Führungsrolle, in der deine positive Energie und dein Teamgeist den Unterschied machen? Bei Picnic suchen wir nicht nur jemanden, der Prozesse steuert, sondern eine Führungskraft, die ihr Team inspiriert und jeden Tag zu einem Erf…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-logistik-furth-bavaria-436872",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "70bae005e31ca3d9",
+      "title": "Teamleiter Logistik (m/w/d)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Erlangen",
+        "region": null,
+        "country": "Bavaria",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurz und knapp Suchst du eine Führungsrolle, in der deine positive Energie und dein Teamgeist den Unterschied machen? Bei Picnic suchen wir nicht nur jemanden, der Prozesse steuert, sondern eine Führungskraft, die ihr Team inspiriert und jeden Tag zu einem Erf…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-logistik-erlangen-bavaria-368582",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b0a5c53f42a4aa8f",
+      "title": "Teamleiter Last Mile Logistik (m/w/d)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": "Bavaria",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurz und Knapp Du liebst die tägliche Abwechslung, siehst dich als (zukünftige) Führungskraft, um dein Team zum Erfolg zu führen, und bist bereit für eine neue Herausforderung in der Logistik? Dann bist du bei Picnic genau richtig! Denn wir suchen nach einer T…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-last-mile-logistik-munchen-bavaria-193133",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c4b5b550a8822ce1",
+      "title": "Senior Technische*r Objektleiter*in (m/w/d)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Oberhausen",
+        "region": null,
+        "country": "North Rhine-Westphalia",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurz und knapp Suchst du eine technisch hoch anspruchsvolle Position, in der du das Zusammenspiel von Gebäude und modernster Robotik perfektionierst? Als Senior Technische*r Objektleiter*in (m/w/d) bist du das technische Mastermind hinter unserem hochkomplexen…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/senior-technischer-objektleiterin-oberhausen-north-rhine-westphalia-253050",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4c298dc82af44b17",
+      "title": "Senior Technischer Facility Manager (m/w/d)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Oberhausen",
+        "region": null,
+        "country": "North Rhine-Westphalia",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurz und knapp Suchst du eine technisch hoch anspruchsvolle Position, in der du das Zusammenspiel von Gebäude und modernster Robotik perfektionierst? Als Senior Technischer Facility Manager (m/w/d) bist du das technische Mastermind hinter unserem hochkomplexen…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/senior-technischer-facility-manager-oberhausen-north-rhine-westphalia-235816",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9bbc232e908035ee",
+      "title": "Senior Technischer Facility Manager (m/w/d)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Dinslaken",
+        "region": null,
+        "country": "North Rhine-Westphalia",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurz und knapp Suchst du eine technisch hoch anspruchsvolle Position, in der du das Zusammenspiel von Gebäude und modernster Robotik perfektionierst? Als Senior Technischer Facility Manager (m/w/d) bist du das technische Mastermind hinter unserem hochkomplexen…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/senior-technischer-facility-manager-dinslaken-north-rhine-westphalia-105341",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dbd99a4bc5edafdc",
+      "title": "Senior Technischer Facility Manager (m/w/d)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Essen",
+        "region": null,
+        "country": "North Rhine-Westphalia",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurz und knapp Suchst du eine technisch hoch anspruchsvolle Position, in der du das Zusammenspiel von Gebäude und modernster Robotik perfektionierst? Als Senior Technischer Facility Manager (m/w/d) bist du das technische Mastermind hinter unserem hochkomplexen…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/senior-technischer-facility-manager-essen-north-rhine-westphalia-2921",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ec75657cf0644dcb",
+      "title": "Graduate Operations Supervisor (m/w/d)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Essen",
+        "region": null,
+        "country": "North Rhine-Westphalia",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurz und knapp Du hast dein Studium frisch in der Tasche, sprühst vor Tatendrang und willst nicht an der Seitenlinie stehen, sondern direkt das Steuer übernehmen? Bei uns steigst du nicht einfach nur ein – du übernimmst ab Tag 1 echte Führungsverantwortung. Al…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-essen-north-rhine-westphalia-493753",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "aba95bdc02d1b217",
+      "title": "Graduate Operations Supervisor (m/w/d)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Oberhausen",
+        "region": null,
+        "country": "North Rhine-Westphalia",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurz und knapp Du hast dein Studium frisch in der Tasche, sprühst vor Tatendrang und willst nicht an der Seitenlinie stehen, sondern direkt das Steuer übernehmen? Bei uns steigst du nicht einfach nur ein – du übernimmst ab Tag 1 echte Führungsverantwortung. Al…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-oberhausen-north-rhine-westphalia-34827",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "77ee51ea63cf0940",
+      "title": "Graduate Operations Supervisor (m/w/d)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Dinslaken",
+        "region": null,
+        "country": "North Rhine-Westphalia",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurz und knapp Du hast dein Studium frisch in der Tasche, sprühst vor Tatendrang und willst nicht an der Seitenlinie stehen, sondern direkt das Steuer übernehmen? Bei uns steigst du nicht einfach nur ein – du übernimmst ab Tag 1 echte Führungsverantwortung. Al…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-dinslaken-north-rhine-westphalia-443187",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6cf479bf2e4e3c60",
+      "title": "Workplace and People Operations Manager",
+      "company": "Telli",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "about us Every 10 minutes, 18 million conversations happen between businesses and consumers around the world. For decades, the consumer side of those conversations sucked: long queues, robotic menus, repeated explanations, and advice that is often unhelpful. M…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/telli/workplace-and-people-operations-manager-berlin-335933",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3469d5419f3c9e1c",
+      "title": "Data Engineer: Merchant Intelligence Agent",
+      "company": "Constructor",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Launched in 2019, Constructor is an AI-first e-commerce search and discovery platform that helps shoppers find the right products at the right time and enables leading global e-commerce brands to drive meaningful revenue and conversion gains. About th…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/constructor/data-engineer-merchant-intelligence-agent-munich-364148",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d24038332b339ecc",
+      "title": "Senior Backend Engineer - Search Features & APIs (SABR)",
+      "company": "Constructor",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About us Launched in 2019, Constructor is an AI-first e-commerce search and discovery platform that helps shoppers find the right products at the right time and enables leading global e-commerce brands to drive meaningful revenue and conversion gains. About th…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/constructor/senior-backend-engineer-search-features-apis-sabr-munich-217383",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0926a04fd62b5418",
+      "title": "(Senior) Electromagnetic Simulation Engineer (Magnetics & RF) (f/m/d)",
+      "company": "Quantumdiamonds",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich HQ",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Description We’re looking for a hands-on ( Senior) Electromagnetic Development Engineer to support the development of our systems across magnetic and RF domains and other simulations, e.g. of thermal effects. In this role, you will combine simulation, lab vali…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/quantumdiamonds/senior-electromagnetic-simulation-engineer-magnetics-rf-munich-284663",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4ebab1177c98c94c",
+      "title": "Robotics Project Manager (m/f/d)",
+      "company": "Sereact GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Stuttgart Schockenriedstr. 17",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Procurement",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who We Are We build the intelligence that lets robots sense, reason, and act in the real world—moving beyond the lab and into everyday industrial settings like warehouses and factories. Our technology closes the automation gaps that traditional systems can't s…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/robotics-project-manager-stuttgart-296970",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8c49b5d3ebb4d52c",
+      "title": "[BA/JC] Lagerist / Warehouse worker (m/f/d)",
+      "company": "Sereact GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Stuttgart Schockenriedstr. 17",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sports",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Sereact GmbH Stuttgart / Baden-Württemberg, Deutschland Lagerist (m/w/d) Vollzeit · Ausschließlich vor Ort · Kein Homeoffice Über Sereact Die Sereact GmbH entwickelt KI-gestützte Robotik- und Automatisierungslösungen. Für unser Lager in der Region Stuttgart su…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/ba-jc-lagerist-warehouse-worker-stuttgart-265381",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "00e9e8bda9e739c5",
+      "title": "Lagerist / Lagermitarbeiter (m/f/d)",
+      "company": "Sereact GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Stuttgart Schockenriedstr. 17",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Sereact GmbH Stuttgart / Baden-Württemberg, Deutschland Lagerist / Lagermitarbeiter (m/w/d) Vollzeit · Ausschließlich vor Ort · Kein Homeoffice Über Sereact Die Sereact GmbH entwickelt KI-gestützte Robotik- und Automatisierungslösungen. Für unser Lager in der …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/lagerist-lagermitarbeiter-stuttgart-104478",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d06ae64a19b604b7",
+      "title": "HR Manager (m/w/d) – Personalmanagement & HR Operations",
+      "company": "Nature Heart GmbH & Co KG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Nidderau",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "HR Manager (m/w/d) – Personalmanagement & HR Operations Gemeinsam für natürliche Gesundheit – von Herz zu Herz Bei Nature Heart glauben wir an die Kraft der Natur und daran, dass Qualität bei Nahrungsergänzung keine Kompromisse zulässt. Nature Heart wächst – u…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/nature-heart-gmbh-co-kg/hr-manager-personalmanagement-hr-operations-nidderau-333827",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "259fedc244b7a1c4",
+      "title": "Senior Buchhalter - Finanz- & Lohnbuchhaltung (m/w/d)",
+      "company": "Cloudfactory",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hier bei CloudFactory haben wir eine klare Mission. Wir wollen das Potenzial der künstlichen Intelligenz erschließen, um weltweit positive Veränderungen zu bewirken. Durch die Kombination aus fortschrittlicher Technologie und einem globalen Netzwerk talentiert…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cloudfactory/senior-buchhalter-finanz-lohnbuchhaltung-berlin-406523",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9cd4af0170029ba2",
+      "title": "Staff Backend Engineer - Operations Tech Team",
+      "company": "iwoca",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Humanitarian / NGO",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Staff Backend Engineer - Operations Tech Team Hybrid in London, UK We’re looking for a Staff Backend Engineer to join the Operations Tech team. You’ll influence the technical direction of iwoca’s in-house CRM and build parts of it yourself – the system that hu…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/staff-backend-engineer-operations-tech-team-london-170927",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "75a0c0108494e9f6",
+      "title": "Senior Platform Engineer - Developer Experience",
+      "company": "iwoca",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Senior Platform Engineer - Developer Experience Hybrid in London or Remote within the United Kingdom We're looking for a Senior Platform Engineer to join the Platform team. You’ll enable everyone at iwoca to build and ship with confidence, from engineers to an…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/senior-platform-engineer-developer-experience-london-41709",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e7bcf8c2d34d865e",
+      "title": "Sales Development Representative  (German Speaking)",
+      "company": "Harvey",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Procurement",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Why Harvey At Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come. This is …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/harvey/sales-development-representative-german-speaking-london-428978",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c0f935ac57f2892a",
+      "title": "Senior BI Analytics Engineer",
+      "company": "Carwow",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "OUR MISSION To become the car-changing destination of choice. By combining technology, media and deep automotive expertise, we've turned how people buy, sell, advertise and lease cars on its head. What started as a simple reviews site is now one of the largest…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/carwow/senior-bi-analytics-engineer-london-54674",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f8b5cf2df7d0313f",
+      "title": "Senior Counsel, Commercial (pipeline req for EMEA)",
+      "company": "Senior Software Engineer (Typescript / Backend) - AI/ML",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Healthcare",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ClickHouse is seeking an experienced commercial lawyer to join ClickHouse’s elite and business-focused Legal team. You will be responsible for supporting ClickHouse’s EMEA sales team in reviewing and negotiating customer agreements and providing legal support …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/senior-software-engineer-typescript-backend-aiml/senior-counsel-commercial-pipeline-req-for-emea-london-126580",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "15f342890ae37d0f",
+      "title": "Intern Technology & Management Consulting (Value Engineering)",
+      "company": "celonis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning A…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/celonis/intern-technology-management-consulting-value-engineering-paris-90694",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a5b78dbeb66f170b",
+      "title": "Intern AI & Management Consulting (Value Engineering)",
+      "company": "celonis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning A…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/celonis/intern-ai-management-consulting-value-engineering-paris-369448",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "69e3a57b626789ba",
+      "title": "Stage Software Engineer - Paris - H/F/X",
+      "company": "Artefactjobs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Qui sommes-nous ? Fondée en 2014, Artefact est une société internationale de services autour de l'IA et de la data, spécialisée dans le conseil en IA, transformation data et en data & digital marketing. L’approche unique d’Artefact, qui fait le pont entre la d…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-208717",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ad70f2fa0273ae65",
+      "title": "Stage Data Consultant - Paris - H/F/X",
+      "company": "Artefactjobs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Qui sommes-nous ? Artefact est une société de conseil et d'ingénierie française spécialisée en data et IA, et leader en Europe, qui depuis plus de 10 ans est spécialisée dans la conception et le déploiement de technologies d’intelligence artificielle et de sol…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-data-consultant-paris-9th-arrondissement-of-paris-75009-paris-299986",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6610ef786ece5804",
+      "title": "Stage Communication – Stratégie événementielle & coordination (Adopt AI)",
+      "company": "Artefactjobs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Artefact Open Innovation est une entité du groupe Artefact spécialisée dans l’ acculturation et l’adoption des nouvelles technologies , avec un focus particulier sur la data et l’intelligence artificielle . Nous accompagnons les grands groupes dans la transfor…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-communication-strategie-evenementielle-coordination-adopt-ai-9th-arrondissement-of-paris-75009-paris-477858",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "695f60d66a962a67",
+      "title": "Stage Communication – Stratégie & création de contenus (Adopt AI)",
+      "company": "Artefactjobs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Durée : 6 mois – Temps plein Période : à partir de septembre 2026 Localisation : Paris 9e Encadré par : la responsable communication de l’événement À propos d’Adopt AI – Grand Palais Les 3 et 4 décembre 2026 , Artefact Open Innovation organise la 3ᵉ édition d’…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-communication-strategie-creation-de-contenus-adopt-ai-9th-arrondissement-of-paris-75009-paris-484392",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ae1582f619939564",
+      "title": "Intern Data Analyst - Paris",
+      "company": "Artefactjobs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Qui sommes-nous ? Fondée en 2014, Artefact est une société française de services autour de la data, spécialisée dans le conseil en IA, transformation data et en data & digital marketing. L’approche unique d’Artefact, qui fait le pont entre la donnée et le busi…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/intern-data-analyst-paris-9th-arrondissement-of-paris-75009-paris-350360",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dd4ccc545ee1c3de",
+      "title": "Data Scientist Intern - Paris",
+      "company": "Artefactjobs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Qui sommes-nous ? Fondée en 2014, Artefact est une société française de services autour de la data, spécialisée dans le conseil en IA, transformation data et en data & digital marketing. L’approche unique d’Artefact, qui fait le pont entre la donnée et le busi…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/data-scientist-intern-paris-9th-arrondissement-of-paris-75009-paris-471003",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d3275abb257115fa",
+      "title": "Assistant.e Chef(fe) de projet évènementiel (stage)",
+      "company": "Artefactjobs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "9th arrondissement of Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Étudiant.e en Master, passionné.e par l’innovation et l’intelligence collective, vous êtes à la recherche d’un stage de fin d’étude ou équivalent de 6 mois? Nous vous proposons d'accompagner notre équipe “Ideate & Achieve”, sur la création de programmes d’intr…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/assistante-cheffe-de-projet-evenementiel-stage-9th-arrondissement-of-paris-75009-paris-46139",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3426e32d20d96903",
+      "title": "Customer Care Officer - Wednesday to Sunday",
+      "company": "Alma31",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Lille",
+        "region": null,
+        "country": "Nord",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Alma At Alma, we believe that commerce should be balanced and sustainable. Our mission is to put finance back where it belongs: at the service of merchants and consumers. We build Buy Now Pay Later solutions that help merchants increase sales while enabl…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alma31/customer-care-officer-wednesday-to-sunday-lille-nord-268642",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ac35b84d364eeeed",
+      "title": "Customer Care Officer",
+      "company": "Alma31",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Lille",
+        "region": null,
+        "country": "Nord",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Alma At Alma, we believe that commerce should be balanced and sustainable. Our mission is to put finance back where it belongs: at the service of merchants and consumers. We build Buy Now Pay Later solutions that help merchants increase sales while enabl…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alma31/customer-care-officer-lille-nord-382524",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b868966b6235294a",
+      "title": "Solution Engineer (f/m/d)",
+      "company": "idnow",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Rennes",
+        "region": null,
+        "country": "Ille-et-Vilaine",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "IDnow is a leader in digital identity and fraud prevention in Europe with a mission to transform trust into the most powerful asset in the digital world, empowering enterprises with AI-driven, SaaS-based identity solutions that deliver scalable security, adapt…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/idnow/solution-engineer-rennes-ille-et-vilaine-160271",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "95b49c3491b2a94a",
+      "title": "Channel Partner Manager - Spanish market",
+      "company": "Monday.com",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "monday.com is the AI work platform powering the most ambitious teams. 250,000+ customers across departments use us to bring people, workflows, and AI agents together on one flexible platform where AI doesn't just assist, it executes. We move fast, build things…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/mondaycom/channel-partner-manager-spanish-market-paris-497282",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f863f2a5aa2f2720",
+      "title": "Ingénieur Méthodes Opérations et Maintenance (H/F)",
+      "company": "EXOCETH CONSULTING",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Nantes",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ingénieur Méthodes Opérations et Maintenance (H/F) Référence : 262462S Démarrage : dès que possible Durée : 6 mois renouvelables Type de contrat : Freelance ou CDIC Zone géographique : Pays de la Loire Déplacements possibles : oui, ponctuels sur des sites en P…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/exoceth-consulting/ingenieur-methodes-operations-et-maintenance-h-f-nantes-426238",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "308f63c84e362fc8",
+      "title": "Ingénieur SRE senior (H/F)",
+      "company": "CENTREON",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Chez Centreon, la fiabilité est notre métier : nos clients nous confient la supervision de leurs infrastructures critiques . Nos propres services doivent donc être irréprochables. Au sein de l’équipe SRE, vous êtes garant·e de la disponibilité, de la performan…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/centreon/ingenieur-sre-senior-h-f-paris-14575",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d4cedc8fd25eda63",
+      "title": "Data Platform Engineer",
+      "company": "Clickhouse",
+      "employmentType": "Internship",
+      "location": {
+        "city": "The Netherlands",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the role At ClickHouse, we believe in making product decisions grounded in data, not gut feelings. To support that, we've built a comprehensive internal data warehouse — read more about it on our blog . It powers analytics, forecasting, and decision-maki…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/clickhouse/data-platform-engineer-amsterdam-124619",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d19e198c9f8e1bcd",
+      "title": "Senior Partnership Manager Germany",
+      "company": "Learned",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Utrecht",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-14",
+      "reportsTo": {
+        "name": null,
+        "title": "our Partnership Lead in NL and work closely with our Founding Account Executive Germany"
+      },
+      "summary": "Help build fair, engaged and high-performing teams. We believe everyone deserves a fair opportunity to develop and be rewarded for the value they bring. That's why we build software that helps organizations set clear expectations, define what a role entails, a…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/learned/senior-partnership-manager-germany-utrecht-377701",
+      "source": "Arbeitnow"
+    },
     {
       "id": "c6f8c54be9f43a1a",
       "title": "Marketing & Content Intern (m/w/d) - Pflichtpraktikum, Remote",
@@ -5714,6 +7003,1179 @@
       },
       "summary": "About hyperexponential (hx) At hyperexponential, we’re building the AI-powered platform that enables the world’s most critical decisions in a $7 trillion industry - which risks to take, and how to price them. These are the decisions that shape real-world outco…",
       "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hyperexponential/associate-project-manager-london-397147",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c4379df2497c021d",
+      "title": "Kundendienstmitarbeiter Forderungsmanagement Polnisch (m/w/d)",
+      "company": "UAI SOLUTIONS",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Eggenfelden",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Gemeinsam halten wir Prozesse in Bewegung. Die UAI SOLUTIONS Firmengruppe entwickelt und betreibt innovative Lösungen für Mobilität, Verwaltungsprozesse und internationale Dienstleistungen in Europa. Unser Ziel ist es, Mobilität einfacher, transparenter und ef…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/uai-solutions/kundendienstmitarbeiter-forderungsmanagement-polnisch-eggenfelden-244627",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "765cb8e3fe961ae4",
+      "title": "Kundendienstmitarbeiter Forderungsmanagement Polnisch (m/w/d)",
+      "company": "UAI SOLUTIONS",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Gemeinsam halten wir Prozesse in Bewegung. Die UAI SOLUTIONS Firmengruppe entwickelt und betreibt innovative Lösungen für Mobilität, Verwaltungsprozesse und internationale Dienstleistungen in Europa. Unser Ziel ist es, Mobilität einfacher, transparenter und ef…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/uai-solutions/kundendienstmitarbeiter-forderungsmanagement-polnisch-berlin-426867",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1aa262be58f42cc0",
+      "title": "Senior Commercial Program Manager (m/f/d)",
+      "company": "autoscout24",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "As a Commercial Strategy & Program Manager in our Sales Strategy & Operations team, you’ll manage the commercial go-to-market for on-top products across our international markets. With a particular focus on new product launches, you’ll build the business case,…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/autoscout24/senior-commercial-program-manager-3154",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "580d87835ec6d2da",
+      "title": "Working Student - Transport Network Planning (m/f/d)",
+      "company": "Flix",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Flix, we offer a dynamic work environment with competitive pay, strong growth opportunities, and a tech-driven approach to making travel more accessible, sustainable, and affordable. We're looking for a motivated and driven Working Student - Network Plannin…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/flix/working-student-transport-network-planning-berlin-425731",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "90d9853cba6e0c32",
+      "title": "Werkstudent Dienstleistungsmanagement (m/w/d)",
+      "company": "Flix",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bei FlixTrain gestaltest du die Zukunft der Mobilität aktiv mit. Wir bieten dir nicht nur sichere Arbeitsplätze sowie attraktive Zusatzleistungen, sondern auch ein dynamisches, internationales Umfeld, in dem deine Ideen echten Einfluss haben. Als Werkstudent (…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/flix/werkstudent-dienstleistungsmanagement-berlin-445465",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "af9be685ae73d7eb",
+      "title": "Werkstudent Serivce Excellence (m/w/d)",
+      "company": "Flix",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bei FlixTrain gestaltest du die Zukunft der Mobilität aktiv mit. Wir bieten dir nicht nur sichere Arbeitsplätze sowie attraktive Zusatzleistungen, sondern auch ein dynamisches, internationales Umfeld, in dem deine Ideen echten Einfluss haben. Als Werkstudent (…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/flix/werkstudent-serivce-excellence-berlin-68864",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "71f261a264f9798f",
+      "title": "Data analyst - AML",
+      "company": "SumUp",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the team: At SumUp, keeping our platform safe and compliant is critical to the trust of the millions of small businesses we serve around the world. You'll join our Global AML team at an exciting point in its growth. We're expanding into new markets, evol…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sumup/data-analyst-aml-berlin-207134",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c3db9f48715917d6",
+      "title": "Implementation Manager DACH",
+      "company": "Mollie",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": "Jan-Jaap van Helden"
+      },
+      "summary": "Build with us Businesses deserve better from finance. Less friction, more freedom. Since 2004, Mollie has been on a mission to make payments and money management effortless for every business in Europe. Today, more than 250,000 companies trust our all-in-one p…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/mollie/implementation-manager-dach-munich-450423",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "24be92a44494867a",
+      "title": "Prevention Analyst - Pentesting",
+      "company": "Eye Security",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin - hybrid",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Prevention Analyst - Pentesting About this role We are looking for a Prevention Analyst - Pentester, to join our Prevention track. An attacker does not look at one server in isolation. They look at everything a company exposes to the internet and work out wher…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/eye-security/prevention-analyst-pentesting-berlin-445105",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "50749ff01d47c143",
+      "title": "(Senior) MSP Partner Manager Germany (m/f/x)",
+      "company": "Eye Security",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": "CRO and work closely with our sales and marketing team to jointly identify and capitalize on opportu"
+      },
+      "summary": "About the role: As an MSP Partner Manager, you will be responsible for building our partnership and sales network with security-oriented partnerships to sell with and through Managed Service Providers (MSPs). Throughout the process, the focus will be on buildi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/eye-security/senior-msp-partner-manager-germany-berlin-355149",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6f7f5fabde71780f",
+      "title": "Solution Consulting Manager",
+      "company": "Rillet",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": "investors"
+      },
+      "summary": "What We Do Rillet serves accounting and finance teams, the financial brains of their companies. Our job is to help them run the numbers with impossible speed, accuracy, and insight. Rillet is the Agentic ERP built for modern finance teams. We help companies au…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/rillet/remote-solution-consulting-manager-286794",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a405b97be42ac620",
+      "title": "Staff Robotics Engineer – Physical AI (m/f/d)",
+      "company": "Almetra",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Onsite Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join us in reshaping manufacturing with advanced tech like computer vision and AI! As a Staff Robotics Engineer – Physical AI (m/f/d) , you will be integral in driving our company's next phase of innovation - automating industrial processes to address the scar…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/almetra/staff-robotics-engineer-physical-ai-berlin-285099",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8dc61e30c29bf746",
+      "title": "Senior Robotics Engineer – Manipulation (m/f/d)",
+      "company": "Almetra",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Onsite Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Join us in reshaping manufacturing with advanced tech like computer vision and AI! As a Senior Robotics Engineer – Manipulation (m/f/d) , you will be integral in driving our company's next phase of innovation - automating industrial processes to address the sc…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/almetra/senior-robotics-engineer-manipulation-berlin-10328",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5a6c6c187a95ec17",
+      "title": "People Operations Manager",
+      "company": "Almetra",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deltia is growing fast, and we need someone to own the operational backbone that makes that possible. As our People Operations Manager, you'll work directly with the founders and our Talent & People Manager to scale our team from ~30 to 100+ people over the ne…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/almetra/people-operations-manager-berlin-400979",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4c04f7ba32aaa12f",
+      "title": "DevOps Engineer - Edgy & System (m/f/d)",
+      "company": "Almetra",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Onsite Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "DevOps Engineer - Edgy & System Our AI analyses real production lines through cameras and edge devices in customer factories. We’re looking for a DevOps Engineer who understands how systems work underneath, from the OS and network up to the cloud, and who will…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/almetra/devops-engineer-edgy-system-berlin-488771",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b769283e1ba9b1d7",
+      "title": "AI Platform Engineer - Edgy device (m/f/d)",
+      "company": "Almetra",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Onsite Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "AI Platform Engineer - Edgy device Our AI analyses real production lines through cameras and edge devices in customer factories. We’re looking for an AI Platform Engineer who understands how systems work underneath, from the OS and network up to the cloud, and…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/almetra/ai-platform-engineer-edgy-device-berlin-188549",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3fec98d566d4dc72",
+      "title": "Business Development Representative — VIE  Germany",
+      "company": "Alta Ares",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Alta Ares Alta Ares is an air defense Neoprime. We build AI-guided interceptors to counter drones and cruise missiles, along with the software platform that powers them. Our customers are NATO-aligned militaries and defense institutions, and our systems …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/alta-ares/business-development-representative-vie-germany-munich-482023",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a73ad51b785d4a01",
+      "title": "Customer Support (Working Student) (m/f/d)",
+      "company": "Voize",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "🎤 Why voize? Because we’re more than just a job! At voize, we believe the greatest gift to frontline workers is time - time to care, connect, and be present. Today, that time is lost to busywork and complex systems that pull them away from what matters most: p…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/voize/customer-support-working-student-berlin-288404",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8b7e00e62b1e70ee",
+      "title": "Senior CRM & Lifecycle Analyst (B2C) – Marketing Automation (all genders)",
+      "company": "Foodji GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Analytics first: Du baust CRM und Lifecycle Marketing bei Foodji komplett neu auf, vom analytischen Fundament bis zur Integration der Systeme – datengetrieben, KI-enabled und mit hohem Iterationstempo. In dieser neu geschaffenen Rolle verantwortest du die Segm…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-crm-lifecycle-analyst-b2c-marketing-automation-all-genders-munchen-407880",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0b42ab42e27882b6",
+      "title": "Werkstudent*in Influencer Marketing DACH (m/w/d)",
+      "company": "everdrop GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "DAS IST DER JOB Wir sind everdrop – eine schnell wachsende D2C-Marke mit der Mission, die Welt der Haushalts- und Körperpflegeprodukte nachhaltig zu verändern. Als Werkstudent*in Influencer Marketing DACH (m/w/d) unterstützt du uns beim Aufbau und der Skalieru…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/everdrop-gmbh/werkstudentin-influencer-marketing-dach-munchen-11865",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "aa5a4c3cc4b5591f",
+      "title": "Werkstudent*in in People, Operations & Sales Support (m/w/d)",
+      "company": "Wacom Europe GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "📍 Düsseldorf (Hybrid) | 20 Stunden/Woche | Start: so früh wie möglich | Befristet auf 1 Jahr mit Option auf Verlängerung Du möchtest neben deinem Studium praktische Erfahrungen sammeln und dabei verschiedene Unternehmensbereiche kennenlernen? Dann komm zu Waco…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/wacom-europe-gmbh/werkstudentin-in-people-operations-sales-support-dusseldorf-41822",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "77127970f2d936d6",
+      "title": "Senior Data Engineer",
+      "company": "LiveScore Group",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Marketing & Communications",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Soho, London Hybrid working: 3 days in the office Tues - Thurs The Role We are seeking a Senior Data Engineer to join our Data Team, taking a leading role in building the complex, scalable systems that power our data strategy. You will lead architectural discu…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/livescore-group/senior-data-engineer-london-81411",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "58e8a75583215e83",
+      "title": "Data Engineer",
+      "company": "prolific",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Data Engineer Prolific Prolific is not just another player in the AI space—we are the architects of the human data infrastructure that's reshaping the landscape of AI development. In a world where foundational AI technologies are increasingly commoditized, it'…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-data-engineer-289887",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6375d7212bb5b142",
+      "title": "Site Reliability Engineer (Remote)(Located in the United Kingdom)",
+      "company": "knowbe4",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "KnowBe4 empowers the modern workforce to make smarter security decisions every day. Trusted by more than 70,000 organizations worldwide, KnowBe4 is the pioneer of digital workforce security, securing both AI agents and humans. The KnowBe4 Platform provides att…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/knowbe4/site-reliability-engineer-remotelocated-in-the-united-kingdom-272906",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ccdf0bcef73a4c73",
+      "title": "Senior GNC Engineer",
+      "company": "Andurilindustries",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Sydney",
+        "region": null,
+        "country": "Australia",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defe…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-gnc-engineer-sydney-australia-432864",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "893411e036880f64",
+      "title": "BRISTOL - Station Manager / Operations Manager (m/f/d)",
+      "company": "Roadsurfer",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Why roadsurfer? TEAM SPIRIT & TEAM EVENTS: Enjoy a friendly atmosphere with flat hierarchies, lots of fun, and great team spirit – plus regular team events like sports sessions, BBQs, or simply an after-work drink at your station. CAMPER BUDGET: You’ll receive…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/roadsurfer/bristol-station-manager-operations-manager-248783",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4e56e1dcdb39c899",
+      "title": "Montu Pharmacy Assessment Centre",
+      "company": "Montu Uk",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Winnersh",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ready to start or take the next step in your pharmacy career? At Montu, we are doing things differently, and that includes how we recruit. We are growing, and we are looking for enthusiastic, hardworking and patient-focused individuals to join our pharmacy tea…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/montu-pharmacy-assessment-centre-winnersh-45927",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ed137e56fd72c013",
+      "title": "Anaesthetic (Pain) Consultant",
+      "company": "Montu Uk",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Montu UK, we are passionate about improving the lives of patients who have often exhausted conventional treatment options. Through our Alternaleaf clinic, we are helping people living with chronic and debilitating conditions access treatments that can make …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/remote-anaesthetic-pain-consultant-250308",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0481aad034bb127d",
+      "title": "Product Manager",
+      "company": "Montu Uk",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hybrid London/Winnersh",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Montu UK’s mission is to make high-quality, plant-based therapies easier to access, while setting new standards in safety, clinical excellence and patient experience so that many more people can benefit from personalised treatment options. As Product Manager, …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/product-manager-hybrid-london-winnersh-112616",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fb473ded25c392d8",
+      "title": "Data & People analytics Intern - January 2027",
+      "company": "mirakl",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Mirakl: Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy. Today, Mirakl’s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/mirakl/data-people-analytics-intern-january-2027-paris-315448",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9590c04d3eb1f0eb",
+      "title": "Data & People analytics Apprentice - January 2027",
+      "company": "mirakl",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Mirakl: Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy. Today, Mirakl’s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/mirakl/data-people-analytics-apprentice-january-2027-paris-318508",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "623d19bf0d6fe803",
+      "title": "AI Native Coach Transformation",
+      "company": "PALO IT",
+      "employmentType": "Internship",
+      "location": {
+        "city": "PALO IT France",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who We Are Building the AI-first frontier enterprise. We are a global technology consultancy with a trademarked, AI-first approach —Gen-e2™. It redefines how enterprises build digital products and transform their organizations with AI. We do the right thing, a…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/palo-it/ai-native-coach-transformation-paris-260199",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9bd834a117fd955f",
+      "title": "GTM Experience Manager (Field & Event Marketing)",
+      "company": "Lemlist",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "lemlist is the outbound platform for sales teams: find leads, run multichannel campaigns (email, LinkedIn, calls), personalize with AI and book meetings. We're at +$60M ARR, growing ~50% year over year, profitable and 100% bootstrapped, with 180 people. lemlis…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/lemlist/gtm-experience-manager-field-event-marketing-paris-348843",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3680f4614516f537",
+      "title": "Senior Full-Stack Product Engineer",
+      "company": "The Flex",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Base360.ai is the AI operating system for short-term rental businesses, helping property managers run their operations on autopilot. Born out of The Flex, a short-term rental operator that scaled to an eight-figure business using its own software, Bas…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/the-flex/senior-full-stack-product-engineer-paris-333562",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9843c0b391970816",
+      "title": "Product Engineer",
+      "company": "The Flex",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Base360.ai is the AI operating system for short-term rental businesses, helping property managers run their operations on autopilot. Born out of The Flex, a short-term rental operator that scaled to an eight-figure business using its own software, Bas…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/the-flex/product-engineer-paris-42702",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ccf8114ea46a8f70",
+      "title": "Senior Software Engineer",
+      "company": "The Flex",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Base360.ai is the AI operating system for short-term rental businesses, helping property managers run their operations on autopilot. Born out of The Flex, a short-term rental operator that scaled to an eight-figure business using its own software, Bas…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/the-flex/senior-software-engineer-paris-276441",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e0b08e51fb154ef3",
+      "title": "Senior Jet Engine Design Engineer – Interceptor Drones",
+      "company": "Alta Ares",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Toulouse",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Alta Ares Alta Ares is an air defense Neoprime. We build AI-guided interceptors to counter drones and cruise missiles, along with the software platform that powers them. Our customers are NATO-aligned militaries and defense institutions, and our systems …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alta-ares/senior-jet-engine-design-engineer-interceptor-drones-blagnac-262136",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "113d660aee74b4e4",
+      "title": "Product Support & Enablement Lead",
+      "company": "Mistral.ai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/mistralai/product-support-enablement-lead-paris-209026",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fe328612fe171705",
+      "title": "Associate AI Deployment Strategist",
+      "company": "Mistral.ai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Healthcare",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/mistralai/associate-ai-deployment-strategist-paris-337744",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8a135d5e40b62cb2",
+      "title": "Sales Development Representative",
+      "company": "Tebi",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us Tebi is creating the first Connected Restaurant Management System that makes hospitality flow. In one seamless platform, Tebi embeds sales, reservations, kitchen prep, payments, and all the data that powers it, creating smooth service and intuitive in…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/tebi/sales-development-representative-amsterdam-291634",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "54bbdd2e1d7586c4",
+      "title": "Jr. AI Engineer",
+      "company": "433",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": "Netherlands",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you passionate about football and technology? This is your chance! At 433, we are looking for a Junior AI Engineer to join our AI team. WE ARE 433 With almost 80 million followers and over 5 billion impressions per month, 433 is the home of football on soc…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/433/jr-ai-engineer-amsterdam-262980",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3894caa11e4131bd",
+      "title": "Associate AI Deployment Strategist",
+      "company": "Mistral.ai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Healthcare",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/mistralai/associate-ai-deployment-strategist-london-28688",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d56601f568b3c021",
+      "title": "Key Account Manager National RHF H/F",
+      "company": "E-Consullting RH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "arras",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-13",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "e-Consulting RH, cabinet de conseil RH 360° spécialisé dans le recrutement, la formation et l'accompagnement des transformations organisationnelles, recrute pour son client : Key Account Manager National RHF (H/F) Notre client est une PME agroalimentaire engag…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/e-consullting-rh/key-account-manager-national-rhf-h-f-arras-390922",
       "source": "Arbeitnow"
     },
     {
