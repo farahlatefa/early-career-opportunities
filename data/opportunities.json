@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-15T22:50:11.047692+00:00",
+    "lastUpdated": "2026-11-16T02:44:34.283608+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,337 @@
     ]
   },
   "jobs": [
+    {
+      "id": "9a3c05c6c5bc0ce4",
+      "title": "Senior Mechanical Engineer - Robotic Systems",
+      "company": "Agilerobotsse",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Bavaria",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Agile Robots SE is an innovative company with a clear mission: bringing intelligent robotic solutions to our customers. We combine the latest technology in the field of AI with powerful robotic systems — from industrial robot arms and mobile manipulators to hu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-mechanical-engineer-robotic-systems-munich-bavaria-66135",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "367d3fadf92ed655",
+      "title": "Forward Deployed AI Engineer (m/f/d)",
+      "company": "Agilerobotsse",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Bavaria",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Agile Robots SE is an innovative company with a clear mission: bringing intelligent robotic solutions to our customers. We combine the latest technology in the field of AI with powerful robotic systems — from industrial robot arms and mobile manipulators to hu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/forward-deployed-ai-engineer-munich-bavaria-239617",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "452b424bf52ae7de",
+      "title": "Senior Value Engineer - Manufacturing/Production",
+      "company": "celonis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning A…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/celonis/senior-value-engineer-manufacturing-production-munich-429472",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0127f2f839d9b9b6",
+      "title": "Senior Process Intelligence & Supply Chain Transformation Consultant - Manufacturing/Production",
+      "company": "celonis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning A…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/celonis/senior-process-intelligence-supply-chain-transformation-consultant-manufacturing-production-munich-145205",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b14a77a8604a56a3",
+      "title": "Senior Digital Transformation & Process Optimisation Consultant - Growth and Scale Accounts",
+      "company": "celonis",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning A…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/celonis/senior-digital-transformation-process-optimisation-consultant-growth-and-scale-accounts-munich-279328",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d40290cd50355b19",
+      "title": "Customer Success Architect, NEUR",
+      "company": "gitlab",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million re…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-customer-success-architect-neur-53586",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b2bc758aed62e327",
+      "title": "Graphic Designer (f/m/d)",
+      "company": "Zeal Network",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Norwich",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "ZEAL Network SE is a leading international provider of online lottery and prize draw products, operating for over 20 years with brands like LOTTO24 and Tipp24. As Germany’s largest digital lottery operator and a trusted partner of Spain’s ONCE, we are passiona…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/zeal-network/graphic-designer-norwich-443277",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1bdba9d1a8d67afb",
+      "title": "Strategy & Operations Associate",
+      "company": "Bjak",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, asses…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/bjak/strategy-operations-associate-london-368036",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8300b5c0762a170e",
+      "title": "Business Operations Associate",
+      "company": "Bjak",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, asses…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/bjak/business-operations-associate-london-152092",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7e8c1fbebfff67d1",
+      "title": "Customer Success Architect, France",
+      "company": "gitlab",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million re…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-customer-success-architect-france-248760",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "514478ec665000a8",
+      "title": "Développeur Nouveaux Projets (F/H/X)",
+      "company": "Novar Nederland BV",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Lyon",
+        "region": null,
+        "country": "Frankrijk",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Localisation Poste basé à Lyon ou Dijon. Vous êtes passionné(e) par le développement des énergies renouvelables et vous connaissez bien le tissu économique et territorial de l’Est de la France ? Rejoignez Novar et devenez un acteur clé de la transition énergét…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/novar-nederland-bv/developpeur-nouveaux-projets-lyon-111900",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "05b6c0d2e8577c8e",
+      "title": "Stage – Développement de projets de stockage d’energie par batteries (BESS) (F/H/X)",
+      "company": "Novar Nederland BV",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Avignon",
+        "region": null,
+        "country": "Frankrijk",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Localisation Poste basé à Avignon (84). Vous souhaitez découvrir concrètement comment se développent les projets de stockage par batteries et contribuer à la transition énergétique ? Au sein de l’équipe Novar en France, vous serez accompagné·e par les équipes …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/novar-nederland-bv/stage-developpement-de-projets-de-stockage-denergie-par-batteries-bess-avignon-47029",
+      "source": "Arbeitnow"
+    },
     {
       "id": "dcde979b9967c8ec",
       "title": "Commercial Lead - Dämmung (w/m/d)",
@@ -2458,6 +2789,156 @@
       },
       "summary": "Hunter Douglas is wereldwijd marktleider in raamdecoratie en een toonaangevende producent van architecturale producten. Wij zijn een merk dat u kent en vertrouwt. Met meer dan 100 jaar ervaring in innovatie hebben wij onze industrie mede vormgegeven met unieke…",
       "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/hunterdouglasnederland/product-manager-fabrics-aarle-rixtel-north-brabant-350684",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2e7765cf2bddd1ec",
+      "title": "Praktikum Finanzberatung (m/w/d)",
+      "company": "PF-Agency",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Frankfurt am Main",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Deine Aufgaben im Praktikum Während deines Praktikums erhältst du umfassende Einblicke in die verschiedenen Bereiche der Finanzberatung und übernimmst bereits frühzeitig eigene Verantwortung. Dazu gehören: Projektverantwortung: Planung und eigenständige Umsetz…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pf-agency/praktikum-finanzberatung-frankfurt-am-main-128214",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "195c382897811bc0",
+      "title": "Java Entwickler / Product Engineer für AI-Assisted Development → DU bringst AI-Coding ins Team *",
+      "company": "Ilias Vassiliou & Team / headhunter.digital / Recruiting für Digital, Sales, IT, KI, Automation",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Dortmund",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hier schreibst du nicht nur Java – hier gestaltest du mit, wie das ganze Entwicklungsteam künftig mit KI Software baut. Für ein international führendes Publishing-Tech-Unternehmen, suche ich eine:n erfahrene:n Java-Entwickler:in, die oder der KI-gestützte Entw…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ilias-vassiliou-team-headhunterdigital-recruiting-fur-digital-sales-it-ki-automation/java-entwickler-product-engineer-fur-ai-assisted-development-du-bringst-ai-coding-ins-team-dortmund-489360",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "90aca0544bc6f45e",
+      "title": "Commercial Account Executive",
+      "company": "Delinea",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Home Office (Germany)",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Delinea: Delinea is the identity security platform that continuously controls what AI agents, humans and machines can do and for how long. It extends privileged access management from the point of access to the moment of action, using just-in-time author…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/delinea/commercial-account-executive-koln-50972",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "07c7d2ac9e8cdf41",
+      "title": "Staplerfahrer (m/w/d)",
+      "company": "Rohlik",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Garching bei München",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Die Stelle als Staplerfahrer befindet sich in Garching bei München im Gewerbegebiet. Auf was du dich freuen kannst: Monatliches Fixgehalt ab 2600 Euro brutto Zusätzlich pro Arbeitstag 9,- Essenszulagen Zusätzlich pro Arbeitstag 5,- Fahrtkostenzuschlag Bezahlte…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/rohlik/staplerfahrer-garching-bei-munchen-322109",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1ae1d705227aaf48",
+      "title": "Praktikum Vibe Coding & Automatisierung",
+      "company": "Aventuras UG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du baust mit KI, statt nur darüber zu reden? Für alle, die abends eigene Tools zusammenklicken und irgendwann ihr eigenes Ding starten wollen. Doctor One ist eine junge Telemedizin-Plattform für medizinisches Cannabis. Kein Konzern mit Stock im Hintern, sonder…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/aventuras-ug/praktikum-vibe-coding-automatisierung-cologne-427467",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6108c706007fdbe7",
+      "title": "Praktikum Social Media & Content (inkl. Video-Schnitt)",
+      "company": "Aventuras UG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Cologne",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-15",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du scrollst nicht nur. Nee - du weißt, warum etwas viral geht! Doctor One ist eine junge Telemedizin-Plattform für medizinisches Cannabis. Kein Konzern mit Stock im Hintern, sondern ein kleines Gründerteam, das Gas gibt. Woran du mitarbeitest: Du entwickelst C…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/aventuras-ug/praktikum-social-media-content-inkl-video-schnitt-cologne-191767",
       "source": "Arbeitnow"
     },
     {
