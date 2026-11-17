@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-16T22:05:06.599486+00:00",
+    "lastUpdated": "2026-11-17T04:29:42.007583+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,504 @@
     ]
   },
   "jobs": [
+    {
+      "id": "a3eadd01640cc99a",
+      "title": "Praktikum Human Resources & Employer Branding (m/w/d) - Recruiting, Kommunikation & Startup-Kultur",
+      "company": "Think3DDD GbR",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du suchst ein Pflichtpraktikum oder Praxissemester, in dem du nicht nur Bewerbungen sortierst, sondern die Weiterentwicklung eines wachsenden Startups aktiv mitgestaltest, erkennst, wie Recruiting, Kommunikation und Markenaufbau zusammenwirken, und echten Einf…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/think3ddd-gbr/praktikum-human-resources-employer-branding-recruiting-kommunikation-startup-kultur-berlin-354046",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b05777ebd2ffc5b9",
+      "title": "Forward Deployed Engineer",
+      "company": "C3Iot",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "Greater London",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "C3 AI (NYSE: AI), is the Enterprise AI application software company. C3 AI delivers a family of fully integrated products including the C3 Agentic AI Platform, an end-to-end platform for developing, deploying, and operating enterprise AI applications, C3 AI ap…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/c3iot/forward-deployed-engineer-london-greater-london-269684",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5c6305b1839453e5",
+      "title": "Marketing Automation Engineer",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at United Media The world’s most demanding investors are busy managing trillions, and ignore anything average. Are you excited by the challenge of making them act? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/marketing-automation-engineer-london-404824",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fe3352c3e307f4fd",
+      "title": "Growth Analytics Associate",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at United Media The world’s most demanding investors are busy managing trillions, and ignore anything average. Are you excited by the challenge of making them act? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/growth-analytics-associate-london-345825",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8083fa6905b40b5d",
+      "title": "Go-To-Market Strategy Analyst",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at United Media The world’s most demanding investors are busy managing trillions, and ignore anything average. Are you excited by the challenge of making them act? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/go-to-market-strategy-analyst-london-477903",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5ce8d40bef3bf1e9",
+      "title": "Go-To-Market Specialist",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at United Media The world’s most demanding investors are busy managing trillions, and ignore anything average. Are you excited by the challenge of making them act? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/go-to-market-specialist-london-124628",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5e776c3ff510870b",
+      "title": "Go-To-Market Engineer",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at United Media The world’s most demanding investors are busy managing trillions, and ignore anything average. Are you excited by the challenge of making them act? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/go-to-market-engineer-london-110811",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a0437a9af0cd589a",
+      "title": "Go-To-Market Consultant",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at United Media The world’s most demanding investors are busy managing trillions, and ignore anything average. Are you excited by the challenge of making them act? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/go-to-market-consultant-london-237681",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "be7c5eb93a40fb82",
+      "title": "Go-To-Market Associate",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at United Media The world’s most demanding investors are busy managing trillions, and ignore anything average. Are you excited by the challenge of making them act? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/go-to-market-associate-london-203854",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9075097d83e951cc",
+      "title": "Go-To-Market Analyst",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at United Media The world’s most demanding investors are busy managing trillions, and ignore anything average. Are you excited by the challenge of making them act? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/go-to-market-analyst-london-369086",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "935cc6db4007783a",
+      "title": "Go-To-Market",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at United Media The world’s most demanding investors are busy managing trillions, and ignore anything average. Are you excited by the challenge of making them act? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/go-to-market-london-259757",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3e04e23ba9a0bb3e",
+      "title": "AI Engineering, Growth",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at United Media The world’s most demanding investors are busy managing trillions, and ignore anything average. Are you excited by the challenge of making them act? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/ai-engineering-growth-london-320628",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1b7f8d93508c6970",
+      "title": "AI Engineer, Growth",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at United Media The world’s most demanding investors are busy managing trillions, and ignore anything average. Are you excited by the challenge of making them act? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/ai-engineer-growth-london-45796",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d41cfd31bb9a8968",
+      "title": "AI Engineer",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at United Media The world’s most demanding investors are busy managing trillions, and ignore anything average. Are you excited by the challenge of making them act? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/ai-engineer-london-277410",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "397e9b7154b39e34",
+      "title": "AI Automation Engineer",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at United Media The world’s most demanding investors are busy managing trillions, and ignore anything average. Are you excited by the challenge of making them act? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/ai-automation-engineer-london-202659",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "53731b0a428284d2",
+      "title": "Agentic Marketing Engineer",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at United Media The world’s most demanding investors are busy managing trillions, and ignore anything average. Are you excited by the challenge of making them act? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/agentic-marketing-engineer-london-155173",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9eeb030fa13185ca",
+      "title": "Agentic Marketing Associate",
+      "company": "Unitedmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at United Media The world’s most demanding investors are busy managing trillions, and ignore anything average. Are you excited by the challenge of making them act? Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/agentic-marketing-associate-london-150753",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2240d5e103774189",
+      "title": "German Speaking Video Streaming Customer Experts - Work Remote In Greece",
+      "company": "Patrique Mercier Recruitment Fr",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Switzerland",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "German Speaking Video Streaming Customer Experts About Mercier Consultancy Group Mercier Consultancy Group is a premier international staffing firm dedicated to connecting top-tier talent with industry-leading corporations. As a leader in European recruitment …",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/patrique-mercier-recruitment-fr/german-speaking-video-streaming-customer-experts-work-remote-in-greece-switzerland-210868",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1a1c70a95d754162",
+      "title": "German Speaking Customer Support Specialist - Work In Athens, Greece",
+      "company": "Patrique Mercier Recruitment Fr",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Switzerland",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "German Speaking Customer Support Specialist About Mercier Consultancy Group Mercier Consultancy Group is a premier international recruitment and BPO firm, dedicated to connecting top-tier talent with world-leading organizations across the globe. We pride ourse…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/patrique-mercier-recruitment-fr/remote-german-speaking-customer-support-specialist-work-in-athens-greece-switzerland-479591",
+      "source": "Arbeitnow"
+    },
     {
       "id": "9a3c05c6c5bc0ce4",
       "title": "Senior Mechanical Engineer - Robotic Systems",
@@ -7315,6 +7813,428 @@
       },
       "summary": "Über uns Die hairfree GmbH ist Marktführer für dauerhafte Haarentfernung¹ in der DACH-Region. Mit über 70 Standorten in Deutschland, Österreich und der Schweiz sowie mehr als 100 Mitarbeitenden gehören wir zu den führenden Anbietern im Bereich ästhetischer Die…",
       "applicationUrl": "https://www.arbeitnow.com/jobs/companies/hairfree/senior-sales-manager-singen-hohentwiel-436353",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "017ab8d5c255d708",
+      "title": "Junior Artist Manager / Influencer Manager (m/w/d)",
+      "company": "Lionflence",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Mülheim",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was wir Dir bieten: Eine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer Marketing und den dazugehörigen Technologien (Software Systeme) Perfekt abgestimmte selbst entwickel…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-13755",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a6293978c92b8fc8",
+      "title": "Senior Artist Manager / Influencer Manager (m/w/d)",
+      "company": "Lionflence",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Mülheim",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was wir Dir bieten: Eine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer Marketing und den dazugehörigen Technologien (Software Systeme) Perfekt abgestimmte selbst entwickel…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lionflence/senior-artist-manager-influencer-manager-mulheim-226518",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "efab986f9f5a5e99",
+      "title": "Artist Manager / Influencer Manager (m/w/d)",
+      "company": "Lionflence",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Mülheim",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was wir Dir bieten: Eine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer Marketing und den dazugehörigen Technologien (Software Systeme) Perfekt abgestimmte selbst entwickel…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lionflence/artist-manager-influencer-manager-mulheim-16569",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5a3fb51926a97df5",
+      "title": "Junior Artist Manager / Influencer Manager (m/w/d)",
+      "company": "Lionflence",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was wir Dir bieten: Eine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer Marketing und den dazugehörigen Technologien (Software Systeme) Perfekt abgestimmte selbst entwickel…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-berlin-12283",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f3447d79a4e4999f",
+      "title": "Artist Manager / Influencer Manager (m/w/d)",
+      "company": "Lionflence",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was wir Dir bieten: Eine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer Marketing und den dazugehörigen Technologien (Software Systeme) Perfekt abgestimmte selbst entwickel…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lionflence/artist-manager-influencer-manager-berlin-80583",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "737fea773c445710",
+      "title": "Senior Artist Manager / Influencer Manager (m/w/d)",
+      "company": "Lionflence",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Was wir Dir bieten: Eine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer Marketing und den dazugehörigen Technologien (Software Systeme) Perfekt abgestimmte selbst entwickel…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lionflence/senior-artist-manager-influencer-manager-berlin-56968",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "833afe96433d0e22",
+      "title": "Senior Backend Engineer (Python)",
+      "company": "Zattoo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Berlin",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "YOUR FUTURE, ON DEMAND The ideal blend of stability and flexibility. A genuinely human employer that cares for people and the planet. True autonomy to shape what comes next, for us and you. This is the perfect platform to take your career where you want. Back …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/zattoo/senior-backend-engineer-python-berlin-berlin-476285",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1555d9f07dba67ba",
+      "title": "International Expansion - Germany",
+      "company": "Axle Careers",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Axle Energy, we’re building the infrastructure that will underpin the decarbonised energy system. Our software moves energy usage to times when electricity is cheap and green, by controlling vehicle charging, heating systems, and home batteries. We control …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/axle-careers/international-expansion-germany-309631",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d87c70a2056f7915",
+      "title": "Revenue Operations Analyst (m/w/d)",
+      "company": "Cosuno",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über Cosuno Cosuno digitalisiert die Beschaffung in der Baubranche, einer der größten und zugleich am wenigsten digitalisierten Branchen weltweit. Als Berliner Startup unterstützen wir Bauunternehmen dabei, ihre Beschaffungsprozesse effizienter zu gestalten. U…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/cosuno/revenue-operations-analyst-germany-296300",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3fdb8cf52dde62b3",
+      "title": "Technical Product Manager - Developer Experience (DevEx)",
+      "company": "Wave",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our mission We're making Africa the first cashless continent. In 2017, over half the population in Sub-Saharan Africa had no bank account. That's for good reason—the fees are too high, the closest branch can be miles away, and nobody takes cards. Without acces…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/wave/technical-product-manager-developer-experience-devex-united-kingdom-446461",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "36bc7525566e2fba",
+      "title": "Commercial",
+      "company": "Axle Careers",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Axle Energy, we’re building the infrastructure that will underpin the decarbonised energy system. Our software moves energy usage to times when electricity is cheap and green, by controlling vehicle charging, heating systems, and home batteries. We control …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/commercial-london-111956",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "86e8841f97951d91",
+      "title": "Sr. Escalation Engineer",
+      "company": "Illumio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Reading",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Onwards Together! Illumio is the leader in ransomware and breach containment, redefining how organizations contain cyberattacks and enable operational resilience. Powered by the Illumio AI Security Graph, our breach containment platform identifies and contains…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/illumio/sr-escalation-engineer-reading-berkshire-13602",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "206164ce71d7531f",
+      "title": "Value Consultant",
+      "company": "hyperexponential",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London (hybrid)",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Healthcare",
+        "Policy / Government",
+        "Procurement",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About hyperexponential (hx) At hyperexponential, we’re building the AI-powered platform that enables the world’s most critical decisions in a $7 trillion industry: which risks to take, and how to price them. These are the decisions that shape real-world outcom…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hyperexponential/value-consultant-london-299307",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "be8f17f3ad20d672",
+      "title": "Product Owner Wertschriften",
+      "company": "PROSTAFF Schweiz GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Aarau",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Für unseren Kunden im Bankenumfeld suchen wir einen erfahrenen, operativ mitarbeitenden Product Owner mit fundierten Kenntnissen in Corporate Action. Du verstärkst ein kleines, neu organisiertes Team, das gemeinsam neu startet. Im Fokus stehen die Priorisierun…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/product-owner-wertschriften-aarau-382723",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0d537652a041470f",
+      "title": "Senior Embedded Linux Software Engineer",
+      "company": "Auterion",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Auterion builds a cutting-edge operating system for autonomous robotic systems that empower a diverse range of platforms to perform surveillance, reconnaissance, inspection, mapping and logistics tasks. Our industry-leading software drives the adoption of robo…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/auterion/senior-embedded-linux-software-engineer-zurich-239650",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e437362152471e17",
+      "title": "AI Benchmark Engineer | Native Language Specialist - German (Switzerland) - Remote",
+      "company": "LILT (Production)",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Switzerland (Remote)",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-16",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About The Opportunity We are building a rigorous, verifiable evaluation suite of Terminal-Bench tasks designed to test the limits of large language models on multilingual software challenges. Our goal is to measure multilingual robustness across prompt languag…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/lilt-production/ai-benchmark-engineer-native-language-specialist-german-switzerland-remote-bern-90445",
       "source": "Arbeitnow"
     },
     {
