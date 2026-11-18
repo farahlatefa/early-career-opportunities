@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-17T22:53:17.694166+00:00",
+    "lastUpdated": "2026-11-18T04:23:35.272333+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,759 @@
     ]
   },
   "jobs": [
+    {
+      "id": "ef5ff1324cb18f3a",
+      "title": "Senior Sales Engineer, DACH",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/samsara/senior-sales-engineer-dach-28314",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e302982474500bb7",
+      "title": "Working Student - Business Analyst, Growth & Operations (m/f/d) – Dutch Market",
+      "company": "raisin",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Berlin",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Raisin is the world’s leading platform for savings and investment products. Founded in 2012, the FinTech connects consumers with banks in the EU, the UK and the US. This gives consumers better interest rates and banks a diversified form of refinancing . Our vi…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/raisin/working-student-business-analyst-growth-operations-dutch-market-berlin-berlin-40633",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "72eaf7267b7b84cd",
+      "title": "Senior CRM & Lifecycle Analyst (B2C) – Marketing Automation (all genders)",
+      "company": "Foodji GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Analytics first: Du baust CRM und Lifecycle Marketing bei Foodji komplett neu auf, vom analytischen Fundament bis zur Integration der Systeme – datengetrieben, KI-enabled und mit hohem Iterationstempo. In dieser neu geschaffenen Rolle verantwortest du die Segm…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-crm-lifecycle-analyst-b2c-marketing-automation-all-genders-munchen-496862",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8bf135ae9027e1db",
+      "title": "Workplace Management Werkstudent:in (m|w|d)",
+      "company": "idealo internet GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ein gut organisierter Arbeitsplatz fällt oft erst dann auf, wenn etwas nicht funktioniert. Im Workplace Management geht es deshalb darum, Abläufe im Büro zuverlässig zu organisieren, Ansprechperson für unterschiedliche Anliegen zu sein und den Arbeitsalltag fü…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/workplace-management-werkstudentin-mwd-berlin-166288",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ab6c9186207f5d12",
+      "title": "GTM Talent Strategist (all genders)",
+      "company": "Lio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Lio just raised a $30M Series A, and our Go-to-Market team is at the heart of what comes next. As our Talent Strategist for GTM, you'll embed in our commercial organization, learn what exceptional looks like in enterprise sales, and hire the people who meet th…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lio/gtm-talent-strategist-all-genders-munich-257164",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4435d1370123ef50",
+      "title": "Treasury and Payments Associate (f/m/d)",
+      "company": "Upvest",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": "management, providing timely and accurate insights into our cash and securities holdings Conducting"
+      },
+      "summary": "At Upvest, we are on a mission to make investing as easy as spending money . Upvest empowers businesses to offer a wide range of investment products and the best experience in the field of capital market investment and retirement planning. Upvest’s Investment …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/upvest/treasury-and-payments-associate-berlin-451907",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fbf464b0224e3223",
+      "title": "Customer Operations Specialist (Part Time) (f/m/x)",
+      "company": "Lemon Markets",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin (Hybrid)",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About lemon.markets 🍋 We enable anyone to be an investor. Our mission is to grow investing opportunities for all European customers and businesses. By empowering FinTechs, banks, and wealth managers to offer investment products, we help create financial well-b…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lemon-markets/customer-operations-specialist-part-time-berlin-225057",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "32ba12b7153aebb8",
+      "title": "Brand Manager (f/m/d)",
+      "company": "Zenjob",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns Zenjob ist eine KI-gestützte Plattform für flexible Personallösungen, die seit 2015 Unternehmen und temporäre Arbeitskräfte effizient miteinander verbindet. Unternehmen buchen über unsere Plattform kurzfristig einsatzbereite Mitarbeitende in Echtzeit,…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/zenjob/brand-manager-berlin-27312",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "13ff3b147a33403c",
+      "title": "Investment Analyst (m/f/d)",
+      "company": "Buena",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über die Rolle Eine gute Kaufentscheidung beginnt damit, dass jemand genau hinsieht. Bei Buena bist du das: Du verstehst das Unternehmen, hinterfragst Annahmen, erkennst Risiken und begründest, welchen Preis wir zahlen sollten. Du verantwortest die Due Diligen…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/buena/investment-analyst-berlin-349697",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c8b6ba6d1f0b5f45",
+      "title": "General Manager NRW (m/f/d)",
+      "company": "Buena",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über Buena Buena (backed by GV) macht alles rund um Immobilien so einfach und transparent wie den Kauf eines ETFs. Ob Suchen, Kaufen oder Finanzieren einer Wohnung. Wir tun das, indem wir Hausverwaltungen in ganz Deutschland übernehmen und in Technologieuntern…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/buena/general-manager-nrw-koln-447593",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c4b333015e8ff930",
+      "title": "Senior GSI Business Development Manager",
+      "company": "veeamsoftware",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security p…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/veeamsoftware/senior-gsi-business-development-manager-london-219079",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4e97d47aff07e53e",
+      "title": "(Senior) Account Manager (Creative Automation)",
+      "company": "dept",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Manchester",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "This is a 12 month fixed term contract initially with strong likelihood of extension and a beginning of January 2027 start date. Please note that the internal job title for this role is TBC. DEPT® is a Growth Invention company built to help the world’s most am…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/dept/senior-account-manager-creative-automation-manchester-411412",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c348e5360ebf40ca",
+      "title": "Mid-Market Account Executive - UK&I",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/samsara/mid-market-account-executive-uki-london-67099",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "213ba49297b88871",
+      "title": "IR Analyst",
+      "company": "Pairs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "United Kingdom",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We’re hiring an analyst to open first conversations with investors who are new to Pairs, and to book their meetings with the founders we work with. About Pairs Pairs is a vetted private capital network. We put breakout US founders, from seed to Series B, in fr…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/pairs/ir-analyst-united-kingdom-308340",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a352a816d1ac4740",
+      "title": "Solutions Lead",
+      "company": "Ramp",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "UK",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging ris…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ramp/solutions-lead-london-235986",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "96accbf00c5f9a23",
+      "title": "Senior Sales Engineer, France",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/samsara/senior-sales-engineer-france-80328",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4578a4a60be7e6d0",
+      "title": "Freelance, Recovery Operations",
+      "company": "Zefir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Healthcare",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who We Are Zefir is building an AI autopilot for home sales in Europe, starting in France: an AI agent runs the entire sale and purchase journey end-to-end, orchestrating local brokers, portals, buyers, and documents. Backed by €60 million from top-tier invest…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/zefir/freelance-recovery-operations-paris-428497",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f9104d8315170c6d",
+      "title": "Business Development Representative (BDR)",
+      "company": "Zefir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Healthcare",
+        "Procurement",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who We Are Zefir is building an AI autopilot for home sales in Europe, starting in France: an AI agent runs the entire sale and purchase journey end-to-end, orchestrating local brokers, portals, buyers, and documents. Backed by €60 million from top-tier invest…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/zefir/business-development-representative-bdr-paris-365711",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "29eba97241e3b1ba",
+      "title": "Account Manager Junior",
+      "company": "Zefir",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Healthcare",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who We Are Zefir is building an AI autopilot for home sales in Europe, starting in France: an AI agent runs the entire sale and purchase journey end-to-end, orchestrating local brokers, portals, buyers, and documents. Backed by €60 million from top-tier invest…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/zefir/account-manager-junior-paris-201689",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4e478e30e23e1e16",
+      "title": "Product Designer - BeReal",
+      "company": "BeReal",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": "CEO"
+      },
+      "summary": "About BeReal At BeReal, we are dedicated to authenticity in social media. By encouraging users to share unfiltered moments, we foster genuine connections and celebrate real life. We are now an international team of 100+ and have 40M+ monthly active users. Back…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/bereal/product-designer-bereal-paris-292149",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cc6dd9acfaf738d3",
+      "title": "Senior Computational Biologist",
+      "company": "Orakl Oncology",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Villejuif",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Healthcare",
+        "International Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Orakl Oncology At Orakl Oncology , we are accelerating the development of oncology treatments. Today, fewer than 5% of new cancer drugs succeed in clinical trials. Clearly, new methods are needed. We combine cutting-edge biology and AI to build the next …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/orakl-oncology/senior-computational-biologist-villejuif-346895",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b4e0fa29b041751a",
+      "title": "Marketing Manager (gn) - More Nutrition Schweiz",
+      "company": "thequalitygroupgmbh1",
+      "employmentType": "Internship",
+      "location": {
+        "city": "remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Start: ab sofort | Level: Intermediate | Location: Schweiz, remote | Arbeitszeit: Vollzeit (40h/Woche) In der Rolle als Marketing Manager ( gn ), übernimmst du die Entwicklung und Umsetzung unserer Markenstrategie für More Nutrition in der Schweiz . More Nutri…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/thequalitygroupgmbh1/remote-marketing-manager-gn-more-nutrition-schweiz-438488",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bebaf0078678f8da",
+      "title": "Senior Business Development Manager Data & AI – Financial Services",
+      "company": "Xebiadach",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ort: Zürich Pensum: 80–100 % Drive the Future of Data & AI Bei Xebia gestalten wir die Zukunft von Data, AI und Cloud. Mit über 5’000 Expert:innen weltweit unterstützen wir führende Unternehmen dabei, Daten in Wettbewerbsvorteile zu verwandeln und innovative A…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/xebiadach/senior-business-development-manager-data-ai-financial-services-7598",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2b128f2179507c7b",
+      "title": "Technician",
+      "company": "Enactintelligence",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Enact The next defining technological breakthrough will be in the physical world. We stand at a historical inflection point: bringing general-purpose intelligence into robotics. At Enact we rethink the entire robotic tech stack from model architectures a…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/enactintelligence/technician-zurich-54904",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e968e04318a6e985",
+      "title": "PhD Autonomy Engineer Intern - Computer Vision / Deep Learning Summer 2027",
+      "company": "Skydio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Research",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product d…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/skydio/phd-autonomy-engineer-intern-computer-vision-deep-learning-summer-2027-zurich-98951",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cbf100a6114cc595",
+      "title": "Grid Systems Engineer",
+      "company": "Hyperscale Power",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job Description Hyperscale Power is building the power backbone for the AI data center era: a complete power conversion chain from 13.8kV–35kV medium-voltage AC down to 800V DC, combining ultra-compact SiC-based AC/DC and DC/DC power blocks. The grid interconn…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/hyperscale-power/grid-systems-engineer-zurich-44568",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7caa15229b46ad3d",
+      "title": "Product Owner",
+      "company": "Learned",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Utrecht",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bouw mee aan eerlijke, betrokken en goed presterende teams Wij geloven dat iedereen een eerlijke kans verdient om te groeien en beloond te worden voor wat hij of zij bijdraagt. Daarom bouwt Learned software die organisaties helpt met heldere rollen, eerlijke e…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/learned/product-owner-utrecht-303362",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4b3d5d6dd5183044",
+      "title": "People Business Partner",
+      "company": "Mytomorrows",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam HQ",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-18",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About myTomorrows myTomorrows is a global health tech company dedicated to breaking down barriers for patients seeking treatment options. We strive to enable earlier and better treatment access by bridging the gap between those searching for possible options, …",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/mytomorrows/people-business-partner-amsterdam-233353",
+      "source": "Arbeitnow"
+    },
     {
       "id": "a3eadd01640cc99a",
       "title": "Praktikum Human Resources & Employer Branding (m/w/d) - Recruiting, Kommunikation & Startup-Kultur",
@@ -9598,6 +10351,209 @@
       },
       "summary": "Monetization Strategist Paid.ai · London · In-person · Full-time About Paid Paid is the monetization engine built for the agent economy. Our software allows firms to meter agent actions, price them, bill for them, and prove the value they delivered. Our team h…",
       "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/paid/monetization-strategist-london-465592",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "15007cbc65391a67",
+      "title": "Mid-Market Account Executive - UK&I",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Colchester",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/samsara/mid-market-account-executive-uki-colchester-424619",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b3b09a6b614da2cf",
+      "title": "Mid-Market Account Executive - UK&I",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Salford",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/samsara/mid-market-account-executive-uki-salford-448168",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2c0e9e251ea143d5",
+      "title": "Mid-Market Account Executive - UK&I",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bolton",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/samsara/mid-market-account-executive-uki-bolton-99840",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "48a7be8efec7f227",
+      "title": "Mid-Market Account Executive - UK&I",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bradford",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/samsara/mid-market-account-executive-uki-bradford-407664",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8b4a810ea9e9be86",
+      "title": "Mid-Market Account Executive - UK&I",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Leeds",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/samsara/mid-market-account-executive-uki-leeds-63200",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e43b361b5359bd9d",
+      "title": "Mid-Market Account Executive - UK&I",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Manchester",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/samsara/mid-market-account-executive-uki-manchester-484957",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a3522961d12ce576",
+      "title": "Mid-Market Account Executive - UK&I",
+      "company": "Samsara",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-17",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/samsara/mid-market-account-executive-uki-london-16030",
       "source": "Arbeitnow"
     },
     {
