@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-21T17:58:12.514588+00:00",
+    "lastUpdated": "2026-11-21T23:18:58.755565+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -5751,6 +5751,916 @@
       },
       "summary": "About IonQ: IonQ, Inc . [NYSE: IONQ] is the world’s leading quantum platform and merchant supplier - delivering integrated quantum solutions across computing, networking, sensing, and security. IonQ’s newest generation of quantum computers, the IonQ Tempo, is …",
       "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ionq/staff-software-engineer-non-realtime-controllers-oxford-349404",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d2f91d772da815e9",
+      "title": "Senior Design Manager (Mensch) New Business",
+      "company": "wppmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Dusseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigat…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/wppmedia/senior-design-manager-mensch-new-business-dusseldorf-463045",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "de0bd0af82228f36",
+      "title": "Senior Design Manager (Mensch) New Business",
+      "company": "wppmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigat…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/wppmedia/senior-design-manager-mensch-new-business-hamburg-318217",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1fba30e4f8cf2677",
+      "title": "Client Delivery Lead - Billing or Accounting Experience (f/m/d)",
+      "company": "Kraken",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "International Development",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/kraken/remote-client-delivery-lead-billing-or-accounting-experience-420718",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "99a6457a52ad8ac1",
+      "title": "Qualitätsmanager:in für App-, Website- und Filialen-Tests (m/w/d)",
+      "company": "Probantica",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns Probantica ist ein Anbieter für Qualitätstests aus Köln. Wir prüfen im Auftrag von Unternehmen, ob digitale Produkte und Abläufe vor Ort im Alltag funktionieren. Die Tests machen bei uns angestellte Qualitätsmanager:innen – Menschen mit Vertrag, feste…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/probantica/qualitatsmanagerin-fur-app-website-und-filialen-tests-berlin-74117",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0ea7ee9903d48c29",
+      "title": "Working student (m/f/d) Talent Acquisition",
+      "company": "Agilerobotsse",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Bavaria",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Talent Acquisition Team at Agile Robots is looking for a Working Student (m/f/d) Talent Acquisition . We are seeking a student with first relevant professional experience and a curious interest in robotics and AI. Responsibilities End-to-End Recruiting: Ow…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/working-student-talent-acquisition-munich-bavaria-119574",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c402ffaa63fca8a4",
+      "title": "Software Engineer (m/f/d) Industrial Robot Control",
+      "company": "Agilerobotsse",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Bavaria",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Robotics & Mechatronics Teams at Agile Robots are looking for a Software Engineer (m/f/d) Industrial Robot Control , who will develop C++ control software for the robot arm, from single-motor to multi-body control. Responsibilities Control Software: Design…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/software-engineer-industrial-robot-control-munich-bavaria-367702",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7cb7f855d7808e24",
+      "title": "(Senior) Electronics Engineer (m/f/d)",
+      "company": "Agilerobotsse",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Bavaria",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Robotics & Mechatronics Teams at Agile Robots are looking for a (Senior) Electronics Engineer (m/f/d) who will help develop PCB-level electronics for our robot arms, from safety-circuit design through to production-ready schematics. Responsibilities PCB De…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-electronics-engineer-munich-bavaria-328785",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "085f566e721728ba",
+      "title": "Mechatronics Test Engineer (m/f/d)",
+      "company": "Agilerobotsse",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Bavaria",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your Responsibilities Design, develop and implement software solutions of test benches for complex mechatronic systems Coordinate design, construction, and commissioning of test benches for mechatronic components and industrial-grade manipulators Evaluate test…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/mechatronics-test-engineer-munich-bavaria-471636",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d33631210e30bb71",
+      "title": "Full-Stack Developer Intern (m/f/d) Robotics Data Collection",
+      "company": "Agilerobotsse",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Bavaria",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The AI Teams at Agile Robots are looking for a Full-Stack Developer Intern (m/f/d) Robotics Data Collection . Join our team in Munich, where you will help keep the software behind our robotics data-collection farm stable. We are seeking a hands-on student or r…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/full-stack-developer-intern-robotics-data-collection-munich-bavaria-36847",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "22ebee4a0d8fb9eb",
+      "title": "Working Student – Laser Lab & Cleanroom Operations (f/m/d)",
+      "company": "Focused",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Darmstadt",
+        "region": null,
+        "country": "DE",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Finance",
+        "Operations",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Focused Energy Focused Energy is building the future of clean energy through laser-driven inertial fusion. Backed by our $240M Series A — the largest fully secured Series A in the global fusion industry — we are scaling rapidly across multiple geographie…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/focused/working-student-laser-lab-cleanroom-operations-darmstadt-274887",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a790987fe48359bd",
+      "title": "Commercial Leader, Expert-Assisted Services  (d/f/m)",
+      "company": "Taxfix",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our story Every year, millions struggle with tax filing or miss out on tax refunds. We’re fixing that. Our intuitive app empowers everyone, regardless of background, to file taxes confidently. Operating across Germany, Spain, and the UK, Taxfix Group (Taxfix a…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/taxfix/commercial-leader-expert-assisted-services-berlin-103295",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "10dc54f1bfb0094a",
+      "title": "Group Master Data Manager Customers",
+      "company": "Intersnack IT KG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": "Master Data Manager and working closely with process owners, solution owners, transformation teams,"
+      },
+      "summary": "We want you to grow with us: We are strengthening our Information Management function. As our next Group Master Data Manager Customers, you will lead the customer agenda within Group Master Data, continuously developing our Customer Master Data governance and …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/intersnack-it-kg/group-master-data-manager-customers-dusseldorf-473221",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1d61e503749e6c8f",
+      "title": "Senior Machine Learning Scientist",
+      "company": "intercomreferrals",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Fin , now part of Salesforce, is on a mission to help businesses provide perfect customer experiences. Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support acros…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/intercomreferrals/senior-machine-learning-scientist-london-125444",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6b20d02a097129ce",
+      "title": "Engineering Manager, AI Models Infrastructure",
+      "company": "intercomreferrals",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Fin , now part of Salesforce, is on a mission to help businesses provide perfect customer experiences. Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support acros…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/intercomreferrals/engineering-manager-ai-models-infrastructure-london-368829",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4167791c7edbf838",
+      "title": "Senior Associate, Search - Organic, UK",
+      "company": "wppmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/senior-associate-search-organic-uk-london-412603",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "911886864def1b61",
+      "title": "Senior Associate, Planning, UK",
+      "company": "wppmedia",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/senior-associate-planning-uk-london-32447",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7906bad2c500d871",
+      "title": "Senior Associate, Planning, Global Client Solutions",
+      "company": "wppmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/senior-associate-planning-global-client-solutions-london-410206",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4724f04f5936f7b7",
+      "title": "Senior Associate, Client Services, UK",
+      "company": "wppmedia",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Manchester",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/senior-associate-client-services-uk-manchester-33611",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ac678ec81183b4d7",
+      "title": "Senior Product Manager - APIs",
+      "company": "Kraken",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "UK",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "International Development",
+        "Operations",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": "Group Product Manager, you’ll look after our API Frameworks and Tooling team, building the systems t"
+      },
+      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/kraken/senior-product-manager-apis-london-423829",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bc491924d23af9f0",
+      "title": "Associate",
+      "company": "Faculty",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Why Faculty? We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our r…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/faculty/associate-london-91717",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cc04e817816e69ba",
+      "title": "Senior International PR Manager",
+      "company": "raisin",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London; Manchester",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Raisin is the world’s leading platform for savings and investment products. Founded in 2012, the FinTech connects consumers with banks in the EU, the UK and the US. This gives consumers better interest rates and banks a diversified form of refinancing . Our vi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/raisin/senior-international-pr-manager-london-manchester-333684",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "66c1c5023ae115f7",
+      "title": "People & Culture Graduate (UK) - 2027",
+      "company": "Castrol",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "International Development",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Castrol is one of the world’s leading lubricant brands, serving customers and consumers in the automotive, marine, industrial and energy sectors. Castrol brands are recognised globally for their premium quality and high performance, shaped by the company’s com…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/castrol/people-culture-graduate-uk-2027-451083",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3ac02ccd33d91067",
+      "title": "Account Executive – SaaS / Technology Sales",
+      "company": "opentable",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bring your ambition to the table. 🍽️ Love the thrill of winning new business? Enjoy building relationships that turn into real commercial opportunities? We might have just the role for you. At OpenTable, we connect restaurants with diners and help hospitality …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/opentable/account-executive-saas-technology-sales-london-418748",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1163f25bf162efe4",
+      "title": "Engineering Manager - Grafana Infrastructure (Remote, UK)",
+      "company": "grafanalabs",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and d…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/engineering-manager-grafana-infrastructure-remote-uk-115895",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4f13e39a38fd9cd7",
+      "title": "Senior Python Engineer",
+      "company": "Abound",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": "BNPL Lead Software Engineer"
+      },
+      "summary": "About Abound We’re redefining consumer lending in the UK, and beyond. Using advanced AI and Open Banking data, we make fair, affordable personal finance available to more people. While traditional lenders rely almost entirely on credit scores, we look at the f…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/abound/senior-python-engineer-london-266580",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9b6b7462d98dd03c",
+      "title": "Data Analyst",
+      "company": "Trainline",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About us At Trainline, our purpose is to empower greener travel choices, connecting people and places. Trainline enables millions of travellers to find and book the best value tickets across carriers, fares, and journey options through our highly rated mobile …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/trainline/data-analyst-london-289423",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a936e12aa025e834",
+      "title": "Senior Data Analyst (12 Month FTC)",
+      "company": "Fundingcircle",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We’re on a mission to back the UK’s small businesses like no one else 🚀 Small businesses are the backbone of the economy, and we’re here to help them win. We’ve built a platform that uses clever data to get them the funding they need in minutes, not weeks. At …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/senior-data-analyst-12-month-ftc-london-196898",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "04a2dd39f3b5415a",
+      "title": "Alternance Chargé Influence F/H",
+      "company": "wppmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigat…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/wppmedia/alternance-charge-influence-f-h-paris-252797",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2c618f63aadc326b",
+      "title": "Senior AI Platform Engineer - Data Factory (f/m/d)",
+      "company": "Decathlontechnology",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Nord",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "L'équipe Data Platform recherche un·e Senior AI Platform Engineer basé·e·s à Lille/Paris. Au cœur de l’entité Decathlon Digital, nous recherchons un·e Senior AI Platform Engineer pour rejoindre les équipes Data Factory. Cette plateforme technologique, globale …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-ai-platform-engineer-data-factory-paris-paris-villeneuve-dascq-nord-441555",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1a832e892e97cf45",
+      "title": "Expert Data Catalog (f/m/d)",
+      "company": "Decathlontechnology",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Villeneuve-d'Ascq",
+        "region": null,
+        "country": "Nord",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Product Manager Data Catalog Notre Center of Excellence Data & AI recherche un·e Product Manager basé·e à Lille. Chez Decathlon, nous croyons au pouvoir du sport pour unir et inspirer. Notre mission : rendre le sport accessible au plus grand nombre, partout da…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/expert-data-catalog-villeneuve-dascq-nord-272864",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c4d1aebbd98c6cd8",
+      "title": "Enterprise Sales Engineer - France",
+      "company": "chainguard",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/chainguard/enterprise-sales-engineer-france-333058",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9ef43e8513426e57",
+      "title": "Manager Media Solutions | Engagement (m/f/d)",
+      "company": "wppmedia",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zurich",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigat…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/wppmedia/manager-media-solutions-engagement-zurich-421906",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "28d5aad80cd8c41c",
+      "title": "Chief Operating Officer COO",
+      "company": "Vio",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Netherlands - Employee",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": "Oz , Our CEO, and joining Vio's Leadership Team, you'll be hired into the full organisation with a c"
+      },
+      "summary": "At Vio , we believe booking accommodation should feel fair and effortless, never overwhelming or unclear. As one of the world’s fastest-growing travel tech platforms, we help millions of users make smarter travel decisions by comparing stays across 100+ bookin…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/vio/chief-operating-officer-coo-amsterdam-193358",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "825166ff2664c551",
+      "title": "Senior Product Manager, Financial Statement Suite",
+      "company": "Datasnipper",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Before a company publishes its annual report, finance teams have to turn financial data into a complete set of statements and disclosures. Balances need to be mapped, figures carried forward and updated, and supporting information brought together into a draft…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/datasnipper/senior-product-manager-financial-statement-suite-amsterdam-387483",
       "source": "Arbeitnow"
     },
     {
