@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-20T21:06:53.941513+00:00",
+    "lastUpdated": "2026-11-21T02:17:22.060399+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,1242 @@
     ]
   },
   "jobs": [
+    {
+      "id": "097547fe87c0fe48",
+      "title": "Senior Media Relations Manager (m/f/d)",
+      "company": "mewssystems",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Policy / Government"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Help make the world more hospitable The hospitality industry is uniquely human, and it deserves technology that’s just as inspiring as the people behind it. At Mews, we’re transforming the industry with a platform that helps hotels run smarter, move faster and…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/mewssystems/senior-media-relations-manager-36392",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bb5ce6165a23c4f1",
+      "title": "Langfuse - Senior Product Engineer, Integrations",
+      "company": "Clickhouse",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Why Integrations Engineering at Langfuse Your work puts Langfuse into developers’ hands. Our SDKs are downloaded 26M+ times per month, and for many developers the first thing they touch is an integration — a few lines of code that connect their favorite framew…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/clickhouse/langfuse-senior-product-engineer-integrations-berlin-341632",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e9d150b986833c36",
+      "title": "Junior Go Backend Developer (f/m/d)",
+      "company": "adjoe",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "adjoe builds the technologies behind mobile apps growth and monetization. adjoe Ads is our programmatic in-app advertising platform that seamlessly connects advertisers and publishers through direct integration of our Android and iOS SDKs. Every ad decision ha…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/adjoe/junior-go-backend-developer-hamburg-421725",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "77c9358803f8d56a",
+      "title": "Venture Development Manager (MBA Graduate)",
+      "company": "United Media",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you ready to unleash your entrepreneurial spirit and be a part of an exciting start-up revolution as the main driver for its growth and success? About us United Media focuses on building large scale industry media and conferences products in sectors such a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/venture-development-manager-mba-graduate-london-221821",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "043dacb1183f0fe5",
+      "title": "MBA Graduate",
+      "company": "United Media",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you ready to unleash your entrepreneurial spirit and be a part of an exciting start-up revolution as the main driver for its growth and success? About us United Media focuses on building large scale industry media and conferences products in sectors such a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/mba-graduate-london-311474",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ff0abaed26f99dc3",
+      "title": "Leadership Program (MBA Graduate)",
+      "company": "United Media",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you ready to unleash your entrepreneurial spirit and be a part of an exciting start-up revolution as the main driver for its growth and success? About us United Media focuses on building large scale industry media and conferences products in sectors such a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/leadership-program-mba-graduate-london-42933",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1cbbdb99a9dc02de",
+      "title": "Graduate Program (MBA Graduate)",
+      "company": "United Media",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you ready to unleash your entrepreneurial spirit and be a part of an exciting start-up revolution as the main driver for its growth and success? About us United Media focuses on building large scale industry media and conferences products in sectors such a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/graduate-program-mba-graduate-london-29563",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b60562390c1d1972",
+      "title": "Founder Associate (MBA Graduate)",
+      "company": "United Media",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you ready to unleash your entrepreneurial spirit and be a part of an exciting start-up revolution as the main driver for its growth and success? About us United Media focuses on building large scale industry media and conferences products in sectors such a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/founder-associate-mba-graduate-london-153047",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0d4e29ba3ad2f671",
+      "title": "Entrepreneur In Residence (MBA Graduate)",
+      "company": "United Media",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you ready to unleash your entrepreneurial spirit and be a part of an exciting start-up revolution as the main driver for its growth and success? About us United Media focuses on building large scale industry media and conferences products in sectors such a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/entrepreneur-in-residence-mba-graduate-london-300032",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "856c4560c0ad0f93",
+      "title": "Graduate Head Hunter at United-Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": "senior recruitment and to the CEO What we expect from you We do expect you to: Have acquired a bache"
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about people? If so, you mi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/graduate-head-hunter-at-united-media-london-267218",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2aa93ab2c4c60416",
+      "title": "Talent Acquisition Specialist at United-Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": "senior recruitment and to the CEO What we expect from you We do expect you to: Have acquired a bache"
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about people? If so, you mi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/talent-acquisition-specialist-at-united-media-london-213640",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3ead0d35c96020bf",
+      "title": "Talent Acquisition Associate at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? And are you curious or passionate about people? If so, yo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/talent-acquisition-associate-at-united-media-london-221275",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a8d414db36400803",
+      "title": "Graduate recruiter at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? And are you curious or passionate about people? If so, yo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/graduate-recruiter-at-united-media-london-459104",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "294fd07fb7afa8f5",
+      "title": "Management Graduate Program at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking for challenges within an exceptional entrepreneurial team with young, motivated and extremely driven people? If so, now is the time to apply for our Internship Program in London. Why United Media We fundamentally believe our people are our grea…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/management-graduate-program-at-united-media-london-216718",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9b8839f545bad1ca",
+      "title": "Marketing Chief at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/marketing-chief-at-united-media-london-300739",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4147da83270f13b5",
+      "title": "Chief Commercial Officer at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/chief-commercial-officer-at-united-media-london-453978",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "030de93b7372ed54",
+      "title": "Chief Growth Officer at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/chief-growth-officer-at-united-media-london-142265",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "375064f0b7c92830",
+      "title": "Chief Marketing Officer at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/chief-marketing-officer-at-united-media-london-123123",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6c0ed5883e002751",
+      "title": "Graduate sales specialist at United-Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about creating events? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/graduate-sales-specialist-at-united-media-london-440789",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b0eaf6fac0cfce2f",
+      "title": "Graduate sales executive at United-Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about creating events? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/graduate-sales-executive-at-united-media-london-435767",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "200332b9ea517a92",
+      "title": "Graduate Sales Development Representative at United-Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about creating events? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/graduate-sales-development-representative-at-united-media-london-62345",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "21fe58ce6b908019",
+      "title": "Graduate Partnership Manager at United-Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about creating events? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/graduate-partnership-manager-at-united-media-london-411632",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "386a3fa48b0a7d85",
+      "title": "Graduate New Business Executive at United-Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about creating events? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/graduate-new-business-executive-at-united-media-london-466767",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7a34fbc343e55dc3",
+      "title": "Senior Venture Associate at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/senior-venture-associate-at-united-media-london-499914",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "745458217f94758a",
+      "title": "Senior Management Consultant at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/senior-management-consultant-at-united-media-london-320128",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "31c25f27f12d4323",
+      "title": "Senior financial Writer at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/senior-financial-writer-at-united-media-london-221997",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "078170c45325ebd3",
+      "title": "Senior Editor at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/senior-editor-at-united-media-london-85803",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fc63d2045c1d44b2",
+      "title": "Senior Content Writer at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/senior-content-writer-at-united-media-london-289635",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "021c78c97ad61a67",
+      "title": "Senior Content Editor at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/senior-content-editor-at-united-media-london-301027",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b81b856dcdd9b7b9",
+      "title": "Chief Editor at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/chief-editor-at-united-media-london-499729",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2f699754e72bb6d4",
+      "title": "Chief Talent Development Officer at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "International Development",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/chief-talent-development-officer-at-united-media-london-347434",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "aac6eb44af2f6727",
+      "title": "Marketing Graduate at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/marketing-graduate-at-united-media-london-306734",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f2317677b52fe2e8",
+      "title": "Graduate Social Media Manager at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/graduate-social-media-manager-at-united-media-london-347108",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dd670e521a6b065b",
+      "title": "Graduate Program - Marketing at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/graduate-program-marketing-at-united-media-london-298481",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "42942f4c476fc461",
+      "title": "B2B Marketing Graduate at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/b2b-marketing-graduate-at-united-media-london-386554",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d5f4ec612d32d640",
+      "title": "Graduate Scheme at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/graduate-scheme-at-united-media-london-385135",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "428943530f5c3520",
+      "title": "Senior Media Relations Manager",
+      "company": "mewssystems",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Policy / Government"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Help make the world more hospitable The hospitality industry is uniquely human, and it deserves technology that’s just as inspiring as the people behind it. At Mews, we’re transforming the industry with a platform that helps hotels run smarter, move faster and…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/mewssystems/senior-media-relations-manager-280687",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7058dec1a30d3295",
+      "title": "Software Engineer Intern",
+      "company": "Arago",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Meet Arago and the Aragonians Arago is an AI and computer hardware company whose mission is to drive the course of history forward. We do so by accelerating breakthroughs at the intersection of AI and semiconductors. Founded in 2024 by AI researchers and physi…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/arago/software-engineer-intern-paris-141533",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f447254c84d57dcb",
+      "title": "Graduate Management Associate at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/graduate-management-associate-at-united-media-london-392890",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "50fb94918dcbbc46",
+      "title": "Graduate Conference Production Executive at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/graduate-conference-production-executive-at-united-media-london-454832",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "53827c4842ae45d7",
+      "title": "Graduate Conference Manager at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/graduate-conference-manager-at-united-media-london-459483",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "917a5f973abd3742",
+      "title": "Graduate Associate Program at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/graduate-associate-program-at-united-media-london-187052",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9cfaea104135a1fc",
+      "title": "Graduate Associate - Content at United Media",
+      "company": "United Media",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "United Kingdom",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/united-media/graduate-associate-content-at-united-media-london-262155",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a4c6bdd7b0052c1a",
+      "title": "Senior Media Relations Manager",
+      "company": "mewssystems",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Policy / Government"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Help make the world more hospitable The hospitality industry is uniquely human, and it deserves technology that’s just as inspiring as the people behind it. At Mews, we’re transforming the industry with a platform that helps hotels run smarter, move faster and…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/mewssystems/senior-media-relations-manager-661",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4ce1656ccb64d897",
+      "title": "Senior DevOps Engineer",
+      "company": "Catapultsports",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Catapult is building the future of sports performance technology, with a mission to Unleash the Potential of every athlete and team on earth. We don't just work in the sporting industry; we are actively changing it. Since 2006, our solutions have been leading …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/catapultsports/senior-devops-engineer-london-199633",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a1b65afa6408b87e",
+      "title": "Regional Partnerships Manager - UK",
+      "company": "Constructor",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote - UK",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About You The Partnerships Manager is a strategic leader responsible for establishing and growing Constructor's partner ecosystem in the UK. This role involves identifying, developing, and managing key relationships with SIs, agencies and ISVs/ Tech partners t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/constructor/regional-partnerships-manager-uk-london-446988",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3b0e5eb28f724090",
+      "title": "Senior FinOps Assistant (6-month FTC)",
+      "company": "Tillo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hove Office",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we’re looking for: We are looking for someone motivated and energetic to join our growing Finance team. You'll need to be an excellent communicator as this role will see you supporting the team, the wider business and of course our customers The challenge:…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/tillo/senior-finops-assistant-6-month-ftc-brighton-hove-358843",
+      "source": "Arbeitnow"
+    },
     {
       "id": "c7ff338ecc71d76c",
       "title": "[DACH MAG] Senior Industriemechatroniker Tagschicht (all genders)",
@@ -5709,8 +6945,8 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "2e8e2ba6f22291a4",
-      "title": "Content Creator / Videograf (m/w/d) – Fußball & Vereinsleben | deutschlandweit",
+      "id": "20cc06303fe93659",
+      "title": "Content Creator / Videograf (m/w/d) – Fußball & Vereinsleben",
       "company": "stickerfive GmbH",
       "employmentType": "Internship",
       "location": {
@@ -8122,6 +9358,1047 @@
       "summary": "Hey, wir sind die Koller & Lode GmbH. Hast du Bock auf … Cold-Email-Kampagnen aufbauen, die planbar neue Kunden und Bewerber für Handwerksbetriebe bringen Copy schreiben, testen und an echten Zahlen wie Reply-Rate und Interested-Rate sehen, was wirklich funkti…",
       "applicationUrl": "https://www.arbeitnow.com/jobs/companies/koller-lode-gmbh/growth-marketing-manager-fur-outbound-automation-100-remote-berlin-118775",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "c5187b13c8c6bda2",
+      "title": "Account Development Representative I - DACH",
+      "company": "Camunda",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/camunda/account-development-representative-i-dach-germany-236147",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1dd18b5c89438ad0",
+      "title": "Account Executive Germany (m/f/x)",
+      "company": "Eye Security",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "As Account Executive you’ll drive growth by owning the full sales cycle - from discovery to closing. You’ll shape our go-to-market approach, grow pipeline and show businesses how Eye’s solutions help reduce cyber risk. Your Role at Eye You will strategically w…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/eye-security/account-executive-germany-berlin-229237",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4a09ce4170626eee",
+      "title": "Verkaufsberater Showroom (m/w/d)",
+      "company": "Pergolux",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany | Munich | Showroom",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Als Verkaufsberater:in Showroom machst du unsere Pergolen für Kund:innen auf dem deutschen Markt erlebbar und begleitest sie vom ersten Gespräch bis zum Kaufabschluss. Du verstehst die Wünsche der Kund:innen, führst Produkte und Zubehör im Showroom vor und emp…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pergolux/verkaufsberater-showroom-germany-munich-showroom-71755",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "786bc0feda163222",
+      "title": "Senior Verkaufsberater Showroom (m/w/d)",
+      "company": "Pergolux",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany | Munich | Showroom",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Als Senior Verkaufsberater:in Showroom machst du unsere Pergolen für Kund:innen auf dem deutschen Markt erlebbar und führst sie sicher vom ersten Gespräch bis zum Kaufabschluss, auch bei größeren und anspruchsvolleren Projekten. Du bist erste Ansprechperson im…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pergolux/senior-verkaufsberater-showroom-germany-munich-showroom-90969",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a2ab56bb236b32aa",
+      "title": "Speditionskaufmann/-frau",
+      "company": "Pergolux",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Fulda Warehouse",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Als Speditionskaufmann/-frau übernimmst du die Organisation und Abwicklung nationaler und internationaler Transporte und sorgst dafür, dass Sendungen termingerecht, korrekt dokumentiert und wirtschaftlich beim Ziel ankommen. Du bist die zentrale Schnittstelle …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pergolux/speditionskaufmann-frau-fulda-243700",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dcaaabde803a27d0",
+      "title": "Verkaufsberater Showroom in Teilzeit (m/w/d)",
+      "company": "Pergolux",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany | Munich | Showroom",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Als Verkaufsberater:in Showroom in Teilzeit (20–30 Std./Woche) machst du unsere Pergolen für Kund:innen auf dem deutschen Markt erlebbar und begleitest sie vom ersten Gespräch bis zum Kaufabschluss. Du verstehst die Wünsche der Kund:innen, führst Produkte und …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pergolux/verkaufsberater-showroom-in-teilzeit-germany-munich-showroom-48397",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f0d831a9ec9e70eb",
+      "title": "Campaign Coordinator Intern",
+      "company": "Pergolux",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin | Global Team",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "As a Campaign Coordinator Intern (m/w/d), you will own the end-to-end coordination of marketing campaigns across global markets, moving them from brief to launch while keeping creative, performance, CRM, e-commerce, product and local market teams aligned. You …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/pergolux/campaign-coordinator-intern-berlin-177943",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e9bf6730dd6249e1",
+      "title": "Senior Partner Marketing Manager - GSIs",
+      "company": "N8N",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/n8n/senior-partner-marketing-manager-gsis-berlin-44824",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4168d03fdec9d9fb",
+      "title": "Senior Product Manager - Core Experience",
+      "company": "N8N",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/n8n/senior-product-manager-core-experience-berlin-328661",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "32c7af91b7257b5e",
+      "title": "IT Security Engineer (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Gilching",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "As an IT Security Engineer (m/f/d), you will be responsible for strengthening and protecting our organization's IT environment against evolving cyber threats. You will work closely with infrastructure, software, and operational teams to design, implement, and …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/it-security-engineer-gilching-45967",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d98df834c2495308",
+      "title": "Senior Expert (w/m/d) - Logistics Management Systems",
+      "company": "Miebach Consulting GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Frankfurt am Main",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bei Miebach Consulting erwarten dich anspruchsvolle Aufgaben entlang der gesamten Supply Chain . Von Anfang an übernimmst du Verantwortung in spannenden Beratungsprojekten, unterstützt durch ein fundiertes, individuelles Trainingsprogramm. Du arbeitest analyti…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/miebach-consulting-gmbh/senior-expert-logistics-management-systems-frankfurt-am-main-337349",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fd82ef216b67a31e",
+      "title": "Senior Executive Assistant – Bilingual English (CDI)",
+      "company": "Mirakl",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": "one of Mirakl's Co-CEOs, in a highly visible and trusted role at the heart of the company's executiv"
+      },
+      "summary": "About Mirakl: Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy. Today, Mirakl's operating system combines an enterprise marketplace solution (Mirakl Platform) that enables…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/mirakl/senior-executive-assistant-bilingual-english-cdi-paris-388389",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "46920cd070cb3360",
+      "title": "Thermo-Mechanical Engineer",
+      "company": "The Exploration Company",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bordeaux",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. The heart of a spacecraft lies in its engines, and that's why we, at The Exploration Company, are dedicated to developing our own cutting-edge Propulsion Systems ensuring the highest lev…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/thermo-mechanical-engineer-bordeaux-147977",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8f58932772841f15",
+      "title": "ERP Manager",
+      "company": "Alta Ares",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Alta Ares Alta Ares is an air defense Neoprime. We build AI-guided interceptors to counter drones and cruise missiles, along with the software platform that powers them. Our customers are NATO-aligned militaries and defense institutions, and our systems …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alta-ares/erp-manager-paris-7546",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f5dcf416edd5d38b",
+      "title": "Supplier Quality Engineer",
+      "company": "Alta Ares",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Toulouse",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Alta Ares Alta Ares is an air defense Neoprime. We build AI-guided interceptors to counter drones and cruise missiles, along with the software platform that powers them. Our customers are NATO-aligned militaries and defense institutions, and our systems …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alta-ares/supplier-quality-engineer-blagnac-318387",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "db551bb4c3d84d83",
+      "title": "Senior France Labour Legal Counsel",
+      "company": "Mistral.ai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": "our Lead Labour & Employment law, you will provide labour law expertise to balance local legal requi"
+      },
+      "summary": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/mistralai/senior-france-labour-legal-counsel-paris-120819",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "69cb257ada26dcd8",
+      "title": "IT Specialist, Paris",
+      "company": "Mistral.ai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/mistralai/it-specialist-paris-168010",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ac590689929e83ff",
+      "title": "Ingénieur Façades",
+      "company": "Deerns Groep BV",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Souhaitez-vous faire de l'ingénierie autrement ? Promouvoir l’innovation sur les projets, sortir des sentiers battus et travailler dans un contexte international ? Rejoignez le groupe Deerns, société d’ingénierie internationale spécialisée dans les bâtiments t…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/deerns-groep-bv/ingenieur-facades-paris-63712",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "64f6c29556c25668",
+      "title": "Ingénieur Environnement sénior - confirmé.e",
+      "company": "Deerns Groep BV",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Souhaitez-vous faire l’ingénierie autrement ? Promouvoir l’innovation sur les projets, sortir des sentiers battus et travailler dans un contexte international ? Rejoignez le groupe Deerns, société d’ingénierie internationale spécialisée dans les bâtiments tech…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/deerns-groep-bv/ingenieur-environnement-senior-confirmee-paris-222106",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "86e6ef09c97bd870",
+      "title": "Ingénieur(e) organisation / qualité - STAGE",
+      "company": "Deerns Groep BV",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Description du poste : Contexte Dans le cadre de l’amélioration continue de nos processus internes, nous souhaitons renforcer et structurer notre démarche qualité à l’échelle de l’entreprise. Ce stage s’inscrit dans une dynamique globale de structuration des p…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/deerns-groep-bv/ingenieure-organisation-qualite-stage-paris-258421",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5275aa3933869bcf",
+      "title": "Responsable Appel d'Offres",
+      "company": "Deerns Groep BV",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Concevoir les bâtiments premium et intelligents de demain Vous souhaitez intervenir sur des projets immobiliers d'exception et jouer un rôle clé dans la dynamique commerciale d'un bureau d'ingénierie de référence ? Rejoignez Deerns, bureau d'ingénierie interna…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/deerns-groep-bv/responsable-appel-doffres-paris-267925",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1a8bf72c3a0d0448",
+      "title": "Ingénieur.e conception - CVC & PB",
+      "company": "Deerns Groep BV",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job description En tant que Bureau d’études Fluides dans le domaine du bâtiment durable et intelligent, DEERNS recherche pour son bureau parisien un(e) Ingénieur CVC & PB. Vous serez responsable de la conception CVC/Plomberie des projets étant le garant de la …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/deerns-groep-bv/ingenieure-conception-cvc-pb-paris-109969",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a3b6bb3de815613f",
+      "title": "Ingénieur.e conception - CFO/CFA",
+      "company": "Deerns Groep BV",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job description Concevoir les bâtiments premium et intelligents de demain Vous souhaitez intervenir sur des projets immobiliers d’exception et jouer un rôle clé dans la conception de bâtiments techniques, durables et innovants ? Rejoignez Deerns , bureau d’ing…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/deerns-groep-bv/ingenieure-conception-cfo-cfa-paris-175541",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "141ffc51512b390e",
+      "title": "Développeur fullstack confirmé H/F (C#, .Net, Angular)",
+      "company": "N2JSoft",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Poste à distance",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "À propos de N2JSoft N2JSoft est une Fintech B2B SaaS spécialisée dans la gestion des dépenses professionnelles. Fondée en 2015, elle compte aujourd’hui 20 000 clients et 1M utilisateurs dans 98 pays , faisant de N2F l’un des leaders du marché français. N2F sim…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-137469",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ad5b0f6ab02dc5e0",
+      "title": "Senior Social & AI Marketeer",
+      "company": "Luke Recruitment",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Tilburg",
+        "region": null,
+        "country": "Netherlands",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Jouw impact als Senior Social & AI Marketeer Als Senior Social & AI Marketeer bij Indicia ben je het strategische aanspreekpunt voor grote klanten en vertaal je hun commerciële doelstellingen naar effectieve socialmediastrategieën. Je combineert strategisch ad…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/luke-recruitment/senior-social-ai-marketeer-tilburg-68538",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8940c7adbccd6ba3",
+      "title": "Senior Marketingcommunicatieadviseur",
+      "company": "Movares",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Utrecht",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Jouw impact bij Movares Jij zorgt dat de expertise van Movares niet alleen wordt gezien, maar ook leidt tot een sterkere marktpositie, hechtere klantrelaties en nieuwe opdrachten. Dit ga je doen bij Movares Jij bent strategisch businesspartner voor directies e…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/movares/senior-marketingcommunicatieadviseur-utrecht-18260",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0af39acfdc4a2d83",
+      "title": "Fachspezialist Zentrales Auslagerungsmanagement (m/w/d)",
+      "company": "Sparkasse Karlsruhe",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Karlsruhe",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "In unserem Bereich Zentrales Auslagerungsmanagement arbeiten Sie mit zwei weiteren Kollegen zusammen. Hier übernehmen Sie alle Aufgaben des Auslagerungsmanagements (ZAM), die sich für Banken aus den gesetzlichen Vorgaben ableiten. Dabei begleiten Sie methodisc…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/sparkasse-karlsruhe/fachspezialist-zentrales-auslagerungsmanagement-karlsruhe-466358",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "173d5f5b017f3f40",
+      "title": "Test Engineer (f/m/d)",
+      "company": "Think Cell",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About us thinkcell provides graphics software that performs most of the painstaking work of creating data-driven slides for professional Excel and PowerPoint users. The testing department makes sure that new features are technically sound and work reliably for…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/think-cell/test-engineer-294842",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3bd32ebaab3717af",
+      "title": "Growth Operations",
+      "company": "Uplane",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Uplane (YC F25) Companies waste billions on bad ads, mismatched landing pages, and poor budget allocation. Uplane fixes this by building an AI marketing operating system. Our software supports marketing teams with static ad creation, video ad creation, l…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/uplane/growth-operations-berlin-109594",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e5dba65e58cd4fce",
+      "title": "Enterprise Account Executive, Public Sector North - UK",
+      "company": "Verkada",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who We Are Verkada is transforming how organizations protect their people and places with an integrated, privacy-sensitive AI-powered platform that includes solutions for video security, access control, air quality sensors, alarms, intercoms, and visitor manag…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/verkada/enterprise-account-executive-public-sector-north-uk-387430",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2e10edea1c1b67ec",
+      "title": "Software Engineering Internship (C++ or Python) – Summer 2027",
+      "company": "Wehrtyou",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hudson River Trading (HRT) is seeking highly motivated full-time students to join our Software Engineering Summer Internship Program. HRT brings together the sharpest minds across quantitative disciplines—math, computer science, physics, engineering, and more—…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/software-engineering-internship-c-or-python-summer-2027-london-149647",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cdb7dfe51ab13df4",
+      "title": "Software Engineer (C++ or Python) – 2027 Grads",
+      "company": "Wehrtyou",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hudson River Trading (HRT) is seeking talented Software Engineers to join our teams in New York, London, and Singapore. As a Software Engineer at HRT, the code you write is our business. Our software engineers create and maintain critical technology and infras…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/software-engineer-c-or-python-2027-grads-london-235931",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a7aea62872b0c804",
+      "title": "Senior Immigration Specialist",
+      "company": "Wehrtyou",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hudson River Trading (HRT) is seeking a Senior Immigration Specialist to manage our UK sponsor licence and oversee the end-to-end immigration lifecycle for sponsored workers. In this role, you will manage visa applications and compliance requirements, advise r…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/senior-immigration-specialist-london-175256",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a353bfc9b760b1c6",
+      "title": "Senior Consultant - ICS/OT Cybersecurity",
+      "company": "Dragos",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Healthcare",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Dragos, the mission is personal. The systems we protect deliver the water you drink, power your home, and keep the hospitals your community depends on running. Those critical infrastructure systems that power our civilization around the world are under atta…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/dragos/senior-consultant-ics-ot-cybersecurity-235630",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4d2c76359982edb4",
+      "title": "Software Implementation Project Manager",
+      "company": "3E",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Lancaster",
+        "region": null,
+        "country": "UK",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About 3E: 3E is a mission-driven company dedicated to creating a safer and more sustainable world. We offer award-winning regulatory intelligence and AI solutions to help organizations protect people and products. With over 35 years of experience and a global …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/3e/software-implementation-project-manager-lancaster-491397",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cb1f9210fc7e1c34",
+      "title": "IT Specialist, London",
+      "company": "Mistral.ai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/mistralai/it-specialist-london-499357",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "be4e0b10e9664694",
+      "title": "Product Designer",
+      "company": "Tebra",
+      "employmentType": "Internship",
+      "location": {
+        "city": "US Only",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Tebra only initiates contact with candidates via email from an official Tebra email address (@ tebra.com , @ patientpop.com , or @ kareo.com ) or through our applicant tracking system, Greenhouse.Â We will only ask you to provide sensitive personal information…",
+      "applicationUrl": "https://remoteOK.com/remote-jobs/remote-product-designer-tebra-1137873",
+      "source": "Remote OK"
+    },
+    {
+      "id": "fd10999193b7b591",
+      "title": "Customer Success Engineer",
+      "company": "GitLab",
+      "employmentType": "Internship",
+      "location": {
+        "city": "US Only",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": "Customer Success Engineer Team Manager , and your first-year outcomes will focus on building trusted"
+      },
+      "summary": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million re…",
+      "applicationUrl": "https://remoteOK.com/remote-jobs/remote-customer-success-engineer-gitlab-1137867",
+      "source": "Remote OK"
+    },
+    {
+      "id": "eed4fe50640c24a2",
+      "title": "Senior Product Engineer",
+      "company": "Arbor Education",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-20",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Remote - UK Salary: Â£70,000-80,000 About us At Arbor, weâre on a mission to transform the way schools work for the better.Â We believe in a future of work in schools where being challenged doesnât mean being burnt out and overworked. Where data …",
+      "applicationUrl": "https://remoteOK.com/remote-jobs/remote-senior-product-engineer-arbor-education-1137865",
+      "source": "Remote OK"
     },
     {
       "id": "ff83122c12c8a257",
