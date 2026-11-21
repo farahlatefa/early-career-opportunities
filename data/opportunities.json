@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-21T11:05:12.818134+00:00",
+    "lastUpdated": "2026-11-21T17:58:12.514588+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -2715,6 +2715,3042 @@
       },
       "summary": "Quantinuum is seeking an experienced engineer and people manager to join the web team and contribute to a web layer that supports experimentalists at every stage of working with our quantum computers. Key responsibilities: Play a key role in delivering high-im…",
       "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/quantinuum/software-rd-manager-1113-uk-cambridge-277098",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "81390bad06e6bf67",
+      "title": "Senior Machine Learning Scientist",
+      "company": "intercom",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Fin , now part of Salesforce, is on a mission to help businesses provide perfect customer experiences. Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support acros…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/intercom/senior-machine-learning-scientist-berlin-286021",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "97b0c0b42bd1fca7",
+      "title": "Marketing Automation & AI Manager (m/w/d) | B2B Marketing",
+      "company": "caronsale",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du nutzt AI nicht nur, du baust damit. Du entwirfst die Automationen und AI-Workflows hinter unserer Händlerkommunikation in internationalen Märkten: Datenwege zwischen Klaviyo, Make, Salesforce, Amplitude und Snowflake, dazu Prompts, Skills und geplante Check…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/caronsale/marketing-automation-ai-manager-b2b-marketing-berlin-158810",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "165c6dd083b00368",
+      "title": "Product Analytics Team Lead",
+      "company": "YAZIO",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "HEY THERE You've spent the last few years as the analyst sitting alongside a mobile squad—close to the tracking, the experiments and the numbers behind their decisions. You've also been leading a small team as well for a while now, and you don't want to give u…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/yazio/product-analytics-team-lead-berlin-238086",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "60e117190381f0da",
+      "title": "Senior Backend Engineer - Team Atlas",
+      "company": "Taktile",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin Office",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the Role Banks and fintechs use Taktile to automate critical decisions, like credit and risk, in real time. We're building the infrastructure that makes financial institutions truly AI-native, and the backend is where the hard problems live. We're growin…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/taktile/senior-backend-engineer-team-atlas-berlin-497741",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "987fb64d7b62d8d9",
+      "title": "Applied AI Engineer (all genders)",
+      "company": "Wemolo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Parking without barriers, tickets or queues. Wemolo builds its own hardware and its own AI to make that happen. More than 7,000 of our scanners run on around 4,000 parking sites across Europe and have processed over 1.3 billion parking events: unattended, outd…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/wemolo/applied-ai-engineer-all-genders-munchen-243027",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "580439920d18cee7",
+      "title": "Intern Supply Chain (all genders)",
+      "company": "Wemolo",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bist du bereit, dafür zu sorgen, dass unsere Lösungen wirklich auf der Straße und den Parkflächen ankommen? Wir leben own (y)our growth und schaffen ein Umfeld, in dem operative Exzellenz, Innovation und deine persönliche Entwicklung Hand in Hand gehen. Als In…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/wemolo/intern-supply-chain-all-genders-munchen-943",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4ea5e624888c6ba7",
+      "title": "Talent Acquisition Manager (all genders)",
+      "company": "Wemolo",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Talent Acquisition ist für uns mehr als Recruiting. Wir verstehen es als eine echte Disziplin, die sich stetig weiterentwickelt durch neue Technologien, neue Ansätze und vor allem durch die Menschen, die sie gestalten. Dabei zählt für uns nicht nur das Ergebni…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/wemolo/talent-acquisition-manager-all-genders-munchen-14519",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "13f4311ea747f118",
+      "title": "Associate Operations Manager für das Altersvorsorgedepot (f/m/d)",
+      "company": "Upvest",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sports",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bei Upvest verfolgen wir die Mission, Investieren so einfach zu machen wie Geldausgeben. Upvest befähigt Unternehmen, eine breite Palette an Anlageprodukten anzubieten und ihren Kund:innen ein erstklassiges Erlebnis im Bereich Kapitalmarktinvestments und Alter…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/upvest/associate-operations-manager-fur-das-altersvorsorgedepot-berlin-187374",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f6f6a073a64ec105",
+      "title": "Senior Fullstack Engineer (f/m/d)",
+      "company": "Upvest",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Upvest, we are on a mission to make investing as easy as spending money . Upvest empowers businesses to offer a wide range of investment products and the best experience in the field of capital market investment and retirement planning. Upvest’s Investment …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/upvest/senior-fullstack-engineer-berlin-80839",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8481cdce0a0a2f69",
+      "title": "Junior Marketing Manager - DACH",
+      "company": "AMBOSS",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über AMBOSS & den DACH Campus AMBOSS ist ein international etabliertes MedTech-Unternehmen mit Sitz in Berlin, das weltweit mehr als eine Million Nutzer:innen in über 180 Ländern erreicht. Die Plattform liefert medizinisches Wissen und Entscheidungsunterstützu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/amboss/junior-marketing-manager-dach-berlin-149378",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "71be9aef6251c587",
+      "title": "C2 Software Engineer",
+      "company": "Walaris",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Nuremberg",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Walaris designs and develops AI-driven, software-defined, and hardware-enabled autonomous systems for defense and security applications. Our software platform uses artificial intelligence, sensor fusion, and edge computing to provide real-time situational awar…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/walaris/c2-software-engineer-nuremberg-125744",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "172464b2d74b7771",
+      "title": "Graduate Operations Supervisor (m/w/d)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Berlin",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Supply Chain",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurz und knapp Du hast dein Studium in der Tasche, sprühst vor Energie und willst nicht nur zuschauen, sondern echte Verantwortung übernehmen? Bei Picnic startest du direkt in einer Führungsrolle durch! Als Graduate Operations Supervisor (m/w/d) in unserem tei…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-berlin-berlin-156712",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "41fc9e0766360cfd",
+      "title": "Graduate Operations Supervisor (m/w/d)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Potsdam",
+        "region": null,
+        "country": "Brandenburg",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Supply Chain",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurz und knapp Du hast dein Studium in der Tasche, sprühst vor Energie und willst nicht nur zuschauen, sondern echte Verantwortung übernehmen? Bei Picnic startest du direkt in einer Führungsrolle durch! Als Graduate Operations Supervisor (m/w/d) in unserem tei…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-potsdam-brandenburg-203689",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "93ac231f839c5bf9",
+      "title": "Graduate Operations Supervisor (m/w/d)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Falkensee",
+        "region": null,
+        "country": "Brandenburg",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Supply Chain",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurz und knapp Du hast dein Studium in der Tasche, sprühst vor Energie und willst nicht nur zuschauen, sondern echte Verantwortung übernehmen? Bei Picnic startest du direkt in einer Führungsrolle durch! Als Graduate Operations Supervisor (m/w/d) in unserem tei…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-falkensee-brandenburg-220412",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1bcc8e696918af79",
+      "title": "Graduate Operations Supervisor (m/w/d)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Hamburg",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurz und knapp Du hast dein Studium erfolgreich abgeschlossen und suchst nach einer spannenden Führungsrolle als Karrierestart in einem zukunftsorientierten Umfeld? Bei Picnic bieten wir dir in unserem Fulfillment Center (FC) in Hamburg die Möglichkeit, als Op…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-hamburg-hamburg-180629",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "607fd550ba93ba52",
+      "title": "Graduate Operations Supervisor (m/w/d)",
+      "company": "Teampicnic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Herne",
+        "region": null,
+        "country": "North Rhine-Westphalia",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Supply Chain",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Kurz und knapp Du hast dein Studium in der Tasche, sprühst vor Energie und willst nicht nur zuschauen, sondern echte Verantwortung übernehmen? Bei Picnic startest du direkt in einer Führungsrolle durch! Als Graduate Operations Supervisor (m/w/d) in unserem Ful…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-herne-north-rhine-westphalia-142795",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8cb381c729681306",
+      "title": "Growth Associate - MUC - FT - Lisa",
+      "company": "Lio",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Munich Office",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Procurement",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth Associate (Munich) AI is fundamentally changing how enterprises operate. For decades, procurement teams have relied on spreadsheets, emails and fragmented processes to manage billions in spend. As AI agents take over increasingly complex workflows, that…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/lio/growth-associate-muc-ft-lisa-munich-322219",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a989c47f3da9135b",
+      "title": "Commercial Lead, DACH",
+      "company": "Heidi",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We’re Heidi. We're building the future of healthcare by giving every clinician the earth's finest AI Care Partner. Our platform has absorbed the administrative chaos of 175 million patient visits and supported 67 million clinical hours. Today, we support 2.8 m…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/heidi/commercial-lead-dach-berlin-306087",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4244a8f35498a2ab",
+      "title": "Social Content Manager",
+      "company": "Jellyfish",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bei Jellyfish glauben wir an die Kraft vielfältiger Perspektiven und an eine inklusive Zusammenarbeit. Wir begrüßen Menschen, die in diversen, kollaborativen Teams über sich hinauswachsen und die individuellen Sichtweisen anderer schätzen. Jellyfish ist eine g…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/jellyfish/social-content-manager-berlin-261563",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c35804de841c212b",
+      "title": "Founders Associate Finance - (AI x Greentech) (m/f/d)",
+      "company": "Reonic",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you eager to become the financial backbone of one of Europe’s fastest-growing renewable energy startups? Do you thrive in dynamic environments where you can drive impact, spot problems, and build solutions from scratch? If you're passionate about finance, …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/reonic/founders-associate-finance-ai-x-greentech-berlin-84796",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4c74142103a25044",
+      "title": "Go-to-Market AI & Data Intern (AI x Greentech) (m/f/d)",
+      "company": "Reonic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in fast-paced environments and have a passion for renewable energy? As our Go-to-Market AI & Data Associate, you will be the co-architect of our data ecosystem. You’ll take full ownership of making customer and revenue data accessible, building i…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/reonic/go-to-market-ai-data-intern-ai-x-greentech-berlin-111794",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "201da1519dfe1544",
+      "title": "1228 | IT Service Manager / Senior IT Service Manager",
+      "company": "Intetics 2",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Humanitarian / NGO",
+        "Operations",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Intetics Inc., a leading American technology company specializing in custom software application development, distributed professional teams creation, software product quality assessment, and “all-things-digital” solutions, is looking for a IT Service Manager …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1228-it-service-manager-senior-it-service-manager-germany-183080",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "133389a3a3dd3117",
+      "title": "1227 | Back-end Developer",
+      "company": "Intetics 2",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Intetics Inc., a leading American technology company specializing in custom software application development, distributed professional teams creation, software product quality assessment, and “all-things-digital” solutions, is looking for a Back-end Developer …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1227-back-end-developer-germany-388586",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5a2a7d87f3a27378",
+      "title": "1226 | Front-end Developer",
+      "company": "Intetics 2",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Intetics Inc., a leading American technology company specializing in custom software application development, distributed professional teams creation, software product quality assessment, and “all-things-digital” solutions, is looking for a Front-end Developer…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1226-front-end-developer-germany-84712",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7966eb98ecf0d103",
+      "title": "Venture Development Manager (MBA Graduate)",
+      "company": "Privateequityinsights",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you ready to unleash your entrepreneurial spirit and be a part of an exciting start-up revolution as the main driver for its growth and success? About us Private Equity Insights is the world's leading Private Equity community. We connect and develop more t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/venture-development-manager-mba-graduate-london-111288",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "26cfcb27d89092fc",
+      "title": "Talent Acquisition Specialist at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": "senior recruitment and to the CEO What we expect from you We do expect you to: Have acquired a bache"
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about people? If so, you mi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/talent-acquisition-specialist-at-private-equity-insights-london-290290",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "175097657d4c75be",
+      "title": "Talent Acquisition Associate at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? And are you curious or passionate about people? If so, yo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/talent-acquisition-associate-at-private-equity-insights-london-450434",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0388d21943e157b7",
+      "title": "Senior Venture Associate at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-venture-associate-at-private-equity-insights-london-370403",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6995e57fff687341",
+      "title": "Senior Sponsorships Representative",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "MUST HAVE UK WORK PERMIT. NOT A REMOTE ROLE, 100% IN-PERSON AT OUR LONDON OFFICE. Do you want to take part in defining the future of Private Equity? Do you thrive in a fast-paced environment, where you can gain a tremendous amount of responsibility quickly? Do…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-sponsorships-representative-london-402599",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "72d0f795d7160554",
+      "title": "Senior Sponsorships Manager",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "MUST HAVE UK WORK PERMIT. NOT A REMOTE ROLE, 100% IN-PERSON AT OUR LONDON OFFICE. Do you want to take part in defining the future of Private Equity? Do you thrive in a fast-paced environment, where you can gain a tremendous amount of responsibility quickly? Do…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-sponsorships-manager-london-470696",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "20f2a74881e77900",
+      "title": "Senior Sponsorships Executive",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "MUST HAVE UK WORK PERMIT. NOT A REMOTE ROLE, 100% IN-PERSON AT OUR LONDON OFFICE. Do you want to take part in defining the future of Private Equity? Do you thrive in a fast-paced environment, where you can gain a tremendous amount of responsibility quickly? Do…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-sponsorships-executive-london-224942",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f67824191f904ff4",
+      "title": "Senior SDR",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "MUST HAVE UK WORK PERMIT. NOT A REMOTE ROLE, 100% IN-PERSON AT OUR LONDON OFFICE. Do you want to take part in defining the future of Private Equity? Do you thrive in a fast-paced environment, where you can gain a tremendous amount of responsibility quickly? Do…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-sdr-london-141372",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "46ada5f27b538b7d",
+      "title": "Senior Sales Representative",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "MUST HAVE UK WORK PERMIT. NOT A REMOTE ROLE, 100% IN-PERSON AT OUR LONDON OFFICE. Do you want to take part in defining the future of Private Equity? Do you thrive in a fast-paced environment, where you can gain a tremendous amount of responsibility quickly? Do…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-sales-representative-london-261330",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8c15a633bc3380f3",
+      "title": "Senior Sales Manager",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "MUST HAVE UK WORK PERMIT. NOT A REMOTE ROLE, 100% IN-PERSON AT OUR LONDON OFFICE. Do you want to take part in defining the future of Private Equity? Do you thrive in a fast-paced environment, where you can gain a tremendous amount of responsibility quickly? Do…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-sales-manager-london-368533",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "15fdf61331c69a78",
+      "title": "Senior Sales Executive",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "MUST HAVE UK WORK PERMIT. NOT A REMOTE ROLE, 100% IN-PERSON AT OUR LONDON OFFICE. Do you want to take part in defining the future of Private Equity? Do you thrive in a fast-paced environment, where you can gain a tremendous amount of responsibility quickly? Do…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-sales-executive-london-258730",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5a73203bc4e6183b",
+      "title": "Senior Relationship Management Executive",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "MUST HAVE UK WORK PERMIT. NOT A REMOTE ROLE, 100% IN-PERSON AT OUR LONDON OFFICE. Do you want to take part in defining the future of Private Equity? Do you thrive in a fast-paced environment, where you can gain a tremendous amount of responsibility quickly? Do…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-relationship-management-executive-london-293939",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "45bd1607e094c88e",
+      "title": "Senior Partnerships Manager",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "MUST HAVE UK WORK PERMIT. NOT A REMOTE ROLE, 100% IN-PERSON AT OUR LONDON OFFICE. Do you want to take part in defining the future of Private Equity? Do you thrive in a fast-paced environment, where you can gain a tremendous amount of responsibility quickly? Do…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-partnerships-manager-london-351533",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d0acb179809135d1",
+      "title": "Senior Partner Development Representative",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "MUST HAVE UK WORK PERMIT. NOT A REMOTE ROLE, 100% IN-PERSON AT OUR LONDON OFFICE. Do you want to take part in defining the future of Private Equity? Do you thrive in a fast-paced environment, where you can gain a tremendous amount of responsibility quickly? Do…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-partner-development-representative-london-351253",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ec68aa07c7a384e3",
+      "title": "Senior Partner Development Executive",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "MUST HAVE UK WORK PERMIT. NOT A REMOTE ROLE, 100% IN-PERSON AT OUR LONDON OFFICE. Do you want to take part in defining the future of Private Equity? Do you thrive in a fast-paced environment, where you can gain a tremendous amount of responsibility quickly? Do…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-partner-development-executive-london-42585",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "177636215cc04f92",
+      "title": "Senior Management Consultant at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-management-consultant-at-private-equity-insights-london-301918",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "57b6185676f2fe4d",
+      "title": "Senior financial Writer at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-financial-writer-at-private-equity-insights-london-129087",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a747cd8fae81bf2a",
+      "title": "Senior Editor at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-editor-at-private-equity-insights-london-140147",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8801316b43aa46e2",
+      "title": "Senior Content Writer at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-content-writer-at-private-equity-insights-london-31228",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8270d2d841507fdc",
+      "title": "Senior Content Editor at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-content-editor-at-private-equity-insights-london-136481",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "af5b7053f3ae2a0b",
+      "title": "Senior Executive Assistant – Bilingual English (CDI)",
+      "company": "mirakl",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": "one of Mirakl's Co-CEOs, in a highly visible and trusted role at the heart of the company's executiv"
+      },
+      "summary": "About Mirakl: Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy. Today, Mirakl’s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/mirakl/senior-executive-assistant-bilingual-english-cdi-paris-485903",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3454fa6af91b1a9a",
+      "title": "Product Manager",
+      "company": "ionq",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Geneva",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About IonQ: IonQ, Inc . [NYSE: IONQ] is the world’s leading quantum platform and merchant supplier - delivering integrated quantum solutions across computing, networking, sensing, and security. IonQ’s newest generation of quantum computers, the IonQ Tempo, is …",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/ionq/product-manager-geneva-470684",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6cda65316a69b0c1",
+      "title": "Distinguished PQC Cryptography & Architecture Leader",
+      "company": "ionq",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Geneva",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About IonQ: IonQ, Inc . [NYSE: IONQ] is the world’s leading quantum platform and merchant supplier - delivering integrated quantum solutions across computing, networking, sensing, and security. IonQ’s newest generation of quantum computers, the IonQ Tempo, is …",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/ionq/distinguished-pqc-cryptography-architecture-leader-geneva-106013",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "443daf2bc4574ba4",
+      "title": "Engineering Manager",
+      "company": "housinganywhere",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Rotterdam",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We’re on a mission to become the go-to destination for students across Europe to find a trusted home away from home. We make every step of the rental journey simple and seamless, so students can focus on what really matters: studying, exploring, and growing. W…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/housinganywhere/engineering-manager-rotterdam-173959",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2117842e8fb2c7ae",
+      "title": "Senior Business Development Manager",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "MUST HAVE UK WORK PERMIT. NOT A REMOTE ROLE, 100% IN-PERSON AT OUR LONDON OFFICE. Do you want to take part in defining the future of Private Equity? Do you thrive in a fast-paced environment, where you can gain a tremendous amount of responsibility quickly? Do…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-business-development-manager-london-442248",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "98a9f008c92f9e5e",
+      "title": "Senior B2B Business Development Executive",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "MUST HAVE UK WORK PERMIT. NOT A REMOTE ROLE, 100% IN-PERSON AT OUR LONDON OFFICE. Do you want to take part in defining the future of Private Equity? Do you thrive in a fast-paced environment, where you can gain a tremendous amount of responsibility quickly? Do…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-b2b-business-development-executive-london-292229",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d2e75d3c5acc72e2",
+      "title": "Senior Account Manager",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "MUST HAVE UK WORK PERMIT. NOT A REMOTE ROLE, 100% IN-PERSON AT OUR LONDON OFFICE. Do you want to take part in defining the future of Private Equity? Do you thrive in a fast-paced environment, where you can gain a tremendous amount of responsibility quickly? Do…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-account-manager-london-307275",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "efb8bd6e4da4ae51",
+      "title": "Senior Account Executive",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "MUST HAVE UK WORK PERMIT. NOT A REMOTE ROLE, 100% IN-PERSON AT OUR LONDON OFFICE. Do you want to take part in defining the future of Private Equity? Do you thrive in a fast-paced environment, where you can gain a tremendous amount of responsibility quickly? Do…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-account-executive-london-272644",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "143ea521905a9bf2",
+      "title": "MBA Graduate",
+      "company": "Privateequityinsights",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you ready to unleash your entrepreneurial spirit and be a part of an exciting start-up revolution as the main driver for its growth and success? About us Private Equity Insights is the world's leading Private Equity community. We connect and develop more t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/mba-graduate-london-181154",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "00c3dedd8b648096",
+      "title": "Marketing Graduate at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/marketing-graduate-at-private-equity-insights-london-89805",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c999418cdd4b1dfb",
+      "title": "Marketing Chief at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/marketing-chief-at-private-equity-insights-london-143007",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d6ead3dcdfb7805e",
+      "title": "Management Graduate Program at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking for challenges within an exceptional entrepreneurial team with young, motivated and extremely driven people? If so, now is the time to apply for our Internship Program in London. Why Private Equity Insights We fundamentally believe our people a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/management-graduate-program-at-private-equity-insights-london-208207",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "60e0a9d1ca77f3c7",
+      "title": "Leadership Program (MBA Graduate)",
+      "company": "Privateequityinsights",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you ready to unleash your entrepreneurial spirit and be a part of an exciting start-up revolution as the main driver for its growth and success? About us Private Equity Insights is the world's leading Private Equity community. We connect and develop more t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/leadership-program-mba-graduate-london-316579",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9b1ba6a025cbb6f4",
+      "title": "Graduate Social Media Manager at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/graduate-social-media-manager-at-private-equity-insights-london-422151",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4e4c686f0b6c9642",
+      "title": "Graduate Scheme at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/graduate-scheme-at-private-equity-insights-london-35527",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c5855ea0acc1f3b1",
+      "title": "Graduate sales specialist at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about creating events? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/graduate-sales-specialist-at-private-equity-insights-london-194827",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9cf03f26097cd850",
+      "title": "Graduate sales executive at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about creating events? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/graduate-sales-executive-at-private-equity-insights-london-356362",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "25af2a8221eca8bd",
+      "title": "Graduate Sales Development Representative at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about creating events? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/graduate-sales-development-representative-at-private-equity-insights-london-223595",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ce4ed5c46d135cfb",
+      "title": "Graduate recruiter at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? And are you curious or passionate about people? If so, yo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/graduate-recruiter-at-private-equity-insights-london-114119",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "86e9a93cb8b0469b",
+      "title": "Graduate Program (MBA Graduate)",
+      "company": "Privateequityinsights",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you ready to unleash your entrepreneurial spirit and be a part of an exciting start-up revolution as the main driver for its growth and success? About us Private Equity Insights is the world's leading Private Equity community. We connect and develop more t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/graduate-program-mba-graduate-london-401319",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ea644045965a7228",
+      "title": "Graduate Program - Marketing at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/graduate-program-marketing-at-private-equity-insights-london-96617",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e6e789fd9f5e1679",
+      "title": "Graduate Partnership Manager at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about creating events? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/graduate-partnership-manager-at-private-equity-insights-london-62598",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1637cc9b792e0685",
+      "title": "Graduate New Business Executive at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about creating events? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/graduate-new-business-executive-at-private-equity-insights-london-456911",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dcbde930943bacbe",
+      "title": "Graduate Management Associate at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/graduate-management-associate-at-private-equity-insights-london-356425",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "43f799b0bd7090d0",
+      "title": "Graduate Head Hunter at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": "senior recruitment and to the CEO What we expect from you We do expect you to: Have acquired a bache"
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about people? If so, you mi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/graduate-head-hunter-at-private-equity-insights-london-333342",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7def4b7058d5d7a8",
+      "title": "Graduate events management at United Media",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about creating e…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/graduate-events-management-at-united-media-london-145257",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a9c51f2655a3a565",
+      "title": "Graduate events management at SetSales",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about creating e…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/graduate-events-management-at-setsales-london-79399",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9a3963a19936048b",
+      "title": "Graduate events management at Retail Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about creating e…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/graduate-events-management-at-retail-insights-london-22502",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f645c5d3354f0cd1",
+      "title": "Graduate events management at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about creating e…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/graduate-events-management-at-private-equity-insights-london-294830",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1075abf9689fd666",
+      "title": "Graduate events management at HRtechX",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about creating e…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/graduate-events-management-at-hrtechx-london-104543",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "22e437ff2068443f",
+      "title": "Graduate events management at CFO insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about creating e…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/graduate-events-management-at-cfo-insights-london-111473",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "13b817ec7457a1b0",
+      "title": "Graduate Conference Production Executive at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/graduate-conference-production-executive-at-private-equity-insights-london-262054",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c66b43188010421b",
+      "title": "Graduate Conference Manager at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/graduate-conference-manager-at-private-equity-insights-london-337806",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4c1df4822016e6d7",
+      "title": "Graduate Associate Program at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/graduate-associate-program-at-private-equity-insights-london-197788",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f81cc85a61f3d5ae",
+      "title": "Graduate Associate - Content at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/graduate-associate-content-at-private-equity-insights-london-32452",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0dd1cef98196406d",
+      "title": "Global B2B Account Executive",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "MUST HAVE UK WORK PERMIT. NOT A REMOTE ROLE, 100% IN-PERSON AT OUR LONDON OFFICE. Do you want to take part in defining the future of Private Equity? Do you thrive in a fast-paced environment, where you can gain a tremendous amount of responsibility quickly? Do…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/global-b2b-account-executive-london-228335",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "04fa41c8a4fcab10",
+      "title": "Global Account Executive",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "MUST HAVE UK WORK PERMIT. NOT A REMOTE ROLE, 100% IN-PERSON AT OUR LONDON OFFICE. Do you want to take part in defining the future of Private Equity? Do you thrive in a fast-paced environment, where you can gain a tremendous amount of responsibility quickly? Do…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/global-account-executive-london-277918",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b29224d1b9760657",
+      "title": "Founder Associate (MBA Graduate)",
+      "company": "Privateequityinsights",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you ready to unleash your entrepreneurial spirit and be a part of an exciting start-up revolution as the main driver for its growth and success? About us Private Equity Insights is the world's leading Private Equity community. We connect and develop more t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/founder-associate-mba-graduate-london-426144",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6ec06c239f9edfca",
+      "title": "Experienced Account Executive",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "MUST HAVE UK WORK PERMIT. NOT A REMOTE ROLE, 100% IN-PERSON AT OUR LONDON OFFICE. Do you want to take part in defining the future of Private Equity? Do you thrive in a fast-paced environment, where you can gain a tremendous amount of responsibility quickly? Do…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/experienced-account-executive-london-115688",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4cca323d18c4f871",
+      "title": "Entrepreneur In Residence (MBA Graduate)",
+      "company": "Privateequityinsights",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you ready to unleash your entrepreneurial spirit and be a part of an exciting start-up revolution as the main driver for its growth and success? About us Private Equity Insights is the world's leading Private Equity community. We connect and develop more t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/entrepreneur-in-residence-mba-graduate-london-460651",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5cc522b517a13799",
+      "title": "Chief Talent Development Officer at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "International Development",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/chief-talent-development-officer-at-private-equity-insights-london-363223",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f932655408743c25",
+      "title": "Chief Marketing Officer at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/chief-marketing-officer-at-private-equity-insights-london-461208",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "07b0320c3d07e299",
+      "title": "Chief Growth Officer at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/chief-growth-officer-at-private-equity-insights-london-319006",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7e2f2c7ab57c7fcf",
+      "title": "Chief Editor at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/chief-editor-at-private-equity-insights-london-408453",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "70e59a85a65ab711",
+      "title": "Chief Commercial Officer at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/chief-commercial-officer-at-private-equity-insights-london-164263",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "aae59e57eb45fd71",
+      "title": "B2B Marketing Graduate at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/b2b-marketing-graduate-at-private-equity-insights-london-44479",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7ec111e2930c7bcd",
+      "title": "Account Executive at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about sales? If …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/account-executive-at-private-equity-insights-london-96456",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3f1bd38d32f618b9",
+      "title": "Staff Machine Learning Scientist",
+      "company": "intercom",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Fin , now part of Salesforce, is on a mission to help businesses provide perfect customer experiences. Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support acros…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/intercom/staff-machine-learning-scientist-london-407058",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e43985cb8dac1b42",
+      "title": "Staff AI Product Manager",
+      "company": "intercom",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Fin , now part of Salesforce, is on a mission to help businesses provide perfect customer experiences. Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support acros…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/intercom/staff-ai-product-manager-london-319866",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b09ad1c0f73df57b",
+      "title": "Senior Product Designer",
+      "company": "intercom",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Fin , now part of Salesforce, is on a mission to help businesses provide perfect customer experiences. Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support acros…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/intercom/senior-product-designer-london-98959",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "90a51aa46499dc42",
+      "title": "Senior Machine Learning Scientist",
+      "company": "intercom",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Fin , now part of Salesforce, is on a mission to help businesses provide perfect customer experiences. Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support acros…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/intercom/senior-machine-learning-scientist-london-47899",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "016b4b215edc0408",
+      "title": "Engineering Manager, AI Models Infrastructure",
+      "company": "intercom",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Fin , now part of Salesforce, is on a mission to help businesses provide perfect customer experiences. Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support acros…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/intercom/engineering-manager-ai-models-infrastructure-london-48711",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e53c7281201f908e",
+      "title": "Cloud Security Engineer",
+      "company": "intercom",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Fin , now part of Salesforce, is on a mission to help businesses provide perfect customer experiences. Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support acros…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/intercom/cloud-security-engineer-london-326334",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4c6b96a3308d2c0a",
+      "title": "Staff+ Software Engineer, Privacy",
+      "company": "anthropic",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Data & Analytics",
+        "Finance",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy e…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/staff-software-engineer-privacy-london-494870",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "15863fd83599dcb5",
+      "title": "Senior Project Manager (m/f/d)",
+      "company": "soficonv",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Macquarie Park",
+        "region": null,
+        "country": "Australia",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the job At Sofico , we’re shaping the future of mobility – and we’re doing it together. Our software, Miles , enables companies worldwide to manage their leasing, fleet and mobility operations in one integrated platform. From our Macquarie Park office, w…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/soficonv/senior-project-manager-macquarie-park-australia-425583",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e5bfa98f1f09db84",
+      "title": "Field Marketing Manager- London",
+      "company": "Modal",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Us: AI needs a new infrastructure layer. We're building it at Modal. Every era of computing brought new workloads that previous infrastructure couldn't support: mainframes, databases, and the cloud. Each time, the company that rebuilt the layer underneat…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/modal/field-marketing-manager-london-118604",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7446cbf36ef7eb70",
+      "title": "Chief Operating Officer (COO)",
+      "company": "Pivotal",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "London, Full time, £140,000–196,000+ Pivotal Research finds people who can work on the biggest risks facing humanity and gets them working on them. We have grown from 2 staff in 2024 to 10 today, and our programmes have more than doubled in size every year. We…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/pivotal/chief-operating-officer-coo-london-160539",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0f0901de75804e63",
+      "title": "Release Engineer",
+      "company": "Kaluza",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": "UK",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Release Engineer (Engineer II) Location: London/Bristol/Edinburgh Team: Release Engineering Reporting To: Software Engineering Manager This role is based in London/Bristol/Edinburgh and requires existing right to work in the UK. At this time, we are not able t…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/release-engineer-bristol-281554",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fb8f57487a8dfb55",
+      "title": "Service Desk Analyst",
+      "company": "Kaluza",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": "UK",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Bristol, UK (hybrid, three days a week in the office) Level: C1 Team: Client Support Salary: £30,400 - £45,600 + discretionary bonus Contract: Permanent Reporting To: Client Support Lead Please note: This role requires an existing right to work in th…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/service-desk-analyst-bristol-24183",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "234e7eb79c6b6576",
+      "title": "Client Support Engineer",
+      "company": "Kaluza",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": "UK",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Location: Bristol, UK (hybrid, three days a week in the office) Level: Engineer C2 Team: Client Support Salary: 43,700 - £65,600 + discretionary bonus Contract: Permanent Reporting To: Client Support Lead Please note: This role requires an existing right to wo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/client-support-engineer-bristol-458569",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0599495c07aa9524",
+      "title": "Site Reliability Engineer C3",
+      "company": "Kaluza",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Edinburgh",
+        "region": null,
+        "country": "UK",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job title: Site Reliability Engineer C3 Location: London, Bristol, Edinburgh Team: Site Reliability Function Level: C3 This role is based in London, Bristol or Edinburgh and requires existing right to work in the UK. At this time, we are not able to offer visa…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/site-reliability-engineer-c3-edinburgh-185528",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "eea9c0e615b48d4b",
+      "title": "Site Reliability Engineer",
+      "company": "Kaluza",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Bristol",
+        "region": null,
+        "country": "UK",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job title: Site Reliability Engineer C3 Location: London, Bristol, Edinburgh Team: Site Reliability Function Level: C3 This role is based in London, Bristol or Edinburgh and requires existing right to work in the UK. At this time, we are not able to offer visa…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/site-reliability-engineer-bristol-444732",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "af2e51e9ee305ab3",
+      "title": "Site Reliability Engineer",
+      "company": "Kaluza",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "UK",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Job title: Site Reliability Engineer C2 Location: London, Bristol, Edinburgh Team: Site Reliability Function Level: C2 This role is based in London, Bristol or Edinburgh and requires existing right to work in the UK. At this time, we are not able to offer visa…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/site-reliability-engineer-london-280425",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4dd5dacbd6d733c5",
+      "title": "Founding Bid Manager",
+      "company": "Ben",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": "our COO, you will influence how we work across every major enterprise deal"
+      },
+      "summary": "Our Mission We're not your average benefits platform – we're the driving force that uplifts people's lives. Our technology connects the entire benefits ecosystem, creating better outcomes for employers, employees, brokers, and providers. Our mission is clear: …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ben/founding-bid-manager-london-195373",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7f934c44d0cf9792",
+      "title": "Junior operations analyst - transfers",
+      "company": "Seccl",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Edinburgh",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Hybrid with two days a week (Wednesday mandated) in our Edinburgh office 6 month fixed term contract (FTC) with potential opportunities to go permanent About us Seccl is the Octopus-owned embedded investment platform, on a mission to help more people invest, a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/seccl/junior-operations-analyst-transfers-edinburgh-382115",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "df3f76be79db7681",
+      "title": "Staff Software Engineer, Runtime",
+      "company": "ionq",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Oxford",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About IonQ: IonQ, Inc . [NYSE: IONQ] is the world’s leading quantum platform and merchant supplier - delivering integrated quantum solutions across computing, networking, sensing, and security. IonQ’s newest generation of quantum computers, the IonQ Tempo, is …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ionq/staff-software-engineer-runtime-oxford-234055",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "93d502fb272e3d6c",
+      "title": "Staff Software Engineer, Non-Realtime Controllers",
+      "company": "ionq",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Oxford",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Operations",
+        "Policy / Government",
+        "Sports",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-21",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About IonQ: IonQ, Inc . [NYSE: IONQ] is the world’s leading quantum platform and merchant supplier - delivering integrated quantum solutions across computing, networking, sensing, and security. IonQ’s newest generation of quantum computers, the IonQ Tempo, is …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/ionq/staff-software-engineer-non-realtime-controllers-oxford-349404",
       "source": "Arbeitnow"
     },
     {
