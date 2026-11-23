@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-22T21:47:11.474917+00:00",
+    "lastUpdated": "2026-11-23T02:46:43.903046+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,428 @@
     ]
   },
   "jobs": [
+    {
+      "id": "e7b1e8c9997a9fea",
+      "title": "Events Associate",
+      "company": "Prior Labs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are Foundation models transformed text and images. Structured data - the largest and most consequential data format in the world - stayed untouched, until now. What LLMs did for language, we're doing for tables. We pioneered tabular foundation models: T…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/prior-labs/events-associate-berlin-232079",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "aff530005fbad1dc",
+      "title": "Graduate Sales Associate (f/m/d)",
+      "company": "Moss",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Moss, we give finance professionals the power to automate their day-to-day and make forward-thinking decisions. Our culture is what makes that possible: we play to win, we obsess over quality, and we win as One Moss, and it works. Moss closed a €35 million …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/moss/graduate-sales-associate-berlin-444368",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6167dd33a60bc543",
+      "title": "Business Development Representative (f/m/d)",
+      "company": "Moss",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Moss, we give finance professionals the power to automate their day-to-day and make forward-thinking decisions. Our culture is what makes that possible: we play to win, we obsess over quality, and we win as One Moss, and it works. Moss closed a €35 million …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/moss/business-development-representative-berlin-340354",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8eb33d85bcd21148",
+      "title": "Technical Project Manager - Dach (m/f/d)",
+      "company": "Tandem Health",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Build something monumental for Healthcare! At Tandem Health we’re reimagining healthcare by putting clinicians first. Our platform - designed by clinicians, for clinicians - is built on deep insight into real-world pain points, with intuitive medical notes and…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tandem-health/technical-project-manager-dach-munich-119305",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a1640a05b1486e16",
+      "title": "Solution Architect (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Gilching",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "As a Solution Architect , you will drive the development of integrated system designs for our unmanned platforms used in demanding defense and security environments.. You will be responsible for designing, evaluating, and developing end-to-end solutions that b…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/solution-architect-gilching-15151",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "29b3bdce26630c01",
+      "title": "Group Master Data Manager Customers",
+      "company": "Intersnack IT KG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-23",
+      "reportsTo": {
+        "name": null,
+        "title": "Master Data Manager and working closely with process owners, solution owners, transformation teams,"
+      },
+      "summary": "We want you to grow with us: We are strengthening our Information Management function. As our next Group Master Data Manager Customers, you will lead the customer agenda within Group Master Data, continuously developing our Customer Master Data governance and …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/intersnack-it-kg/group-master-data-manager-customers-dusseldorf-280263",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2fef478743db1c2a",
+      "title": "Quality Assurance Specialist",
+      "company": "Ircagroup",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hochheim am Main",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are: IRCA Group, an Advent portfolio company, was founded in Italy in 1919, and it is a leading international B2B provider of high-quality semi-finished ingredients such as chocolate, decorations, creams, inclusions, nuts and pistachios, pastry mixes, g…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ircagroup/quality-assurance-specialist-hochheim-am-main-germany-385506",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e90097f573f1b597",
+      "title": "Senior Applied AI Manager (F/H)",
+      "company": "ILLUIN Technology",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Paris La Défense",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Dans le cadre de notre croissance, nous recherchons un.e Senior AI Engineering Manager, avec au moins 7 ans d'expérience sur des sujets d'IA, capable de mener des projets de pointe et d'encadrer des ingénieurs (juniors à leads) de haut niveau technique. En tan…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/illuin-technology/senior-applied-ai-manager-f-h-puteaux-474357",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4e7e9097a67ad9d4",
+      "title": "Software Engineer (F/H)",
+      "company": "ILLUIN Technology",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris La Défense",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Descriptif du poste → Votre mission En tant que Software Engineer, votre rôle sera de concevoir, développer et industrialiser des solutions technologiques et data de pointe, au service de produits IA à fort impact. Vous interviendrez à la fois sur : le dévelop…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/illuin-technology/software-engineer-f-h-puteaux-319006",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "813c6045b453efdc",
+      "title": "STAGE - Junior Fullstack Engineer - Productivity",
+      "company": "Doctrine",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Notre mission ⚖️ Chez Doctrine, nous construisons le leader de l’IA juridique en Europe. Notre conviction ? Le droit ne doit pas être ralenti par des tâches répétitives. Il doit être augmenté par une IA spécialisée, conçue pour comprendre, analyser et produire…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-fullstack-engineer-productivity-paris-89035",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d4f7eae0c1037317",
+      "title": "Engineering Manager - Spain 🇪🇸",
+      "company": "Doctrine",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Notre mission ⚖️ Chez Doctrine, nous construisons le leader de l’IA juridique en Europe. Notre conviction ? Le droit ne doit pas être ralenti par des tâches répétitives. Il doit être augmenté par une IA spécialisée, conçue pour comprendre, analyser et produire…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/doctrine/engineering-manager-spain-paris-44591",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1e455552acdca3dc",
+      "title": "Data Analyst (Maternity Cover / Temporary contract)",
+      "company": "Vestiairecollective",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Operations",
+        "Procurement",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-23",
+      "reportsTo": {
+        "name": null,
+        "title": "Data Product Lead, and working closely with the Customer Experience & Operations Products & Tech tea"
+      },
+      "summary": "Vestiaire Collective is the leading global online marketplace for desirable pre-loved fashion connecting millions of buyers and sellers across the world. Our mission is to transform the fashion industry for a more sustainable future by empowering our community…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/vestiairecollective/data-analyst-maternity-cover-temporary-contract-paris-492343",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "48b48927d005ca77",
+      "title": "Full Stack Developer",
+      "company": "Diabolocom",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Founded in 2005, Diabolocom is a leading European provider of AI-first, cloud-based contact centre (CCaaS) and customer experience (CX) solutions. We combine proprietary AI technology, native telecom infrastructure, and deep CRM integrations to help businesses…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/diabolocom/full-stack-developer-paris-80109",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "158af20165b0f024",
+      "title": "Stagiair(e) Backend AI Developer",
+      "company": "Berenschot Groep B.V.",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Utrecht",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "24-38,75 uur per week | Utrecht | hybride | softwareontwikkeling & AI | € 600,– obv 1 fte | wo bachelor of master Jouw vooruitgang begint bij Berenschot Wil jij bouwen aan slimme applicaties en AI-oplossingen die écht gebruikt worden? Bij Berenschot krijg je d…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/berenschot-groep-bv/stagiaire-backend-ai-developer-utrecht-379182",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3fa2c67d1ef67e61",
+      "title": "Stagiair(e) Backend developer",
+      "company": "Berenschot Groep B.V.",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Utrecht",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "24–38.75 uur per week | Utrecht / hybride | Backend development | Python | €600 | wo-bachelor of master Jouw vooruitgang begint bij Berenschot Wil jij tijdens je stage bouwen aan software die écht gebruikt wordt? Bij Berenschot werk je mee aan digitale platfor…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/berenschot-groep-bv/stagiaire-backend-developer-utrecht-320484",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "01137b09a369d962",
+      "title": "Stagiair(e) marketing, communicatie en pr",
+      "company": "Berenschot Groep B.V.",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Utrecht",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-23",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "31-38,75 uur per week | Utrecht | Hybride | team| € 600,-| Hbo of Wo Jouw vooruitgang begint bij Berenschot Ben jij een enthousiaste hbo- of wo-student en zoek je een veelzijdige en leerzame stage op het gebied van (online) marketing en communicatie? Bij Beren…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/berenschot-groep-bv/stagiaire-marketing-communicatie-en-pr-utrecht-385778",
+      "source": "Arbeitnow"
+    },
     {
       "id": "99a6457a52ad8ac1",
       "title": "Qualitätsmanager:in für App-, Website- und Filialen-Tests (m/w/d)",
@@ -9655,6 +10077,1404 @@
       "summary": "What We Do Rillet serves accounting and finance teams, the financial brains of their companies. Our job is to help them run the numbers with impossible speed, accuracy, and insight. Rillet is the Agentic ERP built for modern finance teams. We help companies au…",
       "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/rillet/accounting-success-manager-uk-london-175300",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "ecde156fc6b9f6db",
+      "title": "IT Spezialist / IT Supporter / System Engineer • Apple, Windows, MDM • 2 Stellen • FFm *",
+      "company": "Ilias Vassiliou & Team / headhunter.digital / Recruiting für Digital, Sales, IT, KI, Automation",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Frankfurt am Main",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du hast Interesse & Spaß daran, Marken-Unternehmen aus dem Enterprise-Umfeld mit teils Tausenden von Apple- & Windows-Devices in heterogenen Umgebungen zu betreuen? Dann ist das hier ein Job, bei dem du dich stark weiterentwickeln kannst und vorne am Puls neue…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/ilias-vassiliou-team-headhunterdigital-recruiting-fur-digital-sales-it-ki-automation/it-spezialist-it-supporter-system-engineer-apple-windows-mdm-2-stellen-ffm-frankfurt-am-main-218775",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f2a1c1eb2b5bc219",
+      "title": "Senior Expansion Manager:in (m/w/d) für Standortakquise in München",
+      "company": "Fastned",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Realisiere mit Fastned die Mobilität von morgen! Wir wollen unser Expansionsteam für die Region Süd rund um München verstärken. Die Mobilität verändert sich grundlegend. Elektrofahrzeuge werden zum Alltag, neue Technologien entwickeln sich rasant und der Bedar…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/fastned/senior-expansion-managerin-fur-standortakquise-in-munchen-221781",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dfafee52151b980d",
+      "title": "(Senior) Expansion Manager:in (m/w/d) für Standortakquise in Berlin",
+      "company": "Fastned",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Realisiere mit Fastned die Mobilität von morgen! Wir wollen unser Expansionsteam für die Region Ost rund um Berlin verstärken. Die Mobilität verändert sich grundlegend. Elektrofahrzeuge werden zum Alltag, neue Technologien entwickeln sich rasant und der Bedarf…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/fastned/senior-expansion-managerin-fur-standortakquise-in-berlin-369960",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "92e0f5ef8727e9f6",
+      "title": "Product Manager, Platform (all genders)",
+      "company": "Distribusion Technologies",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Distribusion is the world’s leading ground transportation marketplace and gives travelers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail, and ferry o…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/product-manager-platform-all-genders-berlin-380387",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7078c633dbb7ca0c",
+      "title": "Senior Site Reliability Engineer - Ceph / On-Prem Cloud Storage (m/f/d)",
+      "company": "gridscale GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Köln",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your Role You will help us build, operate and industrialize the storage foundation of our on-premise cloud platform. As part of a small, experienced team, you will own the Ceph clusters behind our block, object and file storage services – essentially the stora…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/gridscale-gmbh/senior-site-reliability-engineer-ceph-on-prem-cloud-storage-koln-121840",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "429c5d72779a34fc",
+      "title": "Werkstudent Vertriebsunterstützung (m/w/d)",
+      "company": "die Bayerische",
+      "employmentType": "Internship",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Mut ist unser Antrieb, Zusammenhalt ist unsere Stärke. Seit über 160 Jahren begleiten wir Menschen zuverlässig durchs Leben – mit einem innovativen Portfolio an Versicherungs- und Vorsorgeprodukten. Als Versicherungsverein auf Gegenseitigkeit gestalten wir gem…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/die-bayerische/werkstudent-vertriebsunterstutzung-munchen-455994",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e3783b4cd9d9aa53",
+      "title": "Venture Development Manager (MBA Graduate)",
+      "company": "Setsales",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you ready to unleash your entrepreneurial spirit and be a part of an exciting start-up revolution as the main driver for its growth and success? About us SetSales is Northern Europe’s leading sales community and aims to connect and develop commercially-min…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/venture-development-manager-mba-graduate-london-440802",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a706c0a97631306f",
+      "title": "Talent Acquisition Specialist at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": "senior recruitment and to the CEO What we expect from you We do expect you to: Have acquired a bache"
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about people? If so, you mi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/talent-acquisition-specialist-at-setsales-london-355444",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fdd22b1cc87c2f16",
+      "title": "Talent Acquisition Associate at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? And are you curious or passionate about people? If so, yo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/talent-acquisition-associate-at-setsales-london-229049",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "591c8506a5b2e1ea",
+      "title": "Senior Venture Associate at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/senior-venture-associate-at-setsales-london-325242",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "08566e7cb4b7419f",
+      "title": "Senior Management Consultant at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/senior-management-consultant-at-setsales-london-181899",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b90839cb75952224",
+      "title": "Senior financial Writer at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/senior-financial-writer-at-setsales-london-8082",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e71b54acb603b283",
+      "title": "Senior Editor at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/senior-editor-at-setsales-london-255663",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "90f0f56bd857316a",
+      "title": "Senior Content Writer at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/senior-content-writer-at-setsales-london-164751",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cae861e77f6b1a7e",
+      "title": "Senior Content Editor at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/senior-content-editor-at-setsales-london-308643",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "fd33759d55f1932f",
+      "title": "MBA Graduate",
+      "company": "Setsales",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you ready to unleash your entrepreneurial spirit and be a part of an exciting start-up revolution as the main driver for its growth and success? About us SetSales is Northern Europe’s leading sales community and aims to connect and develop commercially-min…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/mba-graduate-london-374860",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "764f1ac3451052e0",
+      "title": "Marketing Graduate at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/marketing-graduate-at-setsales-london-13114",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3ed6cbc6d3456303",
+      "title": "Marketing Chief at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/marketing-chief-at-setsales-london-84518",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "829597f97eeb0dca",
+      "title": "Management Graduate Program at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you looking for challenges within an exceptional entrepreneurial team with young, motivated and extremely driven people? If so, now is the time to apply for our Internship Program in London. Why SetSales We fundamentally believe our people are our greatest…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/management-graduate-program-at-setsales-london-481820",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "40172a0cdd96abe5",
+      "title": "Leadership Program (MBA Graduate)",
+      "company": "Setsales",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you ready to unleash your entrepreneurial spirit and be a part of an exciting start-up revolution as the main driver for its growth and success? About us SetSales is Northern Europe’s leading sales community and aims to connect and develop commercially-min…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/leadership-program-mba-graduate-london-414964",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c6504fe79f9330ca",
+      "title": "Graduate Social Media Manager at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/graduate-social-media-manager-at-setsales-london-21512",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "057a4e43bd27e810",
+      "title": "Graduate Scheme at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/graduate-scheme-at-setsales-london-12662",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c60d3889c7a50660",
+      "title": "Graduate sales specialist at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about creating events? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/graduate-sales-specialist-at-setsales-london-296918",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5be5c9640a92dc37",
+      "title": "Graduate sales executive at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about creating events? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/graduate-sales-executive-at-setsales-london-376059",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c6bc8ed272b694a4",
+      "title": "Graduate Sales Development Representative at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about creating events? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/graduate-sales-development-representative-at-setsales-london-197846",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3669884e1dcf6abe",
+      "title": "Graduate recruiter at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? And are you curious or passionate about people? If so, yo…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/graduate-recruiter-at-setsales-london-3870",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7d006b021f78a050",
+      "title": "Graduate Program (MBA Graduate)",
+      "company": "Setsales",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you ready to unleash your entrepreneurial spirit and be a part of an exciting start-up revolution as the main driver for its growth and success? About us SetSales is Northern Europe’s leading sales community and aims to connect and develop commercially-min…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/graduate-program-mba-graduate-london-465884",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "6d90eb42f35bf9e8",
+      "title": "Graduate Program - Marketing  at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/graduate-program-marketing-at-setsales-london-58774",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "37519cd443eb6c62",
+      "title": "Graduate Partnership Manager at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about creating events? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/graduate-partnership-manager-at-setsales-london-438099",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "05bed28a75baca1f",
+      "title": "Graduate New Business Executive at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about creating events? If s…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/graduate-new-business-executive-at-setsales-london-319546",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7a96c931c64a27d3",
+      "title": "Graduate Management Associate at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/graduate-management-associate-at-setsales-london-459144",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8451fee60377113e",
+      "title": "Graduate Head Hunter at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": "senior recruitment and to the CEO What we expect from you We do expect you to: Have acquired a bache"
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about people? If so, you mi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/graduate-head-hunter-at-setsales-london-45190",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f7ff1f340db6ed6f",
+      "title": "Graduate Conference Production Executive at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/graduate-conference-production-executive-at-setsales-london-320196",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8701ff93a3f5f5bf",
+      "title": "Graduate Conference Manager at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/graduate-conference-manager-at-setsales-london-13162",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ed6d5e9eb65ce96b",
+      "title": "Graduate Associate Program at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/graduate-associate-program-at-setsales-london-304955",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2ef271dd62d6bc7b",
+      "title": "Graduate Associate - Content at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/graduate-associate-content-at-setsales-london-148572",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "402a679efdff6259",
+      "title": "Founder Associate (MBA Graduate)",
+      "company": "Setsales",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you ready to unleash your entrepreneurial spirit and be a part of an exciting start-up revolution as the main driver for its growth and success? About us SetSales is Northern Europe’s leading sales community and aims to connect and develop commercially-min…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/founder-associate-mba-graduate-london-471770",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "330996d72cc5b55d",
+      "title": "Entrepreneur In Residence (MBA Graduate)",
+      "company": "Setsales",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you ready to unleash your entrepreneurial spirit and be a part of an exciting start-up revolution as the main driver for its growth and success? About us SetSales is Northern Europe’s leading sales community and aims to connect and develop commercially-min…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/entrepreneur-in-residence-mba-graduate-london-466566",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "383dbe4f0071a4bd",
+      "title": "Chief Talent Development Officer at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "International Development",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/chief-talent-development-officer-at-setsales-london-290455",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "db7d2a106e935344",
+      "title": "Staff Windows Low Level C++ Engineer - Endpoint security",
+      "company": "Sentinellabs",
+      "employmentType": "Internship",
+      "location": {
+        "city": null,
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Purpose At SentinelOne, we are driven by a clear purpose: to give the advantage to those who secure our future. As AI reshapes how organizations build, operate, and innovate, the responsibility to protect them becomes more critical than ever. When you join…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/sentinellabs/staff-windows-low-level-c-engineer-endpoint-security-358413",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2cd7be15387b8025",
+      "title": "Software Engineer, Simulation (Digital Twins)",
+      "company": "Laelaps",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Mission At Laelaps AI, we believe robotics is entering a transformative decade, much like the arrival of the internet. Advances in AI, cloud computing, and hardware are reshaping what autonomous systems can do. Our mission is to build the intelligent softw…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/laelaps/software-engineer-simulation-digital-twins-zurich-415398",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "27a9f8e4a404dd63",
+      "title": "Research Scientist, Foundation Model (World Model & Site Memory)",
+      "company": "Laelaps",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Mission At Laelaps AI, we believe robotics is entering a transformative decade, much like the arrival of the internet. Advances in AI, cloud computing, and hardware are reshaping what autonomous systems can do. Our mission is to build the intelligent softw…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/laelaps/research-scientist-foundation-model-world-model-site-memory-zurich-448097",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cce2d04f98b1d4f0",
+      "title": "Software Engineer, Robot Autonomy (Reliability & Test Infrastructure)",
+      "company": "Laelaps",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": "Switzerland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Our Mission At Laelaps AI, we believe robotics is entering a transformative decade, much like the arrival of the internet. Advances in AI, cloud computing, and hardware are reshaping what autonomous systems can do. Our mission is to build the intelligent softw…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/laelaps/software-engineer-robot-autonomy-reliability-test-infrastructure-zurich-390637",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9b9c94cafd87adaf",
+      "title": "Chief Marketing Officer at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/chief-marketing-officer-at-setsales-london-479314",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "28fcbfda4d4a5f99",
+      "title": "Chief Growth Officer at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/chief-growth-officer-at-setsales-london-129715",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "daa84aebd7937a10",
+      "title": "Chief Editor at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/chief-editor-at-setsales-london-158801",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0229884082ca74d8",
+      "title": "Chief Commercial Officer at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/chief-commercial-officer-at-setsales-london-463491",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "895352f3465a1da9",
+      "title": "B2B Marketing Graduate at SetSales",
+      "company": "Setsales",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/setsales/b2b-marketing-graduate-at-setsales-london-271446",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "61a910a5f316271d",
+      "title": "Founding Product",
+      "company": "ClaimSorted",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Building a More Resilient World When things go wrong, insurance has one job: get people and businesses back on their feet. Too often, it doesn't. At ClaimSorted, we're changing that, and building a more resilient world where people and businesses have the conf…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/claimsorted/founding-product-london-389854",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "999267214ea9b8e4",
+      "title": "Product Manager, Developer Ecosystem",
+      "company": "Reddit",
+      "employmentType": "Internship",
+      "location": {
+        "city": "US Only",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100…",
+      "applicationUrl": "https://remoteOK.com/remote-jobs/remote-product-manager-developer-ecosystem-reddit-1137977",
+      "source": "Remote OK"
+    },
+    {
+      "id": "fdf02b68f4b2aad2",
+      "title": "DRG Inpatient Coding Validator",
+      "company": "Clover Health",
+      "employmentType": "Internship",
+      "location": {
+        "city": "US Only",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Healthcare",
+        "Operations",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Payment Integrity team is a group of innovative thinkers sitting at the intersection of Clover's provider Network, Claims, and Tech teams. The Payment Integrity team ensures that Clover pays claims in an accurate manner, with a particular focus on reducing…",
+      "applicationUrl": "https://remoteOK.com/remote-jobs/remote-drg-inpatient-coding-validator-clover-health-1137973",
+      "source": "Remote OK"
+    },
+    {
+      "id": "73393ef57444825a",
+      "title": "DRG Validation Auditor",
+      "company": "Clover Health",
+      "employmentType": "Internship",
+      "location": {
+        "city": "US Only",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "The Payment Integrity team is a group of innovative thinkers sitting at the intersection of Clover's provider Network, Claims, and Tech teams. The Payment Integrity team ensures that Clover pays claims in an accurate manner, with a particular focus on reducing…",
+      "applicationUrl": "https://remoteOK.com/remote-jobs/remote-drg-validation-auditor-clover-health-1137972",
+      "source": "Remote OK"
+    },
+    {
+      "id": "a57a1be4aa1836b8",
+      "title": "Strategic Account Executive - Spain",
+      "company": "GitLab",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Europe",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-22",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million re…",
+      "applicationUrl": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-spain-gitlab-1137963",
+      "source": "Remote OK"
     },
     {
       "id": "097547fe87c0fe48",
