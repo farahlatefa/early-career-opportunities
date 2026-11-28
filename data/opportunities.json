@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-27T19:58:17.715399+00:00",
+    "lastUpdated": "2026-11-28T02:42:18.258126+00:00",
     "sources": [
       "Arbeitnow",
       "Remotive",
@@ -8,6 +8,1495 @@
     ]
   },
   "jobs": [
+    {
+      "id": "3dffb620da879afc",
+      "title": "Software Engineer (all genders) DE",
+      "company": "BSI Software",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Darmstadt",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen bei der Digitalisierun…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/bsi-software/software-engineer-all-genders-de-darmstadt-127090",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "df43cc42ffc68893",
+      "title": "Senior IT Business Analyst Insurance (all genders) DE",
+      "company": "BSI Software",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen bei der Digitalisierun…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/bsi-software/senior-it-business-analyst-insurance-all-genders-de-dusseldorf-356866",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "113691ed804f1d2c",
+      "title": "Web Frontend Developer (all genders) DE",
+      "company": "BSI Software",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen bei der Digitalisierun…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/bsi-software/web-frontend-developer-all-genders-de-hamburg-44672",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ffdf8b06762a645f",
+      "title": "Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)",
+      "company": "Kevin Kehr",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Homeoffice",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du studierst und willst mehr als einen „Nebenjob“? Du willst Verantwortung, klare Ziele und ein Umfeld, in dem Leistung zählt? Dann ist diese Werkstudentenrolle dein Einstieg in die Finanzberatung, mit strukturiertem Onboarding, Coaching und einem klaren Weg i…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-497375",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cbe23b4c9006c32c",
+      "title": "Senior CRM & Lifecycle Analyst (B2C) – Marketing Automation (all genders)",
+      "company": "Foodji GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "München",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Analytics first: Du baust CRM und Lifecycle Marketing bei Foodji komplett neu auf, vom analytischen Fundament bis zur Integration der Systeme – datengetrieben, KI-enabled und mit hohem Iterationstempo. In dieser neu geschaffenen Rolle verantwortest du die Segm…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-crm-lifecycle-analyst-b2c-marketing-automation-all-genders-munchen-98106",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "eb06c69668453fe0",
+      "title": "Working Student",
+      "company": "Novaspace",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Humanitarian / NGO",
+        "Policy / Government",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Novaspace is seeking a Working Student to join our Munich office, supporting our team across a diverse range of consulting, innovation advisory and business activities in the space sector. Our team in Munich advises clients across industry, government and the …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/novaspace/working-student-munich-germany-375592",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a0e6125dc991d98a",
+      "title": "Senior Partner Success Manager DACH",
+      "company": "Companial",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": "Germany",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Senior Partner Success Manager – Recruit DACH (all genders) Companial is looking for a commercially driven senior Partner Success Manager – Recruit to grow our partner community across the DACH region. In this role, your main focus is new business. You will id…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/companial/senior-partner-success-manager-dach-hamburg-germany-125740",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b8694f3e56f11bcd",
+      "title": "Working Student Talent & Growth",
+      "company": "Netlight",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Hamburg",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About us Netlight provides a full range of premium IT-consulting services at the forefront of the digital industry and stands out for its product- and technology-independent expertise in a wide range of industries and clients. We are a network organization of …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/netlight/working-student-talent-growth-hamburg-147879",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "dbdd5171b7b125de",
+      "title": "Marketing Automation Engineer",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at CFO Insights Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If so, now is the time to apply for the Growth role at Private Equ…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/marketing-automation-engineer-london-281367",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a419eaa1ac467fa8",
+      "title": "Growth Analytics Associate",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at CFO Insights Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If so, now is the time to apply for the Growth role at Private Equ…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/growth-analytics-associate-london-330567",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "bccbc64e4917abdb",
+      "title": "Go-To-Market Strategy Associate",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at CFO Insights Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If so, now is the time to apply for the Growth role at Private Equ…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/go-to-market-strategy-associate-london-224424",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5beed3fbf81c21e3",
+      "title": "Go-To-Market Strategy Analyst",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at CFO Insights Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If so, now is the time to apply for the Growth role at Private Equ…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/go-to-market-strategy-analyst-london-49125",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "150b4532a85ac65b",
+      "title": "Go-To-Market Specialist",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at CFO Insights Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If so, now is the time to apply for the Growth role at Private Equ…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/go-to-market-specialist-london-283182",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7e4e1f0768c29bb9",
+      "title": "Go-To-Market Operations Specialist",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at CFO Insights Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If so, now is the time to apply for the Growth role at Private Equ…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/go-to-market-operations-specialist-london-213018",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cb39b7a38c030b41",
+      "title": "Go-To-Market Operations Associate",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at CFO Insights Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If so, now is the time to apply for the Growth role at Private Equ…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/go-to-market-operations-associate-london-190658",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5274915c84f3e8f4",
+      "title": "Go-To-Market Engineer",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at CFO Insights Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If so, now is the time to apply for the Growth role at Private Equ…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/go-to-market-engineer-london-304435",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "de99510baa96bea7",
+      "title": "Go-To-Market Consultant",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at CFO Insights Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If so, now is the time to apply for the Growth role at Private Equ…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/go-to-market-consultant-london-108803",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "542844783899c990",
+      "title": "Go-To-Market Associate",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at CFO Insights Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If so, now is the time to apply for the Growth role at Private Equ…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/go-to-market-associate-london-31907",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "64f7f1e1a77c65e7",
+      "title": "Go-To-Market Analyst",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at CFO Insights Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If so, now is the time to apply for the Growth role at Private Equ…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/go-to-market-analyst-london-244308",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ccf4393e1f6131dd",
+      "title": "Go-To-Market",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at CFO Insights Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If so, now is the time to apply for the Growth role at Private Equ…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/go-to-market-london-304789",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "59e636809d5019f0",
+      "title": "AI Engineering, Growth",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at CFO Insights Are you looking master the latest AI tools, build agents, and put them to work on real business problems? Are you the person who gets things done and gets their hands dirty? If so, now is the time to apply for the AI Implementation role …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/ai-engineering-growth-london-398857",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "89c41ca9bf041c04",
+      "title": "AI Engineer, Growth",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at CFO Insights Are you looking master the latest AI tools, build agents, and put them to work on real business problems? Are you the person who gets things done and gets their hands dirty? If so, now is the time to apply for the AI Implementation role …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/ai-engineer-growth-london-268929",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d0f282bc7555d4ce",
+      "title": "AI Engineer",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at CFO Insights Are you looking master the latest AI tools, build agents, and put them to work on real business problems? Are you the person who gets things done and gets their hands dirty? If so, now is the time to apply for the AI Implementation role …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/ai-engineer-london-232699",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5edb2f414f47a71f",
+      "title": "AI Automation Engineer",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at CFO Insights Are you looking master the latest AI tools, build agents, and put them to work on real business problems? Are you the person who gets things done and gets their hands dirty? If so, now is the time to apply for the AI Implementation role …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/ai-automation-engineer-london-241791",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e23015307c4045dd",
+      "title": "Agentic Marketing Engineer",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at CFO Insights Are you looking master the latest AI tools, build agents, and put them to work on real business problems? Are you the person who gets things done and gets their hands dirty? If so, now is the time to apply for the AI Implementation role …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/agentic-marketing-engineer-london-349976",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9fdaabec34c07aae",
+      "title": "Agentic Marketing Associate",
+      "company": "Cfoinsights",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at CFO Insights Are you looking master the latest AI tools, build agents, and put them to work on real business problems? Are you the person who gets things done and gets their hands dirty? If so, now is the time to apply for the AI Implementation role …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/agentic-marketing-associate-london-210560",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "16bc6a69025b6f2d",
+      "title": "Senior Research Executive (15-month maternity cover)",
+      "company": "Globalwebindex",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Weekly office requirement: Hybrid, 1 day/week Employment type: Fixed-term, 15 months (maternity cover) Seniority level: Mid-Senior Every business is using AI. The ones that get it right start with real people. GWI is the human intelligence underneath: verified…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/globalwebindex/senior-research-executive-15-month-maternity-cover-london-650",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "e2b27a70a78c5421",
+      "title": "Marketing Automation Engineer",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at HRtechX Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If so, now is the time to apply for the Growth role at Private Equity I…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/marketing-automation-engineer-london-398964",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cb94475cb787e77e",
+      "title": "Growth Analytics Associate",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at HRtechX Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If so, now is the time to apply for the Growth role at Private Equity I…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/growth-analytics-associate-london-9412",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f82a59b00c92eb33",
+      "title": "Go-To-Market Strategy Associate",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at HRtechX Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If so, now is the time to apply for the Growth role at Private Equity I…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/go-to-market-strategy-associate-london-107602",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "14c95202691d0c8e",
+      "title": "Go-To-Market Strategy Analyst",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at HRtechX Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If so, now is the time to apply for the Growth role at Private Equity I…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/go-to-market-strategy-analyst-london-206265",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b473432339340a69",
+      "title": "Go-To-Market Specialist",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at HRtechX Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If so, now is the time to apply for the Growth role at Private Equity I…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/go-to-market-specialist-london-198016",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "37ee142a8aeec47d",
+      "title": "Go-To-Market Operations Specialist",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at HRtechX Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If so, now is the time to apply for the Growth role at Private Equity I…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/go-to-market-operations-specialist-london-39574",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "764c35efdb1bc1c4",
+      "title": "Go-To-Market Operations Associate",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at HRtechX Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If so, now is the time to apply for the Growth role at Private Equity I…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/go-to-market-operations-associate-london-78305",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0867eb5a34713e63",
+      "title": "Go-To-Market Engineer",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at HRtechX Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If so, now is the time to apply for the Growth role at Private Equity I…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/go-to-market-engineer-london-298749",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "76575a68a1c246a6",
+      "title": "Go-To-Market Consultant",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at HRtechX Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If so, now is the time to apply for the Growth role at Private Equity I…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/go-to-market-consultant-london-202253",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2549e0c99f8e1e53",
+      "title": "Go-To-Market Associate",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at HRtechX Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If so, now is the time to apply for the Growth role at Private Equity I…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/go-to-market-associate-london-28884",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b9673451a968483f",
+      "title": "Go-To-Market Analyst",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at HRtechX Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If so, now is the time to apply for the Growth role at Private Equity I…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/go-to-market-analyst-london-474106",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "02ec7364e1e4acfd",
+      "title": "Go-To-Market",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at HRtechX Are you looking to work in an exceptional entrepreneurial team with ambitious, motivated and extremely driven people? And do you want real ownership from your first week? If so, now is the time to apply for the Growth role at Private Equity I…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/go-to-market-london-306998",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "cd45ec1b89525752",
+      "title": "AI Engineering, Growth",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at HRtechX Are you looking master the latest AI tools, build agents, and put them to work on real business problems? Are you the person who gets things done and gets their hands dirty? If so, now is the time to apply for the AI Implementation role at Pr…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/ai-engineering-growth-london-314785",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "efdb805cb8298933",
+      "title": "AI Engineer, Growth",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at HRtechX Are you looking master the latest AI tools, build agents, and put them to work on real business problems? Are you the person who gets things done and gets their hands dirty? If so, now is the time to apply for the AI Implementation role at Pr…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/ai-engineer-growth-london-314930",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3983bb29485450fa",
+      "title": "AI Engineer",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at HRtechX Are you looking master the latest AI tools, build agents, and put them to work on real business problems? Are you the person who gets things done and gets their hands dirty? If so, now is the time to apply for the AI Implementation role at Pr…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/ai-engineer-london-174166",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4f7a61c411f548c7",
+      "title": "AI Automation Engineer",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at HRtechX Are you looking master the latest AI tools, build agents, and put them to work on real business problems? Are you the person who gets things done and gets their hands dirty? If so, now is the time to apply for the AI Implementation role at Pr…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/ai-automation-engineer-london-306964",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "295bd95603d6b3b0",
+      "title": "Agentic Marketing Engineer",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at HRtechX Are you looking master the latest AI tools, build agents, and put them to work on real business problems? Are you the person who gets things done and gets their hands dirty? If so, now is the time to apply for the AI Implementation role at Pr…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/agentic-marketing-engineer-london-403647",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2f85727102c5785e",
+      "title": "Agentic Marketing Associate",
+      "company": "Hrtechx",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Growth at HRtechX Are you looking master the latest AI tools, build agents, and put them to work on real business problems? Are you the person who gets things done and gets their hands dirty? If so, now is the time to apply for the AI Implementation role at Pr…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/agentic-marketing-associate-london-475719",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7590a4ac3938979b",
+      "title": "Associate Product Manager",
+      "company": "Wheely",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Wheely Wheely is redefining premium transportation across major cities in Europe, the US, and the Middle East. We blend cutting-edge technology with the craft of five-star chauffeuring to deliver an experience trusted by more than 100,000 active riders a…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/wheely/associate-product-manager-london-231844",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "b4983623f1b2ba1f",
+      "title": "Account Executive (French and English)",
+      "company": "Sevenroomsuk",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About the Team The Sales team at SevenRooms is on a mission to reshape the hospitality industry by empowering operators to take control of their guest relationships. We’re a passionate, high-performing group of go-getters who act as trusted advisors to restaur…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/sevenroomsuk/account-executive-french-and-english-paris-8785",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8551c33273f52421",
+      "title": "Account Manager (H/F)",
+      "company": "CENTREON",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Marketing & Communications"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "En tant qu' Account Manager , venez compléter notre équipe et performer avec nous. Véritable ambassadeur ou ambassadrice de notre plateforme d'observabilité constituée de nos 3 produits (Centreon Infra Monitoring, Centreon Log management et Centreon Expérience…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/centreon/account-manager-h-f-paris-127336",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "585faf8a88ddf1e3",
+      "title": "Consultant Space Sector - Satellite Connectivity Markets",
+      "company": "Novaspace",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Are you a highly-motivated, technically minded, critical thinker looking for your next challenge? Join a leading consulting player in the booming space industry! Our consulting service lines span strategy, market development and innovation advisory. We are loo…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/novaspace/consultant-space-sector-satellite-connectivity-markets-paris-france-362060",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "caad41a19707a501",
+      "title": "AML Compliance Senior Officer",
+      "company": "Swile",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Pourquoi rejoindre l'aventure Swile ? Depuis son lancement en 2018, Swile a révolutionné le marché des avantages salariés. En digitalisant la gestion et l’utilisation des avantages, grâce à notre super app, nous avons amélioré l’expérience, afin de la rendre p…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/swile/aml-compliance-senior-officer-paris-france-52158",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "43a1dd21bbf14621",
+      "title": "AI Architect",
+      "company": "Artefactjobs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Procurement",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who/What is Artefact? Artefact is a next-generation strategy and data consulting firm dedicated to transforming organizations through data and AI. We combine the rigor of top-tier strategy consulting with deep expertise in data, digital, and analytics to help …",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/artefactjobs/ai-architect-zurich-258754",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "23bb01bafc85148c",
+      "title": "AI Architect",
+      "company": "Artefactjobs",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who/What is Artefact? Artefact is a next-generation strategy and data consulting firm dedicated to transforming organizations through data and AI. We combine the rigor of top-tier strategy consulting with deep expertise in data, digital, and analytics to help …",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/artefactjobs/ai-architect-zurich-57765",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "8c950518d7124d75",
+      "title": "Cloud Platform Engineer",
+      "company": "Sonarsource",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Geneva",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who is Sonar? Sonar is driving the future of agent-centric software development. As the leader in AI code review and verification, we solve a critical problem: ensuring that software generated by AI-assisted developers or autonomous agents is reliable, secure,…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/sonarsource/cloud-platform-engineer-geneva-457427",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c78c2b49b35448fc",
+      "title": "Senior Business Development Representative - Netherlands",
+      "company": "Mollie",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Amsterdam",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Build with us Businesses deserve better from finance. Less friction, more freedom. Since 2004, Mollie has been on a mission to make payments and money management effortless for every business in Europe. Today, more than 250,000 companies trust our all-in-one p…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/mollie/senior-business-development-representative-netherlands-amsterdam-223523",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5937aad7de5fd2f2",
+      "title": "Stage International Accountmanagement & Marketplaces",
+      "company": "My Jewellery",
+      "employmentType": "Internship",
+      "location": {
+        "city": "'s-Hertogenbosch",
+        "region": null,
+        "country": "Nederland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Ben jij commercieel ingesteld, heb je affiniteit met fashion en e-commerce en ben je benieuwd hoe een merk internationaal groeit? Tijdens jouw stage International Accountmanagement & Marketplaces ontdek je hoe we My Jewellery bij internationale verkooppunten é…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/my-jewellery/stage-international-accountmanagement-marketplaces-s-hertogenbosch-234297",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3e3696c4a64b2df6",
+      "title": "Estates & Facilities Manager",
+      "company": "Montu Uk",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Winnersh",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Sales / Business Development",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "What is the job? We’ve just moved into a new facility at Winnersh Triangle, bringing our offices, warehouse and secure storage together at a time when Montu is growing quickly. We’re looking for a Facilities & Estate Manager who can see what the site could bec…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/estates-facilities-manager-winnersh-51756",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "ccd2b264080dd671",
+      "title": "Payments Pricing Lead",
+      "company": "Everfield",
+      "employmentType": "Internship",
+      "location": {
+        "city": "UK - Remote",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-28",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Everfield Everfield buys, builds, and grows European vertical market and specialist software companies, providing them with the tools they need to move to the next level. Our mission is to foster ambition, fuel growth, and unlock opportunities for Europe…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/everfield/payments-pricing-lead-london-413491",
+      "source": "Arbeitnow"
+    },
     {
       "id": "a485328ba36b4f76",
       "title": "Senior Category Manager, Women's - Wovens UK/EU",
@@ -7313,6 +8802,863 @@
       "summary": "About The Opportunity We are seeking detail-oriented human reviewers with a strong understanding of their local cultural context to support a range of AI training and evaluation projects. In this role, you will work across diverse task types, including evaluat…",
       "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/lilt-production/ai-training-contributor-welsh-remote-cardiff-142859",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "58f42205b6b84a6b",
+      "title": "Werkstudent (m/w/d) Filialmanagement / Store Operations",
+      "company": "Gusti Leder GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Rostock",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Gestalte mit uns die Zukunft der Lederindustrie! 🌍✨ Du hast keine Lust auf einen typischen Studi-Job, bei dem du nur zuarbeitest? Bei uns bist du von Anfang an nah am operativen Filialgeschäft und übernimmst Schritt für Schritt Verantwortung für eine feste Gru…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/gusti-leder-gmbh/werkstudent-filialmanagement-store-operations-rostock-188774",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "33a1313e692e4d67",
+      "title": "Senior Go Entwickler (m/w/d)",
+      "company": "HyPlus Technology GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Ratingen",
+        "region": null,
+        "country": "Germany",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Über uns: Die HyPlus ist Dein Wegbegleiter im digitalen Wandel. Gemeinsam mit unseren Kund:innen entwickeln wir strukturiert, partnerschaftlich und mit klarem Fokus auf nachhaltigen Mehrwert deren digitale DNA. Wir begleiten Unternehmen von der Anforderungsana…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/senior-go-entwickler-ratingen-467876",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "826d5cee5bf9922e",
+      "title": "Initiativbewerbung IT, Consulting & Softwareentwicklung (w/m/d)",
+      "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Homeoffice",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Du siehst keine passende Stelle, möchtest aber trotzdem Teil der BBHT werden? Dann bewirb Dich initiativ bei uns. Vielleicht bist Du IT-Projektleiter:in, Business Analyst:in, Consultant, Softwareentwickler:in, Testmanager:in oder bringst ganz andere Skills mit…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-initiativbewerbung-it-consulting-softwareentwicklung-munster-332055",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1823432601467101",
+      "title": "Senior Meldewesenspezialist:in / IT Business Analyst (w/m/d)",
+      "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Homeoffice",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Komplexe Regulierung verständlich machen. Du möchtest an Themen arbeiten, die Banken wirklich bewegen, aber nicht in einer Beratung arbeiten, in der Hierarchien wichtiger sind als Ideen? Willkommen bei BBHT. Bei uns verbindest du Fachbereiche und IT, analysier…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-senior-meldewesenspezialistin-it-business-analyst-munster-27459",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5344ed22b298ff8d",
+      "title": "Senior IT Business Analyst (w/m/d)",
+      "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Homeoffice",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Beratung ohne Ellenbogenkultur. Du suchst anspruchsvolle Projekte, aber keine Beratung mit 60-Stunden-Wochen? Willkommen bei BBHT. Bei uns arbeitest du an Softwareentwicklungsprojekten für Banken und Versicherungen. Du bekommst früh Verantwortung, arbeitest fl…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-senior-it-business-analyst-munster-71228",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d08daa0f74820b5d",
+      "title": "Senior Business Consultant / IT Business Analyst - Banking & Insurance (w/m/d)",
+      "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Homeoffice",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Beratung ohne Ellenbogenkultur. Du suchst anspruchsvolle Projekte, aber keine Beratung mit 60-Stunden-Wochen? Willkommen bei BBHT. Bei uns arbeitest du an Softwareentwicklungsprojekten für Banken und Versicherungen. Du bekommst früh Verantwortung, arbeitest fl…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-senior-business-consultant-it-business-analyst-banking-insurance-munster-355936",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0557893bfa2e7c8f",
+      "title": "Lead Software Planning & Delivery (m/w/d)",
+      "company": "Taledo GmbH",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Teltow",
+        "region": null,
+        "country": "Deutschland",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sustainability / ESG",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Bei Adlares machen wir Methanemissionen aus der Luft sichtbar – hochpräzise, zertifiziert und entscheidend für den Schutz kritischer Infrastruktur und den Klimaschutz. Mit unserem laserbasierten Messsystem CHARM® setzen wir den Industriestandard für die luftge…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/taledo-gmbh/lead-software-planning-delivery-teltow-273069",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9a88d273a5f79d2d",
+      "title": "Business Development Manager (Germany)",
+      "company": "Dandy",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Germany - Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Healthcare",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": "General Manager of Germany"
+      },
+      "summary": "Dandy is transforming the massive and antiquated dental industry—an industry worth over $400B. Backed by some of the world’s leading venture capital firms, we’re on an ambitious mission to simplify and modernize every function of the dental practice through te…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/dandy/business-development-manager-germany-berlin-59465",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "a2699e0f7d683dad",
+      "title": "Working Student Global Brand (all genders)",
+      "company": "Tonies",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "You as part of tonies We are looking for a Working Student to support our Global Brand team. You will help keep the day-to-day brand and campaign work moving across markets, from toolkits and brand assets to campaign coordination and reporting. This is a hands…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tonies/working-student-global-brand-all-genders-dusseldorf-192848",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "f77a8e3528b2846a",
+      "title": "People Partner (all genders)",
+      "company": "Tonies",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Düsseldorf",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Operations"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "tonies is the world’s leading interactive audio platform for children, with over 12 million Tonieboxes and 173 million Tonies sold globally. Our intuitive, screen-free system empowers children to learn and play independently in a safe and engaging way. With a …",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/tonies/people-partner-all-genders-dusseldorf-335293",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "23f3a3d2a90a303b",
+      "title": "Revenue Operations Manager (HubSpot)",
+      "company": "Liqid Lig",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Operations",
+        "Sales / Business Development",
+        "Sustainability / ESG"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Revenue Operations Manager - HubSpot (w/m/d) Deine Rolle Du entwickelst das HubSpot-Setup von LIQID weiter: Du baust Workflows, Automationen und Integrationen, die Sales und Relationship Management im Tagesgeschäft unterstützen und machst aus den Daten im Syst…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/liqid-lig/revenue-operations-manager-hubspot-berlin-138280",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4ad5f06be3a4e2b0",
+      "title": "Product Builder Intern - Growth (Jan-Mar 2027)",
+      "company": "Liqid Lig",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Berlin",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Finance",
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Your Role As a Product Builder Intern – Growth (f/m/d), you'll take growth initiatives from first idea to live feature—working at the intersection of technology, AI, and business, and making a measurable impact in a fast-growing fintech. We have built a state-…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/liqid-lig/product-builder-intern-growth-jan-mar-2027-berlin-401980",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "7a1cad8b4446c77c",
+      "title": "Chief Technology Officer (m/w/d)",
+      "company": "MINT Solutions",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Munich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Unser Mandant ist ein innovatives Münchner Technologie-Start-up im Bereich Elektromobilität, das mit einer digitalen Plattform den europäischen Markt für öffentliches Laden grundlegend vereinfachen möchte. Durch die intelligente Vernetzung von Ladeinfrastruktu…",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/mint-solutions/chief-technology-officer-munich-212648",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c4fdaafdf48ba152",
+      "title": "Senior RWE Program Manager - Data/IA Expert",
+      "company": "Excelya",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "France",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Data & Analytics",
+        "Healthcare",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Rejoignez Excelya, où Audace , Bienveillance et Énergie sont au cœur de notre façon de travailler. Nous croyons en des solutions innovantes et en un environnement inclusif où collaboration et développement professionnel vont de pair. Dans le cadre de programme…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/excelya/remote-senior-rwe-program-manager-data-ia-expert-paris-435162",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "2e6113533b93a353",
+      "title": "Consultant(e) Senior RP Corporate",
+      "company": "Bursonglobalcareers",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": "Paris",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who we are: Burson, part of WPP, is the global communications leader built to create value for clients through reputation. With highly specialized teams, industry-leading technologies and breakthrough creative, we help brands and businesses redefine reputation…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/bursonglobalcareers/consultante-senior-rp-corporate-paris-paris-494074",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d8d6464d9d570b1e",
+      "title": "Procurement Excellence Manager",
+      "company": "Mistral.ai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Policy / Government",
+        "Procurement",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": "Procurement General Lead, you will be the engine of procurement operational excellence at Mistral AI"
+      },
+      "summary": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/mistralai/procurement-excellence-manager-paris-148138",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "3800d18e30e20220",
+      "title": "Talent Acquisition Science - EMEA",
+      "company": "Mistral.ai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Policy / Government",
+        "Research",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/mistralai/talent-acquisition-science-emea-paris-21172",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "71c6dff3e2d88ac3",
+      "title": "LLM Scientist, AI for Science",
+      "company": "Mistral.ai",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "Paris",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Finance",
+        "Healthcare",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Sports",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare…",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/mistralai/llm-scientist-ai-for-science-paris-120725",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4f4568099f2b26b4",
+      "title": "Magasinier - Stores Operative",
+      "company": "Alta Ares",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Toulouse",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Procurement",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Alta Ares Alta Ares is an air defense Neoprime. We build AI-guided interceptors to counter drones and cruise missiles, along with the software platform that powers them. Our customers are NATO-aligned militaries and defense institutions, and our systems …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alta-ares/magasinier-stores-operative-blagnac-78813",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "1ec36ec438879e27",
+      "title": "MCO Manager H/F",
+      "company": "Alta Ares",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Toulouse",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About Alta Ares Alta Ares is an air defense Neoprime. We build AI-guided interceptors to counter drones and cruise missiles, along with the software platform that powers them. Our customers are NATO-aligned militaries and defense institutions, and our systems …",
+      "applicationUrl": "https://www.arbeitnow.fr/jobs/companies/alta-ares/mco-manager-h-f-blagnac-274271",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "558931c428173144",
+      "title": "Design Engineer",
+      "company": "AMINI GmbH",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Zürich",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Data & Analytics",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About AMINI AMINI advises, designs, and delivers across strategy, infrastructure, and AI. We work directly with clients on technology decisions, architecture, projects, and AI implementations - and we ship our own products alongside client work (andock.app, mr…",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/amini-gmbh/design-engineer-zurich-402663",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "c9c703b4b99de5a4",
+      "title": "Senior Systems & Network Engineer (80–100%)",
+      "company": "cross-ING AG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Villigen",
+        "region": null,
+        "country": "Schweiz",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "cross-ING ist ein unabhängiges ISO 9001/13485-zertifiziertes Schweizer Ingenieurunternehmen. Das Unternehmen bietet der Kundschaft eine breite Wissenspalette im Bereich der Produktentwicklung an. cross-ING unterstützt die Kundschaft mit langjähriger Erfahrung …",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/senior-systems-network-engineer-80-100-villigen-133545",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "9f8f944a47a2e219",
+      "title": "Senior OT / SCADA & Automation Engineer (80–100%)",
+      "company": "cross-ING AG",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Villigen",
+        "region": null,
+        "country": "Schweiz",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Marketing & Communications",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "cross-ING ist ein unabhängiges ISO 9001/13485-zertifiziertes Schweizer Ingenieurunternehmen. Das Unternehmen bietet der Kundschaft eine breite Wissenspalette im Bereich der Produktentwicklung an. cross-ING unterstützt die Kundschaft mit langjähriger Erfahrung …",
+      "applicationUrl": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/senior-ot-scada-automation-engineer-80-100-villigen-486352",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "57e91596ae404346",
+      "title": "AI Engineer",
+      "company": "Cefetra Group BV",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Rotterdam",
+        "region": null,
+        "country": "Netherlands",
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Operations",
+        "Supply Chain",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Do you thrive on complex problems and want to work at the forefront of AI? Join Cefetra Group’s new AI Innovation Hub as an AI Engineer and shape how AI creates value across our international trading business, from agents and workflows integrated with our core…",
+      "applicationUrl": "https://www.arbeitnow.nl/jobs/companies/cefetra-group-bv/ai-engineer-rotterdam-303730",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "56c0726327beedc4",
+      "title": "Senior Infrastructure Operations Engineer (EMEA)",
+      "company": "Lightningai",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Who We Are Lightning AI is the company behind PyTorch Lightning. Founded in 2019, we build an end-to-end platform for developing, training, and deploying AI systems—designed to take ideas from research to production with less friction. Through our merger with …",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-infrastructure-operations-engineer-emea-london-18290",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "0b4425650a2089bb",
+      "title": "Enterprise Account Executive, Energy and Industrials",
+      "company": "Alphasense",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "Greater London",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Biology & Life Sciences",
+        "Consulting",
+        "Finance",
+        "International Development",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About AlphaSense: AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and finance. The platform combines domain-specific AI…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/enterprise-account-executive-energy-and-industrials-london-greater-london-58922",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "5c6258060251d2b9",
+      "title": "Account Executive, Financial Services -  Investment Banking",
+      "company": "Alphasense",
+      "employmentType": "Internship",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": "Greater London",
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Finance",
+        "Marketing & Communications",
+        "Policy / Government",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "About AlphaSense: AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and finance. The platform combines domain-specific AI…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/account-executive-financial-services-investment-banking-london-greater-london-17104",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "789d0449c06f3f07",
+      "title": "Senior Software Engineer I",
+      "company": "Checkout.com",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-software-engineer-i-london-97011",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "4c86270392f1fa8d",
+      "title": "Senior Associate, Liquidity Management",
+      "company": "Checkout.com",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "London",
+        "region": null,
+        "country": null,
+        "workMode": "Hybrid"
+      },
+      "sectors": [
+        "Finance",
+        "Humanitarian / NGO",
+        "Sales / Business Development"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi…",
+      "applicationUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-associate-liquidity-management-london-68936",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "d6a524236cd5bc61",
+      "title": "Senior Forward Deployed Engineer (United States)",
+      "company": "Coder Technologies Inc.",
+      "employmentType": "Internship",
+      "location": {
+        "city": "US Only",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Finance",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "We are looking for a Senior Forward Deployed Engineer to join the Customer Solutions team. You will be the technical authority embedded with our most complex customers, guiding them through deployment, architecture, onboarding, and the adoption of agentic deve…",
+      "applicationUrl": "https://remoteOK.com/remote-jobs/remote-senior-forward-deployed-engineer-united-states-coder-technologies-inc-1138209",
+      "source": "Remote OK"
+    },
+    {
+      "id": "10b1b0b8095a4fd8",
+      "title": "Associate, External Resource Management",
+      "company": "Snowflake",
+      "employmentType": "Full-Time",
+      "location": {
+        "city": "US Only",
+        "region": null,
+        "country": null,
+        "workMode": "On-site"
+      },
+      "sectors": [
+        "Consulting",
+        "Data & Analytics",
+        "Operations",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You donât just use tools; you possess an innate curios…",
+      "applicationUrl": "https://remoteOK.com/remote-jobs/remote-associate-external-resource-management-snowflake-1138208",
+      "source": "Remote OK"
+    },
+    {
+      "id": "538a665803831691",
+      "title": "Senior Software Developer",
+      "company": "Loopio Inc.",
+      "employmentType": "Internship",
+      "location": {
+        "city": "Toronto",
+        "region": null,
+        "country": null,
+        "workMode": "Remote"
+      },
+      "sectors": [
+        "Humanitarian / NGO",
+        "Marketing & Communications",
+        "Operations",
+        "Policy / Government",
+        "Sales / Business Development",
+        "Technology / IT"
+      ],
+      "deadline": null,
+      "postedDate": "2026-11-27",
+      "reportsTo": {
+        "name": null,
+        "title": null
+      },
+      "summary": "Take your career to new heights with Loopio! ðâ¨ Loopio is a workplace that unleashes learning & growth opportunities for our Loopers. We provide autonomous, challenging work that allows each employee to master their craft. We attract and retain people who…",
+      "applicationUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-loopio-inc-1138202",
+      "source": "Remote OK"
     },
     {
       "id": "1cb120cc9c585911",
